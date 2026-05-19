@@ -1,0 +1,144 @@
+HIGH ARATHI CAMPAIGN SETTING — PRINCIPLES AND DIAGNOSIS
+World: Eadras
+Source: Grok chat session, 2026-05-09
+Document type: Campaign-design principles surfaced by the High Arathi material, plus open story prompts
+Companion documents: "High Arathi Campaign Setting — In-World Facts" and "High Arathi Campaign Setting — Meta-Commentary"
+
+
+================================================================
+INTRODUCTION
+================================================================
+
+[DIAGNOSIS] This document is narrower than the other Principles files in this set. It records the campaign-design principles surfaced by the High Arathi splat work, plus additional story prompts beyond those listed in the flagship campaign.
+
+These principles are about how to design CAMPAIGNS in Eadras, not just how the setting works. Some apply across all four eras of the publication plan; some are specific to the High Arathi era.
+
+
+================================================================
+PART ONE — CAMPAIGN-DESIGN PRINCIPLES
+================================================================
+
+
+--- PRINCIPLE 1: SOME CAMPAIGNS DESIGNATE WITNESSES, NOT SAVIORS ---
+
+[DIAGNOSIS] The flagship campaign assumes the players will lose. Their role is not to save the world but to be the cosmologically chosen observers of an event the universe is going to memory-hole.
+
+This is a genuinely difficult campaign structure to run. It requires:
+- Player buy-in for a story where heroism does not produce victory.
+- A GM who can hold the tragic structure without flinching at the losing stages.
+- A group willing to play characters changed in ways no one else can see.
+
+When designing other Eadras campaigns, this principle remains available. The chosen observer role is metaphysically supported by the setting. Any era can include events where the cosmology designates witnesses rather than rescuers.
+
+
+--- PRINCIPLE 2: DOOM SHOULD BE A LOW HUM, NOT A KLAXON ---
+
+[DIAGNOSIS] Setting the campaign centuries before the Worldbreaker rather than minutes before is the correct structural choice. It gives players time to live inside the doomed civilization. The doom is a flavor in the air, not the foreground.
+
+This principle generalizes. When running campaigns at the peak of any era — High Firethorn, the eve of the Demon War — the right move is to let the players experience the era as functional rather than as visibly collapsing. The audience can know what's coming. The characters should be allowed to live before they live through it.
+
+
+--- PRINCIPLE 3: HIGH-LEVEL PLAY NEEDS NATIVE TERRITORY ---
+
+[DIAGNOSIS] The Arathi era's planar access infrastructure means high-level play is the NATIVE play, not an exception. The Heart of the Goddess, the Astral, Concordance, Limina, the Nexus, and the Outer Planes are all routine destinations.
+
+This is the only era in the four-era plan where high-level play is the baseline assumption. Other eras can support high-level characters, but they are accommodating those characters rather than designing for them. The High Arathi splat should be the one published with high-level play as its core assumption.
+
+
+--- PRINCIPLE 4: TEACH THE COSMOLOGY THROUGH PLAY ---
+
+[DIAGNOSIS] The closed time bubble campaign teaches the naming-and-observation cosmology by making it the campaign's central pivot.
+
+Players begin without needing to understand the cosmology. They internalize it through experience: investigating anomalies, realizing reality has rules they didn't know about, ending with the recognition that they were CHOSEN to observe.
+
+This is a transferable design principle. The strongest Eadras campaigns will teach the setting's metaphysics not through exposition but through situations where the metaphysics is the answer to the question the players are asking.
+
+
+--- PRINCIPLE 5: FLAGSHIP PLUS TOOLKIT IS THE RIGHT STRUCTURE ---
+
+[DIAGNOSIS] Each era splat should contain:
+- One flagship campaign that earns the era's price of admission.
+- A toolkit of shorter hooks and one-shots for groups who want different textures.
+
+The flagship is the anchor that gives the era its identity. The toolkit gives GMs and groups options when the flagship is not what they want to play. Neither alone is sufficient.
+
+
+--- PRINCIPLE 6: REUSABLE NARRATIVE RESOURCES INCREASE LONG-TERM VALUE ---
+
+[DIAGNOSIS] The chosen observer PCs from the closed time bubble campaign can appear in any later era as ancient figures carrying the truth. The campaign therefore produces a STANDING NARRATIVE RESOURCE that other splats can draw on.
+
+This is a design principle worth applying to all four era splats. The strongest campaign content is engineered to leave behind characters, factions, or artifacts that can re-enter the setting at any later era. A splat that produces a self-contained tragedy is good. A splat that produces a self-contained tragedy PLUS characters who can show up centuries later is much better.
+
+
+--- PRINCIPLE 7: SOME LORE IS NOT SPLAT MATERIAL ---
+
+[DIAGNOSIS] The High Draconic / Unicorn Era is rejected as a splat-book candidate because it lacks the cultural variety, faction density, and playable roles a splat needs.
+
+The setting is wise enough to leave high-value lore territory unpublished when the publication form does not fit. Cosmic storytelling potential is not the same as RPG splat potential. The decision is correct.
+
+This is a craft signal — the willingness to NOT publish what is not ready is the same instinct as the willingness to NOT close canon prematurely. (Cross-reference: Draconic project-health diagnosis principles 4 and 9.)
+
+
+--- PRINCIPLE 8: DRAMATIC IRONY IS A SUSTAINED, NOT INSTANT, EFFECT ---
+
+[DIAGNOSIS] In the High Arathi era, the audience knows the empire is doomed. The characters do not. This dramatic irony is meant to permeate every session, not just the climactic moments.
+
+Every gala the PCs attend, every diplomatic mission, every political intrigue, every quiet moment of personal life within the empire is given additional weight because of what the audience knows. The irony is the AMBIENT TEXTURE of the era, not its periodic punchline.
+
+This is true for all four eras to varying degrees. The audience always knows what era they are in and what comes next. The campaign should let that knowledge soak into the players' experience without ever making the soak explicit.
+
+
+================================================================
+PART TWO — LIVE WIRES (CAMPAIGN AND STORY PROMPTS)
+================================================================
+
+[DIAGNOSIS] Story prompts opened by the High Arathi campaign material. Some are alternative campaigns; some are one-shots; some are situations that can re-enter later eras.
+
+
+--- LIVE WIRE 1 ---
+
+The CRYSTALMANCER RESEARCH TEAM that accidentally creates a living spell.
+
+Implications: A self-contained, lower-stakes High Arathi campaign that doesn't require the closed time bubble structure. The living spell starts rewriting local reality. The team's question is whether to study it, destroy it, or contain it — and each option has costs the empire's institutional response is unequipped to weigh. A good non-tragic entry point for groups who want to play the era without the flagship campaign.
+
+
+--- LIVE WIRE 2 ---
+
+POLITICAL INTRIGUE between rival Houses over a newly-discovered conduit nexus.
+
+Implications: The High Arathi era as backdrop for intrigue play rather than cosmic horror. A new conduit nexus is one of the rare things even the post-scarcity empire fights over. The factional politics, the espionage, the alliances and betrayals — all play out against the unstated certainty that this empire is doomed regardless of who wins the fight.
+
+
+--- LIVE WIRE 3 ---
+
+SOMETHING PRE-ARATHI awakens beneath one of the major crystal cities.
+
+Implications: The Arathi inherited the conduits from something older. They did not necessarily catalog everything else they inherited. What if something pre-Arathi has been sleeping for longer than the Arathi have existed, and the Arathi built their city on top of it without knowing? The campaign is a slow uncovering of what the empire is actually built on.
+
+
+--- LIVE WIRE 4 ---
+
+A RADICAL FACTION wants to "improve" the conduits and is willing to risk destabilizing them.
+
+Implications: This is the foreshadowing of Kudur-eṭir's eventual catastrophe, playable as a contained early case. The radical faction does not succeed in causing the Worldbreaker — that comes centuries later — but they demonstrate that the WILL to overreach is already present in the empire long before the actual Cataclysm. PCs can be on either side of this conflict.
+
+
+--- LIVE WIRE 5 ---
+
+An EXPEDITION INTO UNCHARTED CRYSTAL CAVERNS that goes much deeper than anyone expected.
+
+Implications: A classic exploration campaign with Arathi-era texture. The empire's mastery of crystal cities means the unexplored deep crystal caverns are one of the few remaining unknowns. What is found there is a GM choice — it could be pre-Arathi remnants, Chaos-touched anomalies, sleeping dragons, or something the empire's institutional knowledge has actively suppressed.
+
+
+--- LIVE WIRE 6 ---
+
+A chosen observer PC from the buried Chaos War, ten thousand years later, appears in a MODERN ERA campaign.
+
+Implications: This is the cross-era hook the High Arathi flagship produces. A character from a Modern Era campaign discovers an ancient half-mad figure muttering about a war the Tome refuses to acknowledge. The Modern PCs do not know whether to believe them. The Tome is silent. The cosmology, if asked, suggests the half-mad figure is telling the truth — but the structural mercy of the Tome's silence is also a real thing. What does the Modern PC do with knowledge that may be true but that the world cannot bear?
+
+
+--- LIVE WIRE 7 ---
+
+A High Firethorn era campaign discovers FRAGMENTS of the Arathi closed time bubble through a different metaphysical accident.
+
+Implications: The closed time bubble was supposed to be sealed perfectly. What if a Firethorn-era arcane experiment punches into a temporal pocket no one knew existed? The PCs could find themselves witnessing events that, according to the Tome, never happened. This bridges the High Arathi flagship to the High Firethorn splat without requiring the chosen-observer PCs to physically survive.

@@ -1,0 +1,98 @@
+# Arath, Geo-Substrate, and Deep Vaults — Principles and Diagnosis
+
+**World**: Eadras
+**Source**: Elder Gods chat 1.txt
+**Document type**: Distilled ingest document — setting-wide principles and open prompts
+**Companion documents**:
+- Arath, Geo-Substrate, and Deep Vaults — In-World Facts
+- The Arathi & The Lost Golden Age — Principles and Diagnosis
+
+**Last updated**: 2026-05-13
+
+---
+
+# HOW TO READ THIS DOCUMENT
+
+This document extracts reusable setting principles from the Arath and geo-substrate council material. These principles should guide future stories, wiki updates, political design, magical archaeology, and civilization-scale risk.
+
+---
+
+# PRINCIPLE 1: THE OLD WORLD'S MEDICINE MAY POISON THE LIVING WORLD
+
+[DIAGNOSIS] Arathi systems were designed for pre-tectonic Eadras. Modern Eadras is a different world-condition.
+
+A system that was stabilizing in the old world may be catastrophic in the new one. This principle applies beyond geology: old political, magical, biological, and institutional solutions may be dangerous if restored without their vanished context.
+
+Key maxim:
+
+"Do not dose the living world with medicine for the dead."
+
+---
+
+# PRINCIPLE 2: LIVING INFRASTRUCTURE CREATES ETHICAL DEBT
+
+[DIAGNOSIS] A civilization that builds with living or semi-living infrastructure must answer questions ordinary engineering avoids.
+
+Does the infrastructure suffer?
+Can it consent?
+Can it be retired?
+Can it be healed?
+Can it be inherited?
+Who speaks for it after the civilization that cultivated it dies?
+
+Arathi geo-substrate makes these questions unavoidable.
+
+---
+
+# PRINCIPLE 3: CONTEXT IS PART OF FUNCTION
+
+[DIAGNOSIS] Some technologies do not merely require components. They require a whole civilization to make sense.
+
+This applies to Arathi relics, divine bureaucracy, unicorn memory, dragon knowledge, and magical orders. Removing a thing from its context can make a functioning system behave like a broken or dangerous one.
+
+---
+
+# PRINCIPLE 4: IRREVERSIBLE DEPENDENCY IS ARATHI DANGER
+
+[DIAGNOSIS] The point at which a civilization becomes Arathi-like is not when it uses powerful tools. It is when ordinary survival depends on systems no living authority fully understands and no mortal-scale fallback can replace.
+
+This principle should guide modernity, magitek, urban planning, military systems, food production, and conduit policy.
+
+---
+
+# PRINCIPLE 5: ABSENCE CAN BE MORE HONEST THAN FALSE MEMORY
+
+[DIAGNOSIS] Because no immediate post-Cataclysm intelligent mourners existed, later cultures must not pretend to remember Arath directly.
+
+Formal Absence Theology is powerful because it honors the impossibility of memory. It refuses the comfort of invented continuity.
+
+Key prayer:
+
+"We do not remember, and this too is true."
+
+---
+
+# PRINCIPLE 6: DISCOVERY DOES NOT CREATE OWNERSHIP
+
+[DIAGNOSIS] Deep Vault discovery is not entitlement. Finding a system does not grant the moral right to activate, possess, dissect, sell, or weaponize it.
+
+This principle applies to ruins, living substrate, dragon-hoarded knowledge, unicorn warnings, divine secrets, and inherited conduits.
+
+---
+
+# PRINCIPLE 7: SUCCESS CAN MAKE CORRECTION FEEL PRESUMPTUOUS
+
+[DIAGNOSIS] Arath lasted so long and worked so well that even gods hesitated to correct it. This is a major civilizational danger.
+
+Institutions that endure for long enough begin to look legitimate simply because they have endured.
+
+---
+
+# LIVE WIRES
+
+- What is the first court case over whether a geo-substrate fragment is property, remains, patient, or hazard?
+- Can a Vault Concordat include non-mortal witnesses: dragon, unicorn, Druid, trollish geobiologist, or substrate-speaker?
+- What modern technology seems safe individually but dangerous as a total integrated system?
+- Does a Green Vault ever become Red because modern context changes around it?
+- Can a city intentionally practice the Festival of Broken Certainties without turning it into empty spectacle?
+- What happens when the Fallback Doctrine blocks a project that would genuinely save lives?

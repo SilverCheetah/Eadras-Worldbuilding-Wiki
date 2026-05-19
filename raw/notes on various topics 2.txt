@@ -1,0 +1,38 @@
+notes on various topics 2
+
+Orden
+The Orden are a seafaring, clan-based culture inhabiting the coastal regions of the world. They are known for their blunt honesty, martial traditions, respect for elders, and a cultural practice called the Tale-Earning. While they share many traits with historical Viking societies, they are a distinct people who have largely transitioned from raiding to trading and diplomacy over the last four centuries.
+Society and Governance
+Orden society is organized into independent clans, each ruled by a Jarl (clan king). The Jarls are powerful figures who command significant loyalty within their own territories.
+At the national level, the clans elect a High King (sometimes called the Overking) through a clan moot. The position rotates among the Jarls and is often viewed as both a political honor and a burdensome duty. The High King serves as the primary representative when dealing with outsiders and foreign powers. Because the Orden dislike outsiders’ flowery language, hidden motives, and political maneuvering, the role is frequently seen as a punishment.
+In times of existential threat—such as when an external force angers all the clans or when the gods declare a new unrestricted elder god a danger to the world—the High King becomes the national war leader. If a better strategist exists among the Jarls, the High King will defer command to them. Such unified mobilizations are rare but extremely effective.
+Tale-Earning
+Young Orden (primarily men, though not exclusively) are expected to leave their home clan for several years in a rite of passage known as the Tale-Earning (sometimes called “gaining glory” or “earning stories”). The purpose is to gain experience, build friendships across clans, and return with tales worthy of the longhouse fires.
+Common paths during the Tale-Earning include:
+
+Serving in another Jarl’s longhouse
+Joining trading or exploratory voyages
+Serving at the High King’s court to learn politics and diplomacy
+Handling local problems and adventures within Orden lands
+
+Success is measured by the quality and impact of the stories one brings back.
+Martial and Social Culture
+The Orden revere combat as sport and training. Inter-clan duels and brawls (especially drunken winter hall fights) are common and respected. Duels are rarely to the death and serve to improve skill and settle disputes. Elders—particularly veteran fighters and mariners—are deeply respected, even if they become somewhat addled with age. When an elder speaks from experience, younger Orden listen.
+The culture is remarkably open: any individual willing to live by Orden ways (plain speech, respect for elders, participation in Tale-Earning, etc.) can be accepted regardless of race.
+Non-Human Members
+Two groups stand out:
+
+Dwarven Clan: A small but respected group of dwarves who live among the Orden. They are valued for their metalworking and shipbuilding skills.
+Marrow (Sea Elves): A tribe of sea elves who have adopted many Orden customs. They maintain an underwater civilization but regularly come ashore for celebrations, moots, and diplomacy. They cannot live permanently on land but are fully integrated allies.
+
+The Marrow Relationship
+The Marrow and Orden share a deep symbiotic bond. The Marrow assist Orden ships with navigation, storm warnings, and sea creature defense. Most importantly, they rescue Orden sailors who go overboard. Using water-breathing magic, they bring the sailors to their underwater villages as honored guests, show them their civilization (including underwater brawling), and eventually return them to the surface.
+Sailors who earn the Marrow’s highest respect are named Deep Friends and given a reusable charm that allows them to breathe underwater. These individuals often become lifelong cultural ambassadors, frequently returning to visit the Marrow.
+Among the Orden, Deep Friends are affectionately (and somewhat teasingly) called Fish Friends. Fish Friends usually become valued advisors to coastal Jarls.
+
+Narathi (Quick Reference Update)
+The Narathi (formerly Arathi) were the pre-catastrophe civilization. They possessed advanced crystalmancy and magitek powered by a tonal language. Their civilization was largely destroyed by the 10-mile asteroid impact on their capital’s magical conduit. They built deep teleport-only vaults meant to survive the catastrophe. Several have been discovered; five opened. One contained a construct workshop and a near-complete personality matrix that Darkhoof encountered.
+
+Trolls (Quick Reference Update)
+Silicon-based, self-replicating, self-repairing constructs created by the Narathi. They have memory crystal brains and were programmed to locate, refine, and deliver rare minerals and gems. They can “swim” through land like fish through water and possess an extraordinary sense of taste/smell for minerals across their entire bodies. Limited to 2,000 worldwide. Many hibernate after ~3,000 years. The active ones were mostly destroyed in the catastrophe; some hibernating ones survived. Ancient trolls can grow to mountain size. They respond strongly to new music and tonal sequences from the ancient language.
+Dwarves view them as walking treasure chests and hunt them. Trolls generally flee but can be traded with if one offers something they find interesting (especially new music).

@@ -1,0 +1,100 @@
+# Doctrine of the Open Palm and Divine Bureaucracy — Principles and Diagnosis
+
+**World**: Eadras
+**Source**: Elder Gods chat 1.txt
+**Document type**: Distilled ingest document — setting-wide principles and open prompts
+**Companion documents**:
+- Doctrine of the Open Palm and Divine Bureaucracy — In-World Facts
+- Doctrine of the Open Palm and Divine Bureaucracy — Meta-Commentary
+
+**Last updated**: 2026-05-13
+
+---
+
+# HOW TO READ THIS DOCUMENT
+
+This document extracts cross-cutting setting principles from the Open Palm material. These principles are usable beyond divine bureaucracy: in mortal states, magical guilds, city governance, religious reform, afterlife law, and political movements.
+
+---
+
+# PRINCIPLE 1: RESTRAINT CAN BECOME ABANDONMENT
+
+[DIAGNOSIS] A doctrine created to protect agency can become an excuse for inaction.
+
+This principle applies everywhere in Eadras. Institutions that begin by respecting autonomy can drift into neglect if no one measures consequence. "We must not interfere" can become "we need not help."
+
+---
+
+# PRINCIPLE 2: PROCEDURE WITHOUT PURPOSE BECOMES HELL-SHAPED
+
+[DIAGNOSIS] The Divine Bureaucracy must exist, but its purpose is mortal flourishing, not procedural completion. When categories become more important than consequences, the system begins to resemble the Infernal model.
+
+This principle applies to:
+- Orden audit culture;
+- priestly offices;
+- vault classification;
+- military logistics;
+- magical licensing;
+- afterlife petitions.
+
+The test is always: does the procedure still serve the reason it was created?
+
+---
+
+# PRINCIPLE 3: MORTAL TIME MUST BE REPRESENTED INSIDE IMMORTAL SYSTEMS
+
+[DIAGNOSIS] Immortal institutions cannot be trusted to measure delay correctly. A century can feel like procedure to gods and like apocalypse to mortals.
+
+Hearth-Witnesses exist to insert mortal time-sense into celestial offices. Similar mechanisms may be needed in long-lived empires, dragon courts, elder archives, and post-cataclysm institutions.
+
+---
+
+# PRINCIPLE 4: MERCY AND DISCIPLINE CORRUPT WHEN SEPARATED
+
+[DIAGNOSIS] Mercy without discipline becomes indulgence. Discipline without mercy becomes Hell.
+
+This is one of the most portable moral axioms in Eadras. It should appear in divine law, martial orders, death-priest training, Druid judgment, and postwar reconciliation.
+
+---
+
+# PRINCIPLE 5: SECRECY AND TRANSPARENCY BOTH CREATE EXPLOITS
+
+[DIAGNOSIS] Intervention thresholds cannot be fully published without inviting manipulation. But hidden thresholds can also be exploited by those who understand the secrecy.
+
+Nox's principle applies broadly: secrecy changes the exploiters; it does not remove exploitation.
+
+This matters for:
+- Three Bells doctrine;
+- Black Hand infiltration;
+- vault access;
+- magical orders;
+- dragon knowledge;
+- unicorn warnings;
+- afterlife rulings.
+
+---
+
+# PRINCIPLE 6: DOCTRINES BECOME REAL THROUGH LOCAL DISTORTION
+
+[DIAGNOSIS] A divine doctrine is not what the gods intend. It is what mortals sing, legislate, weaponize, pray, and misunderstand.
+
+The Open Palm will become different things in different cultures. This is not failure; it is how theology enters history.
+
+---
+
+# PRINCIPLE 7: ACCOUNTABILITY REQUIRES FACES, NOT ONLY RECORDS
+
+[DIAGNOSIS] Records preserve. Faces make records morally legible.
+
+The Hearth-Witness Mandate exists because an office can have complete files and still lack accountability. The same principle should apply to vault concordats, war memorials, famine inquiries, and magical disaster tribunals.
+
+---
+
+# LIVE WIRES
+
+- What does a celestial office look like before and after Hearth-Witness integration?
+- What happens when a Hearth-Witness refuses to certify a miracle denial?
+- Can a Petition of Abandoned Circumstance succeed, and what precedent would that set?
+- Which mortal culture first weaponizes the Three Bells?
+- Does the Divine Bureaucracy create a Department of Purpose despite Sylph's joke?
+- Can mortals distinguish Open Palm reform from divine propaganda?

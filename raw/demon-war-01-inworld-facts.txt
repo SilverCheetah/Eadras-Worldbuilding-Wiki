@@ -1,0 +1,305 @@
+# Demon War, Anti-Magic Crusade, and the Unreceived — In-World Facts
+
+**World**: Eadras
+**Source**: Elder Gods chat 1.txt
+**Document type**: Distilled ingest document — in-world canon extraction
+**Companion documents**:
+- Demon War
+- Anti-Magic Crusade
+- Thousand-Year Dimming
+- The Weave
+- Eldritch
+- Netharim
+- Lexanari
+- Druids
+- Windspeakers
+- The Unreceived
+- Woundwatch
+
+**Last updated**: 2026-05-13
+
+---
+
+# HOW TO READ THIS DOCUMENT
+
+This document extracts the corrected Demon War and magic-system canon generated during the Elder Gods council. It supersedes earlier non-canon references to Sorcerers, Weavespinners, and the Weave as general magical infrastructure.
+
+---
+
+# 1. CORE PREMISE
+
+[CANONIZED] [IN-WORLD] The Demon War was not won. It was survived.
+
+[CANONIZED] [IN-WORLD] The Demon War remains inherited weather in modern Eadras. The Arathi Cataclysm broke the body of the world; the Demon War taught civilizations to fear their own survival.
+
+[CANONIZED] [IN-WORLD] Demons are not devils. This distinction is doctrinally critical.
+
+Devils are infernal bureaucracy: contracts, punishment, extraction, procedure, efficient suffering.
+
+Demons are alien-Mythos energivores from the collapsed Mythos called Nethar or Vorath. They are adaptive appetite, ontological predation, magical consumption, and destabilization.
+
+---
+
+# 2. WHAT DEMONS ARE
+
+[CANONIZED] [IN-WORLD] Demons are adaptive predators from a collapsed Mythos. Their civilization consumed its own planes until only a hellish Prime remained.
+
+They feed on:
+- energy;
+- identity stability;
+- magical order;
+- soul-continuity;
+- coherent systems;
+- the relations systems require to remain systems.
+
+They mutate under pressure, invent magic dynamically, and destabilize coherent orders by consuming the conditions those orders require.
+
+[CANONIZED] [IN-WORLD] Demons are not merely morally evil spirits. Moral language is insufficient. They are hunger without negotiation.
+
+Key ecological contrast:
+
+Life eats and returns. Demons consume and do not return.
+
+---
+
+# 3. THE DEMON PRINCE OF THE OPEN WOUND
+
+[CANONIZED] [IN-WORLD] The Demon Prince of the Open Wound was not merely the largest demon. It was an adaptive sovereign appetite: an ancient, massively fed, catastrophically intelligent entity that made demonic adaptation more coherent.
+
+It did not simply command demons. It made hunger strategic.
+
+[CANONIZED] [IN-WORLD] Xar'vion summoned the Demon Prince. His motives included desperation, arrogance, grief, isolation, and belief that prior control over lesser impossible things meant he could control this.
+
+[CANONIZED] [IN-WORLD] Xar'vion later fought beside the world against the catastrophe he unleashed. His knowledge of breach-patterns saved fronts.
+
+[CANONIZED] [IN-WORLD] Xar'vion must be neither flattened into a nursery villain nor softened into a misunderstood hero. He was brilliant, ambitious, grief-driven, responsible for catastrophe, later useful, and later betrayed.
+
+---
+
+# 4. XAR'VION AND TIERED DISCLOSURE
+
+[CANONIZED] [IN-WORLD] After the war, Xar'vion was imprisoned in his Icon. This was lawful under emergency divine compact, but not clean.
+
+Reasons included:
+- he remained dangerous;
+- he could become a banner, martyr, redeemer, or second wound;
+- mortals might fight over him;
+- gods feared judgment;
+- gods feared complexity;
+- imprisonment was partly mercy, partly necessity, partly convenience.
+
+[CANONIZED] [IN-WORLD] Legitimate history sanitized him into monstrosity. The Black Hand grew in the space left by that lie.
+
+[CANONIZED] [IN-WORLD] Proposed divine policy uses tiered disclosure.
+
+First Tier: Public Doctrine. Xar'vion unleashed catastrophe, later aided the war's end, and remains imprisoned because he is dangerous.
+
+Second Tier: Vowed Scholarship. Trusted historians, death-priests, war colleges, and divine auditors may learn that his imprisonment involved divine betrayal and emergency necessity.
+
+Third Tier: Sealed Judgment. Full Icon details, binding mechanisms, and sensitive Black Hand objectives remain restricted.
+
+---
+
+# 5. THE WEAVE, ELDRITCH, AND WINDSPEAKERS
+
+[CANONIZED] [IN-WORLD] The Weave is Lirra's defensive Ward. It is not the universal source or machinery of all magic.
+
+[CANONIZED] [IN-WORLD] The Weave carries, circulates, shields, filters, and contains the majority of Eldritch in Eadras so outsider entities cannot simply drink the world open.
+
+[CANONIZED] [IN-WORLD] Eldritch is raw magical potency: the wild luminous substance of magical possibility. It is not spellcraft, divine Favor, personal model, liturgical authority, or the Primordial Language itself.
+
+[CANONIZED] [IN-WORLD] Windspeakers are monastic caretakers of Lirra's Weave/Ward. They maintain it through breath, song, ritual alignment, listening, and disciplined practice. Their deaths damage the Ward locally.
+
+[SUPERSEDED_BY_CORRECTION] [IN-WORLD] Earlier references to Weavespinners should be replaced by Windspeakers.
+
+---
+
+# 6. MAGIC-USER POPULATION HIERARCHY
+
+[CANONIZED] [IN-WORLD] The corrected prevalence of magical practitioners is:
+
+1. Wizards — most numerous magical practitioners.
+2. Priests and Clerics — close second.
+3. Netharim — distant third; rare, powerful, feared.
+4. Lexanari — extremely rare; almost mythic.
+
+Druids and Windspeakers are specialized sacred or monastic traditions and should be placed carefully by region and institution.
+
+[CANONIZED] [IN-WORLD] Wizards form the common learned magical workforce: trained through study, formula, guild, academy, apprenticeship, symbolic systems, and practical traditions.
+
+[CANONIZED] [IN-WORLD] Priests and Clerics use magic through devotion, divine sanction, sacred office, liturgy, vow, and institutional religion.
+
+[CANONIZED] [IN-WORLD] Netharim reshape reality by imposing deeply studied personal models of reality upon the world. They are rare and dangerous specialists, not common practitioners.
+
+[CANONIZED] [IN-WORLD] Lexanari are innate-only speakers of fragments of the Primordial Language. Their magic is spoken, never written, and independent of Elder God oversight.
+
+[CANONIZED] [IN-WORLD] Druids are devotional sub-priesthood of Qoxli, Sylph, and Nox. They are not standalone nature-mages.
+
+---
+
+# 7. THE UNRECEIVED
+
+[CANONIZED] [IN-WORLD] Many Demon War casualties were consumed wholly by demons: body, spirit, and soul.
+
+These victims are called the Unreceived by Katharim and death-priests. War-cults may call them the Devoured Dead. Families may simply say, "No one came home."
+
+[CANONIZED] [IN-WORLD] Demons did not merely kill them. They interrupted death.
+
+[CANONIZED] [IN-WORLD] Ordinary souls pass through afterlife, accounting, rest, healing, judgment, consequence, recalibration, and eventual reincarnation. The Unreceived were stolen from the known cycle.
+
+[CANONIZED] [IN-WORLD] Official doctrine should say "the known cycle" to leave room for mystery without offering false comfort.
+
+Key ritual phrase:
+
+"May theft be remembered."
+
+---
+
+# 8. RITUALS FOR THE UNRECEIVED
+
+[CANONIZED] [IN-WORLD] Empty Cot Vigil: household rite in which a bed, cot, cloak, or blanket is laid out for seven nights. Its purpose is not to summon the dead but to give love somewhere to go.
+
+[CANONIZED] [IN-WORLD] Unreceived Ledger: Katharim record of those stolen from judgment. They are not entered among the judged dead.
+
+[CANONIZED] [IN-WORLD] Black Banner Roll: war-temple list of the Unreceived read before anti-demonic campaigns. Response: "No grave. No surrender."
+
+[CANONIZED] [IN-WORLD] Laugh With No Echo: Beast-Folk rite where a joke is told for the consumed dead and never repeated. It acknowledges irrecoverable loss without letting silence rule.
+
+[CANONIZED] [IN-WORLD] Ashless Shrines: memorials without remains, ashes, relics, ghost, or soul-sign. Only an empty bowl.
+
+---
+
+# 9. THE FOUR MAGICAL TRADITIONS IN THE DEMON WAR
+
+[CANONIZED] [IN-WORLD] Netharim were essential and dangerous. Their model-based magic allowed improvisational counter-adaptation, but demonic contamination of assumptions could make them impose corruption while believing they were healing. Model-Sanctums developed to test and purify models.
+
+[CANONIZED] [IN-WORLD] Lexanari used spoken Primordial fragments to bind demons, reveal stolen identity, sever feeding channels, and force temporary coherence on adaptive entities. They could not restore the wholly consumed.
+
+[CANONIZED] [IN-WORLD] Druids preserved living relations: ecosystem to spirit, beast to land, fear to laughter, rot to renewal, hidden wound to guarded knowledge. They fought demonic hunger by restoring negotiated hunger and return.
+
+[CANONIZED] [IN-WORLD] Windspeakers maintained the Ward where it frayed, held breaches long enough for withdrawal, and reinforced regions where demons learned to siphon ambient magic.
+
+---
+
+# 10. ANTI-MAGIC CRUSADE
+
+[CANONIZED_AS "Anti-Magic Crusade"] [IN-WORLD] The old Sorcerer Crusade is now the Anti-Magic Crusade.
+
+[CANONIZED] [IN-WORLD] The Anti-Magic Crusade came before the Thousand-Year Dimming. It caused the Dimming.
+
+Correct causal chain:
+1. Demon War creates the defensive Weave/Ward.
+2. The Weave carries and regulates most Eldritch.
+3. Postwar magical civilization rebuilds under its protection.
+4. The Black Hand manipulates fear of magic itself.
+5. The Anti-Magic Crusade erupts.
+6. Wizards, Priests, Clerics, Netharim, Druids, Windspeakers, and suspected Lexanari are targeted unevenly.
+7. Windspeakers and stabilizing institutions are destroyed.
+8. The Weave fractures.
+9. Eldritch circulation becomes chaotic.
+10. The Thousand-Year Dimming begins.
+
+Key phrase:
+
+"The Crusade came first. The Dimming was the wound it left."
+
+---
+
+# 11. THOUSAND-YEAR DIMMING
+
+[CANONIZED] [IN-WORLD] The Thousand-Year Dimming was not uniform magical weakness. It was chaotic Eldritch redistribution after Weave damage.
+
+Some regions became Eldritch-dim: magical barrens, dry channels, dead wells, wardless territories, weakened magic, and in some climates desertification.
+
+Some regions became overbright: Eldritch pools, saturated zones, magical weather, mutated ecosystems, spirit-predation, unstable wizardry, and dangerous abundance.
+
+Some regions became chaotic flow zones: spells failed one day and magnified the next; clerical rites produced unintended signs; Netharim models destabilized; Lexanari speech echoed too far; Druids tracked sickened relations; Windspeakers were overworked.
+
+Key phrase:
+
+"The Dimming was not darkness everywhere. It was broken circulation."
+
+---
+
+# 12. DRUIDS DURING THE ANTI-MAGIC CRUSADE
+
+[CANONIZED] [IN-WORLD] Druids were ideologically targeted but not broadly devastated by the Anti-Magic Crusade.
+
+They endured because:
+- many lived in rural, liminal, or distant wild-lands;
+- they did not depend on urban academies or centralized institutions;
+- they served as judges of Fey society on the Prime Material Plane;
+- Fey trusted and protected them fiercely;
+- crusading mobs and armies often could not reach Druidic centers safely;
+- attacks on Druids triggered disproportionate Fey retaliation.
+
+[CANONIZED] [IN-WORLD] Border Druids and settlement-adjacent grove-judges did suffer. Druids were not untouched, but their survival was specific and structurally explained.
+
+---
+
+# 13. THE THREE WHO STOOD
+
+[CANONIZED] [IN-WORLD] The Orug, El'mer, and Aetherin held the Final Wall. Their phrase is:
+
+"We held anyway."
+
+[CANONIZED] [IN-WORLD] The phrase must carry accusation as well as heroism. The Three Who Stood were brave, but they were also failed by institutions, commands, logistics, and allies.
+
+[CANONIZED] [IN-WORLD] Consent at the Final Wall was real but not uniform. Some units held by oath, some by command, some by lack of retreat, and some because retreat would not save them.
+
+The sacred phrase records endurance, not purity of circumstance.
+
+---
+
+# 14. WOUNDWATCH
+
+[CANONIZED] [IN-WORLD] The Woundwatch is a proposed or emerging institution for the Demonfall Marches.
+
+It may include:
+- military wardens;
+- Beast-Folk laughter-houses;
+- Katharim cairn-lines;
+- Lirran Weave pylons;
+- armed monasteries;
+- local scouts;
+- healers;
+- teachers;
+- cooks;
+- midwives;
+- grief-keepers.
+
+[CANONIZED] [IN-WORLD] Beast-Folk laughter-houses may count as defensive infrastructure because demonic hunger feeds on despair and fear.
+
+---
+
+# 15. THE WOUND THAT MUST NOT BE FED
+
+[CANONIZED] [IN-WORLD] The Wound That Must Not Be Fed is a proposed anti-demonic doctrine.
+
+It teaches that demons thrive where societies cultivate fear, secrecy, despair, uncontrolled appetite, depersoning, persecution, and metaphysical negligence.
+
+Anti-demonic vigilance must protect the dignity and continuity of persons because demons can consume body, spirit, and soul.
+
+Core additions:
+- vigilance without cruelty;
+- judgment without hysteria;
+- mourning without false comfort;
+- laughter without denial;
+- hunger with return;
+- secrecy with accountability.
+
+Key phrase:
+
+"Demonic hunger is not defeated by making society hungrier for purity."
+
+---
+
+# LIVE WIRES
+
+- Which event triggers the Demon War Memory Crisis?
+- Which institution first receives tiered Xar'vion doctrine?
+- Does public recognition of the Unreceived destabilize death theology?
+- Which Windspeaker monastery's destruction begins the Weave fracture?
+- Which Druid groves shelter hidden Windspeaker lineages?
+- What is the first modern Woundwatch charter?
+- Can an Eldritch overflow region become a holy site, mining site, and disaster zone at once?

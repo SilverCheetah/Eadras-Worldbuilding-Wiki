@@ -1,0 +1,177 @@
+# First Rebrightening and the Baldaranic Council Cycle — In-World Facts
+
+**World**: Eadras
+**Source**: Elder Gods chat 1.txt
+**Document type**: Distilled ingest document — in-world chronology and institutional placement
+**Companion documents**:
+- Doctrine of the Open Palm
+- Arathi Geo-Substrate
+- Demon War Memory Crisis
+- Anti-Magic Crusade
+- Thousand-Year Dimming
+- First Rebrightening
+- Baldaranic Council Cycle
+
+**Last updated**: 2026-05-13
+
+---
+
+# HOW TO READ THIS DOCUMENT
+
+This document extracts the chronology proposed during the Elder Gods council. It places the council discussions inside Eadras history rather than treating them as timeless lore dumps.
+
+---
+
+# 1. CORE PREMISE
+
+[CANONIZED] [IN-WORLD] The Elder Gods council discussions occur during the First Rebrightening, the first major era after the Thousand-Year Dimming begins to recede.
+
+[CANONIZED] [IN-WORLD] The councils are part of the Baldaranic Council Cycle, also called by formal bureaucratic language the Convocation of the Reopened Ledger.
+
+[CANONIZED] [IN-WORLD] The councils occur when modern Eadras is rebuilding fast enough to endanger itself.
+
+---
+
+# 2. THE FIRST REBRIGHTENING
+
+[CANONIZED] [IN-WORLD] The First Rebrightening is not a single year. It is a transitional period spanning several mortal decades.
+
+Features:
+- the Weave/Ward is recovering unevenly;
+- Eldritch flows are becoming more stable in some regions;
+- magic is becoming industrialized again;
+- Bold and other conduit powers are rising;
+- Deep Vault archaeology becomes organized and politically competitive;
+- older divine doctrines are being questioned;
+- prayer volume and miracle disputes increase;
+- the Divine Bureaucracy visibly fails in places;
+- mortals become powerful enough to repeat Arathi-pattern mistakes;
+- dragons and unicorns become relevant to ancient-history questions again;
+- the Black Hand uses renewed complexity as cover.
+
+[CANONIZED] [IN-WORLD] The First Rebrightening begins when major magical institutions agree that the Thousand-Year Dimming is no longer the dominant magical condition, though the Weave remains scarred and uneven.
+
+---
+
+# 3. THE BALDARANIC COUNCIL CYCLE
+
+[CANONIZED] [IN-WORLD] The Baldaranic Council Cycle is a concentrated divine deliberation period in which Elder Gods, with the Tome of Baldaran present, debate reforms and buried history that modern mortal institutions are becoming able or forced to receive.
+
+[CANONIZED] [IN-WORLD] The mortal world does not know the Elder Gods held these exact conversations. Mortals experience the aftermath as doctrines, dreams, synods, scandals, legal reforms, strange consistency across temples, increased miracle audits, and new relic laws.
+
+---
+
+# 4. PHASE I: OPEN PALM COUNCIL
+
+[CANONIZED] [IN-WORLD] The Open Palm Council produces:
+- the Doctrine of the Open Palm;
+- the Hearth-Witness Mandate;
+- revival or formalization of the Three Bells of Intervention;
+- increased scrutiny of divine abandonment and bureaucratic delay.
+
+[CANONIZED] [IN-WORLD] Mortal echoes include:
+- priests receiving dreams, marginalia, omens, and contradictory instructions;
+- Ascended Mortal Gods quietly pushing reforms;
+- Katharim death-priests recording more Petitions of Abandoned Circumstance;
+- Orden theologians drafting audit-compatible doctrine;
+- rural hearth traditions gaining renewed prestige;
+- conservative temples resisting reform.
+
+---
+
+# 5. PHASE II: ARATHI COUNCIL
+
+[CANONIZED] [IN-WORLD] The Arathi Council produces:
+- Arath reframed as warning, not ladder;
+- Arathi "crystals" correctly understood as bio-engineered geo-substrate;
+- pre-Cataclysm Eadras clarified as non-tectonic;
+- modern tectonics identified as post-Cataclysm;
+- Deep Vault handling revised around substrate ethics and geological mismatch;
+- Vault Concordat pressure;
+- Fallback Doctrine;
+- Unsealing Oath;
+- renewed attention to unicorn herd-memory and dragon testimony.
+
+[CANONIZED] [IN-WORLD] Mortal echoes include:
+- relic academies splitting between crystal traditionalists and geo-substrate reformers;
+- trollish geobiologists, Herd-Listeners, and cautious Lirran scholars gaining importance;
+- Bold resisting the Fallback Doctrine while claiming compliance;
+- Orden pushing standardized vault classification;
+- Black Hand cells pursuing Red and Black Vaults.
+
+---
+
+# 6. PHASE III: DEMON WAR COUNCIL
+
+[CANONIZED] [IN-WORLD] The Demon War Council occurs during or just before the Demon War Memory Crisis.
+
+It produces or clarifies:
+- demons as alien-Mythos energivores;
+- the Unreceived;
+- the Weave as Lirra's Ward and Eldritch carrier;
+- Anti-Magic Crusade as cause of the Thousand-Year Dimming;
+- tiered disclosure on Xar'vion;
+- Woundwatch;
+- The Wound That Must Not Be Fed;
+- corrected status of Druids during the Anti-Magic Crusade.
+
+---
+
+# 7. HOW DIVINE DECISIONS ENTER MORTAL HISTORY
+
+[CANONIZED] [IN-WORLD] Divine decisions do not enter mortal history through simple announcement.
+
+They filter through:
+- Ascended Mortal Gods;
+- Divine Bureaucracy procedures;
+- mortal synods and councils;
+- dreams, omens, marginalia, and liturgical drift;
+- crisis events that force adoption.
+
+[CANONIZED] [IN-WORLD] Possible mortal institutions include:
+- First Open Palm Synod;
+- Hearth-Witness Hearings;
+- Orden Audit of Sacred Procedure;
+- Bold Conduit-Theological Congress;
+- Katharim Hearings on Abandoned Circumstance.
+
+---
+
+# 8. CONCRETE TIMELINE DRAFT
+
+[FLAG_FOR_REVIEW] [IN-WORLD] The council generated a provisional relative chronology.
+
+0 FR: First Rebrightening recognized.
+
+3 FR: Vault Acceleration.
+
+5 FR: Prayer-Routing Scandal triggers Open Palm pressure.
+
+6 FR / 0 ORP: Open Palm Council.
+
+8-12 FR: First Mortal Echoes.
+
+13 FR: First Open Palm Synod.
+
+15 FR: Arathi Geo-Substrate Incident.
+
+16 FR: Arathi Council.
+
+18-25 FR: Vault Concordat negotiations.
+
+22 FR: Herd-Listener recognition.
+
+25-35 FR: Demon War Memory Crisis.
+
+[FLAG_FOR_REVIEW] [IN-WORLD] FR may be used as broad historical dating. ORP may mark Open Palm Reckoning as religious reform dating.
+
+---
+
+# LIVE WIRES
+
+- What exact event defines 0 FR?
+- What prayer-routing scandal forces the Open Palm Council?
+- Which vault disaster reveals geo-substrate to mortals?
+- Which region hosts the First Open Palm Synod?
+- Does ORP dating remain sectarian, or become widely used?
+- Which Black Hand operation tries to derail the Baldaranic Council Cycle's mortal echoes?

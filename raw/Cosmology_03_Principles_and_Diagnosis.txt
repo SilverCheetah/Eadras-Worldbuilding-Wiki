@@ -1,0 +1,168 @@
+COSMOLOGY OF NAMING & OBSERVATION — PRINCIPLES AND DIAGNOSIS
+World: Eadras
+Source: Grok chat session, 2026-05-09
+Document type: Setting-wide principles surfaced by the naming cosmology, plus open story prompts
+Companion documents: "Cosmology of Naming & Observation — In-World Facts" and "Cosmology of Naming & Observation — Meta-Commentary"
+
+
+================================================================
+INTRODUCTION
+================================================================
+
+[DIAGNOSIS] The naming-and-observation cosmology is the deepest layer of Eadras's metaphysics. Every magical, theological, and narrative system in the setting either derives from this cosmology or must be reconciled with it.
+
+This document records the cross-cutting principles the cosmology establishes — principles that govern far more than just metaphysics, and that should be checked against any new system added to the setting.
+
+
+================================================================
+PART ONE — SETTING-WIDE PRINCIPLES
+================================================================
+
+
+--- PRINCIPLE 1: TO BE IS TO BE NAMED ---
+
+[DIAGNOSIS] The single most foundational rule in Eadras. Anything unnamed has no reality. Anything unobserved has no anchor in reality.
+
+This is not a feature of magic. It is a feature of EXISTENCE itself.
+
+When applying this principle outward: any new being, place, or system in Eadras should be evaluated against this rule. Who named it? Who observes it? What sustains its reality?
+
+
+--- PRINCIPLE 2: THE CASCADE OF CORRUPTION ---
+
+[DIAGNOSIS] The True Language was passed down through tiers, each receiving it in a slightly more corrupted form. This produces a hierarchy where:
+
+- Higher tiers are more powerful but more restricted in who can speak them.
+- Lower tiers are weaker but accessible.
+- Even the lowest tier (mortal speech) retains some metaphysical function (naming, if not creating).
+
+This is structurally identical to the "lost ceiling" pattern in the Modernity framework, where stage-5 hypercivilization is archaeological rather than aspirational. In Eadras, the past is consistently more whole than the present, and modern beings work in the inheritance of something originally more complete.
+
+
+--- PRINCIPLE 3: NAMING ≠ CREATING ---
+
+[DIAGNOSIS] Mortals cannot create through speech, but they can name. Naming solidifies reality.
+
+This preserves the specialness of true creation while still giving ordinary mortals metaphysical participation. No one in Eadras is metaphysically inert. Every act of naming is a small reality-anchoring event.
+
+This means ordinary social rituals — naming children, naming places, naming dead loved ones in memory — are metaphysically functional acts, not just cultural ones. They contribute to the structural integrity of the named world.
+
+
+--- PRINCIPLE 4: CHAOS IS NEGATIVE SPACE, NOT OPPOSING FORCE ---
+
+[DIAGNOSIS] Chaos is the absence of names, not an army of disorder. It is what reality is NOT, not what reality is against.
+
+This is a meaningful departure from typical fantasy cosmology. Chaos has no agenda, no politics, no victory condition. It is the unnamed shape around the named world.
+
+Anything that emerges from Chaos with apparent agency (the Neverborn) must be doing something special — and that specialness is itself an exploitation of the same rules that govern reality.
+
+
+--- PRINCIPLE 5: ANTAGONISTS ARE STRUCTURAL INVERSIONS ---
+
+[DIAGNOSIS] The Neverborn are not opposites of reality. They are reality's own rule (observation creates being) performed by entities that should not be performing it.
+
+This is the same pattern surfaced in the Draconic analysis (Flesh-Eaters performing dragon civilization in the wrong direction) and the Modernity framework (Eadras antagonists tend to be structural inversions rather than external enemies).
+
+When designing new antagonists for Eadras, the strongest move is to ask: WHAT POSITIVE PROCESS IS THIS ENTITY PERFORMING IN AN OBSCENE OR INVERTED WAY? not WHAT POSITIVE PROCESS DOES THIS ENTITY OPPOSE?
+
+
+--- PRINCIPLE 6: ATTENTION FEEDS THE WRONG THINGS ---
+
+[DIAGNOSIS] In Eadras, observing a Neverborn makes it more real. Knowing about the monster does not weaken the monster. It strengthens it.
+
+This inverts the standard fantasy assumption that information defeats threats. Investigation can be its own form of catastrophe.
+
+NARRATIVE CONSEQUENCE: Stories featuring Neverborn-class threats cannot resolve through research, scholarship, or revelation. The mystery cannot be solved by gathering information about it. The right narrative moves are containment, deliberate forgetting, sealing, and silence.
+
+This is a genuinely distinctive narrative texture that Eadras can claim as its own.
+
+
+--- PRINCIPLE 7: REALITY HAS AN IMMUNE SYSTEM ---
+
+[DIAGNOSIS] The Tome of Beldoran's curation, the closed time bubbles, the buried Chaos War — these are not separate phenomena. They are different scales of the same protective function.
+
+When reality cannot integrate a truth, it has mechanisms to seal that truth:
+- A whole event can be excised into a closed time bubble.
+- A recorded event can be sealed in the Tome and withheld from view.
+- A chosen observer can be designated to preserve the technical reality of a sealed event.
+
+The system is consistent. It is not a list of unrelated cosmic quirks. It is a single immune response operating at different magnitudes.
+
+
+--- PRINCIPLE 8: HIDING TRUTH CAN BE PROTECTION ---
+
+[DIAGNOSIS] Eadras takes seriously the possibility that concealment is sometimes mercy.
+
+The Tome hiding the buried Chaos War is not framed as conspiracy. It is framed as triage: this truth, in this era, would destroy more than it would inform. The reader is not invited to assume the Tome is corrupt for hiding it.
+
+This is a notably mature stance for a fantasy cosmology. It treats hidden knowledge as a structural question rather than a moral one — what can this era bear to remember, and at what cost?
+
+
+--- PRINCIPLE 9: METAPHYSICS GENERATES STORY AT EVERY SCALE ---
+
+[DIAGNOSIS] The naming cosmology does not stay at the cosmic scale. It produces specific dramatic textures at the human scale:
+
+- The chosen observer who cannot share what they know.
+- The investigator whose investigation makes the threat worse.
+- The mortal whose ordinary act of naming participates in cosmic machinery.
+- The dragon whose Council-formal speech carries metaphysical weight (cross-reference: Draconic Cosmology).
+
+A good cosmology produces good stories at every scale. The fact that this one does so consistently is one of its strongest features.
+
+
+--- PRINCIPLE 10: THE RULE CONSTRAINS EVERYONE, INCLUDING THE CREATOR ---
+
+[DIAGNOSIS] The Omniversal Creator created himself by saying "I AM." He did not exist before the act of self-naming.
+
+This means the rule (to be is to be named) predates the rule-maker. No being in Eadras sits outside the metaphysics. Even the highest beings are bound by the structure they participate in.
+
+This rules out the standard fantasy escape hatch where "a god could just override the rule." There is no god in Eadras who can simply step outside naming. The rule is universal.
+
+
+================================================================
+PART TWO — LIVE WIRES (OPEN STORY PROMPTS)
+================================================================
+
+[DIAGNOSIS] Story prompts the cosmology opens. Each is a viable narrative anchor.
+
+
+--- LIVE WIRE 1 ---
+
+What does it look like when an ordinary mortal — not a Lexanari, not a wizard — discovers that their NAMING of a thing has more reality-anchoring power than they expected?
+
+Implications: A grieving widow naming her dead husband daily who finds that the world is reluctant to forget him. A child naming an imaginary friend who slowly begins to receive form. The principle that ordinary mortal naming solidifies reality opens an entire category of low-magic, high-stakes domestic stories.
+
+
+--- LIVE WIRE 2 ---
+
+How does someone go MAD from being a chosen observer?
+
+Implications: A character returned to the start of time carrying memory of a war that never happened, unable to share it, unable to forget it, unable to die into peace. What does that look like at year five? At year fifty? At the millennium mark? The chosen observer is a permanent-isolation premise.
+
+
+--- LIVE WIRE 3 ---
+
+Are there OTHER buried chapters in the Tome of Beldoran?
+
+Implications: The Tome has decided to hide the High Arathi Chaos War. The natural question is: what else has it buried? Wars that were lost? Catastrophes that were partially erased? Crimes the era cannot bear to acknowledge? Each sealed chapter is a campaign waiting to surface in the right era for the right observer.
+
+
+--- LIVE WIRE 4 ---
+
+What happens when someone tries to FORCE the Tome to reveal a sealed chapter?
+
+Implications: The Tome makes its own judgments. It chooses what to reveal. What does an attempt to override it look like — does the Tome resist? Does it lie? Does it show something but render the reader unable to remember it afterward? This pits a character against the cosmology's own immune system.
+
+
+--- LIVE WIRE 5 ---
+
+Is there a way for a Neverborn to STOP being parasitic and become fully real?
+
+Implications: If a Neverborn is anchored only by its own manic observation and the occasional reinforcement of being contacted, what would it take for it to cross over fully? Could enough sustained mortal observation transform it into something that counts as truly named? And if so, would it still be a Neverborn — or would it have become a new kind of entity entirely?
+
+
+--- LIVE WIRE 6 ---
+
+What does it mean that the Omniversal Creator was BOUND by the rule that brought him into being?
+
+Implications: The Creator did not predate naming. He came into being through naming. Are there constraints on him that flow from this? Could the rule be invoked against him? Is there theology in Eadras that takes this seriously, or is it suppressed knowledge? This is the deepest theological live wire in the setting.

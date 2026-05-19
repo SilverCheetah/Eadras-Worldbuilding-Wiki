@@ -1,0 +1,74 @@
+Titans — canon additions, 2026-05-10 (session continuation)
+
+(Second session-capture from the same 2026-05-10 Claude Code session as
+titans-canon-2026-05-10.txt. These answers came in response to questions
+filed in the first Titans page draft.)
+
+== Modern range (feral Titans) ==
+
+Feral Titans range "wherever they want" -- they are NOT anchored to fixed
+regions. They are mobile because their calorie demand forces them to keep
+moving once a region's food sources are exhausted. A feral Titan in a region
+is a transient threat: the region empties of accessible prey, the Titan moves
+on. Frontier villages near a Titan's drift line are buried periodically until
+the Titan passes through and onward.
+
+== Genetic bottleneck ==
+
+Most Titans died in the Demon War. Not all did, but the survivors were too few
+and too narrowly drawn to preserve the breeding diversity of the pre-war
+population. The pure-Titan stock that exists today -- both feral and
+Gray-Matriarchy -- is the descendant of that bottleneck. It has never
+recovered. The species is in slow-motion decline: devolution pressure drains
+individuals into the Giant lineage and onward to Goliath, while the surviving
+pure-Titan base cannot replenish itself through natural variation alone.
+
+== Civilized Titans in the Gray Matriarchy ==
+
+The exiled Tarran of the Gray Matriarchy DID keep Titan lineages with them
+after the Great Banishment. They maintain a small, stable breeding population
+of civilized Titans in their exile.
+
+This population has itself lost most of its genetic diversity in the centuries
+since the Banishment. The Gray Matriarchy sustains the population through
+careful stewardship rather than natural variation.
+
+The Gray Matriarchy USES these civilized Titans as instruments of terror
+against their own commoners. Paraded through villages. Deployed against
+rebellious districts. Held as a standing reminder to commoners of what the
+Tarran can still field. This is one of the defining political facts of
+Gray Matriarchy rule -- the exiled Tarran did not become kinder after their
+exile; they doubled down on instruments of dominance.
+
+== Sapience baseline and developmental disabilities ==
+
+ALL Titans (civilized or feral) have fully sapient brains. Cognition is
+fundamentally that of a person: a Titan can be as quick or as dull as any
+human or any other sapient mind. There is no inherent cognitive limitation
+to the species.
+
+The complication is that a Titan child's nutritional needs are extreme. The
+calorie demand of a ten-meter child outstrips what most civilizations can
+sustain consistently -- even Tarran civilization at its height could not
+always feed Titan children sufficiently. Even attentive lineages produce
+adults whose minds are limited by what they did not eat as children.
+
+Consequence: developmental disabilities are common among Titans of every
+era. A fully-developed, fully-sapient adult Titan is rare and precious -- the
+survivor of a lineage whose stewards managed to keep its young properly fed
+all the way through growth.
+
+The Gray Matriarchy's small stable breeding population is, among other things,
+a deliberate practice of producing and protecting these uncommon individuals.
+
+For feral Titans the picture is worse: chronic childhood under-feeding is
+nearly universal among the wild population, meaning that even by feral-Titan
+standards a cognitively-intact adult is uncommon. Most feral Titans are
+sapient but developmentally damaged.
+
+== Still-open canon questions (filed to open-questions.md) ==
+
+- Did civilized Titans have their own language, or did they speak Tarran?
+- Did Titans participate in the final unified charge of the Three Who Stood
+  at the Battle of the Broken Conclaves, or did they fight elsewhere in the
+  same battle?

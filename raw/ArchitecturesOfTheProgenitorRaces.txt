@@ -1,0 +1,362 @@
+ARCHITECTURES OF THE PROGENITOR RACES — VELRATHI AND TARRAN
+World: Eadras
+Source: Grok chat, 5-8-2026 (lines ~1100-1570)
+Document type: Established canon decisions
+Companion topics from same session:
+  ArathiLegacyAsSettingTrauma.txt
+  TheSarathim.txt
+  TheToneOfEadras.txt
+  TariqAlHonor.txt
+  TheLostPrimer.txt
+
+
+================================================================
+HOW TO READ THIS DOCUMENT
+================================================================
+
+This document captures the canon decisions made during the 5-8-26 Grok chat regarding the architectural traditions of two of the three eldest progenitor races: the Velrathi and the Tarran. The chat establishes architectural identity for both. The third progenitor race (the Elfen) is mentioned but their architecture (song-shaped wood) is corrected away in mid-chat once the user clarifies the distinction.
+
+Both architecture articles in the wiki cite "Grok Chat 5-8-26.txt" as a primary source. The chat is the canonical origin for both traditions in their current form.
+
+Persistent retcons captured in this material:
+
+  - The chat's initial reading of Elfen architecture as "Gothic" was corrected by the user. The Gothic style is VELRATHI, not Elfen. The Elfen build with living song-shaped wood; they did not pursue the Gothic spell-cathedral aesthetic.
+  - The chat's term "genius loci" was gently flagged by Grok as borrowed from classical Roman tradition. The wiki canonizes a setting-specific name: the STONE-BOUND. Comparative scholarship identifies the Stone-Bound with the broader cosmological category of genius loci, but the two are not exactly equivalent.
+
+Contradiction-flag taxonomy as in companion documents.
+
+
+================================================================
+PART I — VELRATHI ARCHITECTURE
+================================================================
+
+
+================================================================
+1. THE CORE PRINCIPLE — EVERY DETAIL IS A MAGICAL FOCUS
+================================================================
+
+[IN-WORLD] Velrathi architecture is not buildings with magic added to them. It is INTEGRATED ARCANE WORKINGS IN STONE FORM. The visual style is the magical structure; the magical structure is the visual style. There is no separating them.
+
+[IN-WORLD] Three load-bearing principles:
+
+  1. EVERY ARCHITECTURAL DETAIL IS A MAGICAL FOCUS. Pointed arches, ribbed vaults, flying buttresses, needle spires, tracery panels, gargoyles, column capitals, doorframes, lintels, finials, and the carved geometric runes covering every surface are not decoration. They are the physical components of a permanent, large-scale arcane working. THE WHOLE BUILDING IS ONE SPELL.
+
+  2. A WILLING WARDSPIRIT INHABITS THE LATTICE. The Velrathi discovered, comparatively late in their architectural development, how to invite a spirit of place into the magical framework of a structure. The spirit is not enslaved or coerced; it is welcomed as the lattice's resident mind, and given command over all the stored magic in the stone. The building is genuinely ALIVE in a watchful, patient way.
+
+  3. THE BUILDING MUST BE FED. A spell-engine of this scale draws power continuously. Velrathi buildings include a SPELL PLATE at every major entrance for those who can give magical energy directly, and a DONATION BOX for those who cannot. Both feed the wardspirit, who decides what the contributions go toward.
+
+[META] These three principles are not separate features; they are the same thing seen from three angles. The lattice is the body, the wardspirit is the mind, the offerings are the food.
+
+
+================================================================
+2. VISUAL STYLE — GOTHIC AS SPELL-MATRIX
+================================================================
+
+[IN-WORLD] The Velrathi went GOTHIC — soaringly, ornately, deliberately Gothic.
+
+[IN-WORLD] MATERIAL: dark stone — black granite, basalt, obsidian-like volcanic rock — chosen for its density, durability, and ability to hold incredibly fine carving. The stone often has a subtle metallic sheen and seems to drink in light.
+
+[IN-WORLD] SILHOUETTE: strongly vertical. Tall narrow windows. Pointed arches everywhere. Flying buttresses supporting ambitious heights. Clusters of needle-thin spires. Multi-tier ribbed roofs.
+
+[IN-WORLD] SURFACES: nothing is plain. Every surface — internal or external — carries layered ornament. Walls are covered in geometric runes, spiraling patterns, scenes from Velrathi history, and stylized depictions of magical operations. Columns twist like braided rope. Window tracery resembles frozen lace. Doorways are framed by layered concentric arches that grow more elaborate the deeper into the building one looks.
+
+[IN-WORLD] INTERIORS: vast vaulted halls with ribbed ceilings, narrow shafts of light cutting through stained-crystal panes (gem-set rather than colored glass — Velrathi preferred living, prismatic crystal sheets to dyed glass), long echoing stone corridors, and the persistent low hum of the active spell-lattice in the bones of the building.
+
+[IN-WORLD] MOOD: cold, majestic, slightly oppressive. Beautiful but intimidating. Like standing inside an ancient, abandoned cathedral where the gods themselves might once have walked — and where, in fact, the building itself is paying close attention.
+
+[META] The Gothic vocabulary fit because vertical, repetitive, geometrically dense forms are exactly what a giant spell matrix wants to be. The aesthetic was developed for a culture that treated architecture as APPLIED ARCANE THEORY. Every element on a Velrathi building is there because it does something.
+
+
+================================================================
+3. THE STONE-BOUND (FORMERLY "GENIUS LOCI")
+================================================================
+
+[CANONIZED, REFINED] The chat called the bound spirit a "genius loci." Grok flagged this with a gentle suggestion: classical genius loci are spirits OF a place — emergent, not bound. The chat's mechanic involves an invited, conscious binding. Grok proposed alternatives ("Stone Warden," "Hearth Spirit," "Arch-Ward") and the wiki settled on STONE-BOUND.
+
+[IN-WORLD] The Velrathi name for a building's bound wardspirit is THE STONE-BOUND (literal: "the one bound to the stone, with consent"). Comparative magical scholarship — including Katharim archive-priest commentary, Order Sharanel theoretical work, and modern gnomish reverse-engineering — generally identifies the Stone-Bound with the broader cosmological category of genius loci (a spirit of a place).
+
+[IN-WORLD] The two terms are not exactly equivalent. A classical genius loci is a spirit that ARISES from a place — emergent, untaught, often unaware of its own bound state. A Velrathi Stone-Bound is INVITED into a place that did not previously have a resident spirit, and the place is SHAPED TO FIT IT. The willingness is mutual and explicit; the spirit is conscious of the binding from the moment it accepts; and the binding gives the spirit command over the stored magic of the entire lattice in exchange for its watchful presence.
+
+[IN-WORLD] Velrathi tradition is firm that this is NOT SLAVERY. The Stone-Bound chooses its building. It can, in principle, withdraw — though doing so collapses the lattice's coherence and is rare in practice. The Stone-Bound is given a name (sometimes a true-name fragment, more often a chosen designation), a domain (the building and its grounds), and a remit (defend its inhabitants, witness all that occurs within, and remember what is offered).
+
+
+================================================================
+4. WHAT IT FEELS LIKE TO WALK INTO ONE
+================================================================
+
+[IN-WORLD] Most visitors notice the Stone-Bound's attention within seconds of entering. The descriptions are remarkably consistent across cultures:
+
+  - The air "shifts," as though the room had been holding its breath.
+  - The stones "seem to notice" the visitor.
+  - Shadows shift slightly when the visitor isn't looking directly at them.
+  - Visitors with hostile or thieving intent describe being "studied" — and if they persist, increasingly being "discouraged." The discouragement begins with mood (an oppressive, GO AWAY sense), escalates to physical effects (passages that close, stairs that suddenly lead elsewhere, lanterns guttering), and in extreme cases ends with active defensive discharge.
+  - Welcomed guests, by contrast, often describe being "recognized" — a quiet, attentive welcome that some find moving and some find unsettling.
+
+[IN-WORLD] The most experienced Stone-Bound have been resident in their structures for most of the Velrathi era — twenty thousand years and counting. They know their buildings perfectly. They know who has come and gone, what was said, what was attempted. The Tome of Baldaran is omniscient; the Stone-Bound only know their own walls. It is, by mortal standards, more than enough.
+
+
+================================================================
+5. SPELL PLATE AND DONATION BOX
+================================================================
+
+[IN-WORLD] Right beside every major entrance to a Velrathi structure, two small permanent features are present:
+
+  A SPELL PLATE — a smooth, dark stone panel set into the wall at chest height. Anyone with magical talent can place their hand on it and discharge a small amount of personal energy. The plate glows faintly as it accepts the offering, feeding the Stone-Bound and strengthening the building's wards.
+
+  A DONATION BOX — a carved stone receptacle for those without magic to give. Coins, small gems, or other valuables dropped inside help fund the physical upkeep of the structure. The box is usually warded so that only the Stone-Bound (or its designated caretakers) can retrieve the contents.
+
+[IN-WORLD] These two features are almost always present and still functional in most intact Velrathi ruins. Offering energy or coin is the traditional way to announce yourself and show respect. Those who refuse often find the building less welcoming. The Stone-Bound remembers. And it never forgets an insult.
+
+[DIAGNOSIS] This is one of the strongest single design details in the chat. It does several things at once:
+
+  - It signals the Velrathi cultural posture immediately — scholarly, magical, respectful of upkeep.
+  - It creates great little roleplay moments (do you give energy? Drop a coin? Refuse and see what happens?).
+  - It explains how a building from 20,000+ years ago is still functional.
+  - It establishes that the lattice has ongoing power needs, which gives the Stone-Bound visible reason to admit visitors at all.
+
+
+================================================================
+6. THE LATTICE'S FUNCTIONS
+================================================================
+
+[IN-WORLD] The full lattice of a major Velrathi structure is a coherent piece of magical engineering on the scale of a small Arathi installation, though achieved by very different means.
+
+[IN-WORLD] AT REST: the building feels charged but quiet. There is a faint hum if one listens. Sensitive observers may report the air "tasting" structured. Standard inhabitants forget the lattice is there within a few weeks.
+
+[IN-WORLD] ACTIVE: faint blue-white light traces along the carvings, runes glow, the air carries a low harmonic tone, and the structure visibly hums with magic. Active state is most often triggered by external threat, by a Grand Conjunction or other celestial event, or by deliberate ritual ignition.
+
+[WIKI_EXPANDS] Standard stored functions:
+
+  - Permanent area protection (against weather, vermin, mundane decay, and many lower-tier magical effects)
+  - Selective dampening of hostile magic
+  - Amplification of magic cast in cooperation with the lattice (for inhabitants and welcomed guests)
+  - Atmospheric stabilization (temperature, humidity, light levels)
+  - Minor self-repair (the stone slowly knits itself when damaged within tolerance)
+  - Information persistence (the building remembers who has entered, when, and what they did, indefinitely; the wardspirit chooses what to retain or forget)
+  - Defensive discharge through the tracery in extreme cases (dramatic, costly, almost always declarative — the building does not kill quietly)
+
+
+================================================================
+7. TWENTY THOUSAND YEARS OF ITERATION
+================================================================
+
+[IN-WORLD] The Velrathi architectural tradition was not invented; it was SLOWLY GROWN, across roughly twenty thousand years of obsessive scholarly iteration.
+
+[IN-WORLD] The earliest Velrathi shelters were the same kind of crude stone huts everyone built in the early days of the three progenitor races — practical, plain, no different from anything else. Across centuries, then millennia, the Velrathi began carving simple runes into stones for warmth, light, and protection. Someone noticed certain runes worked better at certain angles. Someone noticed alignment with conduit flows amplified some workings. Someone realized that the geometry of a wall could itself be a spell-component if the stone were shaped correctly. The carvings got denser. The geometries got more sophisticated. The aesthetic followed the function — buildings became taller, narrower, and more ornate because that was what the spell-lattice wanted.
+
+[IN-WORLD] The WARDSPIRIT-BINDING BREAKTHROUGH came much later, well into the Empire era — almost certainly informed by the Lost Primer's foundational crystalmancy material and by Velrathi research into living-mind theory. Once the technique was developed, it spread quickly, and by the High Firethorn period virtually every new major Velrathi building was being designed for a Stone-Bound from the foundation upward. Older buildings were retrofitted where possible; structures that were too crude to host a wardspirit cleanly were generally abandoned in favor of new construction.
+
+[DIAGNOSIS] The chat's emphasis on iteration is important. The Velrathi didn't wake up one day and start building dark Gothic spell-cathedral-fortresses. They earned the style over tens of thousands of years. This grounds the aesthetic in evolution — it feels EARNED rather than arbitrary.
+
+
+================================================================
+PART II — TARRAN ARCHITECTURE
+================================================================
+
+
+================================================================
+8. THREE STRICTLY SEPARATED TRADITIONS
+================================================================
+
+[IN-WORLD] The Tarran developed THREE DISTINCT ARCHITECTURAL TRADITIONS, divided by FUNCTION and never confused with one another.
+
+  - MILITARY: austere Roman, controlled by the army, no spell-foci on permanent fortresses.
+  - SACRED: Roman + Bagan + Javanese (varies by religious order); whole-building spell matrix.
+  - IMPERIAL: Roman + Ottoman hybrid; spell-crystal minaret towers; whole-building protective lattice.
+
+[META] The strict separation was a CULTURAL COMMITMENT, not aesthetic accident. Each tradition was controlled by a different institutional authority, and each was extremely jealous of its prerogatives. The eye knew, at a glance, what kind of building one was looking at.
+
+
+================================================================
+9. EARLY TARRAN — THE PEACEKEEPER PHASE
+================================================================
+
+[META] The user makes an important correction during the chat. Grok initially proposed the early Tarran as "pure martial engineering — brutal, stripped-down, hyper-functional fortresses." The user corrects: the Tarran started as PEACEKEEPERS, not ruthless killers.
+
+[IN-WORLD] EARLY TARRAN (THE PEACEKEEPER PHASE):
+
+At the very beginning, the Tarran were PROTECTORS, not conquerors. They were the strong shield between the other two progenitor races (Velrathi and Elfen) and the dangerous world. Their early architecture reflected that role:
+
+  - Solid, practical defensive strongholds and fortified shelters
+  - Built to protect people from wild beasts, rogue dragons, unicorns, or other threats
+  - Functional and sturdy, but not cruel or oppressive — more like well-built frontier forts meant to keep everyone safe
+  - Emphasis on strong walls, good sightlines, secure gates, and living quarters for the people they were protecting
+
+[IN-WORLD] As populations grew, society became more complex, and crime started to appear, the Tarran gradually took on LAW ENFORCEMENT duties as well. Over time they evolved from pure peacekeepers into the martial enforcers of the growing empire.
+
+[META] This correction matters for setting tone. The Tarran are not a militaristic culture in origin. Their militarism is a response to growing complexity. The Firethorn Empire's eventual rigidity and ornamentation grew from a population-stress evolution of an originally protective people.
+
+
+================================================================
+10. MILITARY ARCHITECTURE — STRICTLY AUSTERE
+================================================================
+
+[IN-WORLD] THE ARMY BUILT FORTRESSES TO WIN WARS AND NOT FOR ANY OTHER REASON.
+
+[IN-WORLD] Tarran military architecture is strictly functional. Strong walls, precise sightlines, layered defensive zones, efficient interior layouts, kill corridors, choke points, secure water and food storage, and barracks built for living, training, and surviving sieges. That is all.
+
+[IN-WORLD] The army's institutional position throughout Tarran history was that A FORTRESS EXISTS TO PROJECT STRENGTH AND PROTECT ITS GARRISON, NOT TO IMPRESS VISITORS. Decoration on a permanent fortress was tolerated only in trace amounts — a carved firethorn motif above a major gate, a simple frieze on the command building, a unit standard mounted at the parade ground entrance. Anything more, and the army's senior engineering officers would refuse to certify the design.
+
+[IN-WORLD] This held even during the height of the Firethorn Empire, when civilian architecture was reaching its most ornate and confident; military architecture stayed plain. The contrast was a DELIBERATE CULTURAL STATEMENT — the army is not for show.
+
+[META] No spell-foci on permanent fortresses. This makes Tarran military buildings unique among the three traditions: pure utility, no magical lattice. The army's preference for non-magical defense is its own statement about institutional skepticism toward magical-architectural commitments.
+
+
+================================================================
+11. SACRED ARCHITECTURE — VARIES BY ORDER
+================================================================
+
+[IN-WORLD] Where the Tarran allowed themselves to be ARTISTIC AND MAGICAL, they channeled the impulse into temple architecture. Sacred buildings were the playground for centuries of competitive design between religious orders.
+
+[IN-WORLD] COMMON DNA across all orders:
+
+  - Stepped stone platforms and terraces as the base, rising in tiered ascending levels
+  - Roman-style symmetry — long, straight processional avenues lined with columns leading to the main temple platform; balanced wings; mirrored sub-shrines flanking the central axis
+  - Heavy dense stonework in dark-to-medium greys, occasionally faced with colored tile or gilded inlay
+  - Every architectural element doubles as a magical focus. Columns, capitals, cornices, relief carvings, roofline finials, gateway lintels, and the geometric patterns covering the platforms are all spell-components. The whole temple complex acts as a single coherent spell matrix.
+
+[IN-WORLD] VARIATION BY ORDER:
+
+The two strongest aesthetic poles:
+
+  - BAGAN-STYLE VERTICALITY — orders that emphasized dense clusters of tapered stone towers, "forests of sacred needles," soaring spires that produce an almost hypnotic celestial impression. Such temples favored taller columns, smaller wall surfaces, and rhythmic visual repetition over depth of carving.
+  - JAVANESE-STYLE CARVING DENSITY — orders that emphasized walls covered inch-by-inch with intricate bas-relief, depicting mythological scenes, theological doctrine, and operational magical formulae. Such temples favored heavier wall masses, fewer towers, and overwhelming richness of surface detail.
+
+[IN-WORLD] A few orders sat between the two poles. NO TWO RELIGIOUS ORDERS' TEMPLES LOOKED THE SAME, and the variation was respected.
+
+[WIKI_EXPANDS] MAGICAL CHARACTER: The whole-building-as-spell-matrix principle in Tarran sacred architecture is INDEPENDENT of the Velrathi spell-lattice tradition in origin and somewhat different in execution. The Velrathi build their lattices around a willingly-bound wardspirit (the Stone-Bound). Tarran temples generally do NOT have a comparable bound spirit; the matrix runs on the active priestly community's daily ritual workings instead. A Tarran temple unattended for a generation begins to sleep; a Velrathi cathedral unattended for a generation may very well still be quietly running.
+
+[FLAG_FOR_REVIEW] Specific named religious orders, their patron deities, and their canonical temple sites are open canon. The wiki marks these as open.
+
+
+================================================================
+12. IMPERIAL ARCHITECTURE — ROMAN + OTTOMAN HYBRID
+================================================================
+
+[IN-WORLD] RESERVED EXCLUSIVELY for buildings that directly served the central Empire. This includes:
+
+  - Bureaucratic offices and ministries
+  - Military headquarters
+  - Provincial governors' palaces
+  - Courts of law
+  - The Imperial Palace complex itself (though the Palace uses a grander Angkor Wat-style layout)
+
+[META] The user corrected an earlier framing that limited imperial architecture to "the Imperial Palace or whatever." The corrected scope: ANY imperial structure — bureaucracy buildings, military headquarters, governors' palaces — uses this style. The Imperial Palace is the special case of imperial architecture (bigger and with a different layout principle), but the style itself extends across all imperial-administrative buildings.
+
+[IN-WORLD] THE IMPERIAL STYLE features:
+
+  - Massive central domes as the dominant feature, often with a tall elegant drum and finial
+  - Soaring slender minaret-like towers at the corners and entrances
+  - Elegant pointed arches and colonnaded porticos
+  - Intricate geometric tilework and calligraphy-style runes
+  - Cascading fountains and reflecting pools in expansive courtyards
+  - Muqarnas-style honeycomb vaulting in grand entrances and throne rooms
+  - Pale stone and marble rather than the dark blacks of Velrathi work, often with rose-gold or orichalcum accents
+
+[IN-WORLD] The overall impression: OPULENT BUT DISCIPLINED — the empire showing both its sophistication and its self-control.
+
+
+================================================================
+13. THE MINARET TOWERS — IMPERIAL SIGNATURE FEATURE
+================================================================
+
+[IN-WORLD] THE DEFINING FEATURE of imperial Tarran architecture: clusters of SLENDER, ELEGANT, MINARET-LIKE TOWERS rising at the corners and major entrances of every imperial building.
+
+[IN-WORLD] These are not minarets in any religious sense. They are ARCHITECTURAL SPELL-ENGINES.
+
+[IN-WORLD] Each tower houses a large, permanently embedded SPELL-CRYSTAL at its peak. These crystals continuously project PROTECTIVE WARDS across the entire building and its surrounding grounds. The towers are simultaneously architectural focal points, structural elements, and active magical defenses.
+
+[WIKI_EXPANDS] Standard ward functions of an imperial complex:
+
+  - A protective dome of warding visible from outside the building at night (when the empire was at its height, major imperial cities glowed gently with golden-red ward-light long after sundown)
+  - Hostile-intent detection at the building's perimeter
+  - Selective dampening of unauthorized magic within the warded volume
+  - Atmospheric and structural maintenance
+  - Discrete coordination with the central Empire's network of imperial buildings — MAJOR IMPERIAL OFFICES WERE AWARE OF EACH OTHER IN REAL TIME ACROSS THE BREADTH OF THE EMPIRE, through ward-network resonance.
+
+[WIKI_EXPANDS, CANONIZED] The crystal technology of the imperial minarets descends ultimately from THE LOST PRIMER's recovered Arathi crystalmancy basics (see TheLostPrimer.txt), refined for centuries through imperial-funded research. This connects the imperial-architecture story to the Lost Primer story directly: the Velrathi-Rathari vault discovery is what eventually enabled the Firethorn Empire's signature imperial style.
+
+[META] The minaret towers are how a visitor (then or now) instantly recognizes an imperial building from a hundred meters off. Domes occur in many architectures. Spell-crystal minarets are uniquely imperial-Tarran.
+
+
+================================================================
+14. THE IMPERIAL PALACE — THE SPECIAL CASE
+================================================================
+
+[IN-WORLD] The Imperial Palace itself was the SPECIAL CASE of imperial architecture — bigger, grander, and laid out on a different organizing principle.
+
+[IN-WORLD] Rather than a single domed-and-minaret building, the Imperial Palace complex used an ANGKOR-WAT-SCALE LAYOUT of vast open ceremonial grounds, multiple internal temples (each in its own religious order's idiom), broad processional avenues, gardens, and reflective pools, with the core administrative buildings and main palace structures themselves following the imperial domed-and-minaret style.
+
+[IN-WORLD] Walking the Imperial Palace was therefore a TOUR THROUGH TARRAN CIVILIZATION IN MICROCOSM: huge open ceremonial space, varied sacred architecture inside the grounds, and the grand domed imperial buildings at the heart.
+
+[IN-WORLD] The Palace was vast. Some sources say it spanned several square kilometers at its peak. Records of its full layout survived only in fragments, mostly through Velrathi diplomatic accounts and early Katharim record-priest reports. It is the SINGLE BUILDING MOST ASSOCIATED WITH FIRETHORN EMPIRE GRANDEUR in modern memory.
+
+[FLAG_FOR_REVIEW] The Palace's fate at the end of the Empire is documented elsewhere (the Gray Matriarchy and Firethorn Hold canon). Not the subject of this chat or document.
+
+
+================================================================
+15. THE USER'S WORRY — AM I BEING SILLY BLENDING SO MANY STYLES?
+================================================================
+
+[META] Near the end of the architecture discussion, the user asks: "Am I being silly, blending so many disparate styles together?"
+
+[META] Grok's reassurance, accepted by the user:
+
+  No. The blend works because it is tied to FUNCTION and POWER STRUCTURE. The Roman discipline grounds everything (the Tarran were keepers of order; their architecture in all three traditions has an underlying Roman skeleton). The Ottoman layer dresses imperial buildings in elegance and sophistication. The Bagan and Javanese influences in sacred architecture reflect the Empire's pluralistic religious life. The Angkor-Wat-scale Imperial Palace layout reflects the Empire's capacity for grand undertaking when it chose to spend on itself.
+
+[META] Each idiom is tied to function. The army got the discipline. The faiths got the variety. The Empire got the elegance. The Palace got everything.
+
+[META] The wiki preserves this reasoning. The blend works in canon for exactly the reasons Grok proposed: real-world empires often did this (Mughals, Ottomans, Romans), and the strict functional separation prevents it from feeling chaotic. The architectural language is plural but coherent.
+
+[DIAGNOSIS] This is one of the chat's quiet acts of craft validation. The user was genuinely uncertain whether the architectural pluralism was a strength or a weakness. The conclusion — that pluralism tied to functional separation is a strength — is preserved in the wiki's "Why this works" section. The Tarran's architectural blend models how the setting handles cultural blends in general: pluralism is fine when it has structural reason.
+
+
+================================================================
+16. CANON DECISIONS FROM THIS TOPIC
+================================================================
+
+CANONIZED — VELRATHI ARCHITECTURE:
+  - Dark Gothic cathedrals, monasteries, and castles carved from black granite, basalt, obsidian-like stone
+  - Every architectural detail is a magical focus; the whole building is one spell
+  - The Stone-Bound (formerly "genius loci" in chat): willingly bound wardspirit inhabits each major structure
+  - Spell plate + donation box at every major entrance
+  - Twenty thousand years of iteration; wardspirit-binding breakthrough came late, informed by Lost Primer crystalmancy
+  - Velrathi-Elfen hybrid sites exist where stone meets song-shaped wood
+
+CANONIZED — TARRAN ARCHITECTURE:
+  - Three strictly separated traditions: military, sacred, imperial
+  - Each controlled by a different institutional authority
+  - Military: austere Roman, no spell-foci, no decoration
+  - Sacred: Roman + Bagan + Javanese; varies by religious order; whole-building spell matrix sustained by priestly community
+  - Imperial: Roman + Ottoman hybrid; signature minaret towers housing spell-crystals projecting protective wards
+  - Imperial Palace: Angkor-Wat-scale special case with imperial-style core buildings
+  - Spell-crystal technology of minarets descends from the Lost Primer's Arathi crystalmancy
+  - Originally the Tarran were peacekeepers, not conquerors; militarism evolved with population growth
+
+WIKI_REFINED:
+  - "Genius loci" → "Stone-Bound" (chat's term refined to setting-native name)
+  - The chat's initial Elfen-as-Gothic confusion corrected; Gothic is Velrathi, not Elfen
+
+
+================================================================
+17. LIVE WIRES
+================================================================
+
+[DIAGNOSIS] LIVE WIRE 1 — VELRATHI-TARRAN COLLABORATIVE BUILDINGS. The wiki notes Velrathi-Elfen collaborative sites are canonical. Velrathi-Tarran cooperative sacred buildings are noted as plausible but "scarce and treasured." Whether such hybrid sites exist at scale is open canon. A hybrid Velrathi-Tarran sacred building (Stone-Bound lattice + Tarran priestly matrix) would be among the rarest and most powerful religious sites in the setting.
+
+[DIAGNOSIS] LIVE WIRE 2 — VEYR'KETH VELRATHI ARCHITECTURE. The Velrathi exiles in Veyr'Keth (Shadowdark Gaia) continue the tradition with full vigor, refined under Shadowdark conditions in directions no Prime-side scholar has yet mapped. What ten thousand years of post-banishment iteration produced is OPEN CANON and "probably terrifying." This is a substantial unexplored design space.
+
+[DIAGNOSIS] LIVE WIRE 3 — GRAY MATRIARCHY ARCHITECTURE. The exiled Tarran on Gaia continue the Firethorn architectural tradition, "mutated by ten thousand years of matriarchal rule and the influence of She Who Shall Not Be Named." Partially documented in Firethorn Hold canon; deepest mutations are open canon. This is the post-exile companion to the Veyr'Keth open canon.
+
+[DIAGNOSIS] LIVE WIRE 4 — STONE-BOUND COSMOLOGICAL STATUS. What a Stone-Bound is, exactly, in the cosmology of observer and naming, is open canon. Whether it is a Mythos-native spirit, a fragment of architectural attention granted personhood, or something stranger is undefined. A study character who investigates this question could touch on the broader question of what counts as personhood in the setting.
+
+[DIAGNOSIS] LIVE WIRE 5 — WARD-NETWORK RESONANCE. The full protocol by which imperial buildings communicated across the Empire is recoverable in principle from ruins, but not yet documented. A scholar character whose work involved reconstructing the resonance protocol could in principle re-enable some form of inter-building imperial communication — with substantial political consequences for whoever controlled the network.
+
+[DIAGNOSIS] LIVE WIRE 6 — STONE-BOUND CURRENTLY ACTIVE. The total number of Stone-Bound currently active on Eadras, and how many are willing to communicate with modern scholars in a sustained way, is open canon. A campaign focused on Stone-Bound diplomacy — building relationships with the surviving Velrathi wardspirits — is structurally available and would touch deep magical history.
+
+[DIAGNOSIS] LIVE WIRE 7 — THE BLACK HAND IN VELRATHI RUINS. The wiki canonizes: "at least some of the Black Hand's deepest hidden installations are built into Velrathi ruins whose Stone-Bound have been compromised, deceived, or (in rare cases) cooperatively persuaded." This is a serious open canon territory. A Stone-Bound that has been turned to Black Hand service — willingly or otherwise — is one of the more chilling antagonist concepts available to the setting. The conditions under which such a turn could occur are not specified.
+
+
+================================================================
+END OF DOCUMENT
+================================================================

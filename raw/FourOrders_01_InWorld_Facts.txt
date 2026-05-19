@@ -1,0 +1,208 @@
+THE FOUR ORDERS OF MAGIC — IN-WORLD FACTS
+World: Eadras
+Source: Grok chat session, 2026-05-09
+Document type: In-world reference (the four magical traditions of Eadras, derived from the naming cosmology, plus the Druid sub-order)
+Companion documents: "The Four Orders of Magic — Meta-Commentary" and "The Four Orders of Magic — Principles and Diagnosis"
+
+
+================================================================
+1. THE FOUR ORDERS
+================================================================
+
+[IN-WORLD] The magical practitioners of Eadras are organized into four major orders. Each order corresponds to a different relationship to the language hierarchy established by the naming cosmology (see "Cosmology of Naming & Observation").
+
+The four orders are:
+
+1. WIZARDS — Practitioners of the Arcane Language.
+2. PRIESTS — Intermediaries who call upon gods to wield the Divine Language.
+3. LEXANARI (THE NAME-BOUND) — Rare practitioners of the Primordial Language.
+4. NETHARIM (THE "LITTLE GODS") — Intuitive reality shapers who bypass spoken language entirely.
+
+Each order is a distinct discipline, with its own training requirements, risks, and place in the world.
+
+
+================================================================
+2. WIZARDS
+================================================================
+
+[IN-WORLD] Wizards study and wield the Arcane Language — the most refined form of language mortals can fully command. The Arcane Language is closer to the True Language than ordinary mortal speech, but significantly below the Divine and Primordial tongues.
+
+Wizardry is:
+- Intellectual.
+- Learned.
+- Rule-based.
+- Built on precise formulas and incantations.
+
+A wizard's power comes from study and from accurate recitation. Wizards are the most accessible of the four orders — anyone with sufficient intellectual capacity and access to training can become one. They form the largest of the four orders.
+
+
+================================================================
+3. PRIESTS
+================================================================
+
+[IN-WORLD] Priests do not wield magic directly. They call upon their gods through prayer, and the gods use the Divine Language to act on the priest's behalf.
+
+A priest is essentially asking a being who knows a better version of the True Language to intervene in mortal affairs. The priest is the channel, not the source. The god is the actual practitioner.
+
+Divine magic is therefore mediated rather than direct. Its power and limits are set by the god, not the priest. A priest's effectiveness depends on:
+- The priest's relationship with their deity.
+- The deity's willingness to act.
+- The compatibility of the request with the deity's nature and concerns.
+
+
+================================================================
+4. LEXANARI — THE NAME-BOUND
+================================================================
+
+[IN-WORLD] The Lexanari are an incredibly rare order who wield the Primordial Language — the tongue of the creator deities, one tier below the True Language itself.
+
+KEY MECHANICS:
+
+- One must be BORN with the innate ability to speak the Primordial Language. It cannot be learned. Without the gift, no amount of study or training will allow a mortal to speak it.
+
+- Even among those born with the gift, very few survive their training. Most are destroyed during the process of learning to use the language safely.
+
+- A Lexanari must consciously CHOOSE to speak the Primordial Language to work magic. They are not in danger from normal speech. Their everyday conversation is safe. The danger arises only when they invoke the language deliberately.
+
+- When invoking the Primordial Language, they must speak with perfect pronunciation, tone, and intent. Any flaw is dangerous.
+
+
+================================================================
+5. THE LEXANARI PRECISION PROBLEM
+================================================================
+
+[IN-WORLD] The fundamental limitation of mortal Lexanari is that MORTAL MINDS CANNOT HOLD THE FULL COMPLEXITY OF REALITY at the same instant the way a deific mind can.
+
+A god using the Primordial Language can simply think "create a plate of food" and receive exactly what it imagined, in full specificity, because a divine mind holds the entire concept simultaneously. A mortal Lexanari speaking the same vague phrase has no such capacity.
+
+Vague commands are therefore extremely dangerous. If a Lexanari says "I want a plate of food," the Primordial Language has no way to determine what plate, what food, where, when, and from where. The result might be:
+- A moldy plate of food.
+- A plate of food stolen from a nearby inn and teleported to the speaker.
+- Far worse outcomes, including the food being assembled from inappropriate materials.
+
+The more precise and detailed the command, the more likely the desired outcome.
+
+A correct invocation might sound like:
+"I want to create a brand new plate of hot, steaming, fresh stew, just out of the kettle over a fire, with fresh good ingredients [continuing with further specifications], appearing right here in my hands, produced immediately after I finish speaking."
+
+Even this level of specificity is the bare minimum. The more the Lexanari can hold in mind at once, the better.
+
+
+================================================================
+6. WHY LEXANARI ARE SO RARE
+================================================================
+
+[IN-WORLD] The Lexanari are one of the smallest and most feared magical orders in the world. Their rarity has several layers:
+
+- The gift is innate. It cannot be cultivated.
+- Born Lexanari are uncommon.
+- Among those born with the gift, most die during training. The mortality rate is extreme.
+- Those who survive are deeply scarred by the discipline required to survive.
+
+The combination of innate gift, lethal training, and survivors-only practice means that the entire Lexanari order at any given time consists of a tiny number of individuals worldwide. They are simultaneously the most powerful mortal magical tradition and the most fragile.
+
+
+================================================================
+7. NETHARIM — THE "LITTLE GODS"
+================================================================
+
+[IN-WORLD] The Netharim, often referred to as "Little Gods," are intuitive reality shapers who do NOT speak any of the magical languages.
+
+Their magic works through a fundamentally different mechanism than the other three orders. Rather than invoking language, the Netharim impose their personal UNDERSTANDING OF REALITY directly onto the world.
+
+The clearer and more coherent their internal model of how reality functions, the more powerful and precise their magic becomes. A Netharim with a deep grasp of physics can manipulate fire differently than a Netharim who only knows the concept of "heat." The mechanism is intuitive, not formulaic, but the depth of insight required to make it work is significant.
+
+
+================================================================
+8. HOW NETHARIM ACTUALLY WORK
+================================================================
+
+[IN-WORLD] A Netharim does not "cast spells" in the formulaic sense. They produce EFFECTS based on their understanding of how those effects would naturally occur.
+
+Example — starting a fire:
+
+- A Netharim with only basic understanding might simply IMAGINE a spark forming over dry leaves, and one would appear.
+
+- A Netharim who understands physics deeply might do something more elegant: have all the light in the area dim slightly until the dry leaves spontaneously combust, because all the pulled light has been combined into an intense point of combustion. Or have the air cool slightly while all the extracted heat combines into a point of combustion.
+
+The same effect (fire), achieved through different mechanisms, all shaped by the Netharim's personal model of how reality works. A physicist Netharim, a poet Netharim, and a hunter Netharim would all start a fire in observably different ways.
+
+
+================================================================
+9. WHY NETHARIM STUDY FOR LIFE
+================================================================
+
+[IN-WORLD] Although Netharim magic is intuitive, it is not easy. The strength and accuracy of a Netharim's effects depend on the depth and coherence of their internal model of reality.
+
+For this reason, most Netharim spend most of their lives in deep study of:
+- Philosophy
+- Physics
+- Metaphysics
+- Natural laws
+- Direct observation of reality
+
+The clearer the Netharim's mental model, the more powerful and precise their magic. A Netharim with a sloppy or contradictory understanding of reality produces unreliable, vague effects.
+
+This makes Netharim training fundamentally scholarly even though the magic itself is not formulaic. They are scholars who have made reality itself the object of their scholarship.
+
+
+================================================================
+10. THE NETHARIM ORDER
+================================================================
+
+[IN-WORLD] Unlike the Lexanari, the Netharim are RELATIVELY NUMEROUS.
+
+They maintain a worldwide order that trains them and supports their lifelong study. The order is heavily involved in both:
+- POLITICS — Netharim sit at the high table in many cultures because their reality-shaping capacities give them significant practical and strategic value.
+- MAGICAL SCHOLARSHIP — The order is one of the major scholarly bodies in Eadras, both producing and preserving philosophical and metaphysical research.
+
+The Netharim are a major political and intellectual force in the world, in addition to being a magical order.
+
+
+================================================================
+11. DRUIDS — A SUB-ORDER OF PRIESTS
+================================================================
+
+[IN-WORLD] Druids are not a separate order. They are a specialized sub-order of Priests, serving three specific deities most closely tied to the natural and fey worlds: QUETZAL, SYLPH, and NOX.
+
+A Druid is a Priest of (Quetzal AND Sylph AND Nox), serving the function of mediator between mortal societies and the natural and fey realms.
+
+Druids differ from typical Priests in two important ways:
+
+- They are expected to be HIGHLY SELF-SUFFICIENT rather than embedded in temple or political infrastructure.
+- They are trained in divine magic AS WELL AS a wide range of practical wilderness skills: survival, herbalism, animal handling, and other field competencies.
+
+Their role is to be GUARDIANS OF THE NATURAL WORLD and to act as MEDIATORS between mortal societies and the fey realms. They are not focused on politics or scholarly research the way other priests often are. They are field-priests, working in nature rather than in temples.
+
+
+================================================================
+12. WHY THIS SYSTEM REPLACED EARLIER MAGIC SYSTEMS
+================================================================
+
+[IN-WORLD] Earlier versions of Eadras included Sorcerers and Druids as separate magical orders, drawn from other authors' magic systems. These have been DEPRECATED.
+
+The Sorcerers of the older system pulled threads from the Weave (a goddess-cast protective spell on the flow of magic) and tied them into knots, with the knots being spells. Sorcerers in that system were SPELLWEAVERS, not reality warpers.
+
+The new Eadras system replaces Sorcerers with NETHARIM. The replacement is structural, not cosmetic:
+- Sorcerers manipulate magical threads.
+- Netharim directly alter reality based on philosophical understanding.
+
+These are genuinely different mechanics — meaningfully different enough that the Netharim are not a copy of the Sorcerers.
+
+Similarly, Druids in the older system wielded enormous power but had to limit it strictly to nature, or the power would destroy them. The new Eadras Druids are a sub-order of Priests — divine magic specialists serving the nature/fey-tied deities — with no "destroyed by violating nature's laws" mechanic. The role overlaps; the mechanism is entirely different.
+
+The OLDER concept of "extremely powerful but very dangerous magic users who can be destroyed by their own power" has been REPURPOSED as the Lexanari, who use the Primordial Language and are destroyed by imprecise speech rather than by violating nature.
+
+
+================================================================
+13. THE STATUS OF THE WEAVE
+================================================================
+
+[IN-WORLD] The Weave was originally a goddess-cast protective spell on the flow of magic, intended to:
+- Enclose magic into web-like structures.
+- Allow native inhabitants of the world to access magic normally.
+- Prevent outsiders (interdivores during the Demon War, who were consuming raw magic) from accessing it.
+
+With the Sorcerer order replaced by the Netharim — who do not pull threads from any web — the mechanical reason for the Weave has largely disappeared. Whether the Weave concept survives in Eadras as a residual cosmological structure is currently UNRESOLVED.
+
+The protective function (preventing outsiders from accessing native magic) may still be relevant. The Weave-as-web structure is no longer mechanically necessary.

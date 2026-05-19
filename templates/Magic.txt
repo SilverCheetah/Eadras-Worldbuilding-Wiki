@@ -1,0 +1,52 @@
+---
+title: <% tp.file.title %>
+tags: [magic, eadras]
+canon_status: [<% tp.system.suggester(["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"], ["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"]) %>]
+perspective: [tome-neutral]
+historical_horizon: [<% tp.system.suggester(["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"], ["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"]) %>]
+knowledge_access: [<% tp.system.suggester(["common","general","scholarly","esoteric","meta","sealed"], ["common","general","scholarly","esoteric","meta","sealed"]) %>]
+cssclasses: [hide-props]
+---
+
+<label class="show-props-label"><input type="checkbox" class="show-props-toggle"> Show properties</label>
+
+# <% tp.file.title %>
+
+**Summary**: One to two sentences describing this magical concept, school, spell, or phenomenon.
+
+**Sources**: List of raw source files this page draws from.
+
+**Last updated**: <% tp.date.now("YYYY-MM-DD") %>.
+
+---
+
+## What it is
+
+Definition; what category of magic it belongs to.
+
+## Mechanism
+
+How it works; what substrate it draws on; what conditions it requires.
+
+## History
+
+When it emerged; how its understanding has evolved.
+
+## Practitioners
+
+Who can use it; what training is required.
+
+## Limits and dangers
+
+What it cannot do; what it costs; what the failure modes are.
+
+## Open canon
+
+Bullet list of unresolved questions.
+
+<details>
+<summary>Related pages</summary>
+
+- [[magic-in-eadras]]
+
+</details>

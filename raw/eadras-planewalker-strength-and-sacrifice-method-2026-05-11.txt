@@ -1,0 +1,118 @@
+Eadras planewalker strength + Primordial sacrifice method, 2026-05-11
+
+(Session-capture: Josh sharpened the Primordial sacrifice canon with
+method clarification and introduced new canon about planewalkers from
+Eadras being structurally stronger than planewalkers from other Mythoi.)
+
+== Canon: sacrifice method ==
+
+Most Primordial creators across the Omniverse use ONLY the energy in
+their Mythos's Well of Creation. They draw on the Creative Power the
+OC put into the Mythos at its making, and leave their own essence
+intact. Their Wells deplete a bit (or sometimes a lot), but they
+themselves remain to rule.
+
+Evye and Fryr were unusual: they DID BOTH.
+- They drew on the Well of Creation extensively (depleting it).
+- They poured out their own essence on top of that (sacrificing
+  themselves).
+
+Combined effect:
+- Severely depleted Well (small remainder)
+- Both creators completely dissolved into creation
+- One of the most magically powerful Mythoi in the multiverse
+- Eadras placed among the seven Mythoi closest to the Bastion of
+  Light (existing canon, now mechanistically explained)
+
+The extra-richness of Eadras's intrinsic magic is the consequence of
+this double-pour: Well-energy + Primordial-essence both went into
+the substance of the Mythos.
+
+This is unusual even among the seven closest Mythoi where primordial
+sacrifice happens. The "do both" method is what makes Eadras
+exceptional even within the rare-sacrifice cluster.
+
+== Canon: planewalker strength ==
+
+PLANEWALKERS FROM EADRAS ARE FUNDAMENTALLY 2-4X STRONGER THAN
+PLANEWALKERS FROM OTHER MYTHOI.
+
+Breakdown:
+- 2-4x multiplier in MOST WAYS -- strength, magical capacity,
+  endurance, depth/quality of exercised powers.
+- "Fundamentally" -- this is structural, not situational. It is
+  a property of being-from-Eadras.
+- Applies to ALL planewalkers from Eadras, regardless of whether
+  they are divine, mortal, ascended, or artifact-bound.
+
+Mechanism (implied):
+- Eadras's intrinsic magical richness infuses every being born or
+  made within the Mythos.
+- They carry that saturation with them when they cross Mythos
+  boundaries.
+- The Bastion-fed Well keeps the saturation at its source replenished.
+
+Implications:
+- Cross-Mythos contact involving Eadras is STRUCTURALLY ASYMMETRIC.
+  An Eadras being visiting another Mythos arrives overpowered; a
+  being from another Mythos visiting Eadras does not get the inverse
+  boost.
+- Mortal scholarship has largely not parsed this -- it operates
+  invisibly to most peoples.
+- The advantage is enduring, not transient. The saturation was
+  woven in at substrate level when the planewalker came into being;
+  they do not "lose" it by being away from Eadras.
+
+== New page: planewalkers.md ==
+
+Created this session. Covers:
+- What a planewalker is (cross-Mythos travel capacity)
+- The Eadras advantage (2-4x stronger)
+- Mechanism (intrinsic richness infusing inhabitants)
+- Implications (asymmetric cross-Mythos contact)
+- Open canon (specific Eadras planewalkers, training arts, comparison
+  with other-Mythos planewalkers, whether other 6 closest Mythoi
+  share the advantage)
+
+== Edits this session ==
+
+- primordial-duo.md "The Exchange" section: existing line "No other
+  creator deities sacrificed themselves so completely" is replaced
+  with the proper canon: most Primordials use Well-energy only,
+  Evye/Fryr did both, result is a severely depleted Well plus full
+  dissolution of both creators.
+- planewalkers.md created.
+- index.md: planewalkers entry added under Cosmology & Structure.
+
+== Confirmed open canon ==
+
+Josh confirmed: pouring divine essence into a Mythos's substance
+DRAWS the Mythos closer to the OC's home (the Bastion of Light).
+So: sacrifice -> proximity. The seven closest Mythoi are close
+BECAUSE their primordials sacrificed, not the inverse.
+
+== Pending follow-ups ==
+
+- bastion-of-light.md: should note the seven-closest pattern and the
+  sacrifice -> proximity mechanism (now confirmed canon).
+- omniverse.md: concentric-ring structure of Mythoi around the
+  Bastion.
+- magic-in-eadras.md: the "thick and alive" magic of Eadras is now
+  understood to come from BOTH Well-allotment and Primordial
+  essence, both poured into the substance.
+
+== A meta-note on today's session ==
+
+This is roughly the twentieth major canon edit on Eadras's
+cosmological position today. The earlier retcons (fourteenth
+through eighteenth) all involved over-extrapolation from
+incomplete knowledge of adjacent canon. The pattern has been:
+Josh gives canon -> Claude extrapolates too far -> Josh corrects.
+
+The cleaner pattern that emerged late in the day: Josh gives
+canon -> Claude reads adjacent canon -> Claude integrates with
+existing canon -> commits a smaller, more accurate update.
+
+The five retcons on "Eadras's Well" and the unique-vs-shared
+sacrifice confusion are good cautionary examples in this raw
+file's lineage.

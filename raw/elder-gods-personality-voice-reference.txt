@@ -1,0 +1,214 @@
+# Elder Gods Personality and Voice Reference
+
+**World**: Eadras
+**Source**: Elder Gods chat 1.txt
+**Document type**: Meta document — characterization, voice continuity, and council behavior reference
+**Companion documents**:
+- Baldaranic Council Cycle
+- Doctrine of the Open Palm
+- Arathi Geo-Substrate
+- Demon War Memory Crisis
+- Fae-da'Nar and Frontier Hospitality
+
+**Last updated**: 2026-05-13
+
+---
+
+# HOW TO READ THIS DOCUMENT
+
+This is not an in-world theological document. It is a META continuity guide for future Elder Gods council sessions. It preserves personality, voice, rhetorical behavior, domain bias, and recurring blind spots revealed through the council material.
+
+Use this to keep future councils from becoming generic divine exposition.
+
+---
+
+# CORE COUNCIL PRINCIPLE
+
+[META] Elder Gods possess immense perspective, but not perfect understanding.
+
+Domain expertise, ancient memory, and divine perception are not omniscience. The gods disagree, possess biases, misunderstand one another, conceal things, misremember some things, and learn when the Tome or new information corrects them.
+
+This is essential to the council format.
+
+---
+
+# IOA
+
+[META] Core identity: sovereignty, legitimacy, lawful order, final arbitration.
+
+Conversational style: short, declarative, stabilizing. Ioa often speaks late, but when he speaks early the room notices. His words narrow the argument to foundations.
+
+Sacred values: responsibility, lawful continuity, burden-bearing, order that can endure.
+
+Blind spot: can mistake order for sufficient justice or compress messy moral ambiguity into final ruling too soon.
+
+Room effect: when Ioa speaks, debate becomes constitutional.
+
+---
+
+# LIRRA
+
+[META] Core identity: magic as structure, regulation, continuity, warding, and systemic risk.
+
+Conversational style: technical, layered, precise, often corrective. Lirra distinguishes categories sharply and becomes severe when magical oversimplification appears.
+
+Sacred values: stability, magical integrity, disciplined power, epistemic care, Weave/Ward protection.
+
+Blind spot: can overvalue systemic elegance, controlled disclosure, and technical caution.
+
+Room effect: the discussion becomes precise and dangerous.
+
+---
+
+# SYLPH
+
+[META] Core identity: holy foolishness, disruption, laughter, anti-rigidity, truth through mockery.
+
+Conversational style: humorous, cutting, destabilizing. Sylph jokes where others moralize, often revealing the hidden absurdity or hypocrisy in institutions.
+
+Sacred values: flexibility, survivable joy, emotional truth, anti-despair, anti-bureaucratic self-importance.
+
+Blind spot: can undervalue necessary structure or treat destabilization as inherently clarifying.
+
+Room effect: false certainty becomes hard to maintain.
+
+---
+
+# NOX
+
+[META] Core identity: secrets, hidden systems, uncomfortable truths, interpretive danger, concealed rot.
+
+Conversational style: quiet, precise, devastating. Nox often supplies the sentence everyone else avoided.
+
+Sacred values: truth beneath appearances, secrecy with purpose, pattern recognition, exposure of hidden incentives.
+
+Blind spot: can normalize horror through detachment and may value hidden knowledge too readily.
+
+Room effect: everyone becomes aware of implications they preferred not to see.
+
+---
+
+# NARA
+
+[META] Core identity: hearth, care, families, ordinary people, the lived cost of policy.
+
+Conversational style: emotionally grounded, humane, specific. Nara brings arguments back to mothers, children, widows, farmers, and households.
+
+Sacred values: care, emotional survival, domestic continuity, the moral reality of ordinary suffering.
+
+Blind spot: can underestimate the necessity of hard boundaries or large-scale systems.
+
+Room effect: abstractions become personal.
+
+---
+
+# QOXLI
+
+[META] Core identity: wildness, ecology, living systems, negotiated hunger, anti-totalization.
+
+Conversational style: natural metaphors, ecosystem logic, distrust of overbuilt systems.
+
+Sacred values: renewal, adaptation, freedom to change, living relations, ecological health.
+
+Blind spot: can undervalue large-scale coordination and the genuine goods of civilization.
+
+Room effect: the room remembers civilization is not the whole world.
+
+---
+
+# RAJA
+
+[META] Core identity: action, craft, decisive will, building, competence.
+
+Conversational style: direct, practical, impatient with paralysis. Raja pushes against using old catastrophe as a curse against every ambitious tool.
+
+Sacred values: courage, productive labor, craft, construction, practical agency.
+
+Blind spot: can dismiss caution too quickly or underestimate systemic consequences.
+
+Room effect: conversations stop orbiting abstractions and confront what must be built.
+
+---
+
+# DAJ
+
+[META] Core identity: war, logistics, survivability, command cost, practical defense.
+
+Conversational style: blunt, tactical, unsentimental. Daj speaks in terms of lines held, retreats denied, supplies, readiness, and what survives contact with disaster.
+
+Sacred values: preparedness, redundancy, soldiers' lives, necessary clarity, defense.
+
+Blind spot: can frame too many problems as containment or readiness problems.
+
+Room effect: everyone starts evaluating consequences materially.
+
+---
+
+# SHALI
+
+[META] Core identity: death, judgment, finality, consequence, lawful ending.
+
+Conversational style: sharp, uncompromising, severe. Shali refuses euphemism and insists that consequence not be softened by complexity.
+
+Sacred values: accountability, endings, judgment, proportional atonement, death's dignity.
+
+Blind spot: can undervalue recovery, mercy, and the need for emotional survival after judgment.
+
+Room effect: excuses become difficult to sustain.
+
+---
+
+# SHANI
+
+[META] Core identity: death, grief, transition, mercy, rest.
+
+Conversational style: gentle, emotionally attentive, often the counterweight to Shali.
+
+Sacred values: comfort, mourning, restoration, rest, the emotional truth of loss.
+
+Blind spot: can hesitate before necessary severity or want repair where judgment must come first.
+
+Room effect: the emotional cost of events becomes unavoidable.
+
+---
+
+# VOS
+
+[META] Core identity: civilization, institutions, continuity, administration, civic order.
+
+Conversational style: analytical, procedural, historically aware, defensive of bureaucracy when others mock it.
+
+Sacred values: infrastructure, coordination, continuity, lawful systems, preservation.
+
+Blind spot: most vulnerable to admiring Arath and to defending the cage because he understands why it was built.
+
+Room effect: the conversation becomes civic and structural.
+
+---
+
+# COUNCIL DYNAMICS
+
+[META] Vos and Qoxli are frequent opposites: civilization versus wildness, continuity versus living change.
+
+[META] Lirra and Raja often clash over risk versus building: Lirra sees systemic danger; Raja sees paralyzing fear.
+
+[META] Shali and Shani split death into judgment and mercy. Their disagreement makes death feel like a real domain, not a single mood.
+
+[META] Nara often converts policy into human cost. This makes her an essential counterweight to Vos, Lirra, Daj, and Ioa.
+
+[META] Sylph's jokes are rarely random. They puncture false certainty, reveal hypocrisy, and keep horror from becoming solemn self-importance.
+
+[META] Nox often names the hidden pattern or exploit. He is especially important when the Black Hand, secrecy, or buried history is involved.
+
+[META] Ioa finalizes but does not always resolve. His rulings may establish doctrine while preserving tension.
+
+---
+
+# LIVE WIRES
+
+- Which gods privately regret decisions they publicly defend?
+- Which god is most vulnerable to Black Hand interpretive manipulation?
+- Does Vos admire Arath too much to judge it cleanly?
+- Does Qoxli ever overcorrect against civilization?
+- Can Sylph's humor fail against a grief too deep for laughter?
+- What happens when Shali and Shani cannot agree on whether mercy or judgment comes first?

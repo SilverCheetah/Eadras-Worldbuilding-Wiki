@@ -1,0 +1,139 @@
+Spirits — universal true form + uniforms + back rooms canon, 2026-05-11
+
+(Session-capture from a Claude Code session in which Josh established the
+universal canon governing spirits across all four non-mortal realms of the
+Eadras Mythos.)
+
+== Universal true form (all spirits, all realms) ==
+
+All spirits share the same basic true form:
+- A smooth, nearly featureless, androgynous humanoid figure
+- Roughly mortal proportions
+- Minimal facial details
+- No hair
+- A glow emanating from the body itself
+
+The form is identical across all four spirit realms. What distinguishes one
+realm's spirits from another's is the COLOUR of the glow. What distinguishes
+individual spirits within a realm is the BRIGHTNESS of the glow plus the
+uniform they wear.
+
+== Glow colour = realm of origin ==
+
+| Realm                | Spirits            | Glow                                                    |
+|----------------------|--------------------|---------------------------------------------------------|
+| Celestia (upper)     | Seraphim           | Bright golden-white, like sunlight or holy radiance     |
+| Feywild (middle)     | Nature spirits/Fey | Vibrant emerald green, sunlight through deep forest     |
+| Shadowdark (middle)  | Dark spirits       | Blacklight ultraviolet-violet, cold and unnatural       |
+| Nyxar (lower)        | Devils             | Deep crimson-red to orange, molten metal or hellfire    |
+
+The Feywild and Shadowdark together comprise the "Middle" tier of spirit
+realms (per the Upper/Middle/Lower trichotomy used in the back-rooms canon).
+
+== Glow brightness = raw spiritual power ==
+
+A spirit's brightness indicates its raw inherent power. A junior clerical
+imp glows like banked embers; a senior pit-fiend's glow scorches the air
+around it. A celestial functionary glows softly; a high-tier Seraph's
+radiance fills the corridor. Brightness is intrinsic to the underlying
+spirit; it does not predict role -- a bright spirit assigned to a low rank
+wears a low-rank uniform, and the role's visible appearance is the
+uniform's.
+
+== Uniforms ==
+
+Spirits ALMOST NEVER appear in true form in the mortal world or in most
+areas of the spirit realms. They are almost always wearing a uniform.
+
+The "types" mortals encounter -- imps, wraiths, dryads, seraphs, banshees,
+pit-fiends, sprites, nymphs, shadow-stalkers, will-o'-the-wisps, etc. --
+are NOT biological variations. They are uniforms worn over the universal
+true form. The uniform:
+
+- Reshapes the body when worn (adds horns, wings, vines, mass, scales,
+  feathers, mist, etc., as the role specifies)
+- Carries the powers associated with the role
+- Encodes rank insignia legible only to other spirits of the same realm
+- Reverses cleanly when removed -- the underlying spirit returns to the
+  universal true form
+
+Each realm has its own uniform code, maintained by its institutional order:
+- Celestia: the Divine Bureaucracy
+- Nyxar: the Infernal Bureaucracy
+- Feywild: fey courts/hierarchies (specific institutional structure open)
+- Shadowdark: shadow hierarchies (specific institutional structure open)
+
+A uniform from one realm cannot be worn by a spirit of another realm.
+
+Mortal demonological/angelological taxonomy systematically catalogues
+uniforms as if they were species. The taxonomy is wrong.
+
+== Back rooms (canonical to every spirit realm) ==
+
+All spirit realms -- Upper, Middle, and Lower -- contain special areas
+known as BACK ROOMS. These are private spaces where spirits can remove
+their uniforms and rest in their true form.
+
+Cultural framing: the spirit realms function as vast bureaucracies and
+institutional orders where every spirit has a role to perform. The back
+rooms are the necessary structural counterweight -- "even spirits cannot
+remain on duty for eternity." Forcing a spirit to remain in uniform
+continuously for too long degrades it in ways the institutions take
+seriously.
+
+Canonical back-room examples:
+- The locker rooms of Dreadharrow (Infernal Bureaucracy's back rooms;
+  already documented on the devils page; the canonical example)
+- The celestial rest-halls of Celestia (Divine Bureaucracy's equivalent)
+- Fey glade-clearings of the Feywild (open as to specific form/structure)
+- The quiet rooms of the Shadowdark (open as to specific form/structure)
+
+A mortal who stumbled into a back room would see dozens of glowing
+humanoid figures, all nearly identical except for the colour and brightness
+of their glow, casually existing without the dramatic costumes of mortal
+iconography.
+
+== Implications for existing canon ==
+
+DIRECT CONTRADICTIONS resolved this session:
+- The previous devils.md described the devil base form as "a relatively
+  unremarkable medium-sized red-skinned humanoid... with smooth crimson
+  or deep-red skin, small horn nubs rather than the dramatic crowns of
+  mortal iconography, and relatively plain facial features." This is
+  REPLACED. The new canon: devils share the universal spirit true form
+  (smooth featureless androgynous humanoid), distinguished as infernal
+  by their crimson-to-orange glow. The "horn nubs" detail is retired --
+  horns are part of the uniform, not the true form. The "red-skinned"
+  framing becomes "crimson-glowing."
+
+PRESERVED canon (already aligned with the new universal):
+- Devils-as-bureaucratic-staff
+- Locker rooms of Dreadharrow
+- Uniforms as magical reshaping apparatus
+- The seraphim/devils mirror structure
+- Devils-are-not-demons distinction
+- Field-uniform-calibrated-to-mortal-expectations canon
+
+NEW additions from this canon (filed):
+- A umbrella spirits page documenting the universal mechanism
+- "Back rooms" as a discrete cross-realm concept (a candidate for its
+  own page later if it grows further)
+
+== Pending follow-ups (deferred to next session) ==
+
+The following pages should be updated to reflect the new universal canon
+when next worked on. None are urgent; none directly contradict their
+current content, but each gains relevant detail from the universal canon:
+
+- feywild.md -- mention the universal true form + emerald glow for fey
+  spirits; mention the fey realm's back rooms
+- shadowdark.md -- same for shadowdark spirits + ultraviolet glow + the
+  quiet rooms
+- sirens.md -- if sirens are a spirit subtype (worth checking), their
+  appearance is a uniform; the underlying spirit is the universal form
+- divine-bureaucracy.md -- the back rooms (celestial rest-halls) are part
+  of the institutional infrastructure; the Bureaucracy maintains them
+- infernal-bureaucracy.md -- same for the Dreadharrow locker rooms
+- dreadharrow.md -- the locker rooms are canonically "back rooms"
+- celestia.md / nyxar.md -- mention the back rooms exist within each
+  plane's institutional infrastructure

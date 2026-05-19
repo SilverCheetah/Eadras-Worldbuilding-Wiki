@@ -1,0 +1,84 @@
+Eadras pantheon — multiverse position and the Game as containment, 2026-05-11
+
+(Session-capture: Josh established the cosmic context for the Eadras
+pantheon's power and the Game's true function as benign containment
+against expansionism into other Mythoi.)
+
+== Canon ==
+
+1. EADRAS IS ONE OF THE MOST MAGICALLY RICH MYTHOI IN THE OMNIVERSE.
+   Magical richness is the source of deity power; rich Mythoi produce
+   powerful gods.
+
+2. THE EADRAS PANTHEON ARE AMONG THE MOST POWERFUL DEITIES IN THE
+   MULTIVERSE.
+   Their power derives from where they live -- Eadras's magical
+   richness -- not from anything intrinsic to them. They are powerful
+   because of position.
+
+3. STANDARD HIGH-TIER DEITY PATTERN (across other Mythoi) IS EXPANSIONIST.
+   Other powerful gods push worship outward into neighbouring Mythoi,
+   contest other pantheons, recruit or convert populations across
+   realities, and accrue influence beyond their home plane.
+
+4. THE EADRAS PANTHEON DOES NOT DO THIS.
+   They are turned almost entirely inward. They are absorbed in their
+   own affairs and especially in the Game of the Gods.
+
+5. THE GAME IS THE CONTAINMENT MECHANISM.
+   It keeps the pantheon busy WITHOUT HARMING THEM. It is not a chain,
+   not a binding, not a diminishment. The gods remain at full power;
+   they simply spend that power inward, because the Game is more
+   interesting than anything outside Eadras would be.
+
+6. FROM DAO'S MONITOR FRAME, THE GAME SERVES BOTH ROLE 1 AND ROLE 2:
+   - Role 1 (smooth running of Eadras) -- gods absorbed in the Game
+     don't over-intervene in mortal affairs
+   - Role 2 (macro balance of the Omniverse) -- the most powerful
+     pantheon in a magic-rich Mythos isn't pushing into neighbouring
+     Mythoi to destabilise them.
+   The Game is multi-purpose containment.
+
+== Implications ==
+
+- Eadras's exceptional pantheon power is a STRUCTURAL CONSEQUENCE
+  of the Mythos's magical richness, not a virtue of the gods.
+- The Game (per earlier today's canon: created by Dao in secret, gods
+  don't know how it works) is now contextualised: Dao designed (or at
+  least put in place) a benign containment for what would otherwise
+  be an Omniversal expansion problem.
+- The pantheon themselves do not experience the Game as containment.
+  From inside the Game, they experience it as the most interesting
+  thing in existence. The system is stable because it is genuinely
+  satisfying to the contained.
+- The "deeply addictive" descriptor of the Game (existing canon) now
+  reads as DESIGN INTENT (or at minimum, as a feature Dao has chosen
+  not to mitigate) rather than as accident.
+- The grudge canon (gods hate demons because demons disrupted the
+  Game) reads sharper too: demons did not just disrupt entertainment,
+  they threatened to break the containment that maintains macro
+  balance.
+
+== Edits this session ==
+
+- gods-of-eadras.md: new section "## Position in the multiverse"
+  inserted between the worship paragraph and the "## The Game of the
+  Gods" section. Covers the pantheon's exceptional power, the standard
+  expansionist pattern, the Eadras pantheon's exceptional inward
+  orientation, the Game as benign containment, and the dual-role
+  framing from Dao's monitor frame.
+- dao.md "## Role" section: a final paragraph added after the
+  three-component list, citing the Game as a worked example of
+  Roles 1 and 2 in action. Cross-references gods-of-eadras#Position
+  in the multiverse.
+
+== Pending follow-ups ==
+
+- omniverse.md / mythos.md / eadras-cosmology.md: could note that
+  Eadras is one of the most magically rich Mythoi, and that this
+  has cosmic implications.
+- gods-of-eadras.md "The Game of the Gods" opening: existing
+  "deeply addictive, which is why most gods spend their time in the
+  divine realm rather than intervening directly in mortal affairs"
+  is now contextualised by the multiverse position section, but the
+  Game section text itself didn't need to be changed.

@@ -1,0 +1,44 @@
+---
+title: <% tp.file.title %>
+tags: [eadras]
+canon_status: [<% tp.system.suggester(["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"], ["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"]) %>]
+perspective: [tome-neutral]
+historical_horizon: [<% tp.system.suggester(["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"], ["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"]) %>]
+knowledge_access: [<% tp.system.suggester(["common","general","scholarly","esoteric","meta","sealed"], ["common","general","scholarly","esoteric","meta","sealed"]) %>]
+cssclasses: [hide-props]
+---
+
+<label class="show-props-label"><input type="checkbox" class="show-props-toggle"> Show properties</label>
+
+# <% tp.file.title %>
+
+**Summary**: One to two sentences describing this concept, event, or piece of lore.
+
+**Sources**: List of raw source files this page draws from.
+
+**Last updated**: <% tp.date.now("YYYY-MM-DD") %>.
+
+---
+
+## Overview
+
+What this is and why it matters.
+
+## Details
+
+The substantive content. Use clear headings as the material grows.
+
+## Era and context
+
+When this happened, or when it is relevant.
+
+## Open canon
+
+Bullet list of unresolved questions.
+
+<details>
+<summary>Related pages</summary>
+
+-
+
+</details>

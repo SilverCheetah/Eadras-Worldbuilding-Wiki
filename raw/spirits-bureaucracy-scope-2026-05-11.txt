@@ -1,0 +1,100 @@
+Spirits — cross-realm bureaucratic scope, 2026-05-11
+
+(Session-capture appended to today's spirits canon thread. Josh established
+that the Feywild and Shadowdark do not maintain their own administrative
+orders; their shell assignments and promotions are handled by the senior
+bureaucracy associated with each end of the bright/dark axis.)
+
+== Canon ==
+
+Assignments and promotions of all spirits are handled by one of two
+bureaucracies:
+
+  Bright realms (Celestia + Feywild)  -> Divine Bureaucracy
+  Dark realms   (Nyxar + Shadowdark)   -> Infernal Bureaucracy
+
+The Feywild does NOT have its own fey-court bureaucracy. Fey shells
+(nymphs, brownies, dryads, sprites, genii loci, etc.) are issued, assigned,
+and reassigned by the Divine Bureaucracy of Celestia.
+
+The Shadowdark does NOT have its own shadow-hierarchy bureaucracy. Dark
+shells (wraiths, shadow-stalkers, banshees, etc.) are issued, assigned,
+and reassigned by the Infernal Bureaucracy of Nyxar.
+
+== Structural mapping ==
+
+The two-bureaucracies-two-realms-each structure mirrors the Eadras Mythos's
+bright/dark axis:
+
+- Divine Bureaucracy
+  - Primary realm: Celestia (standardised shells, mass-produced, rank-coded)
+  - Secondary realm: Feywild (bespoke shells, bound to specific places and
+    relationships)
+
+- Infernal Bureaucracy
+  - Primary realm: Nyxar (standardised shells, mass-produced, rank-coded)
+  - Secondary realm: Shadowdark (bespoke shells, bound to specific places
+    and relationships)
+
+The standardised-vs-bespoke distinction (established earlier today) maps
+onto the primary-vs-secondary realm distinction. Each bureaucracy must
+therefore maintain TWO qualitatively different shell catalogues -- a
+standardised one for its primary realm, a bespoke one for its secondary.
+
+== Implications ==
+
+- The Divine Bureaucracy is LARGER in administrative scope than the
+  Celestia-only framing suggested. It administers two qualitatively
+  different domains.
+- The Infernal Bureaucracy is similarly cross-realm in scope.
+- The "fey courts" and "shadow hierarchies" referenced as institutional
+  orders in earlier framings are RETIRED -- they are sub-organisations
+  of the parent bureaucracy, not independent administrative powers.
+- Back rooms in each realm are infrastructure of the administering
+  bureaucracy:
+    - Celestial rest-halls = Divine Bureaucracy infrastructure
+    - Dreadharrow locker rooms = Infernal Bureaucracy infrastructure
+    - Feywild glade-clearings = Divine Bureaucracy infrastructure
+      (Feywild Division)
+    - Shadowdark quiet rooms = Infernal Bureaucracy infrastructure
+      (Shadowdark Division)
+- Shells are bureaucracy-specific, not strictly realm-specific. A
+  Divine shell cannot fit an Infernal spirit; but a celestial-shell and
+  a fey-shell are both Divine products drawn from a single administrative
+  tradition (with different shell modes for the two realms).
+
+== Open canon ==
+
+- The internal organisation of each bureaucracy's secondary-realm
+  division (Divine Bureaucracy's "Feywild Division" or whatever it is
+  internally called; Infernal Bureaucracy's "Shadowdark Division") --
+  whether these are formal departments, integrated sub-bureaus, or
+  something else -- is open canon.
+- Whether secondary-realm spirits ever rotate to the primary realm or
+  vice versa (a fey reassigned to a Celestia post? a wraith promoted into
+  Dreadharrow filing?) is open canon.
+
+== This refinement RESOLVES an earlier open-canon item ==
+
+The spirits.md page (created earlier this session) listed as open canon:
+"The structure of fey and shadowdark institutions. The Divine and Infernal
+Bureaucracies are documented; the equivalent institutional order in the
+Feywild and Shadowdark (whether also bureaucracies, or courtly hierarchies,
+or something else) is open canon."
+
+This is now ANSWERED: there is no separate institutional order. The Divine
+and Infernal Bureaucracies are the answer. The open-canon item is replaced
+with the new (narrower) question about the internal organisation of each
+bureaucracy's secondary-realm division.
+
+== Pages affected ==
+
+- spirits.md -- substantially updated this session
+- divine-bureaucracy.md -- pending follow-up; should describe its
+  cross-realm scope (Celestia + Feywild administration)
+- infernal-bureaucracy.md -- pending follow-up; should describe its
+  cross-realm scope (Nyxar + Shadowdark administration)
+- feywild.md -- pending follow-up; should describe its administration
+  by the Divine Bureaucracy
+- shadowdark.md -- pending follow-up; should describe its administration
+  by the Infernal Bureaucracy

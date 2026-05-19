@@ -1,0 +1,39 @@
+# Cosmology of the Stars and Mythoi — Principles and Diagnosis
+
+**World**: Eadras
+**Source**: Grok Chat 5-13-26.txt
+**Document type**: Distilled ingest document — setting-wide principles and open prompts
+**Last updated**: 2026-05-14
+
+---
+
+# HOW TO READ THIS DOCUMENT
+
+This document extracts broader setting principles from the stars cosmology.
+
+---
+
+# PRINCIPLE 1: THE NIGHT SKY CAN BE VAST WITHOUT EXPANDING THE LOCAL MAP
+
+[DIAGNOSIS] Stars as other Mythoi viewed through Limina’s distortion lets the sky feel enormous and wondrous while keeping the Prime Material tight and focused.
+
+---
+
+# PRINCIPLE 2: DIFFERENT PEOPLES SEE DIFFERENT PATTERNS IN THE SAME SKY
+
+[DIAGNOSIS] Layered star lore across Arathi, Dragon, Unicorn, and modern eras shows how history, species perspective, and cultural needs shape interpretation of the same phenomena.
+
+---
+
+# PRINCIPLE 3: COSMIC CLOCKS GIVE MAJOR ARTIFACTS GRAVITAS
+
+[DIAGNOSIS] Tying the Spear’s activation to the slow precession cycle makes the artifact feel truly ancient and inevitable rather than arbitrary.
+
+---
+
+# LIVE WIRES
+- What specific alignment triggers the Spear?
+- Could a culture discover (or be driven mad by) the true nature of the stars?
+- How does astrology or divination work when stars are other realities?
+
+**cosmology-stars-mythoi-04-narrative-scenes.txt**

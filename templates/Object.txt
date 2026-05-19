@@ -1,0 +1,49 @@
+---
+title: <% tp.file.title %>
+tags: [items, eadras]
+canon_status: [<% tp.system.suggester(["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"], ["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"]) %>]
+perspective: [tome-neutral]
+historical_horizon: [<% tp.system.suggester(["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"], ["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"]) %>]
+knowledge_access: [<% tp.system.suggester(["common","general","scholarly","esoteric","meta","sealed"], ["common","general","scholarly","esoteric","meta","sealed"]) %>]
+cssclasses: [hide-props]
+---
+
+<label class="show-props-label"><input type="checkbox" class="show-props-toggle"> Show properties</label>
+
+# <% tp.file.title %>
+
+**Summary**: One to two sentences describing this object.
+
+**Sources**: List of raw source files this page draws from.
+
+**Last updated**: <% tp.date.now("YYYY-MM-DD") %>.
+
+---
+
+**Type**: artifact / weapon / instrument / construct / alien / etc.
+**Origin**: when and by whom it was made
+**Current location**:
+**Current bearer**: (if applicable)
+
+## Description
+
+Physical form, materials, distinctive features.
+
+## Function
+
+What it does; how it works; mechanics if any.
+
+## History
+
+Creation, ownership chain, key events.
+
+## Open canon
+
+Bullet list of unresolved questions about this object.
+
+<details>
+<summary>Related pages</summary>
+
+-
+
+</details>

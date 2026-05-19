@@ -1,0 +1,96 @@
+Spirits — interior governance clarification, 2026-05-11
+
+(Session-capture appended to the spirits canon thread. Josh clarified the
+scope of the cross-realm Bureaucratic administration: it covers shell-
+issuance, assignment, and promotion, but NOT all governance of the
+Feywild and Shadowdark.)
+
+== Canon ==
+
+The Feywild and Shadowdark each maintain their own INTERIOR GOVERNANCE,
+distinct from the Divine and Infernal Bureaucracies' shell-administration
+layer. This interior governance is LOCAL OR REGIONAL, NOT PLANE-WIDE --
+the secondary realms are NOT unified under any single internal authority
+the way Celestia and Nyxar are.
+
+Interior governance includes (non-exhaustive):
+- Fey courts (multiple regional courts, not one fey-wide council)
+- Shadow councils
+- Regional fiefs and local powers
+- Place-by-place political arrangements
+
+The Bureaucracies do NOT run the day-to-day politics of these realms.
+The Bureaucratic scope is precisely:
+- Shell issuance
+- Shell assignment
+- Promotion processing
+- Shell-catalogue maintenance
+- Back-room infrastructure (where shells are removed)
+
+Everything else in the secondary realms is the secondary realm's own
+affair.
+
+== Reading the split ==
+
+The Bureaucracies are the EMPLOYMENT AND CREDENTIALING layer.
+The local fey courts and shadow councils are the POLITICAL AND SOCIAL
+layer.
+
+They cooperate at the shell-handoff: a promotion requires both a local
+sponsor (interior governance decides the spirit deserves elevation) and
+a new shell (Bureaucracy issues the upgraded credential). But they are
+different institutions doing different work, and neither has authority
+over the other's domain.
+
+== Implications ==
+
+- Primary realms (Celestia, Nyxar) ARE largely unified under their
+  administering Bureaucracy. Day-to-day life there IS Bureaucratic
+  day-to-day. (Though even the primary realms surely have non-
+  Bureaucratic elements -- this is unspecified canon for now.)
+- Secondary realms (Feywild, Shadowdark) have a dual structure: shell
+  layer (Bureaucracy) + interior governance (regional/local courts and
+  councils).
+- This makes the secondary realms politically RICHER than the primary
+  realms in some ways: fey courts can scheme, regional powers can
+  contest, alliances can shift independently of Bureaucratic oversight.
+- The Bureaucracies are somewhat external to the secondary realms in
+  daily life: a Divine Bureaucracy clerk processing a fey promotion is
+  NOT a participant in the fey court politics that produced the
+  promotion -- they are just issuing the shell that the court has
+  decided to confer.
+
+== Earlier framing that needed softening ==
+
+The spirits.md page (in its earlier "Administration: two bureaucracies,
+four realms" section) said the bureaucracies "administer" the bright/
+dark realms -- "administers" was too broad and implied all-governance.
+The new framing says the Bureaucracies "handle shell-administration"
+specifically, with the secondary realms' interior governance remaining
+the realms' own affair.
+
+== Edits this session ==
+
+- spirits.md "Administration" sub-section reworded throughout to make
+  clear that Bureaucratic scope = shell-administration only.
+- spirits.md "Administration" sub-section gains a new paragraph
+  explicitly stating that the Feywild and Shadowdark maintain interior
+  governance (local/regional, not plane-wide) distinct from the
+  Bureaucratic layer, and articulating the employment-vs-political
+  layer split.
+- spirits.md back-rooms section: "Divine/Infernal Bureaucracy's
+  [secondary realm] operations" tightened to "[secondary realm]
+  shell-administration."
+- spirits.md open canon: the item about each bureaucracy's secondary-
+  realm "administration" tightened to "shell-administration." A new
+  open-canon item added about the structure of interior governance
+  in the Feywild and Shadowdark.
+
+== Pending follow-ups (updated) ==
+
+- divine-bureaucracy.md / infernal-bureaucracy.md: should describe
+  scope as shell-administration across two realms (NOT all-governance).
+- feywild.md: should describe its interior governance (local/regional
+  fey courts) AND its dual structure with the Divine Bureaucracy's
+  shell-administration layer.
+- shadowdark.md: same for the Shadowdark with the Infernal Bureaucracy.

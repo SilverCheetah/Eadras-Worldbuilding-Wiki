@@ -1,0 +1,121 @@
+Godpower — direct link, Spear's link, and Eadras's Bastion-feed retcon, 2026-05-11
+
+(Session-capture: Josh sharpened the Godpower canon with two
+additions and one major retcon to the earlier "Eadras has a large
+Well" framing.)
+
+== Canon: direct link ==
+
+ALL GODS HOLD A DIRECT LINK to their Mythos's Well of Creation. The
+connection is unmediated -- no intermediaries between deity and the
+Creative Power, no priestly conduit, no permission needed beyond
+divinity itself. A god IS, by definition, something with a direct
+link to its local Well.
+
+== Canon: Spear of Crystallized Entropy also has a direct link ==
+
+One notable NON-DEITY entity in Eadras also holds a direct link to
+the Well: the SPEAR OF CRYSTALLIZED ENTROPY. This is the canonical
+reason the Spear operates at god-tier power and is so catastrophic
+when wielded -- it has the same kind of unmediated tap that a god
+has. In this very specific sense, the Spear is a god, though a
+THING rather than a PERSON.
+
+The existing dao.md page describes Dao having cursed the Spear; the
+direct-link canon explains WHY the Spear required Dao's personal
+intervention -- it operates at god-tier and only a higher-than-godly
+power (Dao) could touch it.
+
+== Canon: Eadras Well retcon ==
+
+CORRECTION TO EARLIER FRAMING:
+
+Earlier today's session canon: "Eadras is one of the most magically
+rich Mythoi" + "the Eadras pantheon are among the most powerful
+deities in the multiverse." I extrapolated this to mean "Eadras has
+one of the largest Wells in the Omniverse." That extrapolation was
+WRONG.
+
+CORRECTED CANON:
+
+- Eadras has the SMALLEST Well in the multiverse (raw allotment).
+- The Omniversal Creator put very little Creative Power into Eadras
+  at its making.
+- What little Creative Power was put in was largely spent during
+  creation.
+- By raw-allotment measure, Eadras should be among the THINNEST
+  Mythoi in the Omniverse, with one of the WEAKEST pantheons.
+
+== Canon: Bastion-of-Light feed mechanism ==
+
+Eadras's exceptional pantheon power is preserved by LOCATION rather
+than allotment:
+
+- Eadras sits IMMEDIATELY ADJACENT to the Concordance (the vast
+  outer plane at the center of the Omniverse).
+- Through that proximity, the BASTION OF LIGHT continuously feeds
+  Eadras's Well.
+- The Bastion is the absolute center of the Omniverse, home of the
+  Omniversal Creator. It radiates Creative Power.
+- The radiation passes through the Concordance and seeps into the
+  nearest Mythos. That nearest Mythos is EADRAS.
+
+Mechanism:
+
+- Eadras's Well is small AND continuously topped up.
+- Other Mythoi's Wells are large but slowly deplete (no comparable
+  feed source).
+- Eadras is magic-rich by RATE OF REPLENISHMENT, not by DEPTH OF
+  WELL.
+- The Eadras pantheon's strength is fundamentally A GIFT OF GEOGRAPHY.
+
+== Implications ==
+
+- A god in Eadras with a god of similar nature in a more distant
+  Mythos: the distant god dwindles as their Mythos's Well drains;
+  the Eadras god is constantly topped up.
+- Eadras may be COVETED by other Mythoi for its proximity-to-Bastion.
+- Demonic invasion of Eadras (per Demon War canon) is structurally
+  WORSE at the cosmic scale: demons aren't just disrupting a powerful
+  Mythos, they're potentially disrupting the closest seep point from
+  the Bastion to the rest of the Omniverse.
+- The Eadras pantheon's existence is CONDITIONAL on the continued
+  feed. A pantheon that is fed-fed-fed by Bastion radiation is not
+  the same kind of pantheon as one that owns a deep reservoir.
+  Existential dependency on cosmic geography.
+- The Spear's direct link makes it a "thing-god." It is the only
+  non-person currently understood to hold this kind of connection.
+
+== Page-canon changes to apply ==
+
+- gods-of-eadras.md "Source of godly power" section: ADD the
+  direct-link canon (universal across all gods) AND the Spear's
+  direct link (notable exception in the non-deity category).
+- gods-of-eadras.md "Position in the multiverse" section: RETCON
+  the "large Well" framing. Eadras has the smallest Well; Bastion
+  proximity feeds it; result is the same (powerful pantheon) but
+  the mechanism is fundamentally different.
+
+== Pending follow-ups (added by this canon) ==
+
+- spear-of-crystallized-entropy.md: note the direct-link canon as
+  the underlying reason for the Spear's god-tier power.
+- bastion-of-light.md: should describe the radiation-into-Concordance
+  mechanism and Eadras's privileged feed position.
+- concordance.md: as the conduit plane through which Bastion
+  radiation passes to the nearest Mythos.
+- omniversal-creator.md: still flagged from earlier today; the
+  feed canon could be noted here too.
+
+== Open canon ==
+
+- What happens to Eadras if the Bastion stops radiating or the
+  Concordance is disrupted?
+- Are there other Mythoi adjacent to the Concordance, or is Eadras
+  uniquely positioned?
+- Why is the OC's Mythos-allotment to Eadras so small in the first
+  place? Was this a choice that the Bastion feed was meant to
+  compensate for, or an accident corrected by Eadras's later
+  position?
+- The Primordial Duo's sacrifice -- does their dissolution into
+  Eadras add to the (small) Well, or is it a separate mechanism?

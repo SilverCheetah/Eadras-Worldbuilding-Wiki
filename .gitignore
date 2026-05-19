@@ -1,0 +1,40 @@
+# === Wiki exports (regenerable via generate_export.py) ===
+wiki-export-*.md
+
+# === Derived skill outputs (regenerable by re-running skills) ===
+derived/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# === Obsidian per-machine state ===
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# === Obsidian plugin code (re-downloadable via community-plugins.json) ===
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/.hotreload
+
+# Re-include plugin settings (they encode your configuration)
+!.obsidian/plugins/*/data.json
+
+# === OS junk ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Editor backups ===
+*~
+*.swp
+*.bak
+
+# === Claude Code per-machine state ===
+.claude/settings.local.json
+.claude/scheduled_tasks.lock

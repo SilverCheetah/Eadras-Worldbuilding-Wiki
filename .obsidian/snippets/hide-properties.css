@@ -1,0 +1,74 @@
+/* hide-properties.css
+ * Page-affordances for the LLM Wiki.
+ *
+ *  - hide-props      : hides the Properties block by default; an inline
+ *                      checkbox `.show-props-toggle` reveals it.
+ *  - axes-unset      : marks an Axes-of-Creation block as uncalibrated;
+ *                      colors its <summary> red until removed.
+ *  - <details class="axes-block">  : collapsible Axes section.
+ *  - <details>       : also used to wrap "Related pages" so they fold by default.
+ *
+ * Enable in: Settings -> Appearance -> CSS snippets.
+ */
+
+/* ============================================================
+ * Properties block — hidden by default, checkbox reveals
+ * ============================================================ */
+
+.markdown-reading-view.hide-props .metadata-container,
+.markdown-source-view.is-live-preview.hide-props .metadata-container {
+  display: none;
+}
+
+.markdown-reading-view.hide-props:has(.show-props-toggle:checked) .metadata-container,
+.markdown-source-view.is-live-preview.hide-props:has(.show-props-toggle:checked) .metadata-container {
+  display: block;
+}
+
+.show-props-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.85em;
+  color: var(--text-muted);
+  cursor: pointer;
+  user-select: none;
+  margin: 0.25em 0 0.75em;
+}
+
+.show-props-label input[type="checkbox"] {
+  margin: 0;
+  cursor: pointer;
+}
+
+/* ============================================================
+ * Axes-of-Creation calibration state
+ * Red <summary> until cssclass `axes-unset` is removed.
+ * ============================================================ */
+
+.axes-unset details.axes-block > summary {
+  color: var(--text-error);
+  font-weight: 600;
+}
+
+.axes-unset details.axes-block > summary::before {
+  content: "⚠ ";
+}
+
+/* Once calibrated (axes-unset removed) the summary returns to default. */
+
+/* ============================================================
+ * Generic <details> tweaks — applies to Related pages, Axes,
+ * and anywhere else a collapsible is used.
+ * ============================================================ */
+
+.markdown-rendered details > summary {
+  cursor: pointer;
+  user-select: none;
+  margin: 0.5em 0;
+  font-weight: 600;
+}
+
+.markdown-rendered details[open] > summary {
+  margin-bottom: 0.25em;
+}

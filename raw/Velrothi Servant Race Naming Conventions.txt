@@ -1,0 +1,58 @@
+Velrothi Servant Race Naming Conventions
+During the height of the Firethorn Empire, Velrothi servant races followed a structured naming system that clearly showed allegiance while allowing each race to retain its own cultural flavor.
+General Structure
+Standard Servant Form: [Given Name] ser [Velrothi House] [Own Clan / Workshop / Hold]
+Elevated Form (Rare Honor): [Given Name] of House [Velrothi House] [Own Clan / Workshop / Hold]
+
+1. Orug (Civilized Servants & Honorable Retainers)
+Style: Formal, honorable, martial, and dutiful.
+Phonetic Profile: Strong Velrothi influence with heavy, reliable consonants. Names feel solid and trustworthy.
+Typical Sounds: Hard consonants (K, R, Th, G, V, B, D); steady vowels (a, o, ar, or).
+Patterns: Two or three syllables, often ending in strong stops (-ak, -or, -ath, -ash).
+Male Given Names: Varak, Thragor, Korvash, Narok, Grendar, Borvath
+Female Given Names: Varaka, Thragara, Korvasha, Naroka, Grendra, Borvatha
+Cognomens (Earned through honorable service): Oathkeeper, Steadfast, Ironshield, Trueblade, Longwatch
+Examples:
+
+Varak ser Velroth Stoneward
+Thragara ser Narveth Oathbound
+Korvash ser Korthal Ironshield
+
+
+2. Grog / Grug (Technical Maintainers & Inventors)
+Style: Clever, sharp, inventive, and slightly chaotic.
+Phonetic Profile: Quick, technical, and mechanical-sounding with sharp edges.
+Typical Sounds: Sharp consonants (Gr, Kr, X, Z, Tik, Rik, Phr, Grix); short, bright vowels.
+Patterns: Short, punchy syllables. Often include “-ix”, “-zar”, “-rik”, or “-tik”.
+Male Given Names: Grix, Vexor, Narkim, Tikzar, Rixul, Phrikon
+Female Given Names: Grixa, Vexara, Narkima, Tikzara, Rixula, Phrikara
+Cognomens (Invention / Skill related): Sparkfinger, Gearwhisper, Lockbreaker, Overclocker, Quickfix
+Examples:
+
+Grix ser Korthal Sparkworks
+Vexara ser Valtharion Gearvault
+Tikzar ser Kathor Deepcoil
+
+
+3. Rathar (Scholarly Assistants & Researchers)
+Style: Scholarly, precise, arcane, and formal.
+Phonetic Profile: Heavy, resonant, and intellectual. Long, flowing but structured.
+Typical Sounds: Velrothi classics (V, R, Th, K, X, L, N, Ph, Z); rich, deep vowels (ar, or, eth, ian).
+Patterns: 3–4 syllables, often ending in -ar, -ion, -eth, -or. No cognomens — identity is strictly by House and Hold.
+Male Given Names: Valthar, Rathandar, Korthalion, Pharzen, Thalorak, Xarvenor
+Female Given Names: Valthara, Rathandri, Korthalia, Pharzene, Thalira, Xarvena
+Examples:
+
+Valthar of House Valtharion, Ninth Crystal Vault
+Thalira of House Narveth, Deep Archive of Thalor
+Pharzen of House Korthal, Runeward Hold
+
+
+General Cultural Notes
+
+The “ser [House]” structure emphasized loyalty to a specific Velrothi House.
+The Own Clan / Workshop / Hold portion allowed servant races to maintain pride in their specific contributions.
+Formal induction into a Velrothi House (dropping “ser”) was one of the highest honors a servant could receive.
+
+After the banishment, the cultures were no longer servants and slowly dropped the "ser"
+

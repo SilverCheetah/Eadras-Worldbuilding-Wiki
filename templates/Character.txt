@@ -1,0 +1,71 @@
+---
+title: <% tp.file.title %>
+tags: [characters, eadras]
+canon_status: [<% tp.system.suggester(["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"], ["established","proposed","open-canon","pending","rework-pending","partial-rework-pending","deprecated","sealed"]) %>]
+perspective: [tome-neutral]
+historical_horizon: [<% tp.system.suggester(["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"], ["primordial","nerathi-era","dragon-era","dragon-unicorn-era","progenitor-era","high-firethorn","demon-war","dimming","modern-era","all"]) %>]
+knowledge_access: [<% tp.system.suggester(["common","general","scholarly","esoteric","meta","sealed"], ["common","general","scholarly","esoteric","meta","sealed"]) %>]
+cssclasses: [hide-props, axes-unset]
+axes_profile:
+  masculine_feminine: 0
+  altruism_self_interest: 0
+  obedient_independent: 0
+  wisdom_foolishness: 0
+---
+
+<label class="show-props-label"><input type="checkbox" class="show-props-toggle"> Show properties</label>
+
+# <% tp.file.title %>
+
+**Summary**: One to two sentences describing this individual.
+
+**Sources**: List of raw source files this page draws from.
+
+**Last updated**: <% tp.date.now("YYYY-MM-DD") %>.
+
+---
+
+**Race**:
+**Era**:
+**Affiliation**:
+**Status**: living / dead / ascended / sealed / unknown
+
+## Biography
+
+Life arc; key episodes; relationships that matter.
+
+## Role and reputation
+
+What this character is known for; how they are remembered or feared.
+
+## Abilities
+
+Magical, martial, social, or other relevant capacities.
+
+## Open canon
+
+Bullet list of unresolved questions about this character.
+
+<details class="axes-block">
+<summary>Axes of Creation profile</summary>
+
+**Masculine ↔ Feminine**
+`INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.masculine_feminine]`
+
+**Altruism ↔ Self-Interest**
+`INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.altruism_self_interest]`
+
+**Obedient ↔ Independent**
+`INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.obedient_independent]`
+
+**Wisdom ↔ Foolishness**
+`INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.wisdom_foolishness]`
+
+</details>
+
+<details>
+<summary>Related pages</summary>
+
+-
+
+</details>

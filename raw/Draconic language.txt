@@ -1,0 +1,58 @@
+Draconic (language)
+Summary: Draconic is the primordial, instinctual language of dragonkind. It is an agglutinative abjad built on triconsonantal roots. Every root consists of exactly three consonants. Meaning is layered through a strict three-vowel template and additional suffixes. The language feels ancient, heavy, and resonant — an extension of the Fire itself. Dragons do not learn it; they awaken already speaking it.
+Sources: Dragons.txt, Ratharil entry, Internal Cosmology of the Eadras Mythos.txt
+Last updated: 2026-05-02
+Phonology
+Consonants (14 total)
+S, Z, Tr, Dr, Rr, Shr, Zr, Rh, Lr, K, G, Ng, Kh, Gh
+Transcription Rule (for mortal/Common script only)
+
+Multi-letter consonants have only the first letter capitalized (KKhR, ZKhR, LrRhDr, RhTrKh, TrKhR).
+This is purely a transcription convention. The native Draconic runic script has no case distinction.
+
+Vowels
+Every root follows the rigid template:
+C₁V₁ C₂V₂ C₃V₃
+Each vowel position carries semantic or grammatical weight (aspect, relational status, elemental affinity, honor level). Dragons instinctively feel the correct vowels.
+Morphology & Grammar
+
+Triconsonantal Roots: Every core concept is a three-consonant root.
+Agglutinative: Vowels and suffixes stack to create nuance, tense, social register, elemental resonance, and power level.
+Longer, more complex forms indicate greater age, wisdom, or authority.
+The language is highly context-sensitive and poetic; a single well-chosen root sequence can carry volumes of meaning.
+
+Dragon Naming Conventions
+Personal Names
+Structure: [Root(s)] + Vowel Pattern + Optional Honor Suffix
+Usually two or three roots combined for grandeur.
+Clan / Brood Names
+Structure: "[Root] [Root] Brood" or "of [Root] [Root]"
+Common Honor Suffixes
+
+-ara — Radiant / Flame-born
+-adru — Guardian / Warden
+-akhe — Shatterer / Stormbringer
+-rakh — Eternal / Unyielding
+First Flare — Highest honor
+
+Example Names
+
+Kkharara (Fire-born)
+Lrrhadra (Forest-warden)
+Rhtrakhadara (The Eternal Radiant Gathering) — official Draconic name for Ratharil
+Drrhadru (Crushing Power)
+Rhngadra Zkhar Trkhar (Radiant Storm of the First Age)
+
+Cultural & Magical Significance
+
+Dragons consider Draconic sacred. To speak it improperly is an affront to the Fire.
+In Rhtrakhadara (Ratharil), formal Draconic is used for all Council proceedings and treaties.
+The language carries metaphysical weight. When spoken with true intent, it can subtly influence the Fire (raw Sourceshine / reflected Eldritch).
+Mortals find correct pronunciation extremely difficult. Even master weavespinners can only approximate the deeper resonances.
+Dragons rarely speak true Draconic to non-dragons unless the matter is of grave importance — either profound respect or a prelude to annihilation.
+
+Writing System
+Native Script: A runic abjad of angular, flame-like glyphs that flow and interlock. When carved into stone or traced with breath, the runes can appear to flicker with inner fire. The script is considered sacred; defacing it is a grave offense.
+Ratharil
+Official Draconic name: Rhtrakhadara
+Meaning: “The Eternal Radiant Gathering” or “The Place Where All Fires Burn as One Without Consuming”

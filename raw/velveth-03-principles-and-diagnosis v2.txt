@@ -1,0 +1,132 @@
+# velveth-03-principles-and-diagnosis.txt
+
+**World**: Eadras
+**Source**: Direct canonical establishment, 2026-05-14 (Velveth canonization session, with Velrathi title-morphology, Ascension-mystery, Avatar-impossibility, and Icon-framework refinements)
+**Document type**: Distilled ingest document — setting-wide principles
+**Companion documents**: eadras-core-canon.md, gods-of-eadras.md, great-betrayal.md, velrathi.md, divine-bureaucracy.md, naming-conventions.md
+**Last updated**: 2026-05-14
+
+---
+
+## HOW TO READ THIS DOCUMENT
+
+This document distills the **setting-wide principles** that Velveth's establishment surfaces or sharpens. Each principle has a `[DIAGNOSIS]` explaining the insight and a brief note on where else in canon it applies.
+
+---
+
+## 1. Apotheosis by Designation-of-Required-Cost
+
+> *Some living mortals undergo Apotheosis — Divine Apotheosis — by a mechanism unique to each individual case. The mechanism is not recorded, cannot be compiled, and is not discussed even among the Ascended. What is observable is the outcome: a living mortal becomes a god, instantly, at a specific moment that is theirs alone.*
+
+`[DIAGNOSIS]` Velveth is the cleanest case in canon. Kathira lived in Veyr'Keth for some indeterminate period after the Banishment, bearing the Long Quiet's discipline daily. At some moment during that period, Apotheosis occurred. Her body became Icon (manifesting on the Prime Material), her mind became divine, the Hall of the Long Quiet appeared in the outer planes, and her divine simulacrum appeared in Solarion.
+
+The mechanism is hers and hers alone. No other Ascended Mortal God's Apotheosis happened the same way. Some similarities across cases probably exist — Apotheoses are unlikely to be entirely uncorrelated — but the Gods do not compile the similarities and are characteristically reluctant to discuss their own Apotheoses with one another. The experience is intensely personal in a way the cosmology rarely produces.
+
+**Apotheosis can only happen to living mortals.** A soul that has died must be reborn into the cycle and have its candidacy reset across new lifetimes. This constraint is absolute.
+
+**Applies elsewhere**: this pattern applies to *all known Ascended Mortal Gods* — Baldaran, Aramet, Ixthal, Imma, Velveth, and any others. Each had their own Apotheosis-moment while alive. None has fully described theirs. The setting now has a categorical pattern for divine transition that respects both the *fact* of Apotheosis and the *unknowability* of its mechanism.
+
+## 2. The Bearing Becomes the Portfolio
+
+> *When a mortal performs an act that requires a specific architecture of internal bearing, and the mortal subsequently undergoes Apotheosis, the divine portfolio is shaped by the architecture of the bearing rather than by the act's external form.*
+
+`[DIAGNOSIS]` Velveth is not the goddess of *poisoning*. She is not the goddess of *political assassination*. She is the goddess of **betrayal-love-duty as one inseparable bearing** — the precise internal architecture Kathira had to construct to perform the act *without being destroyed by it*.
+
+The portfolio is shaped *from the inside out*, not from the outside in. The act, externally, was a poisoning of a fiancé. The bearing, internally, was the simultaneous holding of three terms that most mortals can only hold one at a time. *The portfolio inherits the internal structure.*
+
+**Applies elsewhere**: this is why divine portfolios are often *odd-shaped triplets or composites* rather than clean single-domain categories. Shali-and-Shani as the two-faces-of-death; Ioa's rulership-law-sovereignty-command; Nox's night-secrecy-hidden-truths-loathsome-knowledge. Each portfolio reflects an internal architecture that the deity carried (or carries) at the divine level. When designing new Ascended in the setting, the question to ask is: *what internal architecture did the mortal have to hold to do what they did? — that, expanded, becomes the portfolio.*
+
+## 3. Inseparable Triplets Are Doctrinally Load-Bearing
+
+> *Certain divine portfolios are formally inseparable triplets, addressed always together and in a fixed order. To break the triplet is to misuse the office.*
+
+`[DIAGNOSIS]` Velveth (Betrayal, Love, Duty) is the clearest current example. The order is fixed. The terms are addressed together. Liturgical mis-ordering or single-term invocation is minor blasphemy in formal practice and indicates poor cultural literacy in cross-pantheon use.
+
+This is a structural feature of certain divine offices that the wiki has not previously named explicitly. Other likely cases include:
+
+- **Nox**: *Night, Secrecy, Hidden Truths, Loathsome Knowledge* — almost certainly an inseparable quartet
+- **Sylph**: *Foolishness, Masks, Laughter, Fae, Merciful Absurdity* — possibly an inseparable five-term portfolio
+- **Shali and Shani as a pair**: the *two-faces-as-one-portfolio* structure operates on the same principle
+
+**Applies elsewhere**: future divine establishment in the setting should consider whether the deity's portfolio is *single-term*, *separable multi-term*, or *inseparable-triplet/quartet*. The distinction affects liturgical practice, cross-pantheon protocol, and how the deity may be addressed in priestly work.
+
+## 4. Bargains Honored in Full Are the Setting's Theological Bedrock
+
+> *The Eadran cosmology depends on the gods occasionally honoring bargains exactly as sealed, with no later revision. These cases are rare but load-bearing. They prove the gods are not faithless.*
+
+`[DIAGNOSIS]` The Great Betrayal's full-honoring is the canonical reference case. The gods received the empty Throne; they destroyed the Demon Prince; they drove back the demonic legions; they sealed the Demonfall Gate. **No later amendment. No punitive addition. No diplomatic recalibration.** The Banishment that followed was *pre-accepted by the Coalition* under Article Six, and was therefore not a revision. (The Weave is sometimes mistakenly cited as part of the bargain's deliverables; this is incorrect. Lirra wove the Weave early in the war as a defensive structure, independent of the bargain.)
+
+This matters for the setting's deeper theological coherence. The gods are *exhausted administrators* — but the canon takes care to establish that exhaustion does not equate to faithlessness. When a bargain is properly sealed and properly executed by the mortal side, the gods honor it.
+
+**Applies elsewhere**: any future mortal-divine bargain in setting fiction should be calibrated against the Great Betrayal as the reference case. The pattern: *if the bargain is properly framed and the mortal side delivers, the gods deliver in full*. This is not soft theology; this is the cosmic bedrock that makes mortal-divine institutional cooperation possible at all.
+
+## 5. Designation-Over-Acquisition Has a Personal Dimension
+
+> *When the gods designate, they designate a specific soul with a specific architecture. The designation is not transferable. It cannot be claimed by another. It cannot be inherited.*
+
+`[DIAGNOSIS]` Principle 17 of the In-World Principles establishes designation over acquisition for powerful/rare roles in general. Velveth's case adds the **personal-architecture dimension**: the Apotheosis that produced Velveth did not select *a Velrathi princess of approximate type Kathira*; it selected *Vorandethi Kathira Spellsinger specifically*, because her specific song-channeled-spellwork discipline plus her specific eighty-year engagement plus her specific six-hour Long Quiet plus her specific love-and-duty-and-betrayal architecture *were the only configuration that produced the required portfolio*.
+
+A different Velrathi princess in Kathira's position would have produced a different goddess — or no goddess at all, if the architecture had not been sufficient. The designation is keyed to the soul, not to the role.
+
+**Applies elsewhere**: this implies that the setting's pantheon is *partly path-dependent on specific mortal lives*. Future Eadran stories involving godhood or divine designation should respect this personal dimension. The pantheon is not a categorical taxonomy of possible domains; it is a *historical assembly of specific souls who held specific architectures at specific moments*.
+
+## 6. Thematic-Geography Operates in Solarion's Corridors
+
+> *Adjacent divine offices in Solarion often hold thematically-paired portfolios. The corridor geography is not random; it expresses the deeper structural tensions the setting prizes.*
+
+`[DIAGNOSIS]` Velveth's office (formal Velrathi-Gothic, treaty-vial-and-wine-cup iconography, Betrayal-Love-Duty portfolio) sits three doors from Imma's office (wagon-style pale wood, loaf-and-bowl on porch, daily-laughter-feeding-the-Weave-and-daily-Veil-renewal). The corridor expresses the setting's deepest thematic tension between **memory** and **forgetting**, in two opposite cultural answers, *literally three doors apart on a working street*.
+
+This is not a one-off. The corridor probably contains *other thematic pairings*. Future Solarion development should respect this principle: when placing a new office, ask *what thematic pairing does this office support, and which neighbor produces the deepest dialogue?*
+
+**Applies elsewhere**: this principle gives the setting a tool for organizing future divine-bureaucratic detail. The corridor is not just a list of offices; it is a *mapped thematic field* in which adjacency expresses meaning.
+
+## 7. The Quiet Inside the Act
+
+> *The most cosmically-significant moments of an act often happen in the quiet after the act, not the act itself. The Long Quiet is the load-bearing portion of the night.*
+
+`[DIAGNOSIS]` Kathira poured. Thoramis drank. He died within two hours. *And then Kathira sat with him for six hours before raising the alarm.*
+
+The poisoning was an instant. The Long Quiet was the actual labor. The act was simple; *the bearing of the act in the six hours afterward was the architecture that defined what kind of being Kathira had become*. The Long Quiet is what the Velrathi archives preserve as the central memory of the night. It is what Velveth's partly-veiled iconography centers. It is what the goddess's portfolio carries forward into eternity.
+
+**Applies elsewhere**: this is a useful principle for any future Eadran narrative involving moral weight. The most important hour of any catastrophe is often *the hour after*. Setting fiction should respect the Long Quiet as a structural feature.
+
+## 8. Linguistic Morphology as Cultural Expression
+
+> *A people's grammar of titles and address is not arbitrary; it expresses how that people understand authority, lineage, and the relationship between role and person. The Velrathi two-axis title-morphology embodies their core cultural logic: precision, gendered-but-equal authority, and the systematic treatment of lineage-by-line versus reigning-in-fact.*
+
+`[DIAGNOSIS]` The Velrathi title-system separates two questions that many real-world languages conflate: *what is this person's role?* (gender suffix) and *do they currently hold the role, or do they hold it by lineage but not yet in fact?* (diminutive suffix). This separation is characteristically Velrathi — the kind of grammatical precision that a Conclave-governed scholarly culture would develop and preserve.
+
+Other peoples' title-systems should be expected to embody their cultural logic similarly. The Tarans would likely have had a *military-hierarchy* title-system reflecting their imperial-rank obsession. The Beast-Folk have *cognomens* rather than titles, reflecting their refusal of formal hierarchy. The Katharim probably have *role-by-function* titles emphasizing the work performed. The Orden likely have *commerce-tier* titles tied to specific institutional roles.
+
+**Applies elsewhere**: when developing a new people's social organization in the setting, the title-and-address system is one of the cleanest expressions of their cultural logic.
+
+## 9. The Universal Icon-and-Simulacrum Framework
+
+> *Every god in Eadras — Elder or Ascended — operates through the same two-part mediation structure: an Icon on the Prime Material (required for any direct interaction with the Mythos; only the Prime Material can host an Icon) and one or more Simulacra in the spirit realms (Solarion, Nyxar, Feywild, Shadowdark, Elemental Planes, wherever the god's divine power reaches). Avatars — direct partial divine presences carrying full reality-weight — are impossible in Eadras and would crack the narrative foundation of the world. Icon-destruction renders the god's domain unruled for 100 years until the Icon reforms.*
+
+`[DIAGNOSIS]` This is the **structural foundation underneath the Doctrine of the Unheld Hand**. The Doctrine has been canonically a philosophical-and-institutional restraint; it is also a *cosmological constraint*. The Gods do not merely choose not to manifest fully in Eadras — they cannot, structurally. The Primordial Sacrifice's observer-hungry residue, the Worldbreaker's foundational scarring, the Crusade-induced microfracture network, the Demon-War's structural damages, and the Anti-Magic-Crusade's Weave-degradation have collectively left the Mythos too fragile to bear Avatar-class manifestation.
+
+**Icon-location rule**: All Icons are on the Prime Material, without exception. Never on Mirror, Upper, Lower, or Elemental Planes. The Prime Material is the structural foundation of the Mythos; Icons must anchor to that foundation specifically.
+
+**Icon-visibility rule**: Most mortals do not know Icons exist. The concept is held by inner clergy, the gods themselves, the Order Sharanel, and very few others. Most Icons are hidden in protected sanctuaries; a few are *hidden in plain sight*, embedded as relics in temple-naves and similar locations.
+
+**Icon-destruction rule**: If a god's Icon is destroyed, the god loses Prime-Material influence for approximately 100 years — the time required to reform the Icon. During that interval, the god's domain becomes **unruled**: the portfolio continues to operate cosmologically, but governance falls away. *Magic without a mind becomes chaotic rule in effect.* Severity varies: most cases are bad-but-bearable; some (Lirra's case is the canonical extreme — magic would cease entirely for 100 years) would be catastrophic. Kudur-eṭir is the unique exception, where Total Icon Binding made standard destruction terminal.
+
+**Applies elsewhere**: every aspect of how divinity operates in canonical Eadras flows from this framework. The Banished progenitor peoples (Velrathi, Tarans, Elfen) have their pantheons' Icons remaining on the Prime Material of Eadras despite their peoples' exile — open canon how those Icons are maintained, but the structural requirement is fixed. Setting stories involving Icon-targeting, unruled-domain consequences, and 100-year-recovery intervals are now narratively viable.
+
+---
+
+## LIVE WIRES
+
+- Are there other *Long Quiets* preserved in canonical Eadran memory? Specific six-hour-or-longer post-act silences that have become foundational?
+- The Doctrine of the Unheld Hand: does it apply differently to Velveth than to other Ascended? Her domain is *active intervention in mortal moral architecture*.
+- If Velveth had not survived the war — if she had died in the months between the poisoning and the end of the war — would the Apotheosis have happened? (Answer: no — Apotheosis only happens to living mortals; but this is still a useful question for understanding the cosmology of designation-timing.)
+- Are inseparable triplets a Velrathi-cultural form, or a cosmic-structural form?
+- Could a *future* Eadran event create a new inseparable-triplet portfolio that has no current divine occupant?
+- The Velrathi title-morphology produces parallel forms for any new stem; what are the other known Velrathi title-stems?
+- Was there an Icon-destruction event during the Anti-Magic Crusade? The killing of three Windspeakers caused the Thousand-Year Dimming directly, but if a god's Icon was also destroyed (or near-destroyed), the Dimming would have a deeper cause.
+- What does an *unruled domain* actually look like during the 100-year recovery interval? A worked example for each portfolio would be useful setting material.
+- How are the Banished pantheons' Icons (Velrathi, Tarran, Elfen) maintained on the Prime Material in the absence of their peoples? Are there secret enclaves-of-keepers?
+- Are there *historical* examples of Icon-destruction in Eadras's past, beyond Kudur-eṭir's? Smaller cases that would have produced documented 100-year unruled-domain intervals?
+- The Order Sharanel's compartmentalization is partly Weave-secret-protection; is it also partly Icon-protection?
+- The fact that Apotheosis is undocumented across all canon raises the question of *whether the silence is enforced or natural*. Is there a Decree-level seal on the topic, or does the experience simply produce no transmissible record?

@@ -1,0 +1,80 @@
+Game of the Gods — design intent canonized, 2026-05-11
+
+(Session-capture: Josh's resolution of item 7 from the /adversarial
+probe. The Skeptic had flagged that the Position section attributes
+design intent to the Game while the Causation section says Dao made
+it in secret and didn't explain. Josh's choice: canonize the design
+intent.)
+
+== Canon ==
+
+The Game of the Gods is **designed by Dao for containment**, serving
+Roles 1 and 2 of Dao's monitor function:
+
+- Role 1: ensure things run smoothly (gods absorbed in the Game do
+  not over-intervene in mortal affairs).
+- Role 2: keep the macro balance (the most powerful pantheon in a
+  magic-rich Mythos does not push outward into other Mythoi).
+
+This is canon at the Tome / authorial-narrator level, not at the
+in-Eadras-mortal-scholar level. Eadras inhabitants do NOT know this:
+- Dao made the Game in secret.
+- Dao did not explain it.
+- The gods who play the Game do not know it functions as
+  containment; from inside they experience it as the most
+  interesting thing in existence.
+- Mortal scholars cannot verify the design intent from within the
+  Mythos.
+
+The Tome (and the wiki's tome-neutral narrator voice) knows the
+design intent. Inside-Eadras characters do not.
+
+== Implication for page voice ==
+
+The Position section's confident language about the Game ("the
+mechanism that maintains [inward orientation]" / "benign containment"
+/ "not coincidence") is correct and need not be hedged. The Causation
+section's epistemic humility about WHAT THE EADRAS INHABITANTS KNOW
+remains correct.
+
+The two sections operate at different epistemic levels:
+- Position section: Tome-narrator knowledge level (knows design
+  intent canonically).
+- Causation section: Eadras-internal knowledge level (does not
+  know what the gods don't know).
+
+This reconciles the apparent tension. The Skeptic's flag was valid
+within a more restrictive epistemic model than the Tome operates at;
+the Tome operates at a broader level and can know what the
+inhabitants don't.
+
+== No page edits needed ==
+
+The relevant pages are already correctly framed:
+- gods-of-eadras.md Position section: confident, canon-correct.
+- gods-of-eadras.md Causation section: epistemically humble about
+  what's inside-Eadras-knowable.
+- dao.md Role section: already states the Game serves Roles 1 and 2.
+- spirits.md, demons.md, etc.: do not depend on this distinction.
+
+No edits required from this resolution.
+
+== All adversarial probe items now resolved ==
+
+The /adversarial probe on the Position section surfaced seven
+disagreement points. Their final dispositions:
+
+1. Independence of richness vs Well size -> COMMITTED canon update
+   (twenty-third log entry)
+2. Unbounded vs bounded Godpower -> COMMITTED canon update
+   (twenty-third log entry; three-axis model)
+3. Dao as primordial-tier? -> CONFIRMED no; clarification added
+   (twenty-third log entry)
+4. Expansionist gods default -> CANONIZED via worship-as-power
+   (twenty-fourth log entry)
+5. Bastion-radiation mechanism -> CONFIRMED canon (twenty-fourth)
+6. "Seven closest" count precision -> CONFIRMED canon (twenty-fourth)
+7. Game's design intent -> CANONIZED this entry as Dao's design
+
+The probe is fully resolved. The Position section is now in stable
+canon form.

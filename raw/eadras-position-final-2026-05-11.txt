@@ -1,0 +1,124 @@
+Eadras's position in the multiverse — final canon, 2026-05-11
+
+(Session-capture: Josh untangled two properties I had been conflating
+across multiple retcons today, and clarified what's unique about
+Eadras vs other Mythoi.)
+
+== Two distinct properties ==
+
+INTRINSIC MAGICAL RICHNESS is a property of the MYTHOS ITSELF -- its
+substance, its laws, its cosmological architecture, what's woven into
+the fabric. Eadras IS intrinsically magically rich. This is a
+Mythos-level property, not a function of Well contents at any given
+moment.
+
+WELL SIZE is the reservoir of Creative Power that gods tap. It
+regulates TOTAL POWER AVAILABLE to the gods of a Mythos -- how much
+they can draw.
+
+These two properties are INDEPENDENT. They can vary separately. I had
+been conflating them across the (fourteenth), (sixteenth), and
+(seventeenth) log entries; that was the persistent error.
+
+Specifically:
+- Eadras: intrinsically magically rich. Small current Well. Always full
+  (Bastion feed).
+- Other Mythoi: varying intrinsic richness; larger Wells; not refilled
+  by Bastion (not adjacent to Concordance).
+
+== Well size matters when not refilled ==
+
+The critical mechanic:
+
+> "Size of well would regulate total power available to Gods, but not
+> when it is always full!"
+
+For Mythoi without continuous feed: Well size = total godpower budget.
+A larger Well = more power available; a smaller Well = less. Wells
+drain over time as gods tap them.
+
+For Eadras: the small Well is always full (Bastion feed). The size-as-
+cap doesn't apply. Gods can keep drawing forever. The "budget" framing
+doesn't exist for Eadras's pantheon -- they have effectively unlimited
+access.
+
+== The Primordial sacrifice -- unique to Eadras ==
+
+EADRAS IS UNIQUE in the Omniverse for ONE specific event:
+
+The Primordial Duo (Evye and Fryr) SACRIFICED themselves into the
+Mythos. They dissolved their essence into the Well of Creation and the
+substance of the world, paying their own existence as the price of
+creating Eadras.
+
+OTHER MYTHOI in the Omniverse: their primordial creators
+- did NOT sacrifice
+- are STILL PRESENT in their Mythos
+- still RULE as the top tier of divinity
+- have NOT consumed their Wells in the same way Eadras was consumed
+
+Consequences for Eadras:
+- Top-tier rulership is one tier lower than it would have been
+  elsewhere -- the Elder Gods of Eadras are the highest active
+  divinity, with the Primordials gone
+- The Well is small (because the sacrifice + creation consumed most
+  of the substantial original allotment plus the Primordial essence)
+- Bastion feed compensates for the depleted Well, since Eadras happens
+  to be in the privileged location
+
+Consequences for other Mythoi:
+- Primordial-tier divinity at the top (their primordials still rule)
+- Larger Wells (not consumed by sacrifice-and-creation in the same
+  way)
+- No Bastion feed (not adjacent to Concordance)
+- Gods operate within a finite power budget
+
+== The Eadras advantage, summed up ==
+
+Eadras's pantheon is exceptionally powerful because:
+1. The Mythos is intrinsically magically rich (saturated substance)
+2. The Well is small but ALWAYS FULL (no bottleneck on godpower)
+3. The Primordials are gone (no tier above the active pantheon)
+4. The Bastion of Light continuously feeds the Well (compensates for
+   the consumed allotment and Primordial essence)
+
+This combination is unique. Other Mythoi have at most some of these
+features. None have all four.
+
+== My earlier confusions, recorded ==
+
+Across today's session:
+
+(fourteenth): said Eadras had one of the largest Wells. WRONG -- I
+conflated intrinsic magic richness with Well size.
+
+(sixteenth): said Eadras had the smallest Well by raw allotment.
+WRONG -- the original allotment was substantial; the Well is small
+NOW because most was consumed in creation.
+
+(seventeenth): said Eadras was "intrinsically rich" but framed the
+intrinsic richness as living in the Well's depth/history. WRONG --
+intrinsic magical richness is a property of the Mythos itself, not
+a function of Well depth at any moment.
+
+THIS entry corrects the conflation. Intrinsic magical richness (Mythos
+property) and Well size (godpower capacity) are independent. Eadras is
+rich in the first sense; small in the second; always-full in flow rate.
+
+== Edits this session ==
+
+- gods-of-eadras.md "Position in the multiverse" section: opening
+  paragraphs rewritten (FOURTH time today) using three explicit
+  sub-sections to distinguish the two properties and to make the
+  Primordial sacrifice's uniqueness explicit:
+    "### Eadras is intrinsically magically rich"
+    "### The Primordial sacrifice — Eadras's unique circumstance"
+    "### Why the pantheon is still powerful"
+
+== Pending follow-ups (added/updated) ==
+
+- primordial-duo.md: should note the sacrifice is UNIQUE in the
+  Omniverse. Other Mythoi's primordials still rule. The Eadras
+  sacrifice is a one-of-a-kind event.
+- Possible new page: the question of WHY the Primordial Duo chose
+  to sacrifice (when others did not) is open canon worth exploring.

@@ -1,0 +1,137 @@
+Adversarial probe resolutions — Eadras-position canon, 2026-05-11
+
+(Session-capture: Josh's responses to the seven disagreement points
+surfaced by the /adversarial probe on gods-of-eadras §Position in the
+multiverse. Three are committed as canon updates this session;
+others are confirmed not-issues.)
+
+== Canon decisions ==
+
+DISAGREEMENT 1 -- Independence of intrinsic richness vs Well size
+
+RESOLUTION:
+- The two properties are CONCEPTUALLY independent variables.
+- In Mythoi created through Primordial sacrifice (the seven closest),
+  the two CO-VARY by the same cause: pouring out Well-allotment AND
+  Primordial essence into the substance produces intrinsic richness
+  at the cost of the Well that remains.
+- The typical CONSEQUENCE (small remaining Well → modest pantheon)
+  follows in most sacrifice-Mythoi.
+- Eadras is unusual: the Bastion-feed location DECOUPLES the
+  consequence from the cause. Small Well never empties; godpower
+  consequence does not follow.
+- So: conceptually independent, empirically correlated at cause in
+  sacrifice-Mythoi, decoupled at consequence in Eadras.
+
+DISAGREEMENT 2 -- Unbounded vs bounded Godpower
+
+RESOLUTION: Three-axis bounding model.
+
+Godpower availability is constrained by:
+  1. WELL SIZE -- the reservoir from which gods draw.
+     - In normal Mythoi: bounded by what's leftover after creation.
+     - In Eadras: effectively unlimited due to Bastion feed.
+  2. PER-GOD DRAW CAPACITY -- the rate/quantity an individual god
+     can channel from the Well in a given working.
+     - Bounded everywhere, including Eadras.
+     - Auralis and Thamior canonically used their full draw plus
+       their own life-force trying to save the Arathi. They didn't
+       drain the Well; they hit their own draw limit + spent their
+       personal essence. (Per doctrine-of-unheld-hand.md.)
+  3. DIVINE BUREAUCRATIC CHANNELING -- the institutional speed,
+     competence, and availability of the Divine Bureaucracy to
+     translate divine intent into mortal-world effect.
+     - The Bureau operates on RULES (doctrine, Favor, procedure),
+       not on power scarcity.
+     - Miracle denials are doctrinal/procedural, not capacity-
+       based.
+     - This is a separate bottleneck from raw Godpower.
+
+The Eadras pantheon is UNBOUNDED on axis 1 and BOUNDED on axes 2
+and 3.
+
+DISAGREEMENT 3 -- Does Dao count as primordial-tier active divinity?
+
+RESOLUTION: NO. (Categorical.)
+
+Specifically:
+- Dao is NOT a Mythos divinity.
+- Dao holds NO MYTHOS PORTFOLIO -- unlike Elder Gods and Ascended
+  Mortal Gods who each regulate an aspect of mortal or cosmological
+  life, Dao has no domain within Eadras's pantheon order.
+- Dao does NOT regulate the Mythos's internal affairs.
+- Dao operates as an Omniversal Creator Avatar -- a tier-prior
+  cosmic layer that does not enter into the Mythos's internal
+  divinity ordering.
+- "No primordial-tier active divinity in Eadras" is therefore
+  correct without qualification when referring to the Mythos's
+  pantheon. (The page can usefully clarify that Dao is the cosmic-
+  prior exception, but he is not "primordial-tier" in the Mythos's
+  sense of that classification.)
+
+== Non-issues (Skeptic findings rejected) ==
+
+SKEPTIC FINDING: "Unbounded Godpower contradicts the Bureau."
+REJECTED: Bureau operates on rules, not on power scarcity. Auralis/
+Thamior is a per-god draw-capacity precedent, not a Well-drain
+precedent. The two are different mechanisms; no contradiction.
+
+SKEPTIC FINDING: "No primordial-tier divinity contradicts Dao."
+REJECTED: Dao is not a Mythos divinity. The Position section's
+claim refers to the Mythos's pantheon, in which Dao does not
+participate (no portfolio, no regulation, no domain). His existence
+in a tier-prior cosmic layer is not a contradiction.
+
+SKEPTIC FINDING: "Expansionist gods is unsupported."
+NOT-AN-ISSUE: Primary focus of the wiki is Eadras. Omniverse
+descriptions are useful background context, not load-bearing
+canon that requires rigorous support. Acceptable as background.
+
+SKEPTIC FINDING: Cross-Mythos divine business not mechanically
+established.
+RESOLVED: Gods from different Mythoi conduct business with each
+other in the Outer Realms (circling Concordance) and in Nexus
+itself. The cross-Mythos venues are the established mechanism.
+Existing canon (omniverse.md) supports this -- "Every god from
+every Mythos across the Omniverse maintains a personal domain in
+the Outer Realms." Not load-bearing for the Position section but
+worth noting as available canon.
+
+== Items not addressed this turn (still open) ==
+
+These four Skeptic findings remain user-judgment items for later:
+
+- Bastion-radiation mechanism (over-claim or canon-quality?)
+- "Seven closest" count precision (precisely known or speculative?)
+- Game's "design intent" framing (fact or interpretation?)
+- Schema/convention cleanup items (anchor-link style, bloated
+  Sources line, knowledge_access mismatch, perspective register
+  wobble)
+
+== Edits this session ==
+
+- gods-of-eadras.md "Position in the multiverse" section, three
+  edits:
+  1. Independence claim sub-section: reframed to acknowledge
+     co-variation in sacrifice-Mythoi and Eadras's exceptional
+     consequence-decoupling.
+  2. "No primordial-tier active divinity" line: clarified with
+     parenthetical noting Dao operates outside the Mythos's
+     divinity entirely (no portfolio, no regulation).
+  3. "Effectively unlimited Godpower" line: expanded to three-axis
+     bounding model (Well size / per-god draw capacity /
+     Bureaucratic channeling), with Auralis/Thamior cited as the
+     draw-capacity precedent and the Bureau noted as rule-based.
+
+== Pending follow-ups (added) ==
+
+- divine-bureaucracy.md: explicitly note that the Bureau operates
+  on rules (doctrine, Favor, procedure) not on power scarcity.
+  Currently implied; worth making explicit given the adversarial
+  probe surfaced confusion.
+- dao.md: add "no Mythos portfolio" clarification. Currently dao.md
+  describes Dao as "outside" / "hidden" / "avatar"; explicitly
+  noting "no Mythos portfolio" would sharpen the framing.
+- omniverse.md / outer-realms.md (if exists): could mention
+  cross-Mythos divine business in Outer Realms + Nexus. Currently
+  implied; not load-bearing.

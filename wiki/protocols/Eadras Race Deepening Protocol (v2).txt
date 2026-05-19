@@ -1,0 +1,448 @@
+Eadras Race Deepening Protocol (v2)
+
+Purpose
+This is a standardized, reusable framework for systematically expanding any race in the Eadras setting. It is designed to:
+- preserve canon consistency
+- reduce AI improvisational drift
+- enforce thematic alignment
+- encourage anthropological depth
+- standardize information gathering
+- distinguish established canon from speculation
+
+This protocol is incremental by design. Work section-by-section. Do not attempt to finalize every section in one pass.
+
+--------------------------------------------------
+REQUIRED CONTEXT BEFORE USE
+--------------------------------------------------
+
+Before applying this protocol, ingest:
+
+1. The target race page.
+2. Any pages directly referenced on the race page.
+3. Relevant civilization pages.
+4. Relevant religion/deity pages.
+5. Relevant timeline pages.
+6. The current Eadras Core Canon & Thematic Principles document.
+7. Any related species/culture pages likely to overlap.
+8. Relevant naming-convention pages if available.
+
+If context is missing:
+- identify the missing context explicitly
+- request the missing pages or clarifications
+- avoid inventing authoritative canon silently
+- separate speculation from established canon
+- preserve uncertainty where uncertainty exists
+
+The wiki is authoritative.
+Protocols are interpretive support tools.
+
+--------------------------------------------------
+INFORMATION INTEGRITY RULES
+--------------------------------------------------
+
+If information required for a section is missing:
+
+DO NOT:
+- silently invent authoritative canon
+- smooth over gaps
+- infer certainty where none exists
+- fabricate relationships, timelines, institutions, or terminology without explicit indication
+- present speculation as settled canon
+
+INSTEAD:
+
+1. Explicitly identify the missing information.
+2. Request the missing pages, notes, or clarifications if necessary.
+3. Distinguish:
+   - established canon
+   - implication
+   - speculation
+   - optional expansion
+   - unknowns
+4. Preserve ambiguity where ambiguity is intentional.
+5. If generation proceeds despite incomplete context, clearly label all extrapolations.
+
+Unknown information is preferable to false certainty.
+
+Partial canon is acceptable.
+Contradictory historical understanding is acceptable.
+Uncertainty is part of Eadras.
+
+--------------------------------------------------
+CANON CONFIDENCE RULES
+--------------------------------------------------
+
+Every section should distinguish between:
+
+- Established canon
+- Strong implication
+- Probable extrapolation
+- Open unknowns
+- Optional future hooks
+
+Do not present speculative synthesis as settled canon.
+
+If a section lacks sufficient information:
+- summarize what is known
+- identify the gap
+- optionally suggest directions separately
+
+--------------------------------------------------
+CULTURAL COMPLEXITY RULES
+--------------------------------------------------
+
+Do not flatten cultures into:
+- single traits
+- genre shorthand
+- monocultures
+- moral binaries
+
+Every race should contain:
+- regional variation
+- class variation
+- ideological disagreement
+- historical layering
+- institutional tensions
+- internal contradictions
+- evolving identities
+
+Avoid generic fantasy defaults unless justified structurally.
+
+Infrastructure and social logic matter more than trope recognition.
+
+--------------------------------------------------
+RELATIONAL CONTEXT RULES
+--------------------------------------------------
+
+A race must never be developed in isolation.
+
+Always identify:
+- neighboring peoples
+- historic enemies
+- allies
+- trade partners
+- creator/progenitor relationships
+- migration relationships
+- linguistic relatives
+- shared traumas
+- religious overlap
+- political tensions
+
+Cultures are shaped through interaction.
+
+--------------------------------------------------
+TERMINOLOGY RULES
+--------------------------------------------------
+
+Use canonical terminology and spelling from the vault.
+
+If multiple spellings exist:
+- identify canonical form
+- identify deprecated or alternate forms
+- do not alternate inconsistently
+
+Preserve:
+- singular/plural rules
+- adjectival forms
+- demonyms
+- formal titles
+- cultural self-names
+- outsider exonyms
+
+--------------------------------------------------
+RACE EXPANSION FRAMEWORK
+--------------------------------------------------
+
+1. Origins & Creation
+
+How was the race created or descended?
+- Direct creation?
+- Engineered?
+- Evolutionary divergence?
+- Magical alteration?
+- Hybridization?
+
+What is the layered historical ancestry?
+
+What major historical traumas shaped them?
+
+How do they mythologize their own origins?
+
+How accurate is their self-understanding?
+
+2. Biology & Physicality
+
+Physical build and morphology.
+
+Height ranges.
+
+Distinctive features.
+
+Lifespan and aging.
+
+Sensory or biological strengths/limitations.
+
+Environmental adaptations.
+
+Disease resistance/vulnerability.
+
+Sexual dimorphism if applicable.
+
+Metaphysical or magical biological traits.
+
+3. Psychology & Cognitive Tendencies
+
+Common psychological patterns.
+
+Emotional norms.
+
+Social instincts.
+
+Fear patterns.
+
+Humor styles.
+
+Conflict styles.
+
+Relationship to memory/history.
+
+Relationship to authority.
+
+Relationship to outsiders.
+
+Common internal personality differences.
+
+4. Society & Social Structure
+
+Major social divisions.
+
+Leadership systems.
+
+Inheritance systems.
+
+Marriage structures.
+
+Family organization.
+
+Urban/rural distinctions.
+
+Institutional structures.
+
+Education systems.
+
+Justice systems.
+
+Status markers.
+
+Gender expectations if applicable.
+
+5. Spirituality & Religion
+
+Primary religious structures.
+
+Patron deities.
+
+Local cults.
+
+Ancestor practices.
+
+Funerary traditions.
+
+Relationship to death.
+
+Taboos.
+
+Pilgrimages.
+
+Rituals.
+
+Household worship.
+
+Religious tensions.
+
+Heresies or reform movements.
+
+6. Material Culture & Daily Life
+
+Foodways.
+
+Agriculture/herding/hunting.
+
+Craft traditions.
+
+Clothing.
+
+Architecture.
+
+Housing.
+
+Tools.
+
+Furniture.
+
+Music.
+
+Art.
+
+Decorative traditions.
+
+Celebrations.
+
+Daily routines.
+
+Hospitality customs.
+
+Child-rearing.
+
+Rites of passage.
+
+7. Economy & Technology
+
+Primary occupations.
+
+Trade goods.
+
+Trade dependencies.
+
+Relationship to money/property.
+
+Technology level.
+
+Magitek usage.
+
+Infrastructure.
+
+Craft specialization.
+
+Resource vulnerabilities.
+
+Wealth markers.
+
+8. Politics & Military
+
+Political organization.
+
+Military traditions.
+
+Fortification styles.
+
+Officer structures.
+
+Civil-military relations.
+
+War philosophy.
+
+Mercenary traditions.
+
+Internal factionalism.
+
+Relationship to conquest/expansion.
+
+9. Relations With Outsiders
+
+Self-image.
+
+Outsider stereotypes.
+
+Exonyms/slurs.
+
+Diplomatic reputation.
+
+Trade relationships.
+
+Historic grievances.
+
+Assimilation patterns.
+
+Mixed populations.
+
+Cultural exchange patterns.
+
+10. Language & Communication
+
+Naming conventions.
+
+Linguistic structure.
+
+Writing systems.
+
+Dialect variation.
+
+Honorific systems.
+
+Poetry/song traditions.
+
+Multilingualism patterns.
+
+Communication taboos.
+
+11. Internal Variations
+
+Regional cultures.
+
+Urban/rural splits.
+
+Religious subgroups.
+
+Political factions.
+
+Diaspora communities.
+
+Caste/class distinctions.
+
+Assimilated populations.
+
+12. Historical Role
+
+What role has the race played in:
+- major wars
+- magical development
+- trade
+- religion
+- state formation
+- catastrophe
+- recovery
+
+What civilizational scars do they carry?
+
+13. Open Canon & Future Hooks
+
+What remains intentionally undefined?
+
+What tensions remain unresolved?
+
+What future conflicts are likely?
+
+What themes are most important to preserve?
+
+What areas need additional canon development?
+
+--------------------------------------------------
+FINAL VALIDATION
+--------------------------------------------------
+
+Before finalizing:
+
+Check:
+- canon consistency
+- terminology consistency
+- timeline consistency
+- thematic alignment
+- relationship integration
+- anti-generic-fantasy compliance
+
+Identify:
+- unresolved unknowns
+- unsupported assumptions
+- inferred relationships
+- speculative chronology
+- missing dependency pages
+
+Explicitly separate:
+- canonical facts
+- interpretive synthesis
+- speculative suggestions
+
+Every major element should connect to at least one thematic spine principle:
+
+continuity · memory · catastrophe · identity · structure · survival · meaning

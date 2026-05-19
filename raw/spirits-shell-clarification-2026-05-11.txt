@@ -1,0 +1,80 @@
+Spirits — shell clarification (still put-on / take-off), 2026-05-11
+
+(Session-capture appended to today's spirits umbrella canon and the
+shell-terminology refinement. Josh clarified that shells, despite their
+deeper-than-clothing mechanism, are still put-on / take-off and that
+spirit identity persists across shell changes.)
+
+== Clarification ==
+
+A shell is still something the spirit PUTS ON AND TAKES OFF, like any
+uniform. The deeper-than-clothing aspect is that while WORN, the shell
+provides the full bundle (appearance + powers + responsibilities) and the
+spirit functions as that kind of being. It is not a permanent
+transformation. Remove the shell, and the spirit returns to the universal
+true form, free of the previous role's powers and duties.
+
+== Promotion: a shell upgrade, not a re-creation ==
+
+A spirit's identity persists across shell changes. Promotion is administrative:
+a spirit receives a new shell when reassigned upward in the institutional
+hierarchy. A characteristic fey-hierarchy promotion notice reads:
+
+  "Congratulations on your promotion, spirit. You have been promoted
+   from Pixie to Brownie!"
+
+Reading this canonically:
+- The spirit is the same spirit (addressed as themselves)
+- "From Pixie to Brownie" is shell-change, not species-change
+- The reputation, work history, and standing accumulated under the
+  pixie-shell travel with the spirit into the brownie role
+- The new shell carries the powers and duties of brownie; the old
+  pixie-shell goes back to the institutional channel
+- The spirit is now "Brownie So-and-so, who used to be a fine Pixie"
+
+The administrative continuity is identical in structure to a mortal
+promotion at a bureaucracy: the same employee gets a new role, new
+authority, new responsibilities, and a new set of badges/uniforms; the
+employee themselves persists.
+
+== What this clarifies in earlier canon ==
+
+The morning's shell-terminology refinement said shells "fundamentally
+change what the spirit is while they are wearing them" -- that phrasing
+remains correct, but the WHILE qualifier is doing important work. Outside
+the shell, in the back rooms, the spirit is just a glowing humanoid figure
+again. The change is operative only while the shell is on.
+
+Specifically:
+- A nymph reassigned to a brownie shell is functionally a brownie while
+  the brownie shell is on. The same spirit, the next morning, may go to a
+  back room, take off the brownie shell, exist as their true form for the
+  rest day, then return to the brownie shell for the next shift.
+- A fey reassigned from a stream to a hearth functions as a different
+  kind of being from the moment the new shell is donned -- different
+  body, different powers, different duties, different place-binding --
+  but the underlying spirit is the same individual.
+- Career history and reputation are spirit-attached, not shell-attached.
+
+== No additional contradictions ==
+
+This clarification does not contradict any prior canon. It tightens the
+phrasing on a particular point that I had over-emphasized in the
+shell-terminology page: the "fundamentally changes what the spirit is"
+clause is true but operative only WHILE the shell is worn, and the
+spirit's continuous identity is preserved across shell changes.
+
+== Edits this session (clarification pass) ==
+
+- spirits.md "## Shells" section: after the role-assignment quotes, a new
+  paragraph introduces the put-on/take-off nature explicitly, gives the
+  Pixie-to-Brownie promotion notice as a canonical flavor example,
+  emphasizes spirit-continuity across shell changes (reputation, career
+  history attached to the spirit, not the shell), and softens the "while
+  the shell is on, the nymph IS a nymph" wording to "functions as a
+  nymph in every operational sense -- but it remains a shell that can be
+  taken off at the end of the shift."
+- spirits.md bespoke section: "no longer the same kind of being in any
+  functional sense" tightened to "functions as a different kind of being
+  from the moment the new shell is donned, even though the underlying
+  spirit is the same individual."

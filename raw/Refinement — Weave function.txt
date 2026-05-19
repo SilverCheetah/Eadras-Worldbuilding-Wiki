@@ -1,0 +1,142 @@
+Large page of notes 5-4-2026
+
+Refinement — Weave function:
+
+The Weave does not protect the world from external magical radiation such as Sourceflares.
+
+Its function is limited to the regulation of internal Eldritch energy. Raw Eldritch, mediated through bedrock, is gathered and constrained into structured channels, forming a restricted system through which magic can be safely accessed and used.
+
+External inputs, including the Eldritch component of solar flares, interact with the world independently of the Weave. These inputs are subject only to atmospheric and environmental filtering, not to Weave regulation.
+
+Refinement — Sourceflare interaction:
+
+Sourceflares introduce Eldritch radiation into the world from an external source. This energy is not governed by the Weave and can bypass internal magical restrictions.
+
+As a result, high-intensity flares remain capable of producing rare and significant effects even in a post-Weave world, provided sufficient energy reaches the surface.
+
+Addition — pre-Weave Eldritch cycle:
+
+Before the creation of the Weave, the Source shone directly upon the planet, delivering raw magical energy. This raw energy was largely unusable in its direct form.
+
+The planet’s bedrock reflected and transformed this energy into a usable form known as Eldritch. This transformation allowed energy to become stable enough to interact with the world.
+
+Once transformed, Eldritch energy moved through the world in distributed patterns analogous to hydrological systems. It collected into rivulets, streams, and larger flows, forming a network of energy movement across the planet.
+
+These flows ultimately returned to the planet through natural conduits, completing a continuous cycle of energy intake, transformation, distribution, and reintegration.
+
+Addition — Eldritch flow structure:
+
+Eldritch energy did not distribute evenly across the planet but instead followed structured pathways determined by geology and resonance conditions.
+
+These pathways formed a hierarchy of flow:
+
+- minor concentrations (rivulets)
+- intermediate flows (streams)
+- major flows (rivers)
+
+This structure created regions of varying magical intensity, with some areas experiencing strong, stable flows while others remained weak or inactive.
+
+These variations influenced environmental behavior, ecosystem development, and the emergence of magical phenomena.
+
+Addition — Eldritch conduits:
+
+Eldritch flows were reintegrated into the planet through natural conduits.
+
+These conduits acted as sinks, drawing energy downward and completing the planetary energy cycle. Their locations were determined by deep geological structure and resonance patterns within the bedrock.
+
+Conduits served as critical stabilizing points, preventing uncontrolled accumulation of Eldritch energy at the surface.
+
+Addition — Eldritch pools:
+
+In rare cases, Eldritch energy accumulated in localized areas rather than continuing along flow pathways.
+
+These accumulations formed pools, where energy density was significantly higher than surrounding regions. Pools were unstable and unpredictable, often producing unusual environmental effects or spontaneous manifestations.
+
+Due to their instability, pools were uncommon and typically transient, though some may have persisted for extended periods under favorable conditions.
+
+Addition — pre-Weave instability:
+
+The pre-Weave system lacked centralized regulation, resulting in a naturally unstable distribution of Eldritch energy.
+
+While the flow system provided partial structure, it did not prevent fluctuations in intensity, localized surges, or irregular accumulation.
+
+This instability limited the safe use of magic and contributed to the difficulty of large-scale magical systems prior to the creation of the Weave.
+
+Addition — planetary conduit architecture:
+
+The pre-Weave Eldritch cycle was organized around seven primary conduits that pass through the planet along deep, stable axes.
+
+Each conduit connects two antipodal points on the surface. These endpoints act as paired sinks, drawing Eldritch energy downward and completing the global energy cycle.
+
+The seven conduits form a fixed planetary structure that remains stable across geological timescales, even during periods of extreme tectonic activity.
+
+Addition — antipodal sink behavior:
+
+Each conduit terminates at two antipodal surface points that function as major Eldritch sinks.
+
+At these locations, energy density is significantly higher than surrounding regions. Eldritch flow converges toward these points before being drawn into the conduit and returned to the planet’s interior.
+
+The paired sinks of a single conduit exhibit linked behavior, with changes in one endpoint reflected in the other through the shared axis.
+
+Addition — conduit intensity zones:
+
+Regions surrounding conduit endpoints are characterized by extremely high and stable concentrations of Eldritch energy.
+
+These zones support:
+
+- reliable magical effects
+- enhanced resonance
+- persistent environmental anomalies
+
+Unlike unstable Eldritch pools, conduit endpoints provide continuous, predictable energy flow, making them uniquely suitable for sustained magical activity.
+
+Addition — settlement patterns at conduits:
+
+Conduit endpoints naturally attract settlement due to their stable and abundant magical energy.
+
+Across multiple eras, civilizations have consistently established cities, temples, and major population centers at or near these locations.
+
+These sites offer:
+
+- reliable access to magical energy
+- strategic importance for control of energy flow
+- favorable conditions for infrastructure and ritual systems
+
+As a result, conduit endpoints function as long-term centers of civilization, regardless of cultural or political change.
+
+Addition — conduit interaction with the Weave:
+
+The creation of the Weave did not eliminate the conduits, but changed how Eldritch energy interacts with them.
+
+The Weave redirects and regulates surface-level energy flow, reducing reliance on natural river-like patterns while leaving the underlying conduit structure intact.
+
+Conduit endpoints remain areas of heightened magical significance even in the post-Weave era.
+
+Addition — conduit symmetry and interpretation:
+
+The presence of seven conduits and their antipodal endpoints has led to widespread mythological and symbolic interpretations.
+
+Common interpretations include:
+
+- seven pillars of the world
+- paired gates or wells of power
+- axes of balance or structure
+
+These interpretations vary by culture but consistently reflect recognition of the conduits’ central role in the world’s magical structure.
+
+Addition — oldest continuous settlements:
+
+A small number of locations in the world qualify as the oldest continuously inhabited or continuously significant settlements.
+
+These sites can be traced back to the pre-catastrophe era, not through uninterrupted civilization, but through continuous reoccupation and rediscovery of the same geographic points.
+
+Their persistence is not due to cultural continuity, but to underlying planetary and magical structures that make these locations consistently favorable for habitation.
+
+Addition — conduit-linked continuity:
+
+All known oldest continuous settlements are located at or near Eldritch conduit endpoints.
+
+The stable, high-density energy at these locations ensures that they remain attractive for habitation across all eras, including after the Worldbreaker event.
+
+Even after complete ecological and civilizational collapse, these sites naturally draw returning populations due to favorable environmental and magical conditions.
+

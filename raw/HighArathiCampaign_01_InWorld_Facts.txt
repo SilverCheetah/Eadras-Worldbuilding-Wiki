@@ -1,0 +1,167 @@
+HIGH ARATHI CAMPAIGN SETTING — IN-WORLD FACTS
+World: Eadras
+Source: Grok chat session, 2026-05-09
+Document type: In-world reference (the structure of the High Arathi era as a playable RPG campaign setting, the closed time bubble campaign, and the slat-book era framework)
+Companion documents: "High Arathi Campaign Setting — Meta-Commentary" and "High Arathi Campaign Setting — Principles and Diagnosis"
+
+
+================================================================
+1. THE FOUR PLAYABLE ERAS
+================================================================
+
+[IN-WORLD] Eadras has four major eras suitable for publication as RPG splat-books:
+
+1. HIGH ARATHI — Post-scarcity magitek utopia at its peak, centuries before the Worldbreaker. The audience knows it is doomed; the characters do not.
+
+2. HIGH FIRETHORN EMPIRE — Decadent, intrigue-filled empire at its peak.
+
+3. DEMON WAR — All-out apocalyptic war with gods, demons, and mortal heroes.
+
+4. MODERN ERA — The classic fantasy kitchen sink, where everything has settled into its current form.
+
+A fifth era — the High Draconic/Unicorn Era — is NOT a planned setting. It is structurally limiting because only dragons and unicorns exist during it. The setting would have incredible cosmic-scale storytelling potential but would play like a very beautiful, very lonely nature documentary.
+
+
+================================================================
+2. THE HIGH ARATHI ERA AS A SETTING
+================================================================
+
+[IN-WORLD] The High Arathi splat is set centuries BEFORE the Worldbreaker, not in the final ten minutes before the Cataclysm.
+
+At the time of play:
+- The empire is at its absolute height.
+- The conduits are perfectly tuned.
+- Crystalmancy and magitek work in perfect harmony.
+- Nobody has any idea the world is about to end.
+- The slow corruption of Kudur-eṭir is happening somewhere off-screen.
+
+Players exist inside the most advanced, most beautiful civilization the world will ever see. The audience knows it is all doomed. The dramatic irony is baked into every session.
+
+
+================================================================
+3. PLAYER CHARACTER ROLES
+================================================================
+
+[IN-WORLD] High Arathi campaigns assume player characters drawn from the empire's elite. Standard PC roles include:
+
+- Conduit technicians
+- Crystalmancer researchers
+- Imperial troubleshooters
+- Members of one of the great Houses
+- Archmagi and senior arcane practitioners
+
+
+================================================================
+4. HIGH-LEVEL PLAY AND PLANAR ACCESS
+================================================================
+
+[IN-WORLD] The Arathi era is well-suited to high-level gameplay because the empire's magical infrastructure makes planar travel routine.
+
+Players can:
+- Step through a conduit gate and walk into the Heart of the Goddess.
+- Sail the silver seas of the Astral.
+- Attend the Game of the Gods in Concordance.
+- Stroll through the Nexus like it is downtown.
+- Travel to the Outer Planes.
+
+Example session beats appropriate to the era include:
+- Attending a diplomatic gala in Nexus while wearing living crystal regalia.
+- Investigating a disturbance in Concordance that ripples back to affect one of the fourteen conduits.
+- Fighting a demon incursion leaking through Limina into the Arathi transit network.
+- Dealing with an ancient dragon that was accidentally awakened in the deep crust by a crystalmancer.
+
+
+================================================================
+5. THE FLAGSHIP CAMPAIGN — THE CLOSED TIME BUBBLE
+================================================================
+
+[IN-WORLD] The centerpiece campaign for the High Arathi splat is the buried Chaos War — the incursion that the universe ultimately sealed into a closed time bubble.
+
+The campaign structure proceeds in stages:
+
+STAGE ONE — SMALL INCURSIONS:
+The players begin as elite troubleshooters investigating "minor anomalies":
+- A crystal spire that starts growing wrong.
+- A conduit briefly outputting raw Sourceshine instead of regulated Eldritch.
+- A magitek train arriving before it departed.
+- A single street where time runs slightly backwards for six seconds.
+
+The Arathi institutional response is pure arrogance: "This is clearly a malfunction in our system. We will study and correct it."
+
+STAGE TWO — ESCALATION:
+The incursions get bigger, more frequent, more violent. Entire districts where physics stops behaving. Living geometry that should not exist. Things that look at observers with too many eyes.
+
+The greatest empire in history continues refusing to admit that something is fundamentally, cosmically wrong.
+
+STAGE THREE — THE MASSIVE BREACH:
+By the time the major breach finally rips open, it is far too late. The empire is on the verge of being swallowed by Chaos.
+
+STAGE FOUR — THE PLAYERS LOSE:
+The players fight legendarily but cannot stop the incursion. The Arathi empire is overcome.
+
+STAGE FIVE — THE COSMIC DO-OVER:
+The universe seals the entire event in a closed time bubble. Time loops back to the beginning. The incursion never happened. The casualties never existed. Everything snaps back to the exact moment before the first small glitch appeared.
+
+STAGE SIX — THE PLAYERS REMEMBER:
+The player characters were deliberately made the chosen observers. Reality keeps them conscious so the event is not fully erased. They wake up back where they were before the first small glitch ever appeared, with all their memories, all their scars, all their knowledge of what is coming — and no way to prove any of it.
+
+
+================================================================
+6. THE CAMPAIGN'S EMOTIONAL STRUCTURE
+================================================================
+
+[IN-WORLD] The campaign has a deliberate tragic structure designed to land with weight:
+
+- Players begin as elite members of the most advanced civilization that will ever exist.
+- They slowly realize something is horribly wrong with reality itself.
+- They fight as legends to save everything they love.
+- They lose — and the universe quietly rewinds time and pretends none of it ever happened.
+
+The players feel like the most important people in the world for the entire campaign, right up until the moment they realize they were never meant to WIN. They were just the designated WITNESSES.
+
+The campaign ends with them returned to the beginning, with all their memories, knowing that the shining golden age they are now living in is built on a lie that only they remember.
+
+
+================================================================
+7. SUPPORTING CAMPAIGN HOOKS
+================================================================
+
+[IN-WORLD] The closed time bubble campaign is the FLAGSHIP for the splat. Around it, a set of supporting hooks should be provided so GMs have options for shorter or more traditional campaigns:
+
+- A crystalmancer research team accidentally creates a living spell that starts rewriting local reality.
+- Political intrigue between rival Houses over control of a newly-discovered conduit nexus.
+- Something ancient and pre-Arathi waking up beneath one of the major crystal cities.
+- A radical faction that wants to "improve" the conduits and is willing to risk destabilizing them.
+- An expedition into uncharted crystal caverns that leads way deeper than anyone expected.
+
+These provide the toolkit of cool one-shots and shorter arcs that the flagship needs as supporting cast.
+
+
+================================================================
+8. THE LAW NOT BROKEN
+================================================================
+
+[IN-WORLD] The closed time bubble does not violate Omniversal Law. The rule "time is absolute" does not mean "time is linear."
+
+"Time is absolute" means that within any given reality bubble:
+- Cause must always precede effect.
+- Entropy moves in one direction only.
+
+It does NOT forbid reality from carving out temporary closed pockets, running events inside them, and sealing them so they never touch the main timeline.
+
+The High Arathi Chaos incursion was a SURGICAL TEMPORAL EXCISION. The universe followed the law to the letter — it used a loophole the size of a continent. It created a closed time bubble, let the entire war play out inside that bubble, then collapsed the bubble and stitched the main timeline back together so perfectly that, from the perspective of absolute time, the event never occurred.
+
+The player characters' surviving memory does not break the law either. They were deliberately made external observers, the same way the Tome of Beldoran is an external observer. They exist slightly outside the stitch, which is why their memories survived.
+
+The law was not broken. It was exploited with surgical precision.
+
+
+================================================================
+9. PLAYABLE OUTCOMES AND LONG-TERM HOOKS
+================================================================
+
+[IN-WORLD] The closed time bubble campaign opens a long-term hook for the splat's broader use:
+
+The PCs from that campaign could theoretically show up in the modern era as ancient, half-mad figures who keep muttering about a war that no history book acknowledges. The Tome of Beldoran would be completely blank on the subject for anyone who consulted it, because the chapter is sealed.
+
+This means the campaign is not a self-contained tragedy. It is a SEED that can re-enter the setting at any later era. The chosen observers persist. Their truth persists. The world's refusal to acknowledge their truth persists.

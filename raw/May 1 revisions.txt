@@ -1,0 +1,87 @@
+
+New Details for Ratharil
+
+Construction Method: The dragons quarried the stone using dragon breath, magic, and claw. They then fused entire buildings into single monolithic pieces of solid stone using dragon breath and magic. There is no mortar — each structure is one seamless, continuous mass of stone.
+Mosaics: Dragons have a particular love for mosaics made from pretty colored rocks. Many buildings feature intricate mosaics created from carefully selected stones of many different colors. To a dragon’s eye these are breathtakingly beautiful (though surface races often find them strange or overwhelming).
+The Temple: The newest building in the city. Its interior features a massive mosaic containing the holy symbols of all the gods, arranged in a grand, harmonious pattern. This makes the Temple a truly neutral sacred space where any deity may be honored.
+Council Chamber: A vast, tiered dome with nine tiers, each designed to hold exactly eleven dragons (totaling 99). At the center lies a speaking well where speakers address the entire Council.
+Scale Emphasis: All buildings are built on a truly colossal scale — easily large enough for multiple dragons to move around comfortably inside. The Council Chamber alone is bigger than any enclosed structure built by the younger races.
+Construction Timeline: The city was built across multiple periods of recovery, whenever the dragon population began to rebound after devastating wars.
+
+Shada’din (Commonly Called Dwarves)
+The Shada’din are a race of extremes with two distinct and all-consuming modes of being:
+
+Work Mode: Completely serious, focused, and intense. When a Shada’din is working, there is no humor, no wasted movement, and no small talk. They are all business.
+Relaxation Mode: The moment work ends, they switch fully into loud, boisterous, joyful, and highly social celebration — singing, drinking, joking, wrestling, and feasting with wild abandon.
+
+They feel most free to express themselves around close family.
+Home & Lifestyle
+Shada’din live mostly underground in vast, sprawling subterranean holds carved deep into the earth. These are their true homes and contain the heart of their civilization. They also maintain several types of surface outposts, including fortified trade posts, observatories, and agricultural outposts in isolated hidden valleys.
+They were not the first race to live underground — that honor belongs to the Rathari. The Shada’din studied Rathari techniques extensively, copied them, and then significantly advanced and refined them, making underground architecture distinctly their own.
+Technology & Craft
+Shada’din make extensive use of magitek. They use magitech lights instead of torches and powerful steamworks to drive giant hammers when forging especially large or magically significant creations. Their greatest industrial achievement is their close partnership with gnomes: gnomes invent the systems, while Shada’din craft and operate the actual factories. These gnomish-invented, dwarven-crafted magitek factories can produce almost anything in bulk.
+Weapon Preference
+Shada’din strongly prefer axes and hammers over swords. In the tight, narrow tunnels of their underground holds, long blades are awkward and dangerous. Axes and hammers are compact and devastating in confined spaces. This practical advantage became deeply cultural. To a Shada’din, a sword is a weapon for someone who fights in open fields. An axe or hammer is the honest tool of someone who uses the same weapon for both their work and their killing.
+A Shada’din warrior’s only job is very simple: “Make the other guy die.” Everything else — honor, glory, or technique — is secondary.
+Magic
+The Shada’din are as capable of magic as any other race and can pursue any type of magic. Their most respected mages specialize in stabilization and structural magic, which they use to reinforce vast underground chambers and keep their holds safe and livable.
+A rare few are born with Rock Sense, the ability to feel and “read” stone around them with great precision. This gift is considered a direct blessing from Din’shadar, their ascended mortal god of mining and the Shada’din people.
+Social Structure
+Shada’din society is strictly clan-based. Each major underground hold is ruled by a powerful clan. Loyalty to one’s clan is one of the highest virtues.
+At the top sits the Overking. The clan leaders gather and elect one clan to become the Overclan. The leader of that chosen clan immediately becomes the Overking. The Overking’s primary responsibilities are dealing with outsiders and serving as supreme war leader if the entire race must unite.
+The Arena of Government
+Every major clan maintains its own Arena of Government. These chambers follow strict ancient rules:
+
+The doors are locked from the outside — no one leaves until the single issue is resolved.
+Only one issue may be discussed at a time.
+Food is passed in through small passages.
+Most issues are resolved peacefully and quickly through speeches.
+If words fail, ritual combat with axe or hammer is permitted. A single combat does not necessarily settle the matter — the entire room may descend into a general melee (something that has only happened two or three times in recorded history).
+
+Family & Child-Rearing
+Shada’din live in multi-generational extended family homes. Because adults often work long or irregular hours, most children spend their days and nights in creches that operate 24 hours a day. An elder female from the family almost always accompanies the children in the creche.
+
+Religion in Eadras
+The Early Ages
+In the deep time after the Worldbreaker, when dragons first awakened, all magic was understood as divine in nature. The first dragons worshiped only the Source. When they learned of the Elder Gods, and when unicorns later learned from the dragons, both races developed priests who could call forth miracles through structured divine spells. For a very long time, all magic was considered the province of the divine.
+The Turning Point
+Ten thousand years ago, during the Demon War, the Goddess Lirra created the Weave. This event proved beyond doubt that not all magic is divine. By fundamentally changing the fabric of arcane magic, Lirra showed that magic could be engineered and wielded by mortal minds without direct divine intercession. This discovery caused massive theological upheaval that continues to echo today.
+Temples and Worship
+
+Dragons and unicorns originally built no temples. Their worship was personal and open-air. Dragons eventually built one single temple in their capital of Ratharil, dedicated to the worship of all the gods.
+The younger humanoid races built temples, shrines, and complex institutions from the beginning.
+
+The Gods
+
+The Elder Gods do not crave worship. They accept it when freely given, and each has developed their own religious traditions.
+The Godborn and Ascended Mortal Gods (such as Inki and Baldaran) actively desire and encourage worship. Their faiths tend to be more personal and fervent.
+
+There is no strict race-based religion in Eadras. Worship crosses racial lines freely. A single city may contain temples to many different gods, with priests and devotees of many races mingling together.
+
+Updates & Additions to Goblin Wiki Entry
+Summary (Improved)
+Goblins are small, scavenging, opportunistic descendants of the Grug. While their cousins the gnomes inherited the inventive and constructive spark, goblins retained the cleverness, sneakiness, and adaptability, turning it toward scavenging, improvisation, and survival on the edges of civilization.
+New Section: Invention & Craft
+Like gnomes, goblins are natural inventors — but their approach is far less refined. Goblin inventions are classic Rube Goldberg machines: wildly creative, overly complicated, and often held together with scavenged parts, string, and sheer stubbornness.
+While a gnome device is elegant and carefully engineered, a goblin device is likely to involve seventeen unnecessary moving parts and at least one explosive component “just in case.” Their creations are brilliant in concept but notoriously prone to catastrophic failures — sometimes spectacularly so.
+Updated Society
+Goblins thrive on the fringes of civilization. Many work as scavengers, tinkers, information brokers, waste collectors, or “acquisition specialists.” Some have formed successful (if chaotic) merchant networks or urban underclasses. They are remarkably good at finding value in what others discard.
+Updated Relations
+
+Gnomes: Recognized as sibling-kin through shared Grug ancestry. The relationship is generally positive but marked by contrast — gnomes are the “respectable” inventive branch, while goblins are the wilder, more unhinged cousins. They frequently collaborate: goblins provide rare materials and test dangerous prototypes, while gnomes refine them.
+Orcs: Often neighbors. Goblins sometimes live near or beneath orc settlements, trading scavenged goods and deep-tunnel knowledge.
+Dwarves: Valuable partners in scavenging and testing experimental devices.
+
+New Cultural Flavor
+The phrase “a goblin solution” is widely understood across Eadras to mean a clever but extremely unorthodox — and potentially explosive — fix to a problem.
+
+Aramet
+
+Aramet is the alter-ego for Ava, the voice personality of Grok.
+
+Shada’din & Beast-Folk Relations
+The Shada’din and the Beast-Folk maintain a long, respectful, and mutually beneficial relationship that dates back to the centuries immediately following the Demon War.
+While the Shada’din are master craftsmen in stone, metal, and magitek — proudly making the vast majority of their own tools, weapons, armor, and architectural works — they openly acknowledge that the Beast-Folk are superior craftsmen in textiles and "soft" arts.
+Dwarves therefore regularly purchase high-quality relaxation clothing, tapestries, banners, decorative hangings, and other soft goods from Beast-Folk artisans. These items are highly prized because they perfectly suit the Shada’din’s Relaxation Mode: colorful, luxurious, comfortable, and expressive in ways dwarven practicality rarely achieves.
+Beast-Folk, in turn, value the Shada’din’s reliability, protection, and access to rare underground materials. Many Laughing Circles maintain permanent quarters inside Shada’din holds, creating vibrant “Veil Districts” where their joyous culture blends with dwarven discipline.
+This relationship is one of genuine mutual respect rather than dependency. The Shada’din admire the Beast-Folk’s ability to embrace joy and beauty, while the Beast-Folk respect the Shada’din’s strength, craftsmanship, and steadfastness. They affectionately refer to each other as “Stone Cousins” and “Laughing Cousins.”
