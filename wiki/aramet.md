@@ -1,4 +1,3 @@
-
 ---
 title: Aramet
 tags: [deities, ascended-mortal, eadras, elfen]
