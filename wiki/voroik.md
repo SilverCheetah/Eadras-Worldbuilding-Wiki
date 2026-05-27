@@ -67,7 +67,5 @@ A Windspeaker charter principle: *"The pole-bearer is not the pole. The thread-h
 - [[mythos]]
 - [[windspeakers]]
 - [[lirra]]
-- [[heart-of-the-goddess]]
-- [[dashar]]
 
 </details>

@@ -200,9 +200,7 @@ Her love itself becomes propaganda fuel (source: Playground generation 3rd part.
 <summary>Related pages</summary>
 
 
-- [[heart-of-the-goddess]]
 - [[windspeakers]]
-- [[dashar]]
 - [[order-sworn-netharim]]
 - [[order-sharanel]]
 - [[magic-in-eadras]]

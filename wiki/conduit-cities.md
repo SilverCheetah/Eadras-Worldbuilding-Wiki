@@ -190,7 +190,6 @@ See [[worldbuilding-needs#Modern present-day political geography|Worldbuilding N
 - [[order-sharanel]]
 - [[magic-in-eadras]]
 - [[anti-magic-crusade]]
-- [[dashar]]
 - [[eadras-cosmology]]
 - [[xarvion]]
 - [[spear-of-crystallized-entropy]]
