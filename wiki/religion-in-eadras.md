@@ -37,7 +37,7 @@ The theological upheaval continues to echo today. Some priesthoods still maintai
 
 | Tradition | Temples | Pattern |
 |---|---|---|
-| **Dragons** | Originally none. Eventually built **one** Temple in [[ratharil|Ratharil]], dedicated to the worship of all the gods (see [[ratharil#The Temple|Ratharil — The Temple]]) | Personal, open-air, restrained |
+| **Dragons** | Originally none. Eventually built **one** Temple in [[ratharil\|Ratharil]], dedicated to the worship of all the gods (see [[ratharil#The Temple\|Ratharil — The Temple]]) | Personal, open-air, restrained |
 | **Unicorns** | Originally none. | Personal, open-air, herd-shared |
 | **Younger humanoid races** | Built temples, shrines, and complex institutions from the beginning | Communal, ritualized, institutionalized |
 
@@ -47,9 +47,9 @@ Dragon and unicorn worship still tends toward the older mode even where temples 
 
 | Tier | Stance toward worship |
 |---|---|
-| **[[gods-of-eadras|Elder Gods]]** | Do not crave worship. They accept it when freely given and have allowed their priesthoods to develop their own traditions, but are not strengthened or diminished by the volume of devotion. |
+| **[[gods-of-eadras\|Elder Gods]]** | Do not crave worship. They accept it when freely given and have allowed their priesthoods to develop their own traditions, but are not strengthened or diminished by the volume of devotion. |
 | **Elderborn** (Erendor, Handwright, Agron, Elyria, Vaelor, Ignara, Thalira, Morveth, Aureon, Fortuna) | Actively desire and encourage worship. Their faiths are more personal and fervent. |
-| **Ascended Mortal Gods** (e.g. [[inki|Inki]], [[baldaran|Baldaran]], [[din-shadar|Din'shadar]], [[aramet|Aramet]], the Three Last Lights, the Dragon Gods, the Unicorn Gods, the Elfen, Velrathi, Tarran, and Human ascended) | Actively desire and encourage worship. Their faiths are typically the most personal and fervent of all. |
+| **Ascended Mortal Gods** (e.g. [[inki\|Inki]], [[baldaran\|Baldaran]], [[din-shadar\|Din'shadar]], [[aramet\|Aramet]], the Three Last Lights, the Dragon Gods, the Unicorn Gods, the Elfen, Velrathi, Tarran, and Human ascended) | Actively desire and encourage worship. Their faiths are typically the most personal and fervent of all. |
 
 This pattern matters in practice: a temple of [[lirra|Lirra]] runs differently from a temple of [[inki|Inki]]. The Elder God's hall accepts attendance and offering at worshipper-set rhythms; the Ascended Mortal's hall is dense with festival days, feast-day calendars, and rituals designed to gather, name, and remember the faithful. (source: May 1 revisions.txt)
 

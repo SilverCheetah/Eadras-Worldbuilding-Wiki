@@ -90,7 +90,7 @@ Crystals in Arathi practice fell into four classes by origin and function:
 | **Wild Crystals** | Naturally occurring, unpredictable, often dangerous. |
 | **Cultivated Crystals** | Grown by Arathi singers — the standard of practice. |
 | **Attuned Crystals** | Personally bonded to a single mage. The orbiting personal toolkit visible in Arathi crystalmancer iconography is attuned crystal. |
-| **Heart-Stones** | Massive, city-scale crystals serving as power cores. The Celestite heart-stone of [[altea|Altea]]'s central spire is the canonical example. |
+| **Heart-Stones** | Massive, city-scale crystals serving as power cores. The Celestite heart-stone of [[altea\|Altea]]'s central spire is the canonical example. |
 
 ---
 

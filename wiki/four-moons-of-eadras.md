@@ -26,10 +26,10 @@ In order of size:
 
 | Order | Moon | Common name | Notes |
 |---|---|---|---|
-| 1 | **[[gaia|Gaia]]** | The Green Moon | Largest. Lush, mostly temperate; resembles pre-Cataclysm Eadras. Exists in Prime, Feywild, and Shadowdark reflections (all moons). Place of exile for the three progenitor races after the [[great-banishment|Great Banishment]]. |
-| 2 | **[[daj|Daj]]** | The Red Moon | Second-largest. Reflected in the Feywild and Shadowdark like all moons. |
-| 3 | **[[shali|Shali]]** | (twin crystal moon) | Third-largest. Orbits both Eadras and her twin Shani. Reflected in the Feywild and Shadowdark. |
-| 4 | **[[shani|Shani]]** | (twin crystal moon) | Fourth-largest. Orbits both Eadras and her twin Shali. Reflected in the Feywild and Shadowdark. |
+| 1 | **[[gaia\|Gaia]]** | The Green Moon | Largest. Lush, mostly temperate; resembles pre-Cataclysm Eadras. Exists in Prime, Feywild, and Shadowdark reflections (all moons). Place of exile for the three progenitor races after the [[great-banishment\|Great Banishment]]. |
+| 2 | **[[daj\|Daj]]** | The Red Moon | Second-largest. Reflected in the Feywild and Shadowdark like all moons. |
+| 3 | **[[shali\|Shali]]** | (twin crystal moon) | Third-largest. Orbits both Eadras and her twin Shani. Reflected in the Feywild and Shadowdark. |
+| 4 | **[[shani\|Shani]]** | (twin crystal moon) | Fourth-largest. Orbits both Eadras and her twin Shali. Reflected in the Feywild and Shadowdark. |
 
 (source: More corrections.txt)
 

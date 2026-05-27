@@ -70,8 +70,8 @@ The Seraphim are **the celestial mirror of the [[devils|Devils]] of [[nyxar|Nyxa
 
 | | Seraphim | Devils |
 |---|---|---|
-| Plane | [[celestia|Celestia]] | [[nyxar|Nyxar]] |
-| Institution | [[divine-bureaucracy|Divine Bureaucracy]] | [[infernal-bureaucracy|Infernal Bureaucracy]] |
+| Plane | [[celestia\|Celestia]] | [[nyxar\|Nyxar]] |
+| Institution | [[divine-bureaucracy\|Divine Bureaucracy]] | [[infernal-bureaucracy\|Infernal Bureaucracy]] |
 | Institution's failure mode | Sprawling, slow, over-staffed, sinecure-riddled, often dysfunctional | Terrifyingly efficient, competent, relentless |
 | Disposition of staff | Dedicated, dutiful, jaded by eons of paperwork | Bureaucratic in nature, infernal-aesthetic in uniform |
 | Field role | Dispatched as the setting's "angels" | Dispatched as tempters and adversaries |

@@ -93,10 +93,10 @@ The restoration is **scheduled to the deity's preferred time**, not the priest's
 
 | Time | Frequency | Example deities |
 |---|---|---|
-| **Sunup** | Most common | [[ioa|Ioa]], [[vos|Vos]], [[raja|Raja]], [[nara|Nara]], most order-aligned gods |
+| **Sunup** | Most common | [[ioa\|Ioa]], [[vos\|Vos]], [[raja\|Raja]], [[nara\|Nara]], most order-aligned gods |
 | **Sundown** | Common | Reflective, hearth-evening, twilight-aligned gods (specific assignments open canon) |
-| **Noon** | Rare | [[daj|Daj]] (war, strife, the sharpener of blades) |
-| **Midnight** | Rare | [[nox|Nox]] (night, secrets, the loathsome); some traditions of [[shani|Shani]] |
+| **Noon** | Rare | [[daj\|Daj]] (war, strife, the sharpener of blades) |
+| **Midnight** | Rare | [[nox\|Nox]] (night, secrets, the loathsome); some traditions of [[shani\|Shani]] |
 
 The restoration is **not flexible** within a god's tradition. A priest of Vos who tries to restore at noon will simply not restore. The discipline of waking, sleeping, and praying around the deity's appointed hour is part of the priest's ongoing life and should be played at the table as such.
 

@@ -141,7 +141,7 @@ The Spire-Step network shattered. High magic failed. Tower governance collapsed.
 | **The Thriving Tower-City** | A major metropolis of magic, trade, guilds, and learning |
 | **The Broken Terminus** | Destroyed during the Breaking; dangerous, haunted by wild magic, possibly sealed |
 | **The Drowned Tower** | A conduit end beneath the sea, surrounded by aquatic peoples and underwater magical institutions |
-| **The Dragon-Claimed Tower** | Conduit terminus within dragon clan territory; the [[order-sharanel|Order Sharanel]] operates only by ancient agreement |
+| **The Dragon-Claimed Tower** | Conduit terminus within dragon clan territory; the [[order-sharanel\|Order Sharanel]] operates only by ancient agreement |
 | **The Hidden Terminus** | Conduit end unknown to most maps, concealed to protect a Windspeaker or prevent Black Hand infiltration |
 | **The Pilgrim-Tower** | A city where magical study and pilgrimage blur |
 | **The Walled Scar** | A conduit end so damaged that the city exists as a fortress around a magical wound |

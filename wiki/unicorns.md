@@ -101,7 +101,7 @@ Unicorn memory now has **five distinct layers**:
 | **Returned Self-Memory** | Experiences brought back by individuals who stepped away and later returned; carries perspective, point of view, and personal testimony |
 | **Held-Apart Memory** | Memories too dangerous, private, corruptive, or destabilising to fully reintegrate; quarantined within the herd's awareness but not absorbed |
 | **Dragon-Touched Memory** | Concepts inherited from the Great Exchange — individuality, name, solitude, possession, selfhood — which the herd-mind now carries as foreign-but-familiar architecture |
-| **Wound-Kept Memory** | Memories preserved as warning rather than knowledge-for-use; see [[unicorn-wound-keeping|Wound-Keeping]] |
+| **Wound-Kept Memory** | Memories preserved as warning rather than knowledge-for-use; see [[unicorn-wound-keeping\|Wound-Keeping]] |
 
 Unicorn herds are **not archives in the mortal sense**. A herd may remember danger-patterns, wound-shapes, emotional truth, magical resonance, places of harm, and consequences. It may *not* easily provide dates, schematics, technical explanations, linear histories, or courtroom testimony.
 

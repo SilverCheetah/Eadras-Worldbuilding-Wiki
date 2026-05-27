@@ -35,11 +35,11 @@ This means the **Lizard People** subtree is the playable face of the umbrella, w
 
 | Race | Type | Status |
 |---|---|---|
-| [[kobolds|Kobolds]] | Lizard People | Playable |
-| [[lizardfolk|Lizardfolk]] | Lizard People | Playable |
-| [[dragonborn|Dragonborn]] | Lizard People | Playable |
+| [[kobolds\|Kobolds]] | Lizard People | Playable |
+| [[lizardfolk\|Lizardfolk]] | Lizard People | Playable |
+| [[dragonborn\|Dragonborn]] | Lizard People | Playable |
 | Other anthropomorphic reptiles (non-snake) | Lizard People (loose) | Playable |
-| [[snakefolk|Snakefolk]] | Snake People | **NPC only (Yuan-ti analogue)** |
+| [[snakefolk\|Snakefolk]] | Snake People | **NPC only (Yuan-ti analogue)** |
 
 ## Relations to Dragons
 

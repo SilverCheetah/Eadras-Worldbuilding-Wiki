@@ -112,9 +112,9 @@ The Three are not three duplicates of the same office. Each carries a distinct t
 
 | Sibling | Theme | Created |
 |---|---|---|
-| **Mark** | **Stewardship / wildness** — the warden's responsibility to wild and growing things, and the discipline to tend them without domesticating their soul | [[elfen|Elfen]] |
-| **Rand** | **Knowledge / magic** — the mage's relationship to power, the cost of understanding, and the obligation to study reality patiently | [[velrathi|Velrathi]] |
-| **Melania** | **Order / sovereignty** — the ruler's responsibility to structure, law, and the inheritance of authority across generations | [[tarans|Tarran]] |
+| **Mark** | **Stewardship / wildness** — the warden's responsibility to wild and growing things, and the discipline to tend them without domesticating their soul | [[elfen\|Elfen]] |
+| **Rand** | **Knowledge / magic** — the mage's relationship to power, the cost of understanding, and the obligation to study reality patiently | [[velrathi\|Velrathi]] |
+| **Melania** | **Order / sovereignty** — the ruler's responsibility to structure, law, and the inheritance of authority across generations | [[tarans\|Tarran]] |
 
 Each created the progenitor race that best embodies their sibling's theme; each progenitor race's eventual trajectory — wild Elfen wardens, magic-mastering Velrathi, order-bearing Tarran — is the natural extension of the maker's defining concern.
 

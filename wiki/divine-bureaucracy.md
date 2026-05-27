@@ -35,8 +35,8 @@ In its actual form, the Bureaucracy is **a mess**.
 | Tier | Role | Function |
 |---|---|---|
 | **[[gods-of-eadras\|Elder Gods]]** | Top of the hierarchy | Almost entirely hands-off. They embody their domains; they rarely intervene in Bureaucratic operations. |
-| **[[gods-of-eadras#Ascended Mortal Gods\|Ascended Mortal Gods]]** | Primary executive class | The actual day-to-day operation of the Bureaucracy is run by Ascended Mortals — gods like [[baldaran|Baldaran]], [[inki|Inki]], [[din-shadar|Din'shadar]], the [[three-last-lights|Three Last Lights]], and others. They have the practical experience of having once been mortals subject to the Bureaucracy themselves, and they bring that experience to running it. |
-| **Celestial spirits** (workforce) | Vast majority of staff | Lower-tier celestial beings drawn primarily from [[celestia|Celestia]]. They handle the actual labor at scale. They have been doing it for eons. |
+| **[[gods-of-eadras#Ascended Mortal Gods\|Ascended Mortal Gods]]** | Primary executive class | The actual day-to-day operation of the Bureaucracy is run by Ascended Mortals — gods like [[baldaran\|Baldaran]], [[inki\|Inki]], [[din-shadar\|Din'shadar]], the [[three-last-lights\|Three Last Lights]], and others. They have the practical experience of having once been mortals subject to the Bureaucracy themselves, and they bring that experience to running it. |
+| **Celestial spirits** (workforce) | Vast majority of staff | Lower-tier celestial beings drawn primarily from [[celestia\|Celestia]]. They handle the actual labor at scale. They have been doing it for eons. |
 
 The structural logic is clean enough on paper. The Elder Gods cannot be dragged into operational details without violating the scale at which they exist. The Ascended Mortal Gods, having been mortals, can manage at the operational level without disrupting the cosmic structure. The celestial spirits, being numerous and durable, can do the bulk work.
 

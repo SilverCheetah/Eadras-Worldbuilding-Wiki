@@ -73,10 +73,10 @@ The colour of a spirit's glow indicates which realm it comes from. The realm det
 
 | Tier | Realm | Spirits | Glow |
 |---|---|---|---|
-| Upper | [[celestia|Celestia]] | [[seraphim|Seraphim]] / celestials | **Bright golden-white**, like sunlight or holy radiance |
-| Middle | [[feywild|Feywild]] (bright reflection of the Prime) | Nature spirits / fey | **Vibrant emerald green**, like sunlight filtered through deep forest |
-| Middle | [[shadowdark|Shadowdark]] (dark reflection of the Prime) | Dark spirits | **Blacklight ultraviolet-violet**, cold and unnatural |
-| Lower | [[nyxar|Nyxar]] | [[devils|Devils]] / infernals | **Deep crimson-red to orange**, like molten metal or hellfire |
+| Upper | [[celestia\|Celestia]] | [[seraphim\|Seraphim]] / celestials | **Bright golden-white**, like sunlight or holy radiance |
+| Middle | [[feywild\|Feywild]] (bright reflection of the Prime) | Nature spirits / fey | **Vibrant emerald green**, like sunlight filtered through deep forest |
+| Middle | [[shadowdark\|Shadowdark]] (dark reflection of the Prime) | Dark spirits | **Blacklight ultraviolet-violet**, cold and unnatural |
+| Lower | [[nyxar\|Nyxar]] | [[devils\|Devils]] / infernals | **Deep crimson-red to orange**, like molten metal or hellfire |
 | Ring | Elemental Fire | Fire spirits | **Yellow**, like flame or molten gold |
 | Ring | Elemental Air | Air spirits | **Light blue**, like a clear daytime sky |
 | Ring | Elemental Water | Water spirits | **Dark blue**, like deep ocean |

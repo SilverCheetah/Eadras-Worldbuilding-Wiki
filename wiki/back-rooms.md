@@ -52,10 +52,10 @@ The Backrooms are accessed by spirits from all eight spirit realms, administered
 
 | # | Realm | Bureaucracy | Glow colour |
 |---|---|---|---|
-| 1 | **[[celestia|Celestia]]** (the celestial realm) | [[divine-bureaucracy|Divine]] (primary) | Bright golden-white |
-| 2 | **[[nyxar|Nyxar]]** (the infernal realm) | [[infernal-bureaucracy|Infernal]] (primary) | Deep crimson-red to orange |
-| 3 | **[[feywild|Feywild]]** (the bright reflection of the Prime) | [[divine-bureaucracy|Divine]] (secondary) | Vibrant emerald green |
-| 4 | **[[shadowdark|Shadowdark]]** (the dark reflection of the Prime) | [[infernal-bureaucracy|Infernal]] (secondary) | Blacklight ultraviolet-violet |
+| 1 | **[[celestia\|Celestia]]** (the celestial realm) | [[divine-bureaucracy\|Divine]] (primary) | Bright golden-white |
+| 2 | **[[nyxar\|Nyxar]]** (the infernal realm) | [[infernal-bureaucracy\|Infernal]] (primary) | Deep crimson-red to orange |
+| 3 | **[[feywild\|Feywild]]** (the bright reflection of the Prime) | [[divine-bureaucracy\|Divine]] (secondary) | Vibrant emerald green |
+| 4 | **[[shadowdark\|Shadowdark]]** (the dark reflection of the Prime) | [[infernal-bureaucracy\|Infernal]] (secondary) | Blacklight ultraviolet-violet |
 | 5 | **Elemental Fire** | **Elemental** | Yellow, like flame |
 | 6 | **Elemental Air** | **Elemental** | Light blue, like a clear sky |
 | 7 | **Elemental Water** | **Elemental** | Dark blue, like deep ocean |

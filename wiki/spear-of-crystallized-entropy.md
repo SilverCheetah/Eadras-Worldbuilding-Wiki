@@ -124,10 +124,10 @@ The hidings are summarized in the table below and described in detail in the sub
 
 | # | After | Mechanism | Plane / Location |
 |---|---|---|---|
-| **1** | [[kudur-etir|Kudur-eṭir]] | Failed destruction attempts, covered by **illusions of destruction** | Hidden location, illusion-shrouded |
-| **2** | Tarloth | **Time displacement** (held 1 minute in the future) | The [[feywild|Feywild]] — its long-term corruption from Brightmirror is downstream of the displacement |
-| **3** | Darkhoof | **Reverse time bubble** (vastly accelerated subjective time) over a [[#The volunteer dragon god\|volunteer dragon god's]] Total Icon Binding prison | Deepest depths of the [[shadowdark|Shadowdark]] — its long-term corruption from Darkmirror is downstream of the Spear's presence |
-| **4** | Xar'vion | Impalement back into the [[#The fourth hiding\|original First Breach Wound]] | [[arathyn|Arathyn]] is the scar tissue grown over the impalement |
+| **1** | [[kudur-etir\|Kudur-eṭir]] | Failed destruction attempts, covered by **illusions of destruction** | Hidden location, illusion-shrouded |
+| **2** | Tarloth | **Time displacement** (held 1 minute in the future) | The [[feywild\|Feywild]] — its long-term corruption from Brightmirror is downstream of the displacement |
+| **3** | Darkhoof | **Reverse time bubble** (vastly accelerated subjective time) over a [[#The volunteer dragon god\|volunteer dragon god's]] Total Icon Binding prison | Deepest depths of the [[shadowdark\|Shadowdark]] — its long-term corruption from Darkmirror is downstream of the Spear's presence |
+| **4** | Xar'vion | Impalement back into the [[#The fourth hiding\|original First Breach Wound]] | [[arathyn\|Arathyn]] is the scar tissue grown over the impalement |
 
 **Each use of the Spear also slowly corrupts the surrounding area or plane** — the corruption is gradual and cumulative, becoming visible only across long centuries, but every place the Spear sits for an extended time is changed by it. The plane-conversions of Darkmirror → [[shadowdark|Shadowdark]] and Brightmirror → [[feywild|Feywild]] are the largest-scale demonstrations of this rule. Both took millions of years; both happened during the second and third hidings of the new sequence.
 

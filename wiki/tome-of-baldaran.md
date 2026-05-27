@@ -118,7 +118,7 @@ The Tome and the [[divine-bureaucracy#Bureau of Records|Bureau of Records]] are 
 | **Style** | Vast, dry, mechanical | Active, intelligent, interpretive |
 | **Records** | Raw data — prayers, oaths, deeds, with mechanical precision | Events — with understanding, interpretation, and judgment of significance |
 | **Discretion** | None (or close to none) — the registrar files what comes in | Curatorial — chooses what to reveal, when, and to whom; can seal chapters |
-| **Origin** | Built by the Bureaucracy as one of its core institutional functions | Built by [[baldaran|Baldaran]] personally, as the solution to a gap the Bureaucracy refused to fill |
+| **Origin** | Built by the Bureaucracy as one of its core institutional functions | Built by [[baldaran\|Baldaran]] personally, as the solution to a gap the Bureaucracy refused to fill |
 | **Scope** | Mortal-deed-and-prayer archive | Every important event in the Mythos plus all collected knowledge |
 
 The two systems exist in parallel and **occasionally produce conflicting records**. The exact nature of their relationship — how much they overlap, whether they share information, what happens when their versions of history diverge — remains a point of **quiet theological tension** in the broader divine institution. Neither institution publicly contests the other; both are functioning components of how divinity records the world; but the specifics of *how exactly they relate* are unsettled.

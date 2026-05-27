@@ -31,9 +31,9 @@ The battle lasted **three days and three nights**:
 
 | Race | Role | Tactical Function |
 |---|---|---|
-| [[orugi|Orug]] | The **iron core** | Massive shield-walls of gray flesh and unbreakable honor, singing their service oaths as they absorbed charge after charge |
-| [[el-mer|El'mer]] | The **living song** | Wove song-magic from the shattered groves, raising temporary barriers of vitrified wood and thorn, healing the wounded with desperate beauty even as demons tore through |
-| [[aetherins|Aetherin]] | The **striking spear** | Superior humans bred for war; ferocious counter-attacks into demonic flanks, buying minutes with their lives |
+| [[orugi\|Orug]] | The **iron core** | Massive shield-walls of gray flesh and unbreakable honor, singing their service oaths as they absorbed charge after charge |
+| [[el-mer\|El'mer]] | The **living song** | Wove song-magic from the shattered groves, raising temporary barriers of vitrified wood and thorn, healing the wounded with desperate beauty even as demons tore through |
+| [[aetherins\|Aetherin]] | The **striking spear** | Superior humans bred for war; ferocious counter-attacks into demonic flanks, buying minutes with their lives |
 
 Together they turned a collapsing front into a **legend**. Their stand held the breach **just long enough**. The rituals were completed. The greater counter-rites began. But the three races paid the **full price**.
 

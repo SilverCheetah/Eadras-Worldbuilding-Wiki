@@ -129,7 +129,7 @@ Rathar do not use cognomens; identity is strictly by Velrathi House service (whe
 | **House Deepcrystal** | Divination and Far-Seeing — scrying, prophecy, and long-distance communication. Maintain vast crystal networks used for observation across great distances. |
 | **House Runewarden** | Rune Magic and Warding — permanent enchantments, defensive runes, and sealing dangerous knowledge. Created many of the most powerful wards protecting Rathar vaults. |
 | **House Archivault** | Secure Knowledge Preservation — the guardians of forbidden and dangerous lore. Maintain the most heavily protected archives and develop new methods of storing information that even time cannot erode. |
-| **House Voidscribe** | Shadow, Void, and Liminal Studies — the boundaries between planes, shadow magic, liminal spaces. After the Demon War, many Voidscribe researchers were instrumental in early attempts to understand [[limina|Limina]]. |
+| **House Voidscribe** | Shadow, Void, and Liminal Studies — the boundaries between planes, shadow magic, liminal spaces. After the Demon War, many Voidscribe researchers were instrumental in early attempts to understand [[limina\|Limina]]. |
 | **House Echoheart** | Resonance, Sound, and Sympathetic Magic — vibrational magic, echo manipulation, sympathetic links. Developed many communication and harmonic-based magical systems used deep underground. |
 
 Each House maintained its own grand **Hold** — an underground enclave or archive-city — though some smaller branches shared space.
@@ -140,9 +140,9 @@ When the [[demon-war|Demon War]] came, the Rathar's perfect memory became both t
 
 | Third | Choice | Outcome |
 |---|---|---|
-| **Fallen Third** | Died in the war | Killed defending breached libraries; some at the [[battle-of-the-broken-conclaves|Final Wall]] |
-| **Laughing Third** | Begged Sylph for the **Veil of Forgetting** | Transmuted into the [[beast-folk|Beast-Folk]] |
-| **Weighted Third** | Refused the Veil; chose to remember | Became the [[katharim|Katharim]] — undertakers and divine-only priests |
+| **Fallen Third** | Died in the war | Killed defending breached libraries; some at the [[battle-of-the-broken-conclaves\|Final Wall]] |
+| **Laughing Third** | Begged Sylph for the **Veil of Forgetting** | Transmuted into the [[beast-folk\|Beast-Folk]] |
+| **Weighted Third** | Refused the Veil; chose to remember | Became the [[katharim\|Katharim]] — undertakers and divine-only priests |
 
 A very small number of pure Rathar bloodlines survived by retreating into the deepest, most fortified undercities and sealing themselves in. They are the only direct survivors of the original people.
 

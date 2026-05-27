@@ -24,10 +24,10 @@ The current canonical inventory of Arathi Deep Vaults is:
 
 | Status | Count | Notes |
 |---|---|---|
-| **Opened** | **6** | 1 by [[unicorns#Darkhoof|Darkhoof]] (the unicorn); 3 by [[gnomes|gnomes]] (separate openings, including [[inki\|Inki's]] First Vault); 1 undersea (opener identity not yet specified); **1 by a joint Velrathi-Rathari expedition in the early High Firethorn Era** — see [[lost-primer\|the Lost Primer]] (vault now empty; demons consumed contents during the Demon War) |
-| **Sealed** | **7** | 6 underwater; 1 on dry land — the [[obsidian-sanctum|Obsidian Sanctum]] in the Scorched Waste of [[varkhul|Varkhul]] |
+| **Opened** | **6** | 1 by [[unicorns#Darkhoof\|Darkhoof]] (the unicorn); 3 by [[gnomes\|gnomes]] (separate openings, including [[inki\|Inki's]] First Vault); 1 undersea (opener identity not yet specified); **1 by a joint Velrathi-Rathari expedition in the early High Firethorn Era** — see [[lost-primer\|the Lost Primer]] (vault now empty; demons consumed contents during the Demon War) |
+| **Sealed** | **7** | 6 underwater; 1 on dry land — the [[obsidian-sanctum\|Obsidian Sanctum]] in the Scorched Waste of [[varkhul\|Varkhul]] |
 | **Known total on Eadras** | **13** | |
-| **Off-world** | **+1** | One additional vault on the red moon, [[daj|Daj]] — separate from the thirteen Eadras vaults |
+| **Off-world** | **+1** | One additional vault on the red moon, [[daj\|Daj]] — separate from the thirteen Eadras vaults |
 
 ## Function
 

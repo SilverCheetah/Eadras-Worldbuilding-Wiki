@@ -27,9 +27,9 @@ The Grand Conjunction occurs on a roughly **ten-thousand-year cycle** (user dire
 
 | Date | Event |
 |---|---|
-| ~10,000 years ago | [[xarvion|Xar'vion]] used the Spear and ascended at the Grand Conjunction of that horizon; Demon War followed. The [[divine-concordat|Divine Concordat]] was sealed shortly after; the [[great-banishment|Great Banishment]] ended the empire era. |
-| ~9,000–10,000 years ago | [[lost-zenith|Lost Zenith]] — the [[black-hand|Black Hand]] failed to retrieve the Spear at the same Grand Conjunction; in the decades immediately preceding the window they engineered the [[anti-magic-crusade|Anti-Magic Crusade]] (after the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up) as a Spear-search diversion. The Crusade's catastrophic side-effects produced the [[thousand-year-dimming|Thousand-Year Dimming]]. |
-| Imminent (modern era) | Next Grand Conjunction — the [[black-hand|Black Hand]] races to deliver the Spear to Xar'vion before this window |
+| ~10,000 years ago | [[xarvion\|Xar'vion]] used the Spear and ascended at the Grand Conjunction of that horizon; Demon War followed. The [[divine-concordat\|Divine Concordat]] was sealed shortly after; the [[great-banishment\|Great Banishment]] ended the empire era. |
+| ~9,000–10,000 years ago | [[lost-zenith\|Lost Zenith]] — the [[black-hand\|Black Hand]] failed to retrieve the Spear at the same Grand Conjunction; in the decades immediately preceding the window they engineered the [[anti-magic-crusade\|Anti-Magic Crusade]] (after the hundred-year [[century-of-sorrows\|Century of Sorrows]] ramp-up) as a Spear-search diversion. The Crusade's catastrophic side-effects produced the [[thousand-year-dimming\|Thousand-Year Dimming]]. |
+| Imminent (modern era) | Next Grand Conjunction — the [[black-hand\|Black Hand]] races to deliver the Spear to Xar'vion before this window |
 
 (sources: Playground generation 2nd part.txt; user direction 2026-05-15 — replacement-pass timeline and B1 cycle-period lock)
 

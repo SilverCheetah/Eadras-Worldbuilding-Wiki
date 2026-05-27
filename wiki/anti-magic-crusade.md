@@ -157,11 +157,11 @@ See [[thousand-year-dimming|the Thousand-Year Dimming]] for the full account of 
 |---|---|
 | **Ordinary Public** | Magic is dangerous; the gods stopped the Crusade. |
 | **Educated Mages and Priests** | Mass persecution is magically dangerous; caused the Dimming. |
-| **[[order-sharanel|Order Sharanel]] Inner Circle** | Every magic user strengthens the Weave; Windspeakers anchor specific junctions; mass magic-user death weakens the world's defensive magic. |
+| **[[order-sharanel\|Order Sharanel]] Inner Circle** | Every magic user strengthens the Weave; Windspeakers anchor specific junctions; mass magic-user death weakens the world's defensive magic. |
 | **Current Windspeakers and Custodians** | Full conduit mechanics, succession risks, and life-force resonance structures. |
 | **Black Hand Inner Core** | Strongly suspected the magic-Weave connection but could not prove causation amid chaos. |
 | **Black Hand Outer Hand** | Knew nothing of the Weave connection; executed the diversion as ordered. |
-| **Elder Gods and the [[tome-of-baldaran|Tome of Baldaran]]** | Possess the complete and total truth. |
+| **Elder Gods and the [[tome-of-baldaran\|Tome of Baldaran]]** | Possess the complete and total truth. |
 
 ## The Ethical Dilemma
 

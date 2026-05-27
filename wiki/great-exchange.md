@@ -49,13 +49,13 @@ The fact that the Exchange began with *fringe* individuals on both sides — you
 | Lesson | What it gave the unicorns |
 |---|---|
 | **The power and burden of individuality** | The concept of a true, singular *"I"* — a self that exists apart from the Chorus and bears the weight of its own choices. Before this, unicorn experience was overwhelmingly collective. |
-| **New and aggressive applications of [[eldritch|Eldritch]] magic** | Forms of magic the unicorns had not previously developed — particularly martial and offensive applications — drawn from the dragons' broader, more combative magical instinct. |
+| **New and aggressive applications of [[eldritch\|Eldritch]] magic** | Forms of magic the unicorns had not previously developed — particularly martial and offensive applications — drawn from the dragons' broader, more combative magical instinct. |
 
 ### What the unicorns taught the dragons
 
 | Lesson | What it gave the dragons |
 |---|---|
-| **The true power of cooperation without domination or hierarchy** | A model of collective action that does not require an apex predator at the top. Where dragons had only known dominance hierarchies, the unicorns demonstrated coordination as equals. This eventually flowered into [[ratharil|Ratharil]] and the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]] — a governance pattern that would have been alien to pre-Exchange dragons. |
+| **The true power of cooperation without domination or hierarchy** | A model of collective action that does not require an apex predator at the top. Where dragons had only known dominance hierarchies, the unicorns demonstrated coordination as equals. This eventually flowered into [[ratharil\|Ratharil]] and the [[ratharil#Council of 99 Eldest\|Council of Ninety-Nine]] — a governance pattern that would have been alien to pre-Exchange dragons. |
 | **The disciplined arts of psionics** | Specifically: **telepathy, telekinesis, psychic combat, and psychic shielding.** A four-discipline mental tradition the dragons had never developed on their own. |
 | **The realization that other sapient species had existed on Eadras for approximately twenty thousand years** | A genuine shock: until the unicorns told them, the dragons did not know there were *other thinking beings* on the world beyond unicorns and themselves. The unicorns, having watched the world for untold millennia, had noticed. The dragons had not. |
 

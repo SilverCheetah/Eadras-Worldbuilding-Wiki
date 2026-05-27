@@ -125,9 +125,9 @@ The Inner Hand's deepest goal has shifted three times in ten thousand years:
 
 | Phase | Period | Inner goal |
 |---|---|---|
-| **Phase 1: Resurrection** | Pre-ascension to first ~2 centuries after Xar'vion's ascension | Resurrect [[velena|Velena]]. Records of this purpose vanished from the Hand's own archives within roughly two centuries — partly because [[dao|Dao's]] curse had stripped Xar'vion's motive, partly because the resurrection effort itself failed and was quietly buried. |
+| **Phase 1: Resurrection** | Pre-ascension to first ~2 centuries after Xar'vion's ascension | Resurrect [[velena\|Velena]]. Records of this purpose vanished from the Hand's own archives within roughly two centuries — partly because [[dao\|Dao's]] curse had stripped Xar'vion's motive, partly because the resurrection effort itself failed and was quietly buried. |
 | **Phase 2: Free the Icon** | Mid-history (post-Demon War) until ~9,000–10,000 years ago (the Lost Zenith) | After Xar'vion was Icon-bound at the close of the Demon War, the Inner Hand's purpose shifted to **freeing him from his Icon**. The means were unclear; the goal drove research and relic-hunting across millennia. |
-| **Phase 3: The Spear's Path** | ~9,000–10,000 years ago to present | The Inner Hand identified the [[spear-of-crystallized-entropy|Spear]] as the means. The exact mechanism by which it frees Xar'vion is speculative — see *The two speculations* below. The [[lost-zenith|Lost Zenith]] — the previous [[grand-conjunction|Grand Conjunction]] ~9,000–10,000 years ago — was the failed attempt to find and deliver the Spear during that window; the [[anti-magic-crusade|Anti-Magic Crusade]] (preceded by the [[century-of-sorrows|Century of Sorrows]]) was the Spear-search's catastrophic diversion. |
+| **Phase 3: The Spear's Path** | ~9,000–10,000 years ago to present | The Inner Hand identified the [[spear-of-crystallized-entropy\|Spear]] as the means. The exact mechanism by which it frees Xar'vion is speculative — see *The two speculations* below. The [[lost-zenith\|Lost Zenith]] — the previous [[grand-conjunction\|Grand Conjunction]] ~9,000–10,000 years ago — was the failed attempt to find and deliver the Spear during that window; the [[anti-magic-crusade\|Anti-Magic Crusade]] (preceded by the [[century-of-sorrows\|Century of Sorrows]]) was the Spear-search's catastrophic diversion. |
 
 ### The two speculations
 
@@ -191,7 +191,7 @@ After ten thousand years and many cycles, "the Black Hand" can refer to several 
 |---|---|
 | **The Hand proper** | The true ongoing organization in its current cycle — currently rebuilding from the most recent crusade-driven trough; still oriented toward the Spear. |
 | **False Black Hands** | Criminals using the symbol for fear and recruitment leverage. Many regional crime syndicates have nothing to do with the real Hand but find the brand profitable. |
-| **Penitent Hands** | Descendants or successors of Inner Hand defectors who hunt the remnants. The [[white-palm|White Palm]] traces its lineage here. |
+| **Penitent Hands** | Descendants or successors of Inner Hand defectors who hunt the remnants. The [[white-palm\|White Palm]] traces its lineage here. |
 | **State Propaganda Labels** | Governments accuse enemies of Black Hand ties whether true or not. Especially common during anti-Hand crusades, when accusation is sufficient justification. |
 
 The Outer Hand's purpose has always been power, so most members have nothing to be loyal-to or apostate-from. Inner Hand fragmentation has occurred but only on a small scale.

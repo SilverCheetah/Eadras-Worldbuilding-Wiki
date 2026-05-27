@@ -104,7 +104,7 @@ The White Deluge deposited or exposed strange materials that have shaped post-Ca
 | Material | Description | Used by |
 |---|---|---|
 | **Star-pumice** | Floating impact stone holding heat and enchantment | Magitek heat-engines; surface kingdoms fight over deposits |
-| **White salts** | Mineral residues from superheated underwaters | Preservation, warding, [[necromancy-and-undeath|necromancy]] |
+| **White salts** | Mineral residues from superheated underwaters | Preservation, warding, [[necromancy-and-undeath\|necromancy]] |
 | **Abyssal glass** | Black-blue glass formed where boiling waters met starfire | Holds enchantment underwater; controlled by sea peoples |
 | **Root-metal** | Deep metallic veins exposed by the unzipping | Mined by dwarves, gnomes, and giants |
 

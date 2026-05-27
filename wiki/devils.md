@@ -72,8 +72,8 @@ The horror of the field encounter is identical to the horror of the office: **th
 
 | | Devils | Seraphim |
 |---|---|---|
-| Plane | [[nyxar|Nyxar]] | [[celestia|Celestia]] |
-| Institution | [[infernal-bureaucracy|Infernal Bureaucracy]] | [[divine-bureaucracy|Divine Bureaucracy]] |
+| Plane | [[nyxar\|Nyxar]] | [[celestia\|Celestia]] |
+| Institution | [[infernal-bureaucracy\|Infernal Bureaucracy]] | [[divine-bureaucracy\|Divine Bureaucracy]] |
 | Institution's character | Terrifyingly efficient, competent, relentless | Sprawling, slow, sinecure-riddled, often dysfunctional |
 | Base form | Universal spirit true form ([[spirits]]); crimson-orange glow; "type" variation comes from uniforms | Universal spirit true form ([[spirits]]); golden-white glow; same uniform mechanic |
 | Field role | Tempters and adversaries | The setting's "angels" |

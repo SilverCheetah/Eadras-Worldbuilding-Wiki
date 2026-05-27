@@ -54,13 +54,13 @@ The seven modern Sea'tua-descended peoples:
 
 | People | Branch | Specialty |
 |---|---|---|
-| **[[merrow|Merrow]]** | Modern oceanic | The Tideweavers — symbiotic coral architects |
-| **[[sirens|Sirens]]** | Modern oceanic | The Echo Weavers — sonic geological reshapers |
-| **[[shimmercloaks|Shimmercloaks]]** | Modern oceanic | The Echo Traders — living memory-currency |
-| **[[ink-lords|Ink Lords]]** | Modern oceanic | The Story Eaters — communal scholars |
-| **[[tideclad|Tideclad]]** | Modern oceanic | The Current Wardens — disciplined martial protectors |
-| **[[kuo-toa|Kuo-toa]]** | Alien branch | The Fracture Cult — fanatical Limina-worshippers studying the Gaps |
-| **[[sahuagin|Sahuagin]]** | Alien branch | The Blood Navigators — submarine living war-fleets |
+| **[[merrow\|Merrow]]** | Modern oceanic | The Tideweavers — symbiotic coral architects |
+| **[[sirens\|Sirens]]** | Modern oceanic | The Echo Weavers — sonic geological reshapers |
+| **[[shimmercloaks\|Shimmercloaks]]** | Modern oceanic | The Echo Traders — living memory-currency |
+| **[[ink-lords\|Ink Lords]]** | Modern oceanic | The Story Eaters — communal scholars |
+| **[[tideclad\|Tideclad]]** | Modern oceanic | The Current Wardens — disciplined martial protectors |
+| **[[kuo-toa\|Kuo-toa]]** | Alien branch | The Fracture Cult — fanatical Limina-worshippers studying the Gaps |
+| **[[sahuagin\|Sahuagin]]** | Alien branch | The Blood Navigators — submarine living war-fleets |
 
 The five modern oceanic races are collectively known on the surface as **"[[merfolk|merfolk]]"** — a colloquial umbrella term, not a unit of biological or political reality. Each of the five prefers to be addressed by its own name. See [[merfolk]] for the umbrella term's actual scope and limitations.
 

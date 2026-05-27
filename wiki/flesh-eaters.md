@@ -206,7 +206,7 @@ The Flesh-Eaters categorize prey using blunt internal slang based almost entirel
 
 | Cabal term | Refers to |
 |---|---|
-| ***Horn-horses*** | [[unicorns|Unicorns]]. Regarded as exceptionally magical livestock. |
+| ***Horn-horses*** | [[unicorns\|Unicorns]]. Regarded as exceptionally magical livestock. |
 | ***Snacks*** | Larger humanoid sapients — humans and similarly sized races. Worth hunting and eating. |
 | ***Not even snacks*** | Small humanoid races — gnomes, goblins, halflings. Inefficient prey, often ignored unless encountered directly. |
 

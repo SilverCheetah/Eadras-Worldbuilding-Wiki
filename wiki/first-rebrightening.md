@@ -66,8 +66,8 @@ The [[baldaranic-council-cycle|Baldaranic Council Cycle]] dialogues produced a p
 | 13 FR | First Open Palm Synod |
 | 15 FR | Arathi Geo-Substrate Incident — a public vault event reveals substrate is alive |
 | 16 FR | Arathi Council |
-| 18–25 FR | [[vault-concordat|Vault Concordat]] negotiations |
-| 22 FR | [[herd-listeners|Herd-Listener]] recognition formalised |
+| 18–25 FR | [[vault-concordat\|Vault Concordat]] negotiations |
+| 22 FR | [[herd-listeners\|Herd-Listener]] recognition formalised |
 | 25–35 FR | Demon War Memory Crisis |
 
 The chronology is flagged for ongoing review; specific events anchoring 0 FR and the precise dates of later milestones remain open canon.

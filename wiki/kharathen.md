@@ -35,7 +35,7 @@ The city's crypt architecture forms a **living timeline** of ten thousand years 
 |---|---|---|
 | **War-era Core** | 0–500 | Stark functional barrows of fused demon-glass and Rathar black stone. Low, bunker-like vaults half-sunk into earth. Iron doors stamped with names of the **Fallen Third**. No ornamentation — only casualty rolls carved deep enough to read by touch in total darkness. |
 | **Rebuilding Age** | 500–2,000 | Austere colonnaded halls of charcoal granite with silver-inlaid friezes depicting battle sequences. Flat load-bearing roofs walkable for recitations. |
-| **Beast-kin Influence Period** | 2,000–4,000 | First subtle softening — living-vine trellises trained by [[beast-folk|Laughing Third]] visitors, small laughing-mask reliefs tucked into corners. Crypts feel more like **libraries with beds** than tombs. |
+| **Beast-kin Influence Period** | 2,000–4,000 | First subtle softening — living-vine trellises trained by [[beast-folk\|Laughing Third]] visitors, small laughing-mask reliefs tucked into corners. Crypts feel more like **libraries with beds** than tombs. |
 | **High Record Age** | 4,000–7,000 | Grand vaulted chambers with perfect geometric acoustics — a single priest's recitation can be heard throughout an entire district. Crystal lenses set in ceilings focus starlight onto name-plaques at night. |
 | **Modern Outer Rings** | 7,000–present | Restrained elegance: clean lines, understated ironwork, occasional living trees grown from soil mixed with ashes of the recently interred. Still expanding. |
 

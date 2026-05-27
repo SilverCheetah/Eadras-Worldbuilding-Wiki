@@ -46,7 +46,7 @@ There are **five Substance Pillars** — the *nouns* of magic. They name the cat
 
 | Pillar | Meaning |
 |---|---|
-| **Essence** | Raw magical energy itself — the substrate. What [[magic-in-eadras#Quintessence, Eldritch, Mana|Quintessence/Eldritch/Mana]] *is*, treated as the working material. The pillar of *acting on the magical layer of reality*. |
+| **Essence** | Raw magical energy itself — the substrate. What [[magic-in-eadras#Quintessence, Eldritch, Mana\|Quintessence/Eldritch/Mana]] *is*, treated as the working material. The pillar of *acting on the magical layer of reality*. |
 | **Matter** | Non-living physical material — stone, water, air, metal, wood, the inanimate substrate of the world. The pillar of *acting on the physical*. |
 | **Flesh** | Living biological matter — bodies, blood, organs, growth, organic life. The pillar of *acting on the biological*. |
 | **Mind** | Thought, consciousness, memory, perception, will. The pillar of *acting on the mental*. |

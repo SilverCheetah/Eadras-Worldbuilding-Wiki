@@ -38,8 +38,8 @@ These are not unrelated coincidences. The Worldbreaker fell along Kudur-eá¹­i
 | **1mya post-Cataclysm** (9 mybp) | **Blazing wound.** The Scar burns brightly at the center of what will become the Central Rift Ocean. Active eruption, mantle exposure under thin ocean cover. (See [[eadras-tectonic-history#1mya post-Cataclysm]]) |
 | **2mya post-Cataclysm** (8 mybp) | **Buried Worldbreaker Scar.** Cooling and sinking; surface activity reduced. Still distorts ocean currents and ley lines from below. (See [[eadras-tectonic-history#2mya post-Cataclysm]]) |
 | **3mya post-Cataclysm** (7 mybp) | **Deep, stable oceanic rift.** Geologically active but no longer a blazing wound. The Northreach, Southward, Atoll Drift, and Elder Current systems have organized around it. (See [[eadras-tectonic-history#3mya post-Cataclysm]]) |
-| **4mya post-Cataclysm — Eldravath** (6 mybp) | **Faintly glowing rift-center** at the heart of the Central Rift Ocean, surrounded by the [[eldravath|Eldravath]] supercontinent. The Scar is the supercontinent's geological pivot: continental collision did not seal it. (See [[eadras-tectonic-history#4mya post-Cataclysm — Eldravath]]) |
-| Later (undefined) | **Continued LIP extrusion** eventually breaches the surface and begins forming [[arathyn|Arathyn]]; the Scar becomes the basement of a new continent. The phasing between 4mya and Arathyn's surface emergence is undefined in canon. |
+| **4mya post-Cataclysm — Eldravath** (6 mybp) | **Faintly glowing rift-center** at the heart of the Central Rift Ocean, surrounded by the [[eldravath\|Eldravath]] supercontinent. The Scar is the supercontinent's geological pivot: continental collision did not seal it. (See [[eadras-tectonic-history#4mya post-Cataclysm — Eldravath]]) |
+| Later (undefined) | **Continued LIP extrusion** eventually breaches the surface and begins forming [[arathyn\|Arathyn]]; the Scar becomes the basement of a new continent. The phasing between 4mya and Arathyn's surface emergence is undefined in canon. |
 
 ## Magical and metaphysical significance
 

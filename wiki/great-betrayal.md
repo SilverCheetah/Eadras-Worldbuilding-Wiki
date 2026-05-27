@@ -90,9 +90,9 @@ Kathira Spellsinger is remembered in several contradictory ways:
 | Naming | Tradition |
 |---|---|
 | **The Betrayer Queen** / **The Red-Eyed Widow** | Among many Tarran descendants and exiled Firethorn loyalists |
-| **The Necessary Hand** | Among [[katharim|Katharim]], pragmatic generals' lineages, and most modern historians — *the woman who paid the personal price so the world could be saved* |
-| **Vorandethi Kathira Spellsinger** | Among Velrathi scholarly traditions and [[order-sharanel|Order Sharanel]] historical material — the named woman of House Valtharion who carried this; *Vorandethi* is her [[naming-conventions#Velrathi title morphology|heir-by-lineage title]] |
-| **[[velveth|Velveth]]** | Within Velrathi religious tradition and in [[solarion|Solarion]] — the Velrathi Ascended Mortal Goddess she became; the soul-thread that continued past the mortal woman |
+| **The Necessary Hand** | Among [[katharim\|Katharim]], pragmatic generals' lineages, and most modern historians — *the woman who paid the personal price so the world could be saved* |
+| **Vorandethi Kathira Spellsinger** | Among Velrathi scholarly traditions and [[order-sharanel\|Order Sharanel]] historical material — the named woman of House Valtharion who carried this; *Vorandethi* is her [[naming-conventions#Velrathi title morphology\|heir-by-lineage title]] |
+| **[[velveth\|Velveth]]** | Within Velrathi religious tradition and in [[solarion\|Solarion]] — the Velrathi Ascended Mortal Goddess she became; the soul-thread that continued past the mortal woman |
 
 Kathira **survived the war** and accompanied the Velrathi into the [[great-banishment|Great Banishment]] to [[veyr-keth|Veyr'Keth]], where she resumed political duties as a senior figure of the Northern Monarchy's exiled court. She neither remarried nor took another lover. At some indeterminate point during that continued mortal life in Veyr'Keth, her **[[apotheosis|Apotheosis]]** occurred and she became [[velveth|Velveth]], whose office in [[solarion|Solarion]] handles Velrathi vow-prayers, oath-arbitration, and the institutional management of duty against love.
 
