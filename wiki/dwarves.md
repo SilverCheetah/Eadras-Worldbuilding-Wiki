@@ -18,7 +18,7 @@ knowledge_access: [common]
 
 ---
 
-## Naming
+## Etymology
 
 **Shada'din** is the in-universe canonical name. **Dwarves** is the term used by the younger races and most outsiders, and is fully recognized; either is acceptable in shared speech. The Shada'din themselves prefer their own name, especially in formal contexts and in religious settings dedicated to [[din-shadar|Din'shadar]]. (source: May 1 revisions.txt)
 

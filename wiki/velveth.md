@@ -163,7 +163,7 @@ The bone-handled comb of the [[the-long-quiet|Long Quiet]] does not appear in ca
 
 ### Tea: Clarity Thorn
 
-Velveth's tea preference, maintained across her Apotheosis, is **Clarity Thorn** — the same memory-bright variety Kathira drank during her mortal life as an aid to political-architectural thinking. She drinks it daily, in the formal Velrathi tea-ceremony register, and **accepts visitors only when she has finished the day's first cup**. (Compare [[velrathi-tea-tradition|the broader Velrathi tea tradition]] for the mental-acuity rationale across the people.)
+Velveth's tea preference, maintained across her Apotheosis, is **Clarity Thorn** — the same memory-bright variety Kathira drank during her mortal life as an aid to political-architectural thinking. She drinks it daily, in the formal Velrathi tea-ceremony register, and **accepts visitors only when she has finished the day's first cup**. (Compare [[velrathi-tea-culture|the broader Velrathi tea tradition]] for the mental-acuity rationale across the people.)
 
 ## Relationship with Imma
 

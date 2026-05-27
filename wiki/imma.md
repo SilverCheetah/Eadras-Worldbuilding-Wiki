@@ -126,7 +126,7 @@ She is also **the divine pantheon's pure warmth at the working-office level**. O
 <summary>Related pages</summary>
 
 - [[gods-of-eadras]]
-- [[ascended-mortal-deities-mechanism]]
+- [[apotheosis]]
 - [[beast-folk]]
 - [[sylph]]
 - [[velveth]]
