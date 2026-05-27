@@ -10,7 +10,7 @@ knowledge_access: [common]
 
 # The Unsealing Oath
 
-**Summary**: A formal three-witness procedure required by the [[vault-concordat|Vault Concordat]] before sealed [[arathi-geo-substrate|Arathi systems]] may be opened. The Oath specifies three witnesses for **knowledge** (the technical record), **consequence** (the moral record), and **the unborn** (future generations who will bear the risk). The Oath was articulated during the [[baldaranic-council-cycle#Phase II â€” The Arathi Council|Arathi Council]] as the load-bearing slow-down mechanism for vault opening â€” the procedure that makes hurried unsealing institutionally impossible.
+**Summary**: A formal three-witness procedure required by the [[vault-concordat|Vault Concordat]] before sealed [[arathi-geo-substrate|Arathi systems]] may be opened. The Oath specifies three witnesses for **knowledge** (the technical record), **consequence** (the moral record), and **the unborn** (future generations who will bear the risk). The Oath was articulated during the [[baldaranic-council-cycle#Phase II — The Arathi Council|Arathi Council]] as the load-bearing slow-down mechanism for vault opening — the procedure that makes hurried unsealing institutionally impossible.
 
 **Sources**: arathi-council-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -32,7 +32,7 @@ The witness's certification statement is the **opening of the record**. After th
 
 The **moral witness**. Records what happens if the opening goes wrong. The Witness for consequence is *not* a technical specialist; the role explicitly demands someone whose primary frame is mortal cost rather than scholarly opportunity. Typically a [[katharim|Katharim]] death-priest, a [[hearth-witness-mandate|Hearth-Witness]], a midwife, a regional healer, a grief-keeper, or a senior elder of a community that bears the vault's regional risk.
 
-The Witness for consequence's job is to **speak the worst case aloud** before the opening begins. If the substrate is hostile, what dies? If the Context-Bound failure cascades, what villages are at risk? If the [[arathi-geo-substrate#Five substrate clades|Oru-Sha]] military substrate wakes up, what does that do to the surrounding countryside? The witness is required to articulate this â€” not vaguely, but specifically â€” and the opening team must hear it.
+The Witness for consequence's job is to **speak the worst case aloud** before the opening begins. If the substrate is hostile, what dies? If the Context-Bound failure cascades, what villages are at risk? If the [[arathi-geo-substrate#Five substrate clades|Oru-Sha]] military substrate wakes up, what does that do to the surrounding countryside? The witness is required to articulate this — not vaguely, but specifically — and the opening team must hear it.
 
 The witness's certification confirms that *the moral cost of the opening has been spoken, and the team has chosen to proceed anyway*. The witness is not required to approve; the witness is required to ensure the team did not avoid the question.
 
@@ -66,7 +66,7 @@ The Oath's traditional spoken form, in standard liturgical register:
 >
 > *Let this opening be witnessed.*
 
-Specific traditions vary. Trollish traditions add a fourth witness for the substrate itself, on the principle that a wounded organism is owed acknowledgement of the wounding. [[katharim|Katharim]] traditions add a fifth witness â€” for the [[unreceived|Unreceived]] who may be re-encountered if the substrate has held residue from the [[demon-war|Demon War]] era. [[druids|Druid]] traditions add a witness for the surrounding ecology.
+Specific traditions vary. Trollish traditions add a fourth witness for the substrate itself, on the principle that a wounded organism is owed acknowledgement of the wounding. [[katharim|Katharim]] traditions add a fifth witness — for the [[unreceived|Unreceived]] who may be re-encountered if the substrate has held residue from the [[demon-war|Demon War]] era. [[druids|Druid]] traditions add a witness for the surrounding ecology.
 
 These additional witnesses are encouraged but not required by the [[vault-concordat|Concordat]]. The three-witness core is universal.
 
@@ -99,9 +99,9 @@ If any of the three witnesses refuses to certify, the opening **does not proceed
 - **Address the witness's specific concern** and re-attempt the Oath
 - **Substitute a different witness** (rare; the substitution is recorded and weighs against the team's standing in future Concordat hearings)
 - **Withdraw the opening request** until conditions change
-- **Proceed without Concordat standards** â€” at which point the opening is treaty-violating and may invite [[#Concordat consequences|Concordat consequences]] on the responsible state or organisation
+- **Proceed without Concordat standards** — at which point the opening is treaty-violating and may invite [[#Concordat consequences|Concordat consequences]] on the responsible state or organisation
 
-The third path is the [[black-hand|Black Hand]]'s preferred route â€” operations that refuse the Oath as a matter of doctrine, conduct the opening covertly, and accept the diplomatic cost as the price of doing business. This is one reason the Hand's vault operations are increasing during the [[first-rebrightening|First Rebrightening]].
+The third path is the [[black-hand|Black Hand]]'s preferred route — operations that refuse the Oath as a matter of doctrine, conduct the opening covertly, and accept the diplomatic cost as the price of doing business. This is one reason the Hand's vault operations are increasing during the [[first-rebrightening|First Rebrightening]].
 
 ## Concordat consequences
 
@@ -117,11 +117,11 @@ The teeth of these consequences are still under negotiation as of FR 25; the Oat
 
 ## Open canon
 
-- **The first sustained Oath refusal** under high political pressure â€” when does a witness become a hero or a martyr for refusing certification?
-- **The Black Hand's procedural workaround** â€” they have presumably developed counter-Oath rituals that mimic certification; specific operations are open
-- **Witness training and selection** â€” formal procedures for credentialing Witnesses for knowledge, consequence, and the unborn are emerging during FR
-- **Substrate-as-witness extensions** in trollish tradition â€” does a substrate that has explicitly responded *no* count as a refusing witness?
-- **The Oath's relationship to non-vault contexts** â€” does the three-witness pattern apply to other irreversible-consequence decisions (Crusade-class divine intervention, conduit governance changes, etc.)?
+- **The first sustained Oath refusal** under high political pressure — when does a witness become a hero or a martyr for refusing certification?
+- **The Black Hand's procedural workaround** — they have presumably developed counter-Oath rituals that mimic certification; specific operations are open
+- **Witness training and selection** — formal procedures for credentialing Witnesses for knowledge, consequence, and the unborn are emerging during FR
+- **Substrate-as-witness extensions** in trollish tradition — does a substrate that has explicitly responded *no* count as a refusing witness?
+- **The Oath's relationship to non-vault contexts** — does the three-witness pattern apply to other irreversible-consequence decisions (Crusade-class divine intervention, conduit governance changes, etc.)?
 
 <details>
 <summary>Related pages</summary>

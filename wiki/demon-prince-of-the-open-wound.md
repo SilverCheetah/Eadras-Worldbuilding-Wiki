@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Demon Prince of the Open Wound
 
-**Summary**: The Demon Prince of the Open Wound is an ancient, hugely-fed [[demons|demon]] â€” an alien-Mythos energivore â€” that [[xarvion|Xar'vion]] summoned to Eadras 10,000 years ago in his desperation by true-name; its arrival ignited the [[demon-war|Demon War]] and forced [[lirra|Lirra]] to create the Weave to keep it from drinking the world's magic dry.
+**Summary**: The Demon Prince of the Open Wound is an ancient, hugely-fed [[demons|demon]] — an alien-Mythos energivore — that [[xarvion|Xar'vion]] summoned to Eadras 10,000 years ago in his desperation by true-name; its arrival ignited the [[demon-war|Demon War]] and forced [[lirra|Lirra]] to create the Weave to keep it from drinking the world's magic dry.
 
 **Sources**: Playground generation 2nd part.txt, More corrections.txt
 
@@ -19,9 +19,9 @@ knowledge_access: [common]
 
 ## Overview
 
-The Demon Prince of the Open Wound is the working title of the [[demons|demonic]] entity that [[xarvion|Xar'vion]] summoned to Eadras when he was losing his war against the world. Its true name â€” by which Xar'vion summoned it â€” is one of the Black Hand's most closely guarded secrets and has never been preserved publicly; possible scholarly reconstructions include **Varkhul the Maw-Crowned**, **Shemrazz of the Thousand Hungers**, **Orrgath the Red Choir**, **Malzuren the Flesh-Tithe**, and **Threxul, Prince of the Open Wound**. (source: Playground generation 2nd part.txt)
+The Demon Prince of the Open Wound is the working title of the [[demons|demonic]] entity that [[xarvion|Xar'vion]] summoned to Eadras when he was losing his war against the world. Its true name — by which Xar'vion summoned it — is one of the Black Hand's most closely guarded secrets and has never been preserved publicly; possible scholarly reconstructions include **Varkhul the Maw-Crowned**, **Shemrazz of the Thousand Hungers**, **Orrgath the Red Choir**, **Malzuren the Flesh-Tithe**, and **Threxul, Prince of the Open Wound**. (source: Playground generation 2nd part.txt)
 
-The Demon Prince was not a soldier or servant. As recorded in council canon: *"A Demon Prince does not arrive as a servant. It arrives as an appetite."* Like all [[demons]], it is an alien-Mythos **energivore** â€” and given its scale and capabilities, it must have fed for many centuries (perhaps millennia) in its native Mythos before Xar'vion called it through. Its hunger and intelligence are both products of that long feeding. The "Prince" title is a translation convention; among demons of its tier it is simply one of the very large.
+The Demon Prince was not a soldier or servant. As recorded in council canon: *"A Demon Prince does not arrive as a servant. It arrives as an appetite."* Like all [[demons]], it is an alien-Mythos **energivore** — and given its scale and capabilities, it must have fed for many centuries (perhaps millennia) in its native Mythos before Xar'vion called it through. Its hunger and intelligence are both products of that long feeding. The "Prince" title is a translation convention; among demons of its tier it is simply one of the very large.
 
 ## Summoning
 
@@ -29,25 +29,25 @@ By the time Xar'vion summoned the Demon Prince, his armies were being severed fr
 
 He failed. Or he succeeded just long enough to make things worse. (source: Playground generation 2nd part.txt)
 
-The summoning was not merely a tactical error â€” it was a severe metaphysical breach. [[demons|Demons]] are alien-Mythos predators whose presence is **poisonous to this Mythos**: their substance is not from Eadras's reality, and their arrival introduces a nonnative magical metabolism wherever they appear. The Prince came through directly via Xar'vion's true-name summoning, opening what was effectively a wound between Mythoi.
+The summoning was not merely a tactical error — it was a severe metaphysical breach. [[demons|Demons]] are alien-Mythos predators whose presence is **poisonous to this Mythos**: their substance is not from Eadras's reality, and their arrival introduces a nonnative magical metabolism wherever they appear. The Prince came through directly via Xar'vion's true-name summoning, opening what was effectively a wound between Mythoi.
 
 It took Xar'vion five full years to realize the Demon Prince intended to consume everything, not honor agreements. Only then did he turn to the Elder Gods and offer to join them. (source: Playground generation 2nd part.txt)
 
 ## The Demon War
 
-The Demon Prince's arrival shifted the war from "the world against Xar'vion" to "the world against Xar'vion and the demonic breach, while Xar'vion loses control of what he summoned." Many initially believed the demons were Xar'vion's new army â€” until the demons began devouring his followers as readily as his enemies. (source: Playground generation 2nd part.txt)
+The Demon Prince's arrival shifted the war from "the world against Xar'vion" to "the world against Xar'vion and the demonic breach, while Xar'vion loses control of what he summoned." Many initially believed the demons were Xar'vion's new army — until the demons began devouring his followers as readily as his enemies. (source: Playground generation 2nd part.txt)
 
 The Prince's arrival caused the [[demon-war|Demon War]]. See that page for the broader conflict.
 
 ## Magical Effects
 
-The Demon Prince and its hordes began siphoning magic directly from Eadras â€” drinking from raw [[eldritch|Eldritch]] flowing through ley lines and conduits. This is a direct expression of demon physiology: as [[demons|energivores]], they consume any energy available, growing larger and stronger and more intelligent the more they absorb. The Prince's presence on Eadras would, on a long enough timeline, have eaten the world's magic to depletion.
+The Demon Prince and its hordes began siphoning magic directly from Eadras — drinking from raw [[eldritch|Eldritch]] flowing through ley lines and conduits. This is a direct expression of demon physiology: as [[demons|energivores]], they consume any energy available, growing larger and stronger and more intelligent the more they absorb. The Prince's presence on Eadras would, on a long enough timeline, have eaten the world's magic to depletion.
 
-To prevent that, [[lirra|Lirra]] created the Weave during the war. The Weave's existence is in a real sense a **defensive response to the Demon Prince** â€” a regulated channel for magic that cannot be drunk from in the same direct way raw Eldritch could be. (source: Playground generation 2nd part.txt)
+To prevent that, [[lirra|Lirra]] created the Weave during the war. The Weave's existence is in a real sense a **defensive response to the Demon Prince** — a regulated channel for magic that cannot be drunk from in the same direct way raw Eldritch could be. (source: Playground generation 2nd part.txt)
 
 ## Black Hand Hijack
 
-When the Demon Prince entered Eadras, the [[black-hand|Black Hand's]] infiltration networks became demonic conduits. The Prince hijacked Xar'vion's existing infrastructure of secrecy, forbidden rites, grief, ambition, and hidden channels â€” pouring poison into an irrigation system. This is why the Demon War spread so rapidly:
+When the Demon Prince entered Eadras, the [[black-hand|Black Hand's]] infiltration networks became demonic conduits. The Prince hijacked Xar'vion's existing infrastructure of secrecy, forbidden rites, grief, ambition, and hidden channels — pouring poison into an irrigation system. This is why the Demon War spread so rapidly:
 
 > Xar'vion built the Black Hand to grasp the world.
 > When the Demon Prince came, it wore the hand like a glove.
@@ -64,7 +64,7 @@ Signs that a Black Hand cell had been demon-taken:
 
 ## Defeat and Current Status
 
-The Prince was either banished, imprisoned, partially destroyed, sealed beneath a battlefield, or driven back through a breach held shut by the Weave â€” the exact resolution is not finalized. (source: Playground generation 2nd part.txt)
+The Prince was either banished, imprisoned, partially destroyed, sealed beneath a battlefield, or driven back through a breach held shut by the Weave — the exact resolution is not finalized. (source: Playground generation 2nd part.txt)
 
 If the Prince remains sealed, its prison is likely one of the greatest magical danger sites in modern Eadras:
 - The Weave may be thickest there

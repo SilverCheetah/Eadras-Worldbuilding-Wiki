@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Kingdom of Xanar
 
-**Summary**: The Kingdom of Xanar was [[xarvion|Xar'vion's]] pre-ascension realm â€” a real and legitimate kingdom built on funerary arts, remembrance, and the hidden obsession of its ruler to resurrect his dead sister, which served as the institutional foundation for the [[black-hand|Black Hand]].
+**Summary**: The Kingdom of Xanar was [[xarvion|Xar'vion's]] pre-ascension realm — a real and legitimate kingdom built on funerary arts, remembrance, and the hidden obsession of its ruler to resurrect his dead sister, which served as the institutional foundation for the [[black-hand|Black Hand]].
 
 **Sources**: Playground generation 2nd part.txt
 
@@ -23,9 +23,9 @@ Xanar was a genuine kingdom with towns, farms, laws, courts, temples, schools, r
 
 After Xar'vion's ascension and transformation, hostile names arose:
 
-- **The Black Dominion** â€” war name used by enemies
-- **The Hand-Kingdom** â€” referring to the cult
-- **Xanar the Hollow** â€” after Dao's curse
+- **The Black Dominion** — war name used by enemies
+- **The Hand-Kingdom** — referring to the cult
+- **Xanar the Hollow** — after Dao's curse
 - **The Kingdom Under the Black Hand**
 
 But the proper political name was always Xanar.
@@ -48,7 +48,7 @@ Xanar's ideology centered on **order, continuity, remembrance, and the conquest 
 
 Possible motto: *"No Name Forgotten."*
 
-Innocent and even noble in intent â€” a reference to Xar'vion's original grief over his sister. After ascension and Dao's curse, the same motto became sinister:
+Innocent and even noble in intent — a reference to Xar'vion's original grief over his sister. After ascension and Dao's curse, the same motto became sinister:
 - Names recorded for surveillance
 - Dead catalogued for necromantic use
 - Bloodlines tracked for leverage
@@ -67,15 +67,15 @@ None of this was inherently evil. Much was legitimate scholarship. But the [[bla
 
 ## The Capital: Xanareth
 
-The capital city **Xanareth** was built of pale stone, black banners, funerary avenues, and monumental archives â€” not gothic for its own sake, but obsessed with permanence.
+The capital city **Xanareth** was built of pale stone, black banners, funerary avenues, and monumental archives — not gothic for its own sake, but obsessed with permanence.
 
 Notable locations:
-- **The Hall of Names** â€” where births, marriages, deaths, and lineages were recorded
-- **The Sister's Sepulcher** â€” built for Xar'vion's older sister [[velena|Velena]]
-- **The Obsidian Court** â€” where royal decrees were issued
-- **The Black Hand's Hidden Sanctum** â€” likely beneath a public memorial
-- **The Colleges of Final Mercy** â€” legitimate necromantic and medical institutions later exposed as recruitment grounds
-- **The Royal Ossuary Archives** â€” preserved ancestral remains and legal death-records
+- **The Hall of Names** — where births, marriages, deaths, and lineages were recorded
+- **The Sister's Sepulcher** — built for Xar'vion's older sister [[velena|Velena]]
+- **The Obsidian Court** — where royal decrees were issued
+- **The Black Hand's Hidden Sanctum** — likely beneath a public memorial
+- **The Colleges of Final Mercy** — legitimate necromantic and medical institutions later exposed as recruitment grounds
+- **The Royal Ossuary Archives** — preserved ancestral remains and legal death-records
 
 The Sister's Sepulcher was particularly significant: before ascension, it was a sympathetic public monument to a grieving ruler. After Dao's curse stripped Xar'vion's love, he stopped visiting. Priests noticed the change. Black Hand inner members noticed. That absence may have been one of the first signs something fundamental in him had been amputated. (source: Playground generation 2nd part.txt)
 
@@ -123,13 +123,13 @@ Survivor culture may preserve:
 
 ## The Black Throne of Xanareth
 
-The most-frequently-occupied location of Xar'vion's [[icons|Icon]] is beneath or within the ruins of Xanareth â€” a site known as **The Black Throne of Xanareth**, also called:
+The most-frequently-occupied location of Xar'vion's [[icons|Icon]] is beneath or within the ruins of Xanareth — a site known as **The Black Throne of Xanareth**, also called:
 
 - The Still Court
 - The Unmoving Court of Xanar
 - The Black Throne
 
-The Icon itself is **mobile**, however â€” Xar'vion is Total-Bound but not externally imprisoned, and the [[black-hand|Black Hand]]'s Inner Hand has moved the Icon repeatedly across ten thousand years (see [[black-hand]] and [[xarvion]]). The Black Throne is therefore the cult's nominal center and the Icon's home location, but where Xar'vion currently sits is a Fivefold Inner Hand secret. (sources: Playground generation 2nd part.txt; More corrections.txt; Black hand revised.txt)
+The Icon itself is **mobile**, however — Xar'vion is Total-Bound but not externally imprisoned, and the [[black-hand|Black Hand]]'s Inner Hand has moved the Icon repeatedly across ten thousand years (see [[black-hand]] and [[xarvion]]). The Black Throne is therefore the cult's nominal center and the Icon's home location, but where Xar'vion currently sits is a Fivefold Inner Hand secret. (sources: Playground generation 2nd part.txt; More corrections.txt; Black hand revised.txt)
 
 <details>
 <summary>Related pages</summary>

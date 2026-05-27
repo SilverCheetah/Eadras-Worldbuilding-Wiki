@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Shimmercloaks
 
-**Summary**: The Shimmercloaks â€” *the Echo Traders* â€” are one of the **Five Modern Oceanic Races** descended from the **Sea'tua**, the [[elfen|Elfen]]-engineered overseers of oceanic balance. They are living trade networks who treat memory and emotion as physical currency, peeling off pieces of their own iridescent skin containing perfect living memories and trading them as coin. They are the ultimate neutral middlemen of the oceans.
+**Summary**: The Shimmercloaks — *the Echo Traders* — are one of the **Five Modern Oceanic Races** descended from the **Sea'tua**, the [[elfen|Elfen]]-engineered overseers of oceanic balance. They are living trade networks who treat memory and emotion as physical currency, peeling off pieces of their own iridescent skin containing perfect living memories and trading them as coin. They are the ultimate neutral middlemen of the oceans.
 
 **Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt
 
@@ -31,22 +31,22 @@ They peel off pieces of their own skin containing **perfect living memories and 
 
 A Shimmercloak's social standing is the entire history of debts and favors they currently carry. Their society is **one vast, ever-shifting web of debts and favors**.
 
-Breaking a deal is biologically penalized: it causes **visible, painful discoloration for years** along the offending Shimmercloak's body, broadcasting the deal-break to every other Shimmercloak on sight. A discolored Shimmercloak is shunned in trade until the discoloration fades, which takes years and cannot be hurried. This biological enforcement is why Shimmercloak deals have a near-perfect honor rate â€” and why the rare Shimmercloak with a permanent stripe is feared.
+Breaking a deal is biologically penalized: it causes **visible, painful discoloration for years** along the offending Shimmercloak's body, broadcasting the deal-break to every other Shimmercloak on sight. A discolored Shimmercloak is shunned in trade until the discoloration fades, which takes years and cannot be hurried. This biological enforcement is why Shimmercloak deals have a near-perfect honor rate — and why the rare Shimmercloak with a permanent stripe is feared.
 
 ## Surface relations
 
 Shimmercloaks are **the ultimate neutral middlemen of the oceans**. They trade with surface, deep, and rift peoples alike, carrying memories between parties who cannot meet directly.
 
-Surface captains sometimes find a Shimmercloak waiting at their anchor chain with the standard offer: **"One memory for one favor."** The favor is always specified at the moment of the offer; the memory is always one the captain genuinely possesses; the trade is always settled at the moment of contact. A Shimmercloak who has waited at an anchor chain has already done the calculation â€” the offer is the offer, and there is no haggling.
+Surface captains sometimes find a Shimmercloak waiting at their anchor chain with the standard offer: **"One memory for one favor."** The favor is always specified at the moment of the offer; the memory is always one the captain genuinely possesses; the trade is always settled at the moment of contact. A Shimmercloak who has waited at an anchor chain has already done the calculation — the offer is the offer, and there is no haggling.
 
 ## Relations with other oceanic peoples
 
-- **[[merrow|Merrow]]** â€” frequent clients for surface trade.
-- **[[sirens|Sirens]]** â€” frequent clients; the Sirens consider Shimmercloak puns frivolous, which Shimmercloaks consider a feature.
-- **[[ink-lords|Ink Lords]]** â€” wary collegial relationship. Both deal in memory; both consider the other's medium incomplete. (Ink Lords feed on stories, which they consider the higher form; Shimmercloaks trade memories, which they consider the more honest form.)
-- **[[tideclad|Tideclad]]** â€” often hired as escorts for high-value memory-coin transit.
-- **[[sahuagin|Sahuagin]]** â€” rare cautious dealings; Shimmercloaks have on occasion talked Blood Fleet captains out of raids by offering targeted memory-coins as alternatives.
-- **[[kuo-toa|Kuo-toa]]** â€” avoided.
+- **[[merrow|Merrow]]** — frequent clients for surface trade.
+- **[[sirens|Sirens]]** — frequent clients; the Sirens consider Shimmercloak puns frivolous, which Shimmercloaks consider a feature.
+- **[[ink-lords|Ink Lords]]** — wary collegial relationship. Both deal in memory; both consider the other's medium incomplete. (Ink Lords feed on stories, which they consider the higher form; Shimmercloaks trade memories, which they consider the more honest form.)
+- **[[tideclad|Tideclad]]** — often hired as escorts for high-value memory-coin transit.
+- **[[sahuagin|Sahuagin]]** — rare cautious dealings; Shimmercloaks have on occasion talked Blood Fleet captains out of raids by offering targeted memory-coins as alternatives.
+- **[[kuo-toa|Kuo-toa]]** — avoided.
 
 <details>
 <summary>Related pages</summary>

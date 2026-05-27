@@ -10,9 +10,9 @@ knowledge_access: [common]
 
 # The Four Moons of Eadras
 
-**Summary**: Eadras has four moons â€” the largest is [[gaia|Gaia]] (the Green Moon), which is reflected across all three planes; the second is [[daj|Daj]], the Red Moon; the third and fourth are [[shali|Shali]] and [[shani|Shani]], twin crystal moons that orbit each other and Eadras together.
+**Summary**: Eadras has four moons — the largest is [[gaia|Gaia]] (the Green Moon), which is reflected across all three planes; the second is [[daj|Daj]], the Red Moon; the third and fourth are [[shali|Shali]] and [[shani|Shani]], twin crystal moons that orbit each other and Eadras together.
 
-**Sources**: More corrections.txt; Worldbuilding Session Ingest â€” Eadras Cosmology, Cultures, and Metaphysics.txt
+**Sources**: More corrections.txt; Worldbuilding Session Ingest — Eadras Cosmology, Cultures, and Metaphysics.txt
 
 **Last updated**: 2026-05-06
 
@@ -20,7 +20,7 @@ knowledge_access: [common]
 
 ## The four moons
 
-All four moons are **named after gods**: the Green Moon for Gaia (a pre-pantheon name), the Red Moon for [[daj|Daj]] the Elder God of war, and the twin crystal moons for [[shali|Shali]] and [[shani|Shani]], the twin Elder Goddesses of death. Like the planet itself, **all four moons are reflected** across the [[feywild|Feywild]] and [[shadowdark|Shadowdark]] â€” there is a Daj, Shali, and Shani in each plane, just as there is a Gaia in each plane.
+All four moons are **named after gods**: the Green Moon for Gaia (a pre-pantheon name), the Red Moon for [[daj|Daj]] the Elder God of war, and the twin crystal moons for [[shali|Shali]] and [[shani|Shani]], the twin Elder Goddesses of death. Like the planet itself, **all four moons are reflected** across the [[feywild|Feywild]] and [[shadowdark|Shadowdark]] — there is a Daj, Shali, and Shani in each plane, just as there is a Gaia in each plane.
 
 In order of size:
 
@@ -35,7 +35,7 @@ In order of size:
 
 ## Gaia and its three reflections
 
-Gaia is unique among the moons in being **reflected across all three Eadras planes**. There is a Prime Gaia, a Feywild Gaia, and a Shadowdark Gaia, and **all three Gaias are moons** orbiting their respective Eadras. This is part of what made Gaia suitable as the place of exile for the three progenitor races â€” each banished race went to a different Gaia reflection (see [[great-banishment]]).
+Gaia is unique among the moons in being **reflected across all three Eadras planes**. There is a Prime Gaia, a Feywild Gaia, and a Shadowdark Gaia, and **all three Gaias are moons** orbiting their respective Eadras. This is part of what made Gaia suitable as the place of exile for the three progenitor races — each banished race went to a different Gaia reflection (see [[great-banishment]]).
 
 Gaia is known as **the Green Moon**: lush, with mostly temperate climate, forests, swamps, shallow seas, equatorial jungle, and polar regions. Standing on Gaia is closer to standing on pre-Cataclysm Eadras than standing anywhere on present-day Eadras.
 
@@ -43,12 +43,12 @@ Gaia is known as **the Green Moon**: lush, with mostly temperate climate, forest
 
 The **twin crystal moons** are characterized by:
 
-- Mutual binary orbit â€” they orbit each other while jointly orbiting Eadras
-- Crystalline composition â€” distinct from the rocky/biotic Gaia and the volcanic Red Moon Daj
-- Joint visibility â€” they are seen together in Eadras's sky as a coupled pair, not as independent points
-- **Permanent pairing** â€” their mutual orbit cannot be separated; one is never visible without the other
+- Mutual binary orbit — they orbit each other while jointly orbiting Eadras
+- Crystalline composition — distinct from the rocky/biotic Gaia and the volcanic Red Moon Daj
+- Joint visibility — they are seen together in Eadras's sky as a coupled pair, not as independent points
+- **Permanent pairing** — their mutual orbit cannot be separated; one is never visible without the other
 
-The twin crystal moons **symbolize the inseparable duality of death**: every dying being is held by both goddesses jointly, never by one alone. The fact that the moons orbit *together* and are *always seen together* in the sky **visibly encodes this cosmological theology in the night sky itself** â€” every culture that has eyes to read the heavens reads the same theology there, regardless of whether they have words for it. Shali and Shani's binary movement is one of the few celestial facts of Eadras that requires no translation across cultures. (source: Worldbuilding Session Ingest â€” Eadras Cosmology, Cultures, and Metaphysics.txt)
+The twin crystal moons **symbolize the inseparable duality of death**: every dying being is held by both goddesses jointly, never by one alone. The fact that the moons orbit *together* and are *always seen together* in the sky **visibly encodes this cosmological theology in the night sky itself** — every culture that has eyes to read the heavens reads the same theology there, regardless of whether they have words for it. Shali and Shani's binary movement is one of the few celestial facts of Eadras that requires no translation across cultures. (source: Worldbuilding Session Ingest — Eadras Cosmology, Cultures, and Metaphysics.txt)
 
 See [[shali]] and [[shani]] for the goddesses themselves.
 

@@ -10,7 +10,7 @@ knowledge_access: [common]
 
 # The Doctrine of the Open Palm
 
-**Summary**: The **Doctrine of the Open Palm** is the reformist correction to the [[doctrine-of-unheld-hand|Doctrine of the Unheld Hand]] articulated during the [[baldaranic-council-cycle#Phase I â€” The Open Palm Council|Open Palm Council]] of the [[first-rebrightening|First Rebrightening]]. It does **not** abolish the older doctrine. The Unheld Hand remains the foundation: gods must not dominate mortal agency or rule mortal society by constant direct command. The Open Palm clarifies that **restraint must not become absence, abandonment, bureaucratic cowardice, or procedural excuse**. The two doctrines coexist: *the Hand remains unheld; it shall not be absent.*
+**Summary**: The **Doctrine of the Open Palm** is the reformist correction to the [[doctrine-of-unheld-hand|Doctrine of the Unheld Hand]] articulated during the [[baldaranic-council-cycle#Phase I — The Open Palm Council|Open Palm Council]] of the [[first-rebrightening|First Rebrightening]]. It does **not** abolish the older doctrine. The Unheld Hand remains the foundation: gods must not dominate mortal agency or rule mortal society by constant direct command. The Open Palm clarifies that **restraint must not become absence, abandonment, bureaucratic cowardice, or procedural excuse**. The two doctrines coexist: *the Hand remains unheld; it shall not be absent.*
 
 **Sources**: open-palm-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -24,7 +24,7 @@ The compressed expression of the doctrine, in standard liturgical form:
 
 > ***"The Hand remains unheld. It shall not be absent."***
 
-The phrasing is exact. The first clause preserves the [[doctrine-of-unheld-hand|Doctrine of the Unheld Hand]] in full â€” divine restraint remains the cosmological default. The second clause names the failure mode the reform addresses: restraint that has become *absence*. The Hand may not grasp; the Hand must not retreat.
+The phrasing is exact. The first clause preserves the [[doctrine-of-unheld-hand|Doctrine of the Unheld Hand]] in full — divine restraint remains the cosmological default. The second clause names the failure mode the reform addresses: restraint that has become *absence*. The Hand may not grasp; the Hand must not retreat.
 
 ## The primordial warning
 
@@ -37,7 +37,7 @@ This is **not** a legal code. It is a theological warning attributed to the [[pr
 The warning has been read by both sides of the doctrinal debate:
 
 - The **Unheld Hand** reading: *therefore the gods must not act in mortal affairs*.
-- The **Open Palm** reading: *therefore the gods must not act in ways that compress mortal agency â€” but absence is also an act, and absence can compress mortal agency by abandoning mortals to fates they cannot bear alone*.
+- The **Open Palm** reading: *therefore the gods must not act in ways that compress mortal agency — but absence is also an act, and absence can compress mortal agency by abandoning mortals to fates they cannot bear alone*.
 
 Both readings are scripturally defensible. The Open Palm reform's distinction is to insist that **the warning bears on the texture of divine presence, not the quantity of divine action**.
 
@@ -66,17 +66,17 @@ An escalation framework specifying when divine intervention becomes *permitted* 
 
 - **First Bell**: mortals identify the crisis and act.
 - **Second Bell**: mortal institutions fail despite good-faith effort.
-- **Third Bell**: the crisis threatens continuity beyond the immediate victims â€” Weave stability, soul-cycle continuity, reality stability, species survival, or irreversible civilizational collapse.
+- **Third Bell**: the crisis threatens continuity beyond the immediate victims — Weave stability, soul-cycle continuity, reality stability, species survival, or irreversible civilizational collapse.
 
-At the Third Bell, divine intervention is permitted. *Permitted* does not mean *guaranteed* â€” and the reform is deliberately clear about this distinction. See [[three-bells-of-intervention]].
+At the Third Bell, divine intervention is permitted. *Permitted* does not mean *guaranteed* — and the reform is deliberately clear about this distinction. See [[three-bells-of-intervention]].
 
 ### [[hearth-witness-mandate|The Hearth-Witness Mandate]]
 
-A divine administrative reform requiring major divine offices that process mortal petitions to maintain **mortal or recently mortal auditors empowered to observe consequence, not merely procedure**. The Mandate addresses the structural problem that Ascended Mortal Gods become divine too quickly to fully preserve mortal time-sense â€” a system comprehensible only to immortals inevitably forgets urgency. See [[hearth-witness-mandate]].
+A divine administrative reform requiring major divine offices that process mortal petitions to maintain **mortal or recently mortal auditors empowered to observe consequence, not merely procedure**. The Mandate addresses the structural problem that Ascended Mortal Gods become divine too quickly to fully preserve mortal time-sense — a system comprehensible only to immortals inevitably forgets urgency. See [[hearth-witness-mandate]].
 
 ### [[petition-of-abandoned-circumstance|The Petition of Abandoned Circumstance]]
 
-A formal afterlife procedure by which souls may accuse divine offices of negligence, routing failure, or institutional delay that contributed materially to suffering or death. Most petitions are denied â€” but the existence of the procedure is itself the reform's institutional accountability. See [[petition-of-abandoned-circumstance]].
+A formal afterlife procedure by which souls may accuse divine offices of negligence, routing failure, or institutional delay that contributed materially to suffering or death. Most petitions are denied — but the existence of the procedure is itself the reform's institutional accountability. See [[petition-of-abandoned-circumstance]].
 
 ## Mortal theologies
 
@@ -108,7 +108,7 @@ A maxim that emerges from the Open Palm material and applies to both halves of t
 
 > ***"Mercy without discipline becomes indulgence. Discipline without mercy becomes Hell."***
 
-This is one of the most portable moral axioms in Eadran theology. The [[divine-bureaucracy|Divine Bureaucracy]] must hold both at once: enough discipline to prevent miracle inflation, enough mercy to prevent the **Infernal model** from creeping in. The [[infernal-bureaucracy|Infernal Bureaucracy]]'s temptation is *clarity* â€” it offers a system where mercy has clean categories and procedures terminate predictably â€” and the doctrine warns that this clarity is exactly the seduction that leads to Hell-shaped administration. The Divine Bureaucracy must remain messily merciful or it stops being divine.
+This is one of the most portable moral axioms in Eadran theology. The [[divine-bureaucracy|Divine Bureaucracy]] must hold both at once: enough discipline to prevent miracle inflation, enough mercy to prevent the **Infernal model** from creeping in. The [[infernal-bureaucracy|Infernal Bureaucracy]]'s temptation is *clarity* — it offers a system where mercy has clean categories and procedures terminate predictably — and the doctrine warns that this clarity is exactly the seduction that leads to Hell-shaped administration. The Divine Bureaucracy must remain messily merciful or it stops being divine.
 
 ## Why the doctrine is now
 
@@ -129,7 +129,7 @@ Per the [[baldaranic-council-cycle|Baldaranic Council Cycle's]] standing pattern
 - Open Palm reformists accuse conservatives of sanctifying neglect
 - [[orden|Orden]] codifies audit-compatible theology
 - [[bold|Bold]] tries to automate petition routing
-- Rural hearth traditions gain prestige (their *four prayers* distinction â€” asking, thanking, witnessing, releasing â€” is canonised as load-bearing)
+- Rural hearth traditions gain prestige (their *four prayers* distinction — asking, thanking, witnessing, releasing — is canonised as load-bearing)
 - [[katharim|Katharim]] become central to [[petition-of-abandoned-circumstance|Petitions of Abandoned Circumstance]]
 - [[black-hand|Black Hand]] cells look for new offices to corrupt during the institutional transition
 
@@ -141,7 +141,7 @@ Per the [[baldaranic-council-cycle|Baldaranic Council Cycle's]] standing pattern
 - Whether [[bold|Bold]]'s petition technology creates artificial Favor loops.
 - Whether the [[black-hand|Black Hand]] engineers crises just below the Three Bells threshold to test the doctrine.
 - Whether the Open Palm reform can be **weaponised as a banner for conquest** (Sylph's specific worry).
-- The **doctrinal split-points** â€” which temples formally adopt, which resist, which schism.
+- The **doctrinal split-points** — which temples formally adopt, which resist, which schism.
 
 <details>
 <summary>Related pages</summary>

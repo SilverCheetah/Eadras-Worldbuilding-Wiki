@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Worldender Crystal
 
-**Summary**: Worldender Crystal is the **alien, flame-veined matrix** [[dao]] harvested from the [[worldender|Worldender's]] remains after the [[arathi-cataclysm|Arathi Cataclysm]] â€” a foreign material with **inherent sovereign resonance** that resists divine scrutiny and mortal entropy alike. Every fragment in existence is hoarded by Dao; only the Runeswords' hearts, the vanished [[firethorn-throne|Firethorn Throne]], and a single shard held by an ancient dragon are the known active pieces.
+**Summary**: Worldender Crystal is the **alien, flame-veined matrix** [[dao]] harvested from the [[worldender|Worldender's]] remains after the [[arathi-cataclysm|Arathi Cataclysm]] — a foreign material with **inherent sovereign resonance** that resists divine scrutiny and mortal entropy alike. Every fragment in existence is hoarded by Dao; only the Runeswords' hearts, the vanished [[firethorn-throne|Firethorn Throne]], and a single shard held by an ancient dragon are the known active pieces.
 
 **Sources**: Grok WB Generation 4-29.txt
 
@@ -19,27 +19,27 @@ knowledge_access: [common]
 
 ## What It Is
 
-When the [[worldender|Worldender]] â€” the falling star [[kudur-etir|Kudur-eá¹­ir]] called down in his final act of spite â€” struck Eadras and shattered the Arathi civilization, [[dao]] descended into the still-burning impact scar to harvest its remains. The star contained two intertwined otherworldly materials:
+When the [[worldender|Worldender]] — the falling star [[kudur-etir|Kudur-eṭir]] called down in his final act of spite — struck Eadras and shattered the Arathi civilization, [[dao]] descended into the still-burning impact scar to harvest its remains. The star contained two intertwined otherworldly materials:
 
-- **Starmetal** â€” hard, reality-resistant metal later forged into the **blades of the Runeswords**
-- **Worldender Crystal** â€” a flame-veined, sovereignty-resonant matrix, **wholly alien to the Eadras Mythos**, drawn from realities beyond the Mythos bubble
+- **Starmetal** — hard, reality-resistant metal later forged into the **blades of the Runeswords**
+- **Worldender Crystal** — a flame-veined, sovereignty-resonant matrix, **wholly alien to the Eadras Mythos**, drawn from realities beyond the Mythos bubble
 
 (source: Grok WB Generation 4-29.txt)
 
-The crystal is not merely "rare." It is **fundamentally foreign** â€” a fragment of something **older than the Mythos itself**, carrying inherent sovereignty that resists divine scrutiny and rejects all but legitimate authority.
+The crystal is not merely "rare." It is **fundamentally foreign** — a fragment of something **older than the Mythos itself**, carrying inherent sovereignty that resists divine scrutiny and rejects all but legitimate authority.
 
 ## Properties
 
 The crystal exhibits behavior unlike any native Eadras material:
 
-- **Resists [[eldritch|Eldritch]] flow** â€” magic bends around it like water around a blade
-- **Disrupts divine scrutiny** â€” even the Elder Gods struggle to perceive what surrounds working pieces
-- **Resists mortal entropy** â€” does not age, decay, or weather
-- **Recognizes legitimate authority** â€” answers only to lawful claimants of whatever it is bound to; refuses or withdraws from the unworthy
-- **Living flame-veins** â€” every fragment carries inner fire that flares when properly engaged and dims when separated from a worthy bearer
-- **Resonates across distance** â€” fragments of the same harvest can recognize each other across realms
+- **Resists [[eldritch|Eldritch]] flow** — magic bends around it like water around a blade
+- **Disrupts divine scrutiny** — even the Elder Gods struggle to perceive what surrounds working pieces
+- **Resists mortal entropy** — does not age, decay, or weather
+- **Recognizes legitimate authority** — answers only to lawful claimants of whatever it is bound to; refuses or withdraws from the unworthy
+- **Living flame-veins** — every fragment carries inner fire that flares when properly engaged and dims when separated from a worthy bearer
+- **Resonates across distance** — fragments of the same harvest can recognize each other across realms
 
-It is, in short, **not bound by the laws of the Mythos** â€” and that is what makes it both useful for [[dao]]'s balancing work and **dangerous in any other hand**.
+It is, in short, **not bound by the laws of the Mythos** — and that is what makes it both useful for [[dao]]'s balancing work and **dangerous in any other hand**.
 
 ## Dao Possesses Every Fragment
 
@@ -49,16 +49,16 @@ It is, in short, **not bound by the laws of the Mythos** â€” and that is wh
 
 (source: Grok WB Generation 4-29.txt)
 
-When the star fell, Dao **walked the ruin alone** and gathered all of it â€” every vein, every shard, every dust mote of the alien crystal. Nothing was lost. Nothing was overlooked. The total quantity is **finite and known only to him**.
+When the star fell, Dao **walked the ruin alone** and gathered all of it — every vein, every shard, every dust mote of the alien crystal. Nothing was lost. Nothing was overlooked. The total quantity is **finite and known only to him**.
 
-He sealed the greater portion away in vaults outside time and normal space, then used the prime veins for the eleven [[runeswords|Runesword]] crystal hearts. Later he gave a measured portion of the secondary material to [[the-three|Melania]] for the [[firethorn-throne|Firethorn Throne]]. He has **never given any of it away permanently** â€” the crystal remains his, and any current holder operates on his sufferance.
+He sealed the greater portion away in vaults outside time and normal space, then used the prime veins for the eleven [[runeswords|Runesword]] crystal hearts. Later he gave a measured portion of the secondary material to [[the-three|Melania]] for the [[firethorn-throne|Firethorn Throne]]. He has **never given any of it away permanently** — the crystal remains his, and any current holder operates on his sufferance.
 
 ## Sacred Restriction
 
 By Dao's own decree:
 
 - **Only Dao and [[the-three|the Three]]** (Mark, Rand, Melania) may rightfully access, wield, or shape the crystal in any significant way
-- Any **unauthorized handling risks catastrophic imbalance** â€” the crystal's foreign nature does not play well with mortal or even most divine hands without their direct oversight
+- Any **unauthorized handling risks catastrophic imbalance** — the crystal's foreign nature does not play well with mortal or even most divine hands without their direct oversight
 - This is **sacred law**, enforced by Dao himself
 
 ## Known Active Pieces
@@ -77,9 +77,9 @@ All three exist at Dao's sufferance. He could, at any moment, **withdraw the cry
 
 The dragon known as [[she-who-shall-not-be-named|She Who Shall Not Be Named]] holds her shard from a **single ancient encounter**:
 
-> When the Worldender struck during [[kudur-etir|Kudur-eá¹­ir's]] final cataclysm, [[dao]] descended **immediately** into the impact scar and began gathering every fragment â€” while the planet still convulsed and the Arathi civilization burned.
+> When the Worldender struck during [[kudur-etir|Kudur-eṭir's]] final cataclysm, [[dao]] descended **immediately** into the impact scar and began gathering every fragment — while the planet still convulsed and the Arathi civilization burned.
 >
-> The ancient dragon â€” already old then, born after [[ixthal|Ixthal's]] First Great Flare and a survivor of the early dragon wars â€” came to the crater drawn by the same alien resonance.
+> The ancient dragon — already old then, born after [[ixthal|Ixthal's]] First Great Flare and a survivor of the early dragon wars — came to the crater drawn by the same alien resonance.
 >
 > Dao manifested to her **as a dragon**: vast, ancient, silver-white scaled, with eyes that held the quiet patience of one who has watched stars die. He spoke as one ancient being to another. He told her the crystal she had claimed was his by right of harvest, but that he would permit her to keep and use a small portion *"for a time, if you use it wisely."*
 >
@@ -89,9 +89,9 @@ She has held her shard for millions of years since. She does not know his name. 
 
 ## The Hall of Kings Treasury
 
-Among the treasures in the [[hall-of-kings|Hall of Kings]] are **lesser shards of Worldender crystal** â€” not active enough to be working pieces, but valuable. They are part of the dual-purpose treasury: trap for unworthy claimants, treasury for the legitimate Tarran monarch (none has appeared since the Banishment).
+Among the treasures in the [[hall-of-kings|Hall of Kings]] are **lesser shards of Worldender crystal** — not active enough to be working pieces, but valuable. They are part of the dual-purpose treasury: trap for unworthy claimants, treasury for the legitimate Tarran monarch (none has appeared since the Banishment).
 
-These lesser shards have been used in some of the wards of [[kharathen|Kharathen]] â€” anchored as protection against demonic taint â€” but only with [[dao|Dao]]'s explicit cooperation.
+These lesser shards have been used in some of the wards of [[kharathen|Kharathen]] — anchored as protection against demonic taint — but only with [[dao|Dao]]'s explicit cooperation.
 
 ## Forgeries and Black Markets
 
@@ -107,7 +107,7 @@ These lesser shards have been used in some of the wards of [[kharathen|Kharathen
 The existence of Worldender crystal is the **hidden engine** of much of Eadras's metaphysical structure:
 
 - **The [[runeswords|Runeswords]]' transcendence** of normal limits (especially Deathbringer, which stands above time and space) is enabled by the crystal hearts
-- **The [[firethorn-throne|Firethorn Throne's]] resistance** to divine intervention required the [[great-betrayal|gods to demand the Emperor's poisoning]] â€” they could not pierce it themselves
+- **The [[firethorn-throne|Firethorn Throne's]] resistance** to divine intervention required the [[great-betrayal|gods to demand the Emperor's poisoning]] — they could not pierce it themselves
 - **The hidden dragon's near-godlike control** of an entire exiled civilization is amplified by her crystal Cauldron
 - **The [[hall-of-kings|Hall of Kings]] itself** is stabilized by the crystal-laced walls
 

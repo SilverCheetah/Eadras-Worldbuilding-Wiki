@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # The Great Betrayal
 
-**Summary**: The Great Betrayal was the late-[[demon-war|Demon War]] act by which the **[[divine-concordat#The Coalition|Coalition of Disillusioned High Command]]** â€” disillusioned [[tarans|Tarran]] generals, [[velrathi|Velrathi]] archmagi, and surviving [[rathari|Rathar]] conclave leaders â€” drafted and sealed the **[[divine-concordat|Divine Concordat]]** with the Elder Gods. Under [[divine-concordat#The Concordat's structure|Article Four]] of the Concordat, [[firethorn-empire|Emperor Thoramis Firethorn]] was poisoned in his sleep at the Eastern Front by his Velrathi fiancÃ©e **Vorandethi Kathira Spellsinger of House Valtharion** (later [[apotheosis|Ascended]] as **[[velveth|Velveth]]**, Velrathi goddess of Betrayal, Love, and Duty); the [[firethorn-throne|Firethorn Throne]] emptied; the gods intervened directly; and the war turned. The six-hour interval Kathira sat through between the poisoning and the dawn alarm is named **[[the-long-quiet|the Long Quiet]]** in Velrathi archival memory.
+**Summary**: The Great Betrayal was the late-[[demon-war|Demon War]] act by which the **[[divine-concordat#The Coalition|Coalition of Disillusioned High Command]]** — disillusioned [[tarans|Tarran]] generals, [[velrathi|Velrathi]] archmagi, and surviving [[rathari|Rathar]] conclave leaders — drafted and sealed the **[[divine-concordat|Divine Concordat]]** with the Elder Gods. Under [[divine-concordat#The Concordat's structure|Article Four]] of the Concordat, [[firethorn-empire|Emperor Thoramis Firethorn]] was poisoned in his sleep at the Eastern Front by his Velrathi fiancée **Vorandethi Kathira Spellsinger of House Valtharion** (later [[apotheosis|Ascended]] as **[[velveth|Velveth]]**, Velrathi goddess of Betrayal, Love, and Duty); the [[firethorn-throne|Firethorn Throne]] emptied; the gods intervened directly; and the war turned. The six-hour interval Kathira sat through between the poisoning and the dawn alarm is named **[[the-long-quiet|the Long Quiet]]** in Velrathi archival memory.
 
 **Sources**: Grok WB Generation 4-29.txt; user direction 2026-05-15 (named figures: Emperor Thoramis Firethorn; Vorandethi Kathira Spellsinger of House Valtharion; *Vorandethi* is her Velrathi heir-by-lineage title, *Spellsinger* her earned cognomen, *Valtharion* her house); velveth-01/02/03/04 v2 (2026-05-15 ingest, Concordat-and-Long-Quiet revisions).
 
@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Context
 
-The Great Betrayal was triggered by the [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]]. The unified extinction of the [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] â€” the [[three-who-stood|Three Who Stood]] â€” was supposed to be the Tarran Emperor's signal to send reinforcements. The reinforcements **never came**.
+The Great Betrayal was triggered by the [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]]. The unified extinction of the [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] — the [[three-who-stood|Three Who Stood]] — was supposed to be the Tarran Emperor's signal to send reinforcements. The reinforcements **never came**.
 
 When the casualty rolls reached the Emperor and his generals, **many senior tacticians and veteran generals** looked at the empty armor stands being brought back and understood the truth the Emperor refused to accept:
 
@@ -40,7 +40,7 @@ Within weeks of the Broken Conclaves news, the **[[divine-concordat#The Coalitio
 
 Among the Velrathi archmagi was **Meleth Vaethari-of-the-Crimson-Spire**, the treaty-architect who drafted the operative clauses of the [[divine-concordat|Divine Concordat]]. (Meleth's later soul-thread is documented at [[imma|Imma Who-Did-Not-Stop-Laughing]].)
 
-The Coalition drafted the **[[divine-concordat|Divine Concordat of Joint Agreement between the Peoples and Gods of Eadras]]** â€” a multi-article treaty. They offered the gods what had long been demanded: the Emperor himself removed; the empty [[firethorn-throne|Throne]]; a formal renunciation of the Firethorn Empire's claim to dominion. They pre-accepted the Banishment that would follow under [[divine-concordat#The Concordat's structure|Article Six]]. In exchange, they secured the gods' active-intervention deliverables (kill the [[demon-prince-of-the-open-wound|Demon Prince]], drive back the legions, seal the [[demonfall-gate|Demonfall Gate]]).
+The Coalition drafted the **[[divine-concordat|Divine Concordat of Joint Agreement between the Peoples and Gods of Eadras]]** — a multi-article treaty. They offered the gods what had long been demanded: the Emperor himself removed; the empty [[firethorn-throne|Throne]]; a formal renunciation of the Firethorn Empire's claim to dominion. They pre-accepted the Banishment that would follow under [[divine-concordat#The Concordat's structure|Article Six]]. In exchange, they secured the gods' active-intervention deliverables (kill the [[demon-prince-of-the-open-wound|Demon Prince]], drive back the legions, seal the [[demonfall-gate|Demonfall Gate]]).
 
 ## The Gods' Demand: An Empty Throne
 
@@ -48,36 +48,36 @@ The gods made one specific demand crystal clear, codified as **[[divine-concorda
 
 > **The [[firethorn-throne|Firethorn Throne]] must be empty.**
 
-The Throne â€” forged by [[the-three|Melania]] from leftover [[worldender-crystal|alien crystal]] â€” provided exceptionally strong protective enchantments that **specifically blocked direct Elder-God intervention against the Demon Prince and its legions** as long as a legitimate Emperor sat upon it. The gods could encourage and guide, but they could not pierce its alien resonance to act decisively against the demonic invasion. **The Throne had to be vacated for any true turning of the tide.**
+The Throne — forged by [[the-three|Melania]] from leftover [[worldender-crystal|alien crystal]] — provided exceptionally strong protective enchantments that **specifically blocked direct Elder-God intervention against the Demon Prince and its legions** as long as a legitimate Emperor sat upon it. The gods could encourage and guide, but they could not pierce its alien resonance to act decisively against the demonic invasion. **The Throne had to be vacated for any true turning of the tide.**
 
-Mere abdication would not work â€” the Throne's enchantments were keyed to the Emperor's life and legitimate claim. **He had to die** for the protective field to collapse.
+Mere abdication would not work — the Throne's enchantments were keyed to the Emperor's life and legitimate claim. **He had to die** for the protective field to collapse.
 
-(The [[magic-in-eadras#The Weave|Weave]] was already operational by this point â€” [[lirra|Lirra]] had woven it early in the war as defensive structure independent of the Concordat. The Throne's protective field did not block the Weave's defensive coherence, only the gods' direct-intervention strikes against the Demon Prince and its legions. See [[divine-concordat#The Weave was not a deliverable]].)
+(The [[magic-in-eadras#The Weave|Weave]] was already operational by this point — [[lirra|Lirra]] had woven it early in the war as defensive structure independent of the Concordat. The Throne's protective field did not block the Weave's defensive coherence, only the gods' direct-intervention strikes against the Demon Prince and its legions. See [[divine-concordat#The Weave was not a deliverable]].)
 
 ## The Necessary Hand
 
-The one chosen to empty the Throne was **Vorandethi Kathira Spellsinger of House Valtharion** â€” the Emperor's own Velrathi fiancÃ©e, second-eldest daughter of the reigning Vorandar of the Northern Velrathi Titular Monarchy. *Vorandethi* is her [[naming-conventions#Velrathi title morphology|Velrathi heir-by-lineage title]] ("princess's daughter / heir-by-lineage, not yet invested"); *Spellsinger* her **earned cognomen** for her unusual gift in [[velveth#The Spellsinger work|song-channelled spellwork]]; *Valtharion* her ruling House.
+The one chosen to empty the Throne was **Vorandethi Kathira Spellsinger of House Valtharion** — the Emperor's own Velrathi fiancée, second-eldest daughter of the reigning Vorandar of the Northern Velrathi Titular Monarchy. *Vorandethi* is her [[naming-conventions#Velrathi title morphology|Velrathi heir-by-lineage title]] ("princess's daughter / heir-by-lineage, not yet invested"); *Spellsinger* her **earned cognomen** for her unusual gift in [[velveth#The Spellsinger work|song-channelled spellwork]]; *Valtharion* her ruling House.
 
-She was bound to Thoramis Firethorn in a **political marriage of approximately eighty years' standing** â€” three separate ceremonies of formal engagement across decades of pre-war and early-war diplomacy. By the time of the poisoning, the wedding itself had not yet occurred; Kathira was Thoramis's fiancÃ©e of long standing, the marriage repeatedly deferred by the war's pressures. **By all accounts, they loved each other.** The slow accreting love of two long-lived Velrathi-and-Tarran minds discovering each other over decades was real, witnessed by both courts, and is preserved in Velrathi archival correspondence at [[veyr-keth|Veyr'Keth]].
+She was bound to Thoramis Firethorn in a **political marriage of approximately eighty years' standing** — three separate ceremonies of formal engagement across decades of pre-war and early-war diplomacy. By the time of the poisoning, the wedding itself had not yet occurred; Kathira was Thoramis's fiancée of long standing, the marriage repeatedly deferred by the war's pressures. **By all accounts, they loved each other.** The slow accreting love of two long-lived Velrathi-and-Tarran minds discovering each other over decades was real, witnessed by both courts, and is preserved in Velrathi archival correspondence at [[veyr-keth|Veyr'Keth]].
 
 She had:
 - Watched the war devour her people
 - Seen the [[battle-of-the-broken-conclaves|Broken Conclaves]] reports
 - Accepted the Coalition's request under the [[divine-concordat#The Concordat's structure|Concordat]]
-- Held knowledge that the Tarran nobility's failures included [[velena|Velena]]'s death â€” the killing of [[xarvion|Xar'vion]]'s sister by Tarran noble youths that had begun the cascade leading to this war
+- Held knowledge that the Tarran nobility's failures included [[velena|Velena]]'s death — the killing of [[xarvion|Xar'vion]]'s sister by Tarran noble youths that had begun the cascade leading to this war
 
-Three days after [[divine-concordat#The Concordat's structure|Article Four of the Concordat]] was signed, in the **Imperial command tent at the Eastern Front**, after the Emperor had retired from the day's command meeting â€” *six weeks after the Battle of the Broken Conclaves* â€” **she poisoned him in their shared cup of warmed wine**.
+Three days after [[divine-concordat#The Concordat's structure|Article Four of the Concordat]] was signed, in the **Imperial command tent at the Eastern Front**, after the Emperor had retired from the day's command meeting — *six weeks after the Battle of the Broken Conclaves* — **she poisoned him in their shared cup of warmed wine**.
 
 ### The Poison
 
 - **Tasteless and colourless**
-- Derived from **[[velrathi|Velrathi]] alchemical arts** â€” engineered for this single use by hands the Coalition has never publicly named
-- **Perfectly calibrated** to bypass the [[firethorn-throne|Throne's]] protective field â€” keyed to Kathira's Spellsinger vocal-arcane signature, which eighty years of formal Velrathi engagement-rituals had progressively merged with the Emperor's field-resonance until the protective enchantments could not distinguish her from him
+- Derived from **[[velrathi|Velrathi]] alchemical arts** — engineered for this single use by hands the Coalition has never publicly named
+- **Perfectly calibrated** to bypass the [[firethorn-throne|Throne's]] protective field — keyed to Kathira's Spellsinger vocal-arcane signature, which eighty years of formal Velrathi engagement-rituals had progressively merged with the Emperor's field-resonance until the protective enchantments could not distinguish her from him
 - Administered through the **shared cup of warmed wine**
 
 He died within approximately two hours, in his sleep, **crown still upon his brow**.
 
-Kathira sat through the [[the-long-quiet|Long Quiet]] â€” the **six hours** between the death and her dawn-rising â€” combing her long gray hair as deliberate Velrathi-discipline composure ritual. See [[the-long-quiet|its own page]] for the full account of those six hours.
+Kathira sat through the [[the-long-quiet|Long Quiet]] — the **six hours** between the death and her dawn-rising — combing her long gray hair as deliberate Velrathi-discipline composure ritual. See [[the-long-quiet|its own page]] for the full account of those six hours.
 
 By morning the [[firethorn-throne|Throne]] was empty. The Coalition had delivered Article Four. The gods' constraint was lifted.
 
@@ -90,15 +90,15 @@ Kathira Spellsinger is remembered in several contradictory ways:
 | Naming | Tradition |
 |---|---|
 | **The Betrayer Queen** / **The Red-Eyed Widow** | Among many Tarran descendants and exiled Firethorn loyalists |
-| **The Necessary Hand** | Among [[katharim|Katharim]], pragmatic generals' lineages, and most modern historians â€” *the woman who paid the personal price so the world could be saved* |
-| **Vorandethi Kathira Spellsinger** | Among Velrathi scholarly traditions and [[order-sharanel|Order Sharanel]] historical material â€” the named woman of House Valtharion who carried this; *Vorandethi* is her [[naming-conventions#Velrathi title morphology|heir-by-lineage title]] |
-| **[[velveth|Velveth]]** | Within Velrathi religious tradition and in [[solarion|Solarion]] â€” the Velrathi Ascended Mortal Goddess she became; the soul-thread that continued past the mortal woman |
+| **The Necessary Hand** | Among [[katharim|Katharim]], pragmatic generals' lineages, and most modern historians — *the woman who paid the personal price so the world could be saved* |
+| **Vorandethi Kathira Spellsinger** | Among Velrathi scholarly traditions and [[order-sharanel|Order Sharanel]] historical material — the named woman of House Valtharion who carried this; *Vorandethi* is her [[naming-conventions#Velrathi title morphology|heir-by-lineage title]] |
+| **[[velveth|Velveth]]** | Within Velrathi religious tradition and in [[solarion|Solarion]] — the Velrathi Ascended Mortal Goddess she became; the soul-thread that continued past the mortal woman |
 
 Kathira **survived the war** and accompanied the Velrathi into the [[great-banishment|Great Banishment]] to [[veyr-keth|Veyr'Keth]], where she resumed political duties as a senior figure of the Northern Monarchy's exiled court. She neither remarried nor took another lover. At some indeterminate point during that continued mortal life in Veyr'Keth, her **[[apotheosis|Apotheosis]]** occurred and she became [[velveth|Velveth]], whose office in [[solarion|Solarion]] handles Velrathi vow-prayers, oath-arbitration, and the institutional management of duty against love.
 
-The folk-legend that *Kathira still lives somewhere in the blood-red crystal halls of Veyr'Keth, an ancient haunted figure who has never spoken publicly of that night* is **mortal misremembering of the Apotheosis transition**. To mortal observation, the long-walking Vorandethi simply ceased to be seen in Veyr'Keth corridors at some indeterminate point; mortal observers had no framework for Apotheosis and reached for the simplest available reading. The truth â€” that her [[apotheosis|Apotheosis]] had occurred at that moment and her presence was now distributed across the [[hall-of-the-long-quiet|Hall of the Long Quiet]], her Solarion simulacrum, and her Prime-Material [[icons|Icon]] â€” was not announced and was not deduced. The legend remains compatible-as-folk-comfort-fiction in the Velrathi scholarly reading, but the cosmological fact is the Apotheosis.
+The folk-legend that *Kathira still lives somewhere in the blood-red crystal halls of Veyr'Keth, an ancient haunted figure who has never spoken publicly of that night* is **mortal misremembering of the Apotheosis transition**. To mortal observation, the long-walking Vorandethi simply ceased to be seen in Veyr'Keth corridors at some indeterminate point; mortal observers had no framework for Apotheosis and reached for the simplest available reading. The truth — that her [[apotheosis|Apotheosis]] had occurred at that moment and her presence was now distributed across the [[hall-of-the-long-quiet|Hall of the Long Quiet]], her Solarion simulacrum, and her Prime-Material [[icons|Icon]] — was not announced and was not deduced. The legend remains compatible-as-folk-comfort-fiction in the Velrathi scholarly reading, but the cosmological fact is the Apotheosis.
 
-She has **never spoken publicly of that night** in either form â€” and under the [[decree-of-shali-shani-ioa|Decree of Shali-Shani-Ioa]] adjacent material, she may not.
+She has **never spoken publicly of that night** in either form — and under the [[decree-of-shali-shani-ioa|Decree of Shali-Shani-Ioa]] adjacent material, she may not.
 
 ## The Immediate Consequence
 
@@ -111,7 +111,7 @@ Within days of the Emperor's death:
 
 The war did not end immediately, but **its outcome was no longer in doubt**. The Concordat's active-intervention deliverables were performed over the next several months: the Demon Prince was destroyed, the demonic legions driven back, and the [[demonfall-gate|Demonfall Gate]] sealed.
 
-The [[lirra|Lirra]]-woven [[magic-in-eadras#The Weave|Weave]] was already operational by this point â€” woven early in the war as defensive infrastructure independent of the Concordat. The gods' direct strikes after the Throne emptied were the new factor.
+The [[lirra|Lirra]]-woven [[magic-in-eadras#The Weave|Weave]] was already operational by this point — woven early in the war as defensive infrastructure independent of the Concordat. The gods' direct strikes after the Throne emptied were the new factor.
 
 ## Aftermath: The Throne Vanishes
 
@@ -119,7 +119,7 @@ After the death and the final campaigns, the [[firethorn-throne|Firethorn Throne
 
 ## Aftermath: The Banishment
 
-The Great Betrayal led directly to the **[[great-banishment|collective Banishment of the Three Progenitor Races]]** â€” but the Banishment was *not* a punitive amendment to the bargain. The Coalition had **pre-accepted it** under [[divine-concordat#The Concordat's structure|Article Six of the Concordat]]; it was part of the original instrument, rendered alongside the active-intervention deliverables. The Elder Gods, in fulfillment of Article Six, **rendered judgment** on the age:
+The Great Betrayal led directly to the **[[great-banishment|collective Banishment of the Three Progenitor Races]]** — but the Banishment was *not* a punitive amendment to the bargain. The Coalition had **pre-accepted it** under [[divine-concordat#The Concordat's structure|Article Six of the Concordat]]; it was part of the original instrument, rendered alongside the active-intervention deliverables. The Elder Gods, in fulfillment of Article Six, **rendered judgment** on the age:
 
 > *"The time of the First Three shaping the destiny of mortals has passed."*
 
@@ -133,10 +133,10 @@ The event is remembered with **layered emotion** across modern Eadras:
 
 - **[[beast-folk|Beast-folk]]** celebrate it in raucous [[flyting|flyting]] festivals as **"The Night the Tall Gray Uncles Bought Tomorrow."**
 - **[[katharim|Katharim]]** recite the full chain of cause and effect during the **Night of All Names**, emphasizing the terrible cost of arrogance.
-- **[[orcs|Orcs]] and humans** (descendants of the fallen [[three-who-stood|Three Who Stood]]) view it as their races' greatest collective honor â€” what their ancestors' deaths made possible.
+- **[[orcs|Orcs]] and humans** (descendants of the fallen [[three-who-stood|Three Who Stood]]) view it as their races' greatest collective honor — what their ancestors' deaths made possible.
 - **Exiled [[tarans|Tarran]] on Prime Gaia** still debate whether the betrayal was **necessary or unforgivable**. The [[gray-matriarchy|Gray Matriarchy]] expresses something resembling collective shame about it.
 
-The Emperor's name â€” **Thoramis Firethorn** â€” has been **struck from most honorable records**. He is remembered as **"The Last Firethorn"** or **"He Who Required the Three to Die Before He Would Bend."** The given name persists in deep scholarly and Velrathi-traditional sources (where it is preserved partly to anchor the historical record and partly because [[velveth|Velveth's]] office continues to interact with vow-prayers that touch his case). In Tarran exilic traditions, the name is also preserved â€” sometimes mournfully, sometimes accusatorily, but never neutrally.
+The Emperor's name — **Thoramis Firethorn** — has been **struck from most honorable records**. He is remembered as **"The Last Firethorn"** or **"He Who Required the Three to Die Before He Would Bend."** The given name persists in deep scholarly and Velrathi-traditional sources (where it is preserved partly to anchor the historical record and partly because [[velveth|Velveth's]] office continues to interact with vow-prayers that touch his case). In Tarran exilic traditions, the name is also preserved — sometimes mournfully, sometimes accusatorily, but never neutrally.
 
 ## Beast-Folk Telling
 
@@ -151,7 +151,7 @@ The punchline is always the same: ***"She emptied the chair so the rest of us co
 
 ## Katharim Recording
 
-[[katharim|Katharim]] record the exact sequence, the toxin's composition, the hour of death, and the first divine signs that appeared at dawn â€” all without judgment, only the **weight of necessity**.
+[[katharim|Katharim]] record the exact sequence, the toxin's composition, the hour of death, and the first divine signs that appeared at dawn — all without judgment, only the **weight of necessity**.
 
 ## Sequence Summary
 
@@ -160,7 +160,7 @@ The punchline is always the same: ***"She emptied the chair so the rest of us co
 3. Generals, archmagi, and Conclave leaders form the **[[divine-concordat#The Coalition|Coalition of Disillusioned High Command]]**
 4. The Coalition drafts the **[[divine-concordat|Divine Concordat]]** with the Elder Gods over several months; the Concordat names the active-intervention deliverables and includes [[divine-concordat#The Concordat's structure|Article Six]] pre-acceptance of the Banishment
 5. **Article Four** is signed three days before the poisoning, obliging the [[firethorn-throne|Throne]] to be emptied
-6. The [[velrathi|Velrathi]] Vorandethi Kathira poisons her fiancÃ© in the Imperial command tent at the Eastern Front; the [[the-long-quiet|Long Quiet]] begins
+6. The [[velrathi|Velrathi]] Vorandethi Kathira poisons her fiancé in the Imperial command tent at the Eastern Front; the [[the-long-quiet|Long Quiet]] begins
 7. At dawn Kathira raises the alarm; the [[firethorn-throne|Throne's]] protective field collapses
 8. The Elder Gods perform the Concordat's deliverables: kill the [[demon-prince-of-the-open-wound|Demon Prince]], drive back the legions, seal the [[demonfall-gate|Demonfall Gate]]
 9. The [[firethorn-throne|Throne]] vanishes

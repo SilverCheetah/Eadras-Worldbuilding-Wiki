@@ -9,9 +9,9 @@ knowledge_access: [common]
 
 # Damedes
 
-**Summary**: Damedes is the **southwestern continent** of post-Cataclysm Eadras â€” one of the three landmasses that formed from the sundering of the [[altean-highlands|Altean Highlands]] in the [[arathi-cataclysm|Cataclysm]]. It is visible in [[eadras-tectonic-history|every snapshot]] of the post-Cataclysm tectonic series.
+**Summary**: Damedes is the **southwestern continent** of post-Cataclysm Eadras — one of the three landmasses that formed from the sundering of the [[altean-highlands|Altean Highlands]] in the [[arathi-cataclysm|Cataclysm]]. It is visible in [[eadras-tectonic-history|every snapshot]] of the post-Cataclysm tectonic series.
 
-**Sources**: 1mya.jpg, 2mya.jpg, 3mya.jpg, 4mya.jpg; map explanation.txt; Eadras Cannon Expansion.txt; user direction 2026-05-05 (Varkhul â‰  Damedes).
+**Sources**: 1mya.jpg, 2mya.jpg, 3mya.jpg, 4mya.jpg; map explanation.txt; Eadras Cannon Expansion.txt; user direction 2026-05-05 (Varkhul ≠ Damedes).
 
 **Last updated**: 2026-05-05
 
@@ -25,18 +25,18 @@ Damedes's pre-sundering identity was as the southwestern portion of the Altean H
 
 ## Position across tectonic snapshots
 
-- **1mya post-Cataclysm** â€” southwestern continent in the still-fragmented post-impact world.
-- **2mya post-Cataclysm** â€” drifted further from Avalon and Culethor; visible in the southwest with substantial coastal complexity.
-- **3mya post-Cataclysm** â€” clearly distinct, with mountain ranges, fracture straits, and coastal features (Sundered Shoals, Shifting Sands, Sunward Cape).
-- **4mya post-Cataclysm** â€” collides into the supercontinent [[eldravath|Eldravath]] along with Avalon and Culethor; the Damedes-derived component forms part of Eldravath's western mass.
+- **1mya post-Cataclysm** — southwestern continent in the still-fragmented post-impact world.
+- **2mya post-Cataclysm** — drifted further from Avalon and Culethor; visible in the southwest with substantial coastal complexity.
+- **3mya post-Cataclysm** — clearly distinct, with mountain ranges, fracture straits, and coastal features (Sundered Shoals, Shifting Sands, Sunward Cape).
+- **4mya post-Cataclysm** — collides into the supercontinent [[eldravath|Eldravath]] along with Avalon and Culethor; the Damedes-derived component forms part of Eldravath's western mass.
 
-## Damedes is pre-supercontinent â€” not Varkhul
+## Damedes is pre-supercontinent — not Varkhul
 
-Damedes is a **pre-supercontinent** (post-Cataclysm fragment) continent. It existed before the [[eldravath|Eldravath]] supercontinent assembly and was absorbed into Eldravath at the 4mya post-Cataclysm horizon. After Eldravath broke apart at ~5mya post-Cataclysm, *new* modern continents formed from the breakup â€” and **[[varkhul|Varkhul]] is one of those modern continents, occupying the southwestern position in the present-day layout**.
+Damedes is a **pre-supercontinent** (post-Cataclysm fragment) continent. It existed before the [[eldravath|Eldravath]] supercontinent assembly and was absorbed into Eldravath at the 4mya post-Cataclysm horizon. After Eldravath broke apart at ~5mya post-Cataclysm, *new* modern continents formed from the breakup — and **[[varkhul|Varkhul]] is one of those modern continents, occupying the southwestern position in the present-day layout**.
 
 **Varkhul is not Damedes.** Varkhul is a post-Eldravath modern landmass; Damedes is a pre-Eldravath ancestral landmass. They occupy similar (southwestern) positions in their respective eras but are separated by the supercontinent assembly-and-breakup cycle. (User direction 2026-05-05.)
 
-Whether the Varkhul of today descends specifically from Damedes's contribution to Eldravath, from Avalon's, from Culethor's, or from a mixture â€” i.e., the exact pre-Eldravath ancestor of modern Varkhul â€” is **open canon**.
+Whether the Varkhul of today descends specifically from Damedes's contribution to Eldravath, from Avalon's, from Culethor's, or from a mixture — i.e., the exact pre-Eldravath ancestor of modern Varkhul — is **open canon**.
 
 ## Open canon
 
@@ -46,7 +46,7 @@ This is a stub. Damedes currently exists in canon as a named landmass at four ge
 - **Climate regimes** across the snapshot series.
 - **Inhabitants** during the dragon, unicorn, and humanoid eras.
 - **Cultures, kingdoms, settlements** in modern Eadras.
-- **Notable surface features** â€” those visible on the maps need text definition.
+- **Notable surface features** — those visible on the maps need text definition.
 
 <details>
 <summary>Related pages</summary>

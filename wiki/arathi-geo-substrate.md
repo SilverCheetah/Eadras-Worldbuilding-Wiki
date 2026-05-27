@@ -10,7 +10,7 @@ knowledge_access: [scholarly]
 
 # Arathi Geo-Substrate
 
-**Summary**: The **Arathi Geo-Substrate** is the canonical reframing of what mortal traditions long called "Arathi crystals" â€” **bio-engineered living or semi-living earth-matter** grown from the world's deep body and taught by the [[arathi|Arathi]] to hold shape, memory, force, and instruction. The retcon establishes by the [[baldaranic-council-cycle#Phase II â€” The Arathi Council|Arathi Council]] of the [[first-rebrightening|First Rebrightening]] that *crystal* is a mortal shorthand and partially misleading: Arathi "crystals" were never ordinary mineral crystals. They were cultivated geo-biology â€” closer to organs, tissue, and institutions than to gems. **Broken substrate is more like severed tissue, fossilised organ, dormant seed, or amputated nerve than shattered gem.** Modern excavation therefore has ethical as well as technical stakes â€” a vault may not be a ruin but a wounded organism.
+**Summary**: The **Arathi Geo-Substrate** is the canonical reframing of what mortal traditions long called "Arathi crystals" — **bio-engineered living or semi-living earth-matter** grown from the world's deep body and taught by the [[arathi|Arathi]] to hold shape, memory, force, and instruction. The retcon establishes by the [[baldaranic-council-cycle#Phase II — The Arathi Council|Arathi Council]] of the [[first-rebrightening|First Rebrightening]] that *crystal* is a mortal shorthand and partially misleading: Arathi "crystals" were never ordinary mineral crystals. They were cultivated geo-biology — closer to organs, tissue, and institutions than to gems. **Broken substrate is more like severed tissue, fossilised organ, dormant seed, or amputated nerve than shattered gem.** Modern excavation therefore has ethical as well as technical stakes — a vault may not be a ruin but a wounded organism.
 
 **Sources**: arathi-council-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -20,15 +20,15 @@ knowledge_access: [scholarly]
 
 ## The reframing
 
-Mortal traditions across Eadras have for ten million years called Arathi material *crystal* â€” a familiar mineral term that suggests stone, mineral lattice, mineable rock. The Arathi Council formally clarifies that this is **partially correct shorthand** and **substantively misleading**.
+Mortal traditions across Eadras have for ten million years called Arathi material *crystal* — a familiar mineral term that suggests stone, mineral lattice, mineable rock. The Arathi Council formally clarifies that this is **partially correct shorthand** and **substantively misleading**.
 
 What the Arathi cultivated was **bio-engineered geo-substrate**: living or semi-living earth-matter, grown from the world's deep body, that holds shape, memory, force, and instruction. The substrate has properties shared with mineral crystals (regularity, optical activity, predictable resonance) and properties shared with biological tissue (memory, preference, defensive action, distress response, possibly pain).
 
-The word *crystal* may remain as common mortal shorthand â€” it is too embedded in language to displace overnight, and most everyday uses do not require the precision. Informed scholarship should use **geo-substrate**, or any of the related technical terms: *bio-crystalline substrate*, *cultivated geo-biology*, *living substrate*, *harmonic substrate*, or *civic substrate*.
+The word *crystal* may remain as common mortal shorthand — it is too embedded in language to displace overnight, and most everyday uses do not require the precision. Informed scholarship should use **geo-substrate**, or any of the related technical terms: *bio-crystalline substrate*, *cultivated geo-biology*, *living substrate*, *harmonic substrate*, or *civic substrate*.
 
 ## Relation to trollish geobiology
 
-The Arathi Geo-Substrate is **conceptually akin to trollish geobiology** â€” the broader Eadran category of *life-as-earth, flesh-as-stone, biological geology*. It is not identical to trolls. Trolls *are* the geological life-form they inhabit; Arathi substrate is *cultivated* geological life, shaped by Arathi engineering for civic purposes. But the two belong to the same category â€” and trollish geobiologists may understand Arathi substrate more intuitively than human relic-scholars can.
+The Arathi Geo-Substrate is **conceptually akin to trollish geobiology** — the broader Eadran category of *life-as-earth, flesh-as-stone, biological geology*. It is not identical to trolls. Trolls *are* the geological life-form they inhabit; Arathi substrate is *cultivated* geological life, shaped by Arathi engineering for civic purposes. But the two belong to the same category — and trollish geobiologists may understand Arathi substrate more intuitively than human relic-scholars can.
 
 This relationship has practical consequences. A trollish geobiologist can sometimes sense whether a piece of substrate is intact-and-dormant, intact-and-distressed, or broken-and-suffering by methods that mortal Lirran or Arathi-derived scholarship cannot match. The Vault Concordat's witness-clause provides for trollish consultation specifically.
 
@@ -38,7 +38,7 @@ The Arathi cultivated multiple distinct substrate lineages, each engineered for 
 
 ### Saelith Choir-Substrate
 
-**Communicative geo-tissue.** Grown to carry harmonic meaning across distance. The Saelith line was the Arathi civilization's long-range communication infrastructure: messages encoded as harmonic patterns travelled through linked substrate networks at speeds modern courier systems cannot approach. Surviving Saelith fragments are particularly prone to *singing walls* phenomena â€” they are partly still trying to receive transmissions from sources that no longer exist.
+**Communicative geo-tissue.** Grown to carry harmonic meaning across distance. The Saelith line was the Arathi civilization's long-range communication infrastructure: messages encoded as harmonic patterns travelled through linked substrate networks at speeds modern courier systems cannot approach. Surviving Saelith fragments are particularly prone to *singing walls* phenomena — they are partly still trying to receive transmissions from sources that no longer exist.
 
 ### Veyruun Bone-Substrate
 
@@ -50,13 +50,13 @@ The Arathi cultivated multiple distinct substrate lineages, each engineered for 
 
 ### Thamrite Mirror-Substrate
 
-**Memory-bearing reflective tissue.** Used for archives, law, sensory preservation, and administrative continuity. Thamrite substrate stored the Arathi civilization's records, judgments, and sensory experiences in a form that could be re-experienced rather than merely read. A surviving Thamrite fragment may preserve *the experience of being a Stage-5 Arathi clerk on a particular afternoon ten million years ago* â€” and an unwary modern relic-scholar can be temporarily inhabited by that experience.
+**Memory-bearing reflective tissue.** Used for archives, law, sensory preservation, and administrative continuity. Thamrite substrate stored the Arathi civilization's records, judgments, and sensory experiences in a form that could be re-experienced rather than merely read. A surviving Thamrite fragment may preserve *the experience of being a Stage-5 Arathi clerk on a particular afternoon ten million years ago* — and an unwary modern relic-scholar can be temporarily inhabited by that experience.
 
-âš ï¸ **Some Thamrite fragments are emotionally dangerous** because they preserve sensory records of the [[arathi-cataclysm|Cataclysm]] itself. Reading such a fragment without preparation can produce permanent psychological harm.
+⚠️ **Some Thamrite fragments are emotionally dangerous** because they preserve sensory records of the [[arathi-cataclysm|Cataclysm]] itself. Reading such a fragment without preparation can produce permanent psychological harm.
 
 ### Oru-Sha War-Substrate
 
-**Weaponised adaptive geo-biology**, possibly self-modifying under threat. The Oru-Sha line was the Arathi civilization's military substrate â€” defensive emplacements, area-denial systems, and adaptive counter-forces. Any intact Oru-Sha site should be treated as **Red Vault or Black Vault material** under the [[#Deep Vault Classification|revised vault classification]]. A self-modifying war-substrate that wakes up after ten million years of dormancy in a tectonically-shifted world may interpret modern conditions as threat conditions and respond accordingly.
+**Weaponised adaptive geo-biology**, possibly self-modifying under threat. The Oru-Sha line was the Arathi civilization's military substrate — defensive emplacements, area-denial systems, and adaptive counter-forces. Any intact Oru-Sha site should be treated as **Red Vault or Black Vault material** under the [[#Deep Vault Classification|revised vault classification]]. A self-modifying war-substrate that wakes up after ten million years of dormancy in a tectonically-shifted world may interpret modern conditions as threat conditions and respond accordingly.
 
 ## Ethics of living infrastructure
 
@@ -66,17 +66,17 @@ Some substrate could suffer. Advanced forms could possess memory, preference, de
 
 Modern excavation therefore has **ethical as well as technical stakes**. A vault may not be a ruin. It may be:
 
-- A **corpse** â€” substrate that has died and is no longer responsive
-- A **wounded organism** â€” substrate that is alive, in pain, and partially functional
-- A **dormant body** â€” substrate in a deep sleep state, recoverable but vulnerable
-- A **distressed system** â€” substrate awaiting a command context that no longer exists, and acting strangely as a result
+- A **corpse** — substrate that has died and is no longer responsive
+- A **wounded organism** — substrate that is alive, in pain, and partially functional
+- A **dormant body** — substrate in a deep sleep state, recoverable but vulnerable
+- A **distressed system** — substrate awaiting a command context that no longer exists, and acting strangely as a result
 
 Reported phenomena that earlier traditions catalogued as *strangeness* may be substrate responses rather than superstition:
 
-- **Singing walls** â€” Saelith substrate trying to transmit or receive
-- **Weeping light** â€” Thamrite or Ishkara substrate distressed
-- **Doors that refuse names** â€” Veyruun substrate that has lost the civic rank context it requires to operate
-- **Floors warming under wounded feet** â€” some substrate responds to suffering as a signal worth attending to, and modern visitors are sometimes startled by what they interpret as kindness from stone
+- **Singing walls** — Saelith substrate trying to transmit or receive
+- **Weeping light** — Thamrite or Ishkara substrate distressed
+- **Doors that refuse names** — Veyruun substrate that has lost the civic rank context it requires to operate
+- **Floors warming under wounded feet** — some substrate responds to suffering as a signal worth attending to, and modern visitors are sometimes startled by what they interpret as kindness from stone
 
 ## Context-Bound Relics
 
@@ -101,7 +101,7 @@ A Context-Bound Relic that has accepted its world is gone is often *safer* than 
 
 ## Pre-Cataclysm non-tectonic Eadras
 
-**Critical correction**: pre-Cataclysm Eadras had **no active plate tectonics**. The planet was not geologically dead â€” it had heat, pressure, stone, water, root, cavern, mantle-breath, earthquakes, and massive hydraulic activity â€” but it did not have modern continental drift.
+**Critical correction**: pre-Cataclysm Eadras had **no active plate tectonics**. The planet was not geologically dead — it had heat, pressure, stone, water, root, cavern, mantle-breath, earthquakes, and massive hydraulic activity — but it did not have modern continental drift.
 
 The [[worldender|Worldbreaker]] event **fractured this older lithic order and created modern tectonic behaviour**. Modern plate tectonics are a *post-Cataclysm* planetary condition.
 
@@ -139,7 +139,7 @@ Any Oru-Sha War-Substrate site is at minimum Red. Any substrate attempting pre-C
 The Council formally enumerated the recurring mortal errors in Arathi-remains interpretation:
 
 - **Mineral Error**: mistaking geo-substrate for ordinary crystal or stone
-- **Continuity Error**: assuming post-Arathi traditions descend from survivors (they do not â€” the [[arathi-cataclysm|Cataclysm]] killed Arathi civilization too completely for direct cultural inheritance)
+- **Continuity Error**: assuming post-Arathi traditions descend from survivors (they do not — the [[arathi-cataclysm|Cataclysm]] killed Arathi civilization too completely for direct cultural inheritance)
 - **Geological Error**: applying modern tectonic assumptions to pre-tectonic structures
 - **Activation Error**: assuming functioning relics should be activated
 - **Ownership Error**: assuming discovery grants right of use
@@ -149,10 +149,10 @@ The Council formally enumerated the recurring mortal errors in Arathi-remains in
 
 ## Open canon
 
-- The **first named Black Vault** to reveal that geo-substrate is alive â€” the public moment of geological retcon
+- The **first named Black Vault** to reveal that geo-substrate is alive — the public moment of geological retcon
 - The **first modern state** to violate the [[vault-concordat|Vault Concordat]] (Bold and treasure-hunter syndicates are the leading candidates)
 - Whether **trollish geobiologists** can communicate with Arathi substrate better than human relic scholars (working canon: yes, sometimes)
-- What happens when a city uses **Arathi foundation logic** in a modern tectonic zone (the question is not theoretical â€” at least one city has tried)
+- What happens when a city uses **Arathi foundation logic** in a modern tectonic zone (the question is not theoretical — at least one city has tried)
 - Whether dying **Oru-Sha war-substrate** can be comforted without reactivating it
 - The catalog of **Thamrite Mirror-Substrate fragments emotionally dangerous** because they preserve sensory records of the [[arathi-cataclysm|Cataclysm]]
 - The relationship between **trollish hibernation** and **geo-substrate dormancy** at the metaphysical level

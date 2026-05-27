@@ -10,7 +10,7 @@ knowledge_access: [common]
 
 # Threshold Cities
 
-**Summary**: **Threshold Cities** are the urban end-states of [[frontier-hospitality|frontier-hospitality]] trade routes â€” towns and cities that have grown wealthy on Woodfolk-human exchange and now stand at scale where the original face-to-face compact strains. The growth pattern proceeds through five stages: **Guest-Bowl Settlement â†’ Green Market Town â†’ Threshold Town â†’ Charter City â†’ Severed City**. The central structural tension: *a town grows rich by respecting the border, then becomes large enough to forget the border was a relationship*. Threshold cities have several possible long-term endpoints (Faithful, Ceremonial, Severed Expansion, Ruined Caution, or Relocated), and the city's politics are shaped by which endpoint it is bending toward.
+**Summary**: **Threshold Cities** are the urban end-states of [[frontier-hospitality|frontier-hospitality]] trade routes — towns and cities that have grown wealthy on Woodfolk-human exchange and now stand at scale where the original face-to-face compact strains. The growth pattern proceeds through five stages: **Guest-Bowl Settlement → Green Market Town → Threshold Town → Charter City → Severed City**. The central structural tension: *a town grows rich by respecting the border, then becomes large enough to forget the border was a relationship*. Threshold cities have several possible long-term endpoints (Faithful, Ceremonial, Severed Expansion, Ruined Caution, or Relocated), and the city's politics are shaped by which endpoint it is bending toward.
 
 **Sources**: faedanar-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -22,31 +22,31 @@ knowledge_access: [common]
 
 Frontier trade snowballs predictably. A reliable exchange point becomes a market; a market becomes a route; a route becomes infrastructure; infrastructure becomes settlement growth; settlement growth becomes political gravity. The Council identified five recognisable stages:
 
-### Stage 1 â€” Guest-Bowl Settlement
+### Stage 1 — Guest-Bowl Settlement
 
 A small frontier community with **face-to-face** [[frontier-hospitality|hospitality]] practice. A few families maintain Guest-Bronze in their kitchens. A specific innkeeper is known to Woodfolk traders. Trade is informal, irregular, personal. The community knows individual Woodfolk by their masks, voices, and trades.
 
-The compact is **embodied** at this stage. There is no question of *the city's relationship* to Fae-da'Nar â€” there are only specific people, specific masked traders, specific moonless nights when the back door is left unlatched.
+The compact is **embodied** at this stage. There is no question of *the city's relationship* to Fae-da'Nar — there are only specific people, specific masked traders, specific moonless nights when the back door is left unlatched.
 
-### Stage 2 â€” Green Market Town
+### Stage 2 — Green Market Town
 
 The community has grown enough to support **regular markets** at which Woodfolk presence is expected. Specific market days (sometimes Green Market Days) are when Woodfolk trade is anticipated. Civic Guest-Bronze is maintained at the inn or the market hall. A [[druids|Druid]] witness is present at significant trades.
 
 The compact is **institutionalised but still personal**. The mayor knows several of the Woodfolk traders. The town has a charter that mentions hospitality customs. New residents are taught.
 
-### Stage 3 â€” Threshold Town
+### Stage 3 — Threshold Town
 
 The town is large, prosperous, and increasingly known beyond the immediate region. Trade volumes are significant. Multiple inns specialise in Frontier hospitality. Peace-Brass is imported in commercial quantities. The town has named hospitality offices (Master of Welcomes, Witness of the Green Door, etc.).
 
 The compact remains **alive**, but new residents may not have personal knowledge of any specific Woodfolk trader. The institutions carry the trust; the individuals carry less. This stage is **dangerous** because the institutional inheritance is starting to be spent rather than refreshed.
 
-### Stage 4 â€” Charter City
+### Stage 4 — Charter City
 
 The settlement has grown into a chartered city with significant political weight. The hospitality customs are written into civic law. A peace levy on iron-trade funds Civic Guest-Bronze. The city's regional or national identity is bound up with its frontier-trade prosperity. Outsiders flow in to participate; not all of them know what the customs mean.
 
 The compact is **legal but no longer embodied**. The city believes it has hospitality customs; the Woodfolk increasingly experience the customs as procedural rather than personal. Cracks begin to show. Some Woodfolk trade dries up.
 
-### Stage 5 â€” Severed City
+### Stage 5 — Severed City
 
 The city has grown past the compact's capacity. New residents do not learn the customs. Iron appears on hospitality tables because the people setting the tables don't know what the bronze meant. Politically ambitious factions argue that the Frontier should be *cleared* or *settled* or *administered* rather than respected. Trade with Woodfolk has reduced to commercial transactions stripped of the relational layer.
 
@@ -100,10 +100,10 @@ Relocated Thresholds are rare but documented. They suggest that the compact live
 
 Threshold cities commonly develop predictable factions:
 
-- **Old Compact Faction** â€” old families, innkeepers, market witnesses, some priests, Druid-allied households, experienced traders. Support hospitality, limits on clearing, Druid mediation, Green Market protections.
-- **Expansion Faction** â€” settlers, ranchers, lumber guilds, grain investors, nobles, land speculators, military planners. Want farmland, timber, pasture, roads, human legal control.
-- **Commercial Opportunists** â€” merchants who want both Woodfolk goods and forest clearance. The contradictions of this position become acute over time.
-- **Fear Faction** â€” anti-magic preachers, [[anti-magic-crusade|Crusade]]-remnant ideologues, frightened settlers, and [[black-hand|Black Hand]]-influenced agitators who claim Woodfolk are arming, corrupting, or spying.
+- **Old Compact Faction** — old families, innkeepers, market witnesses, some priests, Druid-allied households, experienced traders. Support hospitality, limits on clearing, Druid mediation, Green Market protections.
+- **Expansion Faction** — settlers, ranchers, lumber guilds, grain investors, nobles, land speculators, military planners. Want farmland, timber, pasture, roads, human legal control.
+- **Commercial Opportunists** — merchants who want both Woodfolk goods and forest clearance. The contradictions of this position become acute over time.
+- **Fear Faction** — anti-magic preachers, [[anti-magic-crusade|Crusade]]-remnant ideologues, frightened settlers, and [[black-hand|Black Hand]]-influenced agitators who claim Woodfolk are arming, corrupting, or spying.
 
 The interplay between these factions shapes the city's trajectory across the five stages. A city dominated by Old Compact survives. A city dominated by Expansion or Fear Faction tends toward Severance.
 
@@ -111,13 +111,13 @@ The interplay between these factions shapes the city's trajectory across the fiv
 
 Fae-da'Nar does not respond as one state. Responses vary by region, herd, and grievance. A general escalation pattern is recognisable:
 
-1. **Cooling trade** â€” fewer masked traders, lower-quality goods, mana-rich plants disappearing
-2. **Warning signs** â€” physical markers, dream-warnings to specific city dwellers, increased Fey-mischief
-3. **Selective closure of paths** â€” particular trade routes become unreliable, then unavailable
-4. **Fey sanctions** â€” fey actions against specific city actors (especially Expansion Faction members)
-5. **Druid judgment** â€” formal Compact Court proceedings if the city has any treaty-relationship at all
-6. **Woodfolk enforcement** â€” direct action against the most-violating city actors
-7. **Frontier rupture** â€” full compact collapse; open hostility, Shunned predation allowed, possible human military response
+1. **Cooling trade** — fewer masked traders, lower-quality goods, mana-rich plants disappearing
+2. **Warning signs** — physical markers, dream-warnings to specific city dwellers, increased Fey-mischief
+3. **Selective closure of paths** — particular trade routes become unreliable, then unavailable
+4. **Fey sanctions** — fey actions against specific city actors (especially Expansion Faction members)
+5. **Druid judgment** — formal Compact Court proceedings if the city has any treaty-relationship at all
+6. **Woodfolk enforcement** — direct action against the most-violating city actors
+7. **Frontier rupture** — full compact collapse; open hostility, Shunned predation allowed, possible human military response
 
 Frontier rupture is **rare** but documented. Once it occurs, restoration is multi-generational at best.
 
@@ -145,13 +145,13 @@ The first city formally tried under Druid judgment is open canon. The procedure 
 
 ## Open canon
 
-- The **first Faithful Threshold City** â€” established through deliberate compact-maintenance
-- Specific **named Threshold Cities** in their five stages â€” frontier regions across Eadras likely host examples at each stage
+- The **first Faithful Threshold City** — established through deliberate compact-maintenance
+- Specific **named Threshold Cities** in their five stages — frontier regions across Eadras likely host examples at each stage
 - The **first Severed Expansion City** to collapse from Shunned predation it could no longer warn against
-- A **Relocated Threshold** preserving older trust better than its original predecessor â€” case study material
+- A **Relocated Threshold** preserving older trust better than its original predecessor — case study material
 - Whether **Bold or Orden** has Threshold-class peripheries (likely yes; specific cities are open)
 - The **Black Hand's** documented attempts to accelerate cities toward Severance
-- **Compact Court** scaling â€” whether a Druid judgment can bind a Charter City as a whole, not just specific actors
+- **Compact Court** scaling — whether a Druid judgment can bind a Charter City as a whole, not just specific actors
 
 <details>
 <summary>Related pages</summary>

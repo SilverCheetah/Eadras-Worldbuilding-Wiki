@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Centaurs
 
-**Summary**: Half-human, half-equine sapients. Centaurs are **fae creatures** â€” descended, like all fae, from the chaos-infused [[fae|Sidhe]]. Most live on the Prime Material rather than in the [[feywild|Feywild]], making them one of the more visible fae presences in the modern world.
+**Summary**: Half-human, half-equine sapients. Centaurs are **fae creatures** — descended, like all fae, from the chaos-infused [[fae|Sidhe]]. Most live on the Prime Material rather than in the [[feywild|Feywild]], making them one of the more visible fae presences in the modern world.
 
 **Sources**: Peoples of Eadras.txt, user clarification 2026-04-30
 
@@ -33,13 +33,13 @@ Half-human, half-equine. Specific anatomical detail beyond the classic centaur b
 
 ## Society and Culture
 
-Specific centaur cultures, settlements, and traditions are not yet documented in canon. As fae creatures, centaurs are presumed to share â€” to whatever degree â€” the temperamental signature common to fae: instinct, freedom, whim, and a complicated relationship with mortal civilization. Their patron is presumably [[sylph|Sylph]] (patron of all Fae), though specific centaur religious practice has not been defined.
+Specific centaur cultures, settlements, and traditions are not yet documented in canon. As fae creatures, centaurs are presumed to share — to whatever degree — the temperamental signature common to fae: instinct, freedom, whim, and a complicated relationship with mortal civilization. Their patron is presumably [[sylph|Sylph]] (patron of all Fae), though specific centaur religious practice has not been defined.
 
 ## Relations
 
-- **Other [[fae|fae]]** are sibling-kin via the common chaos-infused Sidhe ancestry. Centaurs share a Feywild-bound lineage with pixies, dryads, and the rest of the fae roster â€” even though centaurs themselves prefer the Prime.
+- **Other [[fae|fae]]** are sibling-kin via the common chaos-infused Sidhe ancestry. Centaurs share a Feywild-bound lineage with pixies, dryads, and the rest of the fae roster — even though centaurs themselves prefer the Prime.
 - **[[elves|Elves]]** are cousin-kin via the common [[elfen|Elfen]] progenitor (elves descend from the El'mer; centaurs descend from the Sidhe). The two share the Elfen aesthetic line, two steps removed.
-- **[[qoxli|Qoxli]]**, Elder Goddess of the wild and animals, is a natural conceptual fit for a Prime-dwelling equine fae race â€” though she is **best friends with [[sylph|Sylph]]** (the official patron of all Fae) rather than the centaurs' direct patron.
+- **[[qoxli|Qoxli]]**, Elder Goddess of the wild and animals, is a natural conceptual fit for a Prime-dwelling equine fae race — though she is **best friends with [[sylph|Sylph]]** (the official patron of all Fae) rather than the centaurs' direct patron.
 
 <details>
 <summary>Related pages</summary>

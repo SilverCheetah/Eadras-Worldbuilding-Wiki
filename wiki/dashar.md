@@ -22,10 +22,10 @@ knowledge_access: [common]
 
 For active magic-system canon, see:
 
-- [[magic-in-eadras]] â€” Umbrella page for the current magic system
-- [[netharim|Netharim]] â€” Intuitive reality-shapers (the order that supersedes Sorcerers)
-- [[lexanari|Lexanari]] â€” Innate-only mortal speakers of the Primordial Language
-- [[druids|Druids]] â€” Sub-priesthood of [[qoxli|Qoxli]] / [[sylph|Sylph]] / [[nox|Nox]]
+- [[magic-in-eadras]] — Umbrella page for the current magic system
+- [[netharim|Netharim]] — Intuitive reality-shapers (the order that supersedes Sorcerers)
+- [[lexanari|Lexanari]] — Innate-only mortal speakers of the Primordial Language
+- [[druids|Druids]] — Sub-priesthood of [[qoxli|Qoxli]] / [[sylph|Sylph]] / [[nox|Nox]]
 
 <details>
 <summary>Related pages</summary>

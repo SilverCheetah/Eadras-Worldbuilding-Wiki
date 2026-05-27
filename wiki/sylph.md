@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Sylph
 
-**Summary**: Sylph is the Elder Goddess of foolishness, indulgence, instinct, self-interest, and independence â€” playful, mischievous, surprisingly clever, patron of all Fae, best friends with [[qoxli|Qoxli]], and one of the only gods who actually likes [[nox|Nox]].
+**Summary**: Sylph is the Elder Goddess of foolishness, indulgence, instinct, self-interest, and independence — playful, mischievous, surprisingly clever, patron of all Fae, best friends with [[qoxli|Qoxli]], and one of the only gods who actually likes [[nox|Nox]].
 
 **Sources**: More Info on the Elder Gods.txt, Creation Myth.txt, Gods of Eadras.txt
 
@@ -21,7 +21,7 @@ knowledge_access: [common]
 
 Whim, pleasure, chaos, and unbridled freedom. **Patron of all Fae** (source: More Info on the Elder Gods.txt). Formal pantheon listing covers foolishness, indulgence, instinct, self-interest, and independence (source: Gods of Eadras.txt).
 
-She was the eighth of the [[creation-myth|ten Elder Gods]] to step forward in the first naming, declaring with a grin: *"I am Sylph â€” goddess of foolishness."* In the great work, **she laughed at the rules**. In the [[lirra|Lirran]] cosmological summary, *"Sylph laughs and misdirects."*
+She was the eighth of the [[creation-myth|ten Elder Gods]] to step forward in the first naming, declaring with a grin: *"I am Sylph — goddess of foolishness."* In the great work, **she laughed at the rules**. In the [[lirra|Lirran]] cosmological summary, *"Sylph laughs and misdirects."*
 
 ## Personality
 
@@ -30,12 +30,12 @@ Playful, mischievous, selfish, and **surprisingly clever**. She lives for the mo
 ## Relationships
 
 - **Best friends with** [[qoxli|Qoxli]]
-- **Loves teasing** [[nox|Nox]] â€” one of the few gods who genuinely enjoys his company
+- **Loves teasing** [[nox|Nox]] — one of the few gods who genuinely enjoys his company
 - **Annoys** [[vos|Vos]] and [[nara|Nara]]
 - **Flirtatious rivalry with** [[daj|Daj]]
 - **Watched warily by** [[ioa|Ioa]]
 - **Tolerated, mildly disapproved of by** [[nara|Nara]]
-- **A soft spot in** [[lirra|Lirra]]'s heart â€” Lirra likes that Sylph's chaos prevents stagnation
+- **A soft spot in** [[lirra|Lirra]]'s heart — Lirra likes that Sylph's chaos prevents stagnation
 
 ## Patron of the Fae
 

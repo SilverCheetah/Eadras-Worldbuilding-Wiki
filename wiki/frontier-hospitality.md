@@ -10,7 +10,7 @@ knowledge_access: [common]
 
 # Frontier Hospitality
 
-**Summary**: **Frontier Hospitality** is the unwritten human customary law governing how mortal frontier settlements treat strangers who walk out of the Frontier â€” particularly Woodkin and Fey-adjacent visitors from [[fae-da-nar|Fae-da'Nar]] territories. The core rule, **treat the stranger as family, for you never know with whom you deal**, is older and better-obeyed than most formal laws. The hospitality customs (**First Bowl**, **No Iron on the Table**, **Fair Measure Under Witness**, **No Mocking the Mask**, **Guest-Fire Peace**) and the [[#Peace-Brass and Guest-Bronze|peace-brass infrastructure]] together form the human half of the coexistence compact whose Woodkin half is the [[four-laws-of-fae-da-nar|Four Laws of Fae-da'Nar]]. *Where Fae-da'Nar keeps the forest from becoming a nightmare, frontier hospitality keeps the village from becoming a provocation.*
+**Summary**: **Frontier Hospitality** is the unwritten human customary law governing how mortal frontier settlements treat strangers who walk out of the Frontier — particularly Woodkin and Fey-adjacent visitors from [[fae-da-nar|Fae-da'Nar]] territories. The core rule, **treat the stranger as family, for you never know with whom you deal**, is older and better-obeyed than most formal laws. The hospitality customs (**First Bowl**, **No Iron on the Table**, **Fair Measure Under Witness**, **No Mocking the Mask**, **Guest-Fire Peace**) and the [[#Peace-Brass and Guest-Bronze|peace-brass infrastructure]] together form the human half of the coexistence compact whose Woodkin half is the [[four-laws-of-fae-da-nar|Four Laws of Fae-da'Nar]]. *Where Fae-da'Nar keeps the forest from becoming a nightmare, frontier hospitality keeps the village from becoming a provocation.*
 
 **Sources**: faedanar-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -24,13 +24,13 @@ In many mortal frontier settlements, when a stranger walks out of the Frontier t
 
 > ***"Treat the stranger as family, for you never know with whom you deal."***
 
-The rule is **half kindness, half terror**. The stranger may be Woodkin, Fey-touched, [[druids|Druid]]-sent, cursed, sacred, dangerous, lost, exiled, judging, testing, or merely old and hungry. Family is fed before being interrogated. Family is also remembered â€” the host's behaviour at the threshold may matter later, in ways the host cannot predict.
+The rule is **half kindness, half terror**. The stranger may be Woodkin, Fey-touched, [[druids|Druid]]-sent, cursed, sacred, dangerous, lost, exiled, judging, testing, or merely old and hungry. Family is fed before being interrogated. Family is also remembered — the host's behaviour at the threshold may matter later, in ways the host cannot predict.
 
 Frontier humans understand the corollary:
 
 > ***"The forest folk are our neighbours, and both respect and peace are earned."***
 
-This is not naÃ¯ve universal welcome. It is **practical border diplomacy**, conducted at the scale of soup, and frequently more reliable than formal treaties.
+This is not naïve universal welcome. It is **practical border diplomacy**, conducted at the scale of soup, and frequently more reliable than formal treaties.
 
 ## The customs
 
@@ -50,9 +50,9 @@ Even communities without specific iron-aware customs often instinctively follow 
 
 ### Fair Measure Under Witness
 
-Trade with Frontier strangers is conducted **openly**, often with an elder, priest, [[druids|Druid]], or respected market-keeper watching. Cheating a Frontier stranger is dangerous â€” some strangers count value in ways not immediately obvious, and the consequences of a bad-faith trade can ripple for generations.
+Trade with Frontier strangers is conducted **openly**, often with an elder, priest, [[druids|Druid]], or respected market-keeper watching. Cheating a Frontier stranger is dangerous — some strangers count value in ways not immediately obvious, and the consequences of a bad-faith trade can ripple for generations.
 
-The witness's presence is the cheat-deterrent. Many frontier markets have informal **fair-witness customs** â€” a respected community member who attends Frontier trade and validates the exchange's good-faith conduct.
+The witness's presence is the cheat-deterrent. Many frontier markets have informal **fair-witness customs** — a respected community member who attends Frontier trade and validates the exchange's good-faith conduct.
 
 A frontier saying:
 
@@ -60,7 +60,7 @@ A frontier saying:
 
 ### No Mocking the Mask
 
-If the stranger **hides their face, voice, feet, shadow, horns, teeth, or other nature**, one does not expose them publicly. Many Woodkin choose to appear partially human-passing when in human settlements; their concealment is not deception in the offensive sense but a form of respect â€” they are minimising the discomfort their presence creates.
+If the stranger **hides their face, voice, feet, shadow, horns, teeth, or other nature**, one does not expose them publicly. Many Woodkin choose to appear partially human-passing when in human settlements; their concealment is not deception in the offensive sense but a form of respect — they are minimising the discomfort their presence creates.
 
 Mocking the Mask is more than rude. It is the kind of insult that does not heal. Hosts teach their children early: *do not point at the hooves*.
 
@@ -115,7 +115,7 @@ The materials used:
 - **Bronze/brass table fittings**
 - **Non-iron guest-room hardware**
 
-Iron is **not absent** from these towns â€” it remains in the forge, the workshop, the plough, the nail, the hinge. The distinction is **symbolic and practical**:
+Iron is **not absent** from these towns — it remains in the forge, the workshop, the plough, the nail, the hinge. The distinction is **symbolic and practical**:
 
 > ***"Iron at the table is threat. Iron in trade is consent."***
 
@@ -123,11 +123,11 @@ A wrapped, priced, named, openly-traded iron knife is *consent*. A bare iron kni
 
 ### Canonical terms
 
-- **Guest-Bronze** â€” household or inn utensils reserved for strangers from the Frontier
-- **Peace-Brass** â€” public-facing market utensils, cups, bells, measures, hinges, and table fittings used in trade with Woodfolk or Fey-adjacent visitors
-- **Civic Guest-Bronze** â€” town-maintained hospitality sets funded by peace levies or trade taxes
-- **Green Door** â€” a guest entrance fitted without iron, used for Frontier visitors
-- **Peace-Stall** â€” a market stall certified or customarily maintained without exposed iron at the counter
+- **Guest-Bronze** — household or inn utensils reserved for strangers from the Frontier
+- **Peace-Brass** — public-facing market utensils, cups, bells, measures, hinges, and table fittings used in trade with Woodfolk or Fey-adjacent visitors
+- **Civic Guest-Bronze** — town-maintained hospitality sets funded by peace levies or trade taxes
+- **Green Door** — a guest entrance fitted without iron, used for Frontier visitors
+- **Peace-Stall** — a market stall certified or customarily maintained without exposed iron at the counter
 
 ### Import economy
 
@@ -145,7 +145,7 @@ Most iron-mining frontier towns **import** brass and bronze cookware and tablewa
 
 Some Woodfolk in turn purchase iron, steel, tools, weapons, traps, nails, finished metal goods, salt, cloth, ceramics, lamp oil, glass beads, paper, brass bells.
 
-The trade is **mutually dependent**. A town that imports bronze bowls for strangers is saying: *this peace is worth money before profit arrives*. The Woodfolk notice. So do the Fey. Fey adore costly manners â€” they prove the apology has bones.
+The trade is **mutually dependent**. A town that imports bronze bowls for strangers is saying: *this peace is worth money before profit arrives*. The Woodfolk notice. So do the Fey. Fey adore costly manners — they prove the apology has bones.
 
 ### Smithing town etiquette
 
@@ -196,33 +196,33 @@ Settlements that **violate hospitality** may suffer:
 - Withdrawal of warning networks
 - Druid judgment
 - Increased vulnerability to [[the-shunned|Shunned]] predation
-- Becoming **"closed"** to the Frontier â€” paths grow inconvenient, dogs bark at empty corners, milk sours
+- Becoming **"closed"** to the Frontier — paths grow inconvenient, dogs bark at empty corners, milk sours
 
 The worst consequence of broken hospitality is often **absence**:
 
 > *No warning before winter. No herb for fever. No one leading the lost child home.*
 
-Withdrawal is more punishing than retaliation. Settlements that close themselves to the Frontier discover the Frontier closes back, and the closing is mutual until trust is rebuilt â€” if it can be.
+Withdrawal is more punishing than retaliation. Settlements that close themselves to the Frontier discover the Frontier closes back, and the closing is mutual until trust is rebuilt — if it can be.
 
 ## Relationship to the Four Laws
 
 Frontier Hospitality is the **human half** of the coexistence compact whose Woodkin half is the [[four-laws-of-fae-da-nar|Four Laws of Fae-da'Nar]]:
 
-- **Fae-da'Nar First Law** (don't frighten humans) â†” **Hospitality** (don't frighten Woodkin)
-- **Fae-da'Nar Second Law** (don't interfere) â†” **Fair Measure** (don't manipulate)
-- **Fae-da'Nar Third Law** (oppose Shunned threats) â†” **Warning network** (humans receive Shunned warnings via Woodfolk trade)
-- **Fae-da'Nar Fourth Law** (obey Druids) â†” **Druid witness** (Druids witness hospitality breaches)
+- **Fae-da'Nar First Law** (don't frighten humans) ↔ **Hospitality** (don't frighten Woodkin)
+- **Fae-da'Nar Second Law** (don't interfere) ↔ **Fair Measure** (don't manipulate)
+- **Fae-da'Nar Third Law** (oppose Shunned threats) ↔ **Warning network** (humans receive Shunned warnings via Woodfolk trade)
+- **Fae-da'Nar Fourth Law** (obey Druids) ↔ **Druid witness** (Druids witness hospitality breaches)
 
 Neither half is sufficient alone. Together they form a **living frontier treaty** maintained by kitchen practice, market courtesy, and the daily refusal of both sides to provoke the other's nightmare.
 
 ## Open canon
 
-- The **historical origin** of specific customs â€” when did "First Bowl" first appear in a recognisable form?
-- **Regional variations** â€” sea-frontier hospitality customs (where the Frontier is across water rather than across forest); mountain variations; desert variations
-- The **first major hospitality violation** that established precedent â€” case law for what constitutes breach versus mere rudeness
+- The **historical origin** of specific customs — when did "First Bowl" first appear in a recognisable form?
+- **Regional variations** — sea-frontier hospitality customs (where the Frontier is across water rather than across forest); mountain variations; desert variations
+- The **first major hospitality violation** that established precedent — case law for what constitutes breach versus mere rudeness
 - Whether **non-frontier** human communities have developed analogous customs for visiting fey/Woodkin in non-Frontier contexts
 - The **first city** to formalise hospitality customs in a written charter (loses some of the "unwritten law" power but gains enforceability)
-- The **Black Hand's** documented attempts to exploit hospitality customs â€” agents posing as Frontier strangers to gain access to hospitality privileges
+- The **Black Hand's** documented attempts to exploit hospitality customs — agents posing as Frontier strangers to gain access to hospitality privileges
 
 <details>
 <summary>Related pages</summary>

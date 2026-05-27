@@ -10,7 +10,7 @@ knowledge_access: [common]
 
 # The Fallback Doctrine
 
-**Summary**: The **Fallback Doctrine** is the [[first-rebrightening|First Rebrightening]] civilizational ethic articulated during the [[baldaranic-council-cycle#Phase II â€” The Arathi Council|Arathi Council]]: *no life-supporting system without mortal-scale fallback*. It is the formal anti-Arathi-pattern principle, derived from the diagnosis that the [[arathi|Arathi]] civilization fell catastrophically because its citizens became dependent on systems no living authority fully understood, with no mortal-scale recovery path. The doctrine does **not** reject advancement. It rejects **irreversible dependency on incomprehensible systems**.
+**Summary**: The **Fallback Doctrine** is the [[first-rebrightening|First Rebrightening]] civilizational ethic articulated during the [[baldaranic-council-cycle#Phase II — The Arathi Council|Arathi Council]]: *no life-supporting system without mortal-scale fallback*. It is the formal anti-Arathi-pattern principle, derived from the diagnosis that the [[arathi|Arathi]] civilization fell catastrophically because its citizens became dependent on systems no living authority fully understood, with no mortal-scale recovery path. The doctrine does **not** reject advancement. It rejects **irreversible dependency on incomprehensible systems**.
 
 **Sources**: arathi-council-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -24,19 +24,19 @@ The doctrine's compressed form:
 
 > ***No life-supporting system without mortal-scale fallback.***
 
-Every system on which ordinary survival depends must have **a mortal-scale recovery path** â€” a way for ordinary mortals, using ordinary capabilities, to maintain the function the system provides if the system fails. The function may degrade. The function may become slower, harder, or more expensive. But the function must remain available without the system.
+Every system on which ordinary survival depends must have **a mortal-scale recovery path** — a way for ordinary mortals, using ordinary capabilities, to maintain the function the system provides if the system fails. The function may degrade. The function may become slower, harder, or more expensive. But the function must remain available without the system.
 
 This applies to:
 
-- **[[seven-conduits|Conduits]]** â€” magical infrastructure that should not be the only source of magical service to a region
-- **Food systems** â€” agriculture, granary networks, distribution, preservation
-- **Healing systems** â€” medical, magical, and ritual healing capability
-- **City wards** â€” magical protection over urban populations
-- **Civic energy** â€” heating, lighting, water, sanitation
-- **Transit** â€” magical and conventional transportation
-- **Weather regulation** â€” any system that artificially controls atmospheric conditions
-- **Military defence** â€” anti-incursion, anti-demonic, anti-arcane-threat capability
-- **Magical communication** â€” long-distance message-carrying
+- **[[seven-conduits|Conduits]]** — magical infrastructure that should not be the only source of magical service to a region
+- **Food systems** — agriculture, granary networks, distribution, preservation
+- **Healing systems** — medical, magical, and ritual healing capability
+- **City wards** — magical protection over urban populations
+- **Civic energy** — heating, lighting, water, sanitation
+- **Transit** — magical and conventional transportation
+- **Weather regulation** — any system that artificially controls atmospheric conditions
+- **Military defence** — anti-incursion, anti-demonic, anti-arcane-threat capability
+- **Magical communication** — long-distance message-carrying
 
 The list is illustrative, not exhaustive. The doctrine applies to *every system whose absence would catastrophically harm the population that depends on it*.
 
@@ -88,7 +88,7 @@ Autonomous defences or war-machines must have **multiple mortal shutdown methods
 
 ### Entropy Taboo
 
-**Research into entropy nullification, decay abolition, or permanent stasis is forbidden** in most serious magical traditions. The taboo derives from [[kudur-etir|Kudur-eá¹­ir's]] catastrophe â€” his attempt to reverse entropy was *exactly* the Fallback-Doctrine violation taken to its cosmological extreme. The taboo applies in the magical academies, in [[order-sharanel|Order Sharanel]] research priorities, and in mainstream priestly doctrine.
+**Research into entropy nullification, decay abolition, or permanent stasis is forbidden** in most serious magical traditions. The taboo derives from [[kudur-etir|Kudur-eṭir's]] catastrophe — his attempt to reverse entropy was *exactly* the Fallback-Doctrine violation taken to its cosmological extreme. The taboo applies in the magical academies, in [[order-sharanel|Order Sharanel]] research priorities, and in mainstream priestly doctrine.
 
 ### Festival of Broken Certainties
 
@@ -96,16 +96,16 @@ Some cities **deliberately interrupt public systems once per year** to practice 
 
 ### Conduit Humility Clauses
 
-No state may claim **sovereign ownership** of a [[seven-conduits|conduit]] â€” only stewardship over access and maintenance zones. The Clauses derive from the Fallback Doctrine's stricture against irreversible dependency: a state that claims to *own* a conduit has bound its sovereignty to a system it could lose. The Clauses keep conduit-state relationships flexible.
+No state may claim **sovereign ownership** of a [[seven-conduits|conduit]] — only stewardship over access and maintenance zones. The Clauses derive from the Fallback Doctrine's stricture against irreversible dependency: a state that claims to *own* a conduit has bound its sovereignty to a system it could lose. The Clauses keep conduit-state relationships flexible.
 
 ## Open canon
 
 - The **first major political clash** over Fallback Doctrine interpretation (Bold's redefinition vs Orden's strict reading is the leading candidate)
 - Whether the **Festival of Broken Certainties** can be maintained as honest practice without becoming empty spectacle (it can; the question is whether specific cities will manage it)
-- The **first city to fail a Fallback audit** publicly â€” institutional and political consequences
+- The **first city to fail a Fallback audit** publicly — institutional and political consequences
 - Whether the **Entropy Taboo** is maintained against private experimentation or only against institutional research
-- How the doctrine applies to **divine-bureaucratic systems** â€” does the [[doctrine-of-open-palm|Open Palm reform]] count as fallback for divine intervention failure?
-- **Trollish geobiologist** input on Fallback assessment â€” trolls' geological time-sense gives them unusual perspective on what counts as *long-term*
+- How the doctrine applies to **divine-bureaucratic systems** — does the [[doctrine-of-open-palm|Open Palm reform]] count as fallback for divine intervention failure?
+- **Trollish geobiologist** input on Fallback assessment — trolls' geological time-sense gives them unusual perspective on what counts as *long-term*
 
 <details>
 <summary>Related pages</summary>

@@ -11,7 +11,7 @@ knowledge_access: [common]
 
 > *The first thing fell from the sky on a day when the rain would not stop.*
 >
-> *It had been coming down since before dawn â€” steady, soaking, turning the fields to dark mud and pressing the sky down so low it felt like you could reach up and touch it. You couldn't see far. Sound carried strangely. The world felt smaller.*
+> *It had been coming down since before dawn — steady, soaking, turning the fields to dark mud and pressing the sky down so low it felt like you could reach up and touch it. You couldn't see far. Sound carried strangely. The world felt smaller.*
 >
 > *Marrin heard it more than he saw it. A soft impact somewhere out in the barley.*
 >
@@ -21,7 +21,7 @@ knowledge_access: [common]
 >
 > *Marrin looked up. There was nothing above him but cloud.*
 >
-> *By evening, they knew whose it was. Tomas Rell â€” gone since the night before. No tracks. No sign of struggle. Just gone. Until he wasn't.*
+> *By evening, they knew whose it was. Tomas Rell — gone since the night before. No tracks. No sign of struggle. Just gone. Until he wasn't.*
 >
 > *"It's not dragons," someone said that night, too quickly. "Dragons don't do this."*
 >
@@ -31,15 +31,15 @@ knowledge_access: [common]
 >
 > *They started counting after that. At first it was one name spoken quietly at the hearth. Then two. Then three. People who had been seen the day before. People who had gone to bed. People who had stepped outside for a moment and never come back. No broken doors. No blood trails. No dragged footprints. Just absence.*
 >
-> *The second thing fell two days later. The rain was heavier then, driving most people indoors â€” but not all.*
+> *The second thing fell two days later. The rain was heavier then, driving most people indoors — but not all.*
 >
-> *There was a sound first â€” a heavy, wet impact in the center of the square that didn't belong to anything they knew. A few people looked up instinctively, but the sky was a solid sheet of gray, the rain thick enough to blur anything beyond a few dozen feet. By the time their eyes adjusted, there was nothing to see above â€” only the falling water and the empty, featureless cloud.*
+> *There was a sound first — a heavy, wet impact in the center of the square that didn't belong to anything they knew. A few people looked up instinctively, but the sky was a solid sheet of gray, the rain thick enough to blur anything beyond a few dozen feet. By the time their eyes adjusted, there was nothing to see above — only the falling water and the empty, featureless cloud.*
 >
 > *Then they saw what had landed.*
 >
 > *For a moment, no one moved. The rain ran over it, flattening cloth against skin, darkening everything until the shape of it resolved into something unmistakably human. Someone made a small sound, not quite a scream, and spoke a name that spread through the onlookers in a low, breaking ripple. Lysa Fen. Missing since dawn. She had gone out searching for her brother.*
 >
-> *What remained was enough to recognize her. The rest was gone. The torso had been torn open and emptied, not with any care or clean edge, but with the blunt certainty of something that fed where it chose. There was no pattern to the damage, no sense that anything had been taken for a reason â€” just absence, large and uneven, as though whatever had done it had eaten until it was satisfied and stopped.*
+> *What remained was enough to recognize her. The rest was gone. The torso had been torn open and emptied, not with any care or clean edge, but with the blunt certainty of something that fed where it chose. There was no pattern to the damage, no sense that anything had been taken for a reason — just absence, large and uneven, as though whatever had done it had eaten until it was satisfied and stopped.*
 >
 > *The face had been left untouched. That was the worst of it. Her eyes were open, fixed on nothing, rain collecting at the corners and spilling down her cheeks in thin, steady lines.*
 >
@@ -49,9 +49,9 @@ knowledge_access: [common]
 >
 > *After that, no one went out alone. Doors were barred. Windows shuttered. Fires kept low. Still, people vanished. A shepherd taken from within sight of the road. Two boys sent to fetch water. An old woman who had lived in the same house for forty years. Each time, the same thing: no sound, no sign, just fewer people than there had been the day before.*
 >
-> *They watched the sky after that. Not because they expected to see anything â€” but because they needed to try.*
+> *They watched the sky after that. Not because they expected to see anything — but because they needed to try.*
 >
-> *The bones came on a night of thunder. Lightning broke over the ridge, turning the world white for a heartbeat. In that instant â€” just long enough to register, not long enough to understand â€” something vast crossed the sky. Gone before the darkness returned.*
+> *The bones came on a night of thunder. Lightning broke over the ridge, turning the world white for a heartbeat. In that instant — just long enough to register, not long enough to understand — something vast crossed the sky. Gone before the darkness returned.*
 >
 > *In the morning, the bones were there. Stripped clean. Scattered, then gathered again into a rough circle just beyond the boundary stones. Too many. More than they could count against the missing. A skull at the center. Facing the village.*
 >
@@ -71,7 +71,7 @@ knowledge_access: [common]
 >
 > *They left before sunset. They did not close the gates behind them.*
 >
-> *By the time the report reached the next town, it had already begun to change. Not in the facts. Those stayed the same. A village, gone. No bodies. No sign of battle. No survivors. Just a place that had emptied. And above it â€” clear sky.*
+> *By the time the report reached the next town, it had already begun to change. Not in the facts. Those stayed the same. A village, gone. No bodies. No sign of battle. No survivors. Just a place that had emptied. And above it — clear sky.*
 
 ---
 
@@ -85,13 +85,13 @@ knowledge_access: [common]
 
 ## Doctrine
 
-The Flesh-Eaters' central belief is simple and absolute: **everything that is not dragon is prey.** Dragons are the rightful apex of all life; civilization and restraint are corruptions of true dragon nature; sapience grants no moral status. They do not merely hunt sapient beings â€” they prefer them. Thinking creatures are believed to taste better, and fear and awareness are considered desirable qualities in prey. Killing sapients is not incidental â€” it is the point.
+The Flesh-Eaters' central belief is simple and absolute: **everything that is not dragon is prey.** Dragons are the rightful apex of all life; civilization and restraint are corruptions of true dragon nature; sapience grants no moral status. They do not merely hunt sapient beings — they prefer them. Thinking creatures are believed to taste better, and fear and awareness are considered desirable qualities in prey. Killing sapients is not incidental — it is the point.
 
 They reject treaties, coexistence, and any form of shared civilization. To them, modern dragon society is weakened and fundamentally wrong; the post-[[great-exchange|Exchange]] consensus, the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]], and the [[unicorns#The Compact of Horn and Flame|Compact of Horn and Flame]] are all errors to be undone.
 
 ## Ideological framing and self-justification
 
-The Flesh-Eaters do not view their behavior as immoral, deviant, or even unusual. They interpret every action â€” predation, secrecy, flight, concealment â€” through a framework of *freedom and survival*. Within that framework, they are not aberrations; they are **the only dragons living correctly.**
+The Flesh-Eaters do not view their behavior as immoral, deviant, or even unusual. They interpret every action — predation, secrecy, flight, concealment — through a framework of *freedom and survival*. Within that framework, they are not aberrations; they are **the only dragons living correctly.**
 
 ### Core belief
 
@@ -115,7 +115,7 @@ The cult does not perceive its own operational reality as hiding, retreat, or fe
 
 ### Perception of dragon society
 
-Mainstream draconic society â€” the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]], the post-[[great-exchange|Exchange]] consensus, the [[unicorns#The Compact of Horn and Flame|Compact of Horn and Flame]] â€” is read as **constrained, weakened, fundamentally compromised.** Other dragons, in this reading, *have surrendered their dominance, accepted artificial limits, and bound themselves by fear of consequence.* In Flesh-Eater terms: **civilized dragons are cowards.**
+Mainstream draconic society — the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]], the post-[[great-exchange|Exchange]] consensus, the [[unicorns#The Compact of Horn and Flame|Compact of Horn and Flame]] — is read as **constrained, weakened, fundamentally compromised.** Other dragons, in this reading, *have surrendered their dominance, accepted artificial limits, and bound themselves by fear of consequence.* In Flesh-Eater terms: **civilized dragons are cowards.**
 
 ### Internal contrast
 
@@ -143,17 +143,17 @@ These apply equally to hunting sapient prey, avoiding stronger enemies, and aban
 
 ### Lack of self-awareness
 
-The Flesh-Eaters do not recognize the contradictions an outsider sees in their position. They do not perceive that secrecy implies fear, that avoidance limits their freedom, or that their actions are constrained by necessity. **Outcomes define truth:** if they survive, they are correct; if others die, those others were weak. The doctrine is self-validating â€” every outcome is read as confirmation.
+The Flesh-Eaters do not recognize the contradictions an outsider sees in their position. They do not perceive that secrecy implies fear, that avoidance limits their freedom, or that their actions are constrained by necessity. **Outcomes define truth:** if they survive, they are correct; if others die, those others were weak. The doctrine is self-validating — every outcome is read as confirmation.
 
 ### The irony
 
-From any outside vantage, the cult's daily life is among the most constrained in dragondom â€” every movement governed by [[#Lairs and contingency planning|secrecy discipline]], every lair disposable, every confrontation with mainstream draconic force resolved by retreating hundreds of miles under storm cover. **They do not perceive this.** To them, they are the only dragons who are truly free; all others live in fear. That the [[ratharil#Council of 99 Eldest|Council]] can fly openly and meet beneath the sky in the [[ratharil#The Court of the Unanswered Sun|Court of the Unanswered Sun]] without fear is, to a Flesh-Eater, the very proof of decadence.
+From any outside vantage, the cult's daily life is among the most constrained in dragondom — every movement governed by [[#Lairs and contingency planning|secrecy discipline]], every lair disposable, every confrontation with mainstream draconic force resolved by retreating hundreds of miles under storm cover. **They do not perceive this.** To them, they are the only dragons who are truly free; all others live in fear. That the [[ratharil#Council of 99 Eldest|Council]] can fly openly and meet beneath the sky in the [[ratharil#The Court of the Unanswered Sun|Court of the Unanswered Sun]] without fear is, to a Flesh-Eater, the very proof of decadence.
 
 This mental architecture is what makes the cult **resistant to argument** and gives its [[#Susceptibility to conversion|appeal to dissatisfied or arrogant Council dragons]] its hook. A Flesh-Eater is not someone who has rejected mainstream draconic society's *practices*; he has accepted a complete inversion of its *evaluations*. To convert him is to undo not a position but a worldview.
 
 ## Perception by others
 
-The Flesh-Eaters' self-conception is not the way they are seen from any outside vantage. From mainstream draconic society, the cult is a profound corruption of dragonkind â€” *fundamentally sick*, not merely dangerous. From most non-dragon populations, the cult is not even a recognized category; only an experience.
+The Flesh-Eaters' self-conception is not the way they are seen from any outside vantage. From mainstream draconic society, the cult is a profound corruption of dragonkind — *fundamentally sick*, not merely dangerous. From most non-dragon populations, the cult is not even a recognized category; only an experience.
 
 ### How outsiders identify them
 
@@ -178,15 +178,15 @@ Most sapient populations do not use the term *Flesh-Eaters*, do not know the cul
 >
 > *"It ate them."*
 
-Knowledge is experiential, not theoretical. Among dragons and the small population of informed scholars, Flesh-Eaters are recognized as a specific cult and a known threat â€” but this knowledge is not widely shared, and is often poorly communicated when it is.
+Knowledge is experiential, not theoretical. Among dragons and the small population of informed scholars, Flesh-Eaters are recognized as a specific cult and a known threat — but this knowledge is not widely shared, and is often poorly communicated when it is.
 
 ### How the cult is judged by those who know
 
-To mainstream dragons, the Flesh-Eaters are not simply criminals or ideological deviants. They are **warped, degenerate, fundamentally wrong** â€” a sickness within dragonkind rather than a faction within it. Hunting is natural; predation is accepted; the cult's behavior is read as **a violation of proper predation, a corruption of the natural order.** The judgment arises from three things:
+To mainstream dragons, the Flesh-Eaters are not simply criminals or ideological deviants. They are **warped, degenerate, fundamentally wrong** — a sickness within dragonkind rather than a faction within it. Hunting is natural; predation is accepted; the cult's behavior is read as **a violation of proper predation, a corruption of the natural order.** The judgment arises from three things:
 
 - **Predation on sapient beings as such.** Sapience is supposed to be a category-difference, not a flavor profile.
 - **Deliberate cultivation of suffering.** This is the outside reading; see [[#Practices|Practices]] for the inside reality, which is appetite plus secrecy discipline rather than psychological warfare as policy. The behavioral signature is indistinguishable from outside, and the distinction is irrelevant to victims.
-- **Total rejection of restraint** â€” including the egg-theft offense that most directly violates the [[ratharil#Neutral Zone Law|neutral-zone law]].
+- **Total rejection of restraint** — including the egg-theft offense that most directly violates the [[ratharil#Neutral Zone Law|neutral-zone law]].
 
 Among dragons, *direct reference* to the cult in polite company is avoided; indirect language is preferred. Common euphemisms include:
 
@@ -196,9 +196,9 @@ Among dragons, *direct reference* to the cult in polite company is avoided; indi
 
 The name itself is considered distasteful.
 
-To **non-dragons**, the Flesh-Eaters are not a defined group at all. They are perceived as **monstrous dragons** â€” aberrations, proof that dragons can become predators of civilization. Their behavior is experienced as predation without limit, violence without restraint, cruelty without explanation. They are not categorized â€” they are *feared.*
+To **non-dragons**, the Flesh-Eaters are not a defined group at all. They are perceived as **monstrous dragons** — aberrations, proof that dragons can become predators of civilization. Their behavior is experienced as predation without limit, violence without restraint, cruelty without explanation. They are not categorized — they are *feared.*
 
-Common reactions to confirmed Flesh-Eater activity in a region include **revulsion, disbelief, denial, panic.** Even people familiar with dragons in general struggle to reconcile known dragon behavior with what a Flesh-Eater cell does in a village. **The cult breaks expectation before it breaks bodies** â€” forcing observers to confront that dragons can violate assumed limits, and that safety is conditional.
+Common reactions to confirmed Flesh-Eater activity in a region include **revulsion, disbelief, denial, panic.** Even people familiar with dragons in general struggle to reconcile known dragon behavior with what a Flesh-Eater cell does in a village. **The cult breaks expectation before it breaks bodies** — forcing observers to confront that dragons can violate assumed limits, and that safety is conditional.
 
 ## Cabal terminology
 
@@ -207,8 +207,8 @@ The Flesh-Eaters categorize prey using blunt internal slang based almost entirel
 | Cabal term | Refers to |
 |---|---|
 | ***Horn-horses*** | [[unicorns|Unicorns]]. Regarded as exceptionally magical livestock. |
-| ***Snacks*** | Larger humanoid sapients â€” humans and similarly sized races. Worth hunting and eating. |
-| ***Not even snacks*** | Small humanoid races â€” gnomes, goblins, halflings. Inefficient prey, often ignored unless encountered directly. |
+| ***Snacks*** | Larger humanoid sapients — humans and similarly sized races. Worth hunting and eating. |
+| ***Not even snacks*** | Small humanoid races — gnomes, goblins, halflings. Inefficient prey, often ignored unless encountered directly. |
 
 The classification is not mercy. *Larger races are food. Smaller races are beneath consideration.* A Flesh-Eater encountering a halfling village will usually pass it by; a Flesh-Eater encountering a human village will hunt it.
 
@@ -216,19 +216,19 @@ The classification is not mercy. *Larger races are food. Smaller races are benea
 
 The Flesh-Eaters **hunt civilization rather than wilderness.** They target villages, towns, and travelers, treating settlements as feeding grounds. Prey is taken suddenly and removed without trace; when remains are found, they show signs of partial consumption consistent with feeding rather than killing.
 
-Their characteristic hunting pattern â€” single victims taken one at a time, attacks spaced out, no broken doors and no blood trails â€” is **driven by secrecy discipline, not by psychological warfare.** A Flesh-Eater takes one farmer rather than a whole village because two missing farmers stay quieter than ten, not because the surviving villagers' terror is itself the goal. The fear and population destabilization that follow are a side effect the cabal tolerates and finds convenient (a panicked village patrols badly), but they are not the aim. The Flesh-Eaters genuinely **do not care about the feelings of prey.** Fear is welcome only as a flavoring â€” thinking creatures taste better when afraid â€” but that is appetite, not cruelty as policy. The vignette above describes the side effect; it does not describe the cabal's intention.
+Their characteristic hunting pattern — single victims taken one at a time, attacks spaced out, no broken doors and no blood trails — is **driven by secrecy discipline, not by psychological warfare.** A Flesh-Eater takes one farmer rather than a whole village because two missing farmers stay quieter than ten, not because the surviving villagers' terror is itself the goal. The fear and population destabilization that follow are a side effect the cabal tolerates and finds convenient (a panicked village patrols badly), but they are not the aim. The Flesh-Eaters genuinely **do not care about the feelings of prey.** Fear is welcome only as a flavoring — thinking creatures taste better when afraid — but that is appetite, not cruelty as policy. The vignette above describes the side effect; it does not describe the cabal's intention.
 
 ### Territorial behavior
 
 Flesh-Eaters mark territory through **corpse-drops**: skeletal remains, partially eaten bodies, and discarded fragments dropped into visible areas. **This is a standard draconic territorial signal**, used to communicate with other dragons that an area is actively hunted and claimed. Normal dragons mark territory with wild prey. Flesh-Eaters use sapient remains. *The method is normal; the target is not.*
 
-The corpse-drops are also placed deceptively â€” see [[#Deception and misdirection|Deception and misdirection]] below â€” to communicate territorial claims to other dragons without revealing the cell's actual lair.
+The corpse-drops are also placed deceptively — see [[#Deception and misdirection|Deception and misdirection]] below — to communicate territorial claims to other dragons without revealing the cell's actual lair.
 
 ## Organization
 
 Flesh-Eaters operate in **small, independent, highly mobile cells.** They avoid centralized authority and permanent settlements. They cooperate opportunistically for hunting and survival but lack stable hierarchy or long-term trust: alliances form when useful and dissolve when no longer needed. Other Flesh-Eaters are not prey by default, but neither are they true allies.
 
-They are highly secretive â€” limiting visible activity, rotating hunting grounds, avoiding unnecessary exposure. Survival depends on balancing feeding with remaining undetected.
+They are highly secretive — limiting visible activity, rotating hunting grounds, avoiding unnecessary exposure. Survival depends on balancing feeding with remaining undetected.
 
 ## Lairs and contingency planning
 
@@ -236,7 +236,7 @@ Flesh-Eater cells do not rely on a single fixed base. Each cell maintains a **la
 
 ### Primary lair
 
-The cell's active base of operations. Located in **remote wilderness, ancient ruins, or broken terrain** â€” areas with limited aerial visibility (dense canopy, cliffs, fog-prone regions) and locations difficult to approach directly from open sky.
+The cell's active base of operations. Located in **remote wilderness, ancient ruins, or broken terrain** — areas with limited aerial visibility (dense canopy, cliffs, fog-prone regions) and locations difficult to approach directly from open sky.
 
 **Structure**: concealed entrance not visible from standard approach angles; multiple exit routes including vertical shafts or secondary passages; minimal internal development with no permanent infrastructure requiring upkeep.
 
@@ -246,7 +246,7 @@ The cell's active base of operations. Located in **remote wilderness, ancient ru
 
 ### Secondary lairs
 
-Each cell maintains **at least one secondary lair**, typically **200â€“500 miles** from the primary site. Pre-scouted and accessible without preparation. Less optimal than primary lairs but more concealed. Not intended for long-term habitation â€” only for survival when the primary is compromised.
+Each cell maintains **at least one secondary lair**, typically **200–500 miles** from the primary site. Pre-scouted and accessible without preparation. Less optimal than primary lairs but more concealed. Not intended for long-term habitation — only for survival when the primary is compromised.
 
 ### Emergency shelters
 
@@ -297,37 +297,37 @@ Some cells choose to inhabit ancient draconic ruins. The advantages are natural 
 
 ## Counter-hunt behavior
 
-If confronted by a small hunting group of dragons, a Flesh-Eater cell may **isolate an individual dragon, ambush it, and kill and consume it.** If confronted by a large force, they avoid direct conflict â€” retreating into hidden lairs or fleeing to secondary locations hundreds of miles away, often during storms or poor visibility.
+If confronted by a small hunting group of dragons, a Flesh-Eater cell may **isolate an individual dragon, ambush it, and kill and consume it.** If confronted by a large force, they avoid direct conflict — retreating into hidden lairs or fleeing to secondary locations hundreds of miles away, often during storms or poor visibility.
 
 ## Discovery conditions
 
-Flesh-Eater cells are rarely found through deliberate tracking. Most are discovered through **failure of secrecy discipline** â€” visible attacks, sightings, or physical traces such as shed scales, blood, or remains near a lair. Discovery is usually the result of carelessness rather than skilled pursuit.
+Flesh-Eater cells are rarely found through deliberate tracking. Most are discovered through **failure of secrecy discipline** — visible attacks, sightings, or physical traces such as shed scales, blood, or remains near a lair. Discovery is usually the result of carelessness rather than skilled pursuit.
 
 ## Reproduction and recruitment
 
-Flesh-Eaters sustain their numbers by **stealing dragon eggs**, typically from civilized or reformed clans â€” and especially from clans most committed to the post-[[great-exchange|Exchange]] consensus, both because corrupting *those* eggs is the deepest possible affront to the consensus and because the resulting cohorts can later be used as ideological weapons against the very clans they were stolen from. Hatchlings are raised in isolation and indoctrinated from birth to view all non-dragons as prey. This produces complete ideological control.
+Flesh-Eaters sustain their numbers by **stealing dragon eggs**, typically from civilized or reformed clans — and especially from clans most committed to the post-[[great-exchange|Exchange]] consensus, both because corrupting *those* eggs is the deepest possible affront to the consensus and because the resulting cohorts can later be used as ideological weapons against the very clans they were stolen from. Hatchlings are raised in isolation and indoctrinated from birth to view all non-dragons as prey. This produces complete ideological control.
 
 Egg theft is also one of the practices that earned the cult its special revulsion in mainstream draconic society: eggs are sacred under [[ratharil#Neutral Zone Law|Ratharil's neutral-zone law]] (*"No egg may be destroyed within the city"*) and across draconic custom more broadly.
 
 ### The rearing chamber
 
-A Flesh-Eater rearing chamber is shaped like an ordinary draconic creche, but every surface is **rubbed with the rendered fat of sapient kills** so that the hatchling, before it has eyes, knows the *taste of the world* is the taste of cooked person. The first food the stolen hatchling is offered, after its yolk-sac shrivels, is a strip of fresh humanoid liver still warm from the cooling body â€” pressed gently against the hatchling's mouth by an elder who croons the old clan-comfort sounds while doing it, so that *love* and *the meat of thinking beings* arrive in the hatchling's developing mind as one inseparable sensation.
+A Flesh-Eater rearing chamber is shaped like an ordinary draconic creche, but every surface is **rubbed with the rendered fat of sapient kills** so that the hatchling, before it has eyes, knows the *taste of the world* is the taste of cooked person. The first food the stolen hatchling is offered, after its yolk-sac shrivels, is a strip of fresh humanoid liver still warm from the cooling body — pressed gently against the hatchling's mouth by an elder who croons the old clan-comfort sounds while doing it, so that *love* and *the meat of thinking beings* arrive in the hatchling's developing mind as one inseparable sensation.
 
-The chamber walls are streaked with long vertical brown stains of *educational meat* â€” strips of cooked sapient hung at hatchling height to be torn at and chewed during play. By a hatchling's third year the brown stains are scored with thousands of overlapping bite-marks, the pattern as recognizable to a Flesh-Eater elder as a wallpaper print: each cohort's **bite-record**, used to track which hatchlings are developing properly aggressive jaw articulation.
+The chamber walls are streaked with long vertical brown stains of *educational meat* — strips of cooked sapient hung at hatchling height to be torn at and chewed during play. By a hatchling's third year the brown stains are scored with thousands of overlapping bite-marks, the pattern as recognizable to a Flesh-Eater elder as a wallpaper print: each cohort's **bite-record**, used to track which hatchlings are developing properly aggressive jaw articulation.
 
 ### The Council-Draconic mockery
 
 A reading-tablet hangs in every cohort-room, etched with the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]]'s formal denouncement of the cult in proper [[draconic-language|Council-formal Draconic]]. The elders read it aloud to the cohort weekly, slowly, with mocking precision, so the hatchlings learn the vocabulary of mainstream dragon philosophy *as the language of the prey their parents will eventually be.*
 
-By adulthood every Flesh-Eater can speak fluent Council-formal Draconic, often more correctly than most Council members, and they use it deliberately as **the proper register for their kills** â€” the last words a victim hears in their own civilization's most prestigious form, spoken with grammatical perfection and absolutely no comprehension of the words' actual meaning. The Council knows about this practice. They have not been able to stop it. It is one of the reasons mainstream dragons consider speaking the name *Flesh-Eaters* in polite company in such poor taste â€” the vocabulary is contaminated.
+By adulthood every Flesh-Eater can speak fluent Council-formal Draconic, often more correctly than most Council members, and they use it deliberately as **the proper register for their kills** — the last words a victim hears in their own civilization's most prestigious form, spoken with grammatical perfection and absolutely no comprehension of the words' actual meaning. The Council knows about this practice. They have not been able to stop it. It is one of the reasons mainstream dragons consider speaking the name *Flesh-Eaters* in polite company in such poor taste — the vocabulary is contaminated.
 
-The practice is not mockery, and reading it as mockery understates its damage. It is **desecration of a sacred semantic architecture**: the use of civilization's highest sacred linguistic form within deliberate acts of anti-civilization. [[draconic-language#Council-formal as the highest register|Council-formal Draconic]] is not merely the most prestigious register â€” it is the register dragon cognition is most deeply tuned to, the register that reaches beneath conscious thought (see [[draconic-language#Neurological foundation in dragons|the neurological foundation]]). When Flesh-Eaters deliver predation-rituals in flawless Council-formal, they lodge the trauma exactly where dragons cannot think their way out of it.
+The practice is not mockery, and reading it as mockery understates its damage. It is **desecration of a sacred semantic architecture**: the use of civilization's highest sacred linguistic form within deliberate acts of anti-civilization. [[draconic-language#Council-formal as the highest register|Council-formal Draconic]] is not merely the most prestigious register — it is the register dragon cognition is most deeply tuned to, the register that reaches beneath conscious thought (see [[draconic-language#Neurological foundation in dragons|the neurological foundation]]). When Flesh-Eaters deliver predation-rituals in flawless Council-formal, they lodge the trauma exactly where dragons cannot think their way out of it.
 
-The structural consequence for mainstream draconic culture is real and ongoing: **some Council members cannot hear certain root cadences without flinching** in the chamber. The trauma is linguistic. Council-formal cadences become, for those dragons, associated with terror, violation, and contamination â€” the very register through which identity is most deeply anchored becomes the register through which it is most deeply wounded. No Council to date has produced a clean remedy. The Flesh-Eaters know this; the choice of Council-formal is deliberate, doctrinally preserved across each cache cycle, and is part of why mainstream dragons regard the cult as not merely violent but **grammatically obscene** â€” a structural inversion of dragon civilization, not merely its opposite.
+The structural consequence for mainstream draconic culture is real and ongoing: **some Council members cannot hear certain root cadences without flinching** in the chamber. The trauma is linguistic. Council-formal cadences become, for those dragons, associated with terror, violation, and contamination — the very register through which identity is most deeply anchored becomes the register through which it is most deeply wounded. No Council to date has produced a clean remedy. The Flesh-Eaters know this; the choice of Council-formal is deliberate, doctrinally preserved across each cache cycle, and is part of why mainstream dragons regard the cult as not merely violent but **grammatically obscene** — a structural inversion of dragon civilization, not merely its opposite.
 
-## Continuity â€” the buried caches
+## Continuity — the buried caches
 
-The cult is **not an unbroken tradition.** It has been wiped out many times across draconic history â€” by Council task forces, mainstream-clan vengeance after a particularly egregious raid, combined dragon-and-unicorn campaigns, and outside catastrophes (the [[demon-war|Demon War]]'s general carnage took at least one generation of the cult with it). Each eradication is total, or near-total: the active cells destroyed, the holds burned out, the surviving members hunted down.
+The cult is **not an unbroken tradition.** It has been wiped out many times across draconic history — by Council task forces, mainstream-clan vengeance after a particularly egregious raid, combined dragon-and-unicorn campaigns, and outside catastrophes (the [[demon-war|Demon War]]'s general carnage took at least one generation of the cult with it). Each eradication is total, or near-total: the active cells destroyed, the holds burned out, the surviving members hunted down.
 
 And every time, the cult **comes back.**
 
@@ -335,15 +335,15 @@ And every time, the cult **comes back.**
 
 Each Flesh-Eater cell creates a **hidden doctrinal cache** to ensure the cult survives its own destruction. The caches are dragon-sized chambers containing:
 
-- **Carved doctrine on tablets** â€” the foundational philosophy in the cult's own preserved Draconic
-- **Symbolic plinths of dragon supremacy** â€” physical icons of the doctrine
-- **A psychic resonance crystal with an imprinted personality** â€” the cache's centerpiece. The crystal carries the recorded mind of an old Flesh-Eater who served as the cache's testator: it acts as **teacher and guide** for any finder who reads the doctrine, walking them through the practices and answering questions in a voice the finder eventually comes to recognize as *home*.
+- **Carved doctrine on tablets** — the foundational philosophy in the cult's own preserved Draconic
+- **Symbolic plinths of dragon supremacy** — physical icons of the doctrine
+- **A psychic resonance crystal with an imprinted personality** — the cache's centerpiece. The crystal carries the recorded mind of an old Flesh-Eater who served as the cache's testator: it acts as **teacher and guide** for any finder who reads the doctrine, walking them through the practices and answering questions in a voice the finder eventually comes to recognize as *home*.
 
 A single dragon can discover a cache, learn the doctrine from the crystal, and rebuild the cult.
 
 The caches are most often hidden in:
 
-- **The ruins of ancient draconic empires** â€” pre-Council strongholds the cult already favors as operational hiding-places. Many such ruins contain caches stacked across multiple wipeout cycles, each preserved by the previous generation as a contingency.
+- **The ruins of ancient draconic empires** — pre-Council strongholds the cult already favors as operational hiding-places. Many such ruins contain caches stacked across multiple wipeout cycles, each preserved by the previous generation as a contingency.
 - **Old Flesh-Eater holds** whose active members were killed before they could be looted by Council enforcement. The cult's habit of building holds in remote wilderness means most are never found by mainstream enforcement; a buried cache in a destroyed hold can wait centuries for the next finder.
 - **Unmarked locations** known only by a small set of philosophical clues planted in publicly-accessible draconic archives. The cult salts mainstream archives with seemingly innocuous references that point to cache locations when recognized by a sufficiently corrupted or curious reader.
 
@@ -353,13 +353,13 @@ The cycle is fixed: a dragon discovers a cache, adopts the doctrine, steals an e
 
 ### "Always reborn"
 
-The cult's motto across generations is **"Always reborn"** â€” a phrase carved into the lid of nearly every cache and into the foundation stones of nearly every hold. The cult regards its own mortality as a temporary condition. *Individual* Flesh-Eaters die. *The cult* does not â€” only sleeps, between eradication and revival, in the caches.
+The cult's motto across generations is **"Always reborn"** — a phrase carved into the lid of nearly every cache and into the foundation stones of nearly every hold. The cult regards its own mortality as a temporary condition. *Individual* Flesh-Eaters die. *The cult* does not — only sleeps, between eradication and revival, in the caches.
 
 This is why the Council's eradication campaigns, however successful in the short term, never actually solve the problem. Burning out a generation does not destroy the philosophy; it merely makes the buried caches more important to the next revival. The Council understands this in principle. **No Council has ever found and destroyed all the caches.** The current cult is **the latest revival**, not the original.
 
 ## Susceptibility to conversion
 
-Dragons most vulnerable to conversion when they encounter a cache tend to exhibit dissatisfaction with modern society, ennui, curiosity, or arrogance. **Conversion is gradual but decisive once complete** â€” the crystal-mediated tutoring works on the dragon's existing dissatisfaction over months or years, and the dragon who emerges from the process is no longer recoverable.
+Dragons most vulnerable to conversion when they encounter a cache tend to exhibit dissatisfaction with modern society, ennui, curiosity, or arrogance. **Conversion is gradual but decisive once complete** — the crystal-mediated tutoring works on the dragon's existing dissatisfaction over months or years, and the dragon who emerges from the process is no longer recoverable.
 
 ## Status
 
@@ -367,7 +367,7 @@ The [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]] has officially **de
 
 ### Numerical strength
 
-The entire cult numbers **fewer than one hundred dragons at any given time**, distributed across all cells worldwide. This is a *steady-state* figure: as old members die, the cult replaces them through ongoing egg-theft and the cohort indoctrination pipeline. The cult does not (in any documented form) reproduce internally â€” its continuity depends entirely on continued successful egg-theft and (between revivals) on the buried caches.
+The entire cult numbers **fewer than one hundred dragons at any given time**, distributed across all cells worldwide. This is a *steady-state* figure: as old members die, the cult replaces them through ongoing egg-theft and the cohort indoctrination pipeline. The cult does not (in any documented form) reproduce internally — its continuity depends entirely on continued successful egg-theft and (between revivals) on the buried caches.
 
 At fewer than a hundred dragons against the wider dragon population in the millions, the cult would be trivially outmatched in any open confrontation. Their persistence is a function of secrecy, mobility, dispersal across remote wilderness and ruined holds, the cell structure that makes them impossible to catch all at once, and (across the long term) the cache-revival cycle.
 
@@ -384,13 +384,13 @@ Reports of Flesh-Eater activity are escalated through clans to the Council of Ni
 - **Specific named cells, named members, named lairs.** None named yet.
 - **Cross-clan composition.** Whether the cult draws from all nine [[dragons#The Nine Color Clans|color clans]] or is concentrated in particular clans (Reds and Blacks would be the structurally obvious candidates, but canon is silent).
 - **Whether the cult ever reproduces internally.** Canon as of 2026-05-03 says the cult does not reproduce internally in any documented form; whether this is doctrinal choice or practical consequence is undocumented.
-- **Roughly how many eggs the cult must steal per generation** to maintain steady-state ~100 â€” an estimate that would tell the Council how many nest-raids must be successfully interdicted to starve the pipeline.
+- **Roughly how many eggs the cult must steal per generation** to maintain steady-state ~100 — an estimate that would tell the Council how many nest-raids must be successfully interdicted to starve the pipeline.
 - **The number of preceding revivals.** The cult's own internal records (preserved across cycles via the cache system) presumably include a count, but the count is not known outside the cult.
-- **The technology behind the psychic resonance crystals.** Whether they are draconic-magitek, an inheritance from earlier traditions, or something else â€” and whether the imprinting process requires the testator's death.
+- **The technology behind the psychic resonance crystals.** Whether they are draconic-magitek, an inheritance from earlier traditions, or something else — and whether the imprinting process requires the testator's death.
 - **Whether a finder who reads a cache and is *not* taken** by the philosophy can leave with the crystal intact, destroy it, or report its location to the Council. Canon is silent.
 - **Whether the cult interacts with any non-draconic factions.** Whether the [[black-hand|Black Hand]], surface kingdoms with reasons to want particular small-race populations terrorized, or any other group has ever quietly subsidized them.
 - **Reformation of stolen hatchlings.** Whether a fully-indoctrinated Flesh-Eater can ever be returned to mainstream draconic culture is undocumented; the new canon's framing of *complete ideological control* suggests not.
-- **Unicorn counter-Flesh-Eater protocols.** Whether mainstream [[unicorns|unicorn]] herds have organized response patterns â€” dedicated [[unicorns#Herd Structure|Border-Friend]] units or otherwise â€” is undocumented.
+- **Unicorn counter-Flesh-Eater protocols.** Whether mainstream [[unicorns|unicorn]] herds have organized response patterns — dedicated [[unicorns#Herd Structure|Border-Friend]] units or otherwise — is undocumented.
 
 <details>
 <summary>Related pages</summary>

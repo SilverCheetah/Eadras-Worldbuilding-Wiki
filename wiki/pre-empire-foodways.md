@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Pre-Empire Foodways
 
-**Summary**: The distinct food cultures of the three progenitor humanoid races â€” [[elfen|Elfen]], [[velrathi|Velrathi]], and [[tarans|Taran]] â€” during the long cooperative age before the [[firethorn-empire|Firethorn Empire]] homogenized the continent.
+**Summary**: The distinct food cultures of the three progenitor humanoid races — [[elfen|Elfen]], [[velrathi|Velrathi]], and [[tarans|Taran]] — during the long cooperative age before the [[firethorn-empire|Firethorn Empire]] homogenized the continent.
 
 **Sources**: Pre-empire foodways.txt
 
@@ -23,25 +23,25 @@ The three progenitor races shared a stable civilization for over twenty thousand
 
 ---
 
-## Elfen â€” Plant-Based and Communal
+## Elfen — Plant-Based and Communal
 
 The [[elfen|Elfen]] eat **no meat whatsoever**. Their cuisine is entirely plant-based and extraordinarily diverse thanks to their powerful nature magic (source: Pre-empire foodways.txt).
 
-Using their [[eldritch|Eldritch]]-fed song-magic, the Elfen can grow plants with virtually any flavor profile they desire. They have a deep love for spices, herbs, and complex layered tastes â€” particularly **stews, soups, and elaborate salads**.
+Using their [[eldritch|Eldritch]]-fed song-magic, the Elfen can grow plants with virtually any flavor profile they desire. They have a deep love for spices, herbs, and complex layered tastes — particularly **stews, soups, and elaborate salads**.
 
 ### Eating as Politics
 
 Elfen meals function as **communal workshops**. While eating together, they openly discuss problems, air grievances, settle disputes, share news, and make group decisions. Eating is therefore both nourishment and a social/political act (source: Pre-empire foodways.txt).
 
-This dovetails with the [[elfen|Circles of Wardens]] form of government â€” much group decision-making happens around the table, not in formal council.
+This dovetails with the [[elfen|Circles of Wardens]] form of government — much group decision-making happens around the table, not in formal council.
 
 ### Waypetals
 
-For scouts, rangers, and long journeys, the Elfen carry **Waypetals** â€” small, compact, nutrient-dense wafers made from compressed fruits, nuts, seeds, and herbs. One wafer provides complete daily nutrition while still delivering rich, pleasant flavor (source: Pre-empire foodways.txt).
+For scouts, rangers, and long journeys, the Elfen carry **Waypetals** — small, compact, nutrient-dense wafers made from compressed fruits, nuts, seeds, and herbs. One wafer provides complete daily nutrition while still delivering rich, pleasant flavor (source: Pre-empire foodways.txt).
 
 ---
 
-## Velrathi â€” Fuel for the Mind
+## Velrathi — Fuel for the Mind
 
 Most [[velrathi|Velrathi]] view food primarily as **fuel for the mind and body**. They eat quickly, often while still working or studying, and show little interest in flavor or variety (source: Pre-empire foodways.txt).
 
@@ -52,19 +52,19 @@ The regular Velrathi diet consists of preserved foods:
 - **Fermented broths**
 - **Jars of concentrated fungal stews**
 
-A common staple is **bone-meal bread** â€” a dense, dark, earthy loaf made from ground bone meal, subterranean fungi, and hardy grains. They usually tear off chunks and dip them into strong fermented liquids or thin broths (source: Pre-empire foodways.txt).
+A common staple is **bone-meal bread** — a dense, dark, earthy loaf made from ground bone meal, subterranean fungi, and hardy grains. They usually tear off chunks and dip them into strong fermented liquids or thin broths (source: Pre-empire foodways.txt).
 
-The use of bone meal aligns with the Velrathi's matter-of-fact attitude toward [[necromancy-and-undeath|necromancy]] and bodily materials â€” there is no taboo against using bone for nutrition.
+The use of bone meal aligns with the Velrathi's matter-of-fact attitude toward [[necromancy-and-undeath|necromancy]] and bodily materials — there is no taboo against using bone for nutrition.
 
 ### The Arcane Cuisine Subgroup
 
-A small but dedicated group of Velrathi treat **cooking as arcane research**. These experimental mages take ingredients normally used for potions â€” mana-infused organs from magical monsters and heavily magically-charged plants â€” and deliberately use them as food (source: Pre-empire foodways.txt).
+A small but dedicated group of Velrathi treat **cooking as arcane research**. These experimental mages take ingredients normally used for potions — mana-infused organs from magical monsters and heavily magically-charged plants — and deliberately use them as food (source: Pre-empire foodways.txt).
 
 Their goal: meals that function like potions, granting magical effects, enhanced cognition, or temporary arcane abilities through eating. **These experiments can be unpredictable or even dangerous.**
 
 ---
 
-## Taran â€” Discipline and the Feast Exception
+## Taran — Discipline and the Feast Exception
 
 Pre-Empire [[tarans|Taran]] were highly disciplined and viewed food primarily as **fuel to support their martial duties**.
 
@@ -72,7 +72,7 @@ Daily meals were simple, hearty, and efficient: large amounts of **roasted or gr
 
 ### The Feast Exception
 
-Only during major celebrations â€” victories, oath ceremonies, etc. â€” did the Taran loosen their restraint. In these feasts they would enthusiastically borrow elaborate dishes, ingredients, and cooking styles from both the [[elfen|Elfen]] and [[velrathi|Velrathi]], enjoying the variety even while normally considering it **"foreign frippery"** (source: Pre-empire foodways.txt).
+Only during major celebrations — victories, oath ceremonies, etc. — did the Taran loosen their restraint. In these feasts they would enthusiastically borrow elaborate dishes, ingredients, and cooking styles from both the [[elfen|Elfen]] and [[velrathi|Velrathi]], enjoying the variety even while normally considering it **"foreign frippery"** (source: Pre-empire foodways.txt).
 
 This pattern is consistent with Taran cultural posture more broadly: rigid daily discipline punctuated by sanctioned ritual indulgence on the rare occasions deemed worthy.
 
@@ -80,9 +80,9 @@ This pattern is consistent with Taran cultural posture more broadly: rigid daily
 
 ## Cultural Cross-Influence
 
-The Taran feast tradition meant that all three cuisines were known across the continent â€” but only the Taran *acknowledged* borrowing. The Elfen and Velrathi are not recorded as adopting one another's culinary traditions during the pre-Empire age, despite extensive trade and political cooperation.
+The Taran feast tradition meant that all three cuisines were known across the continent — but only the Taran *acknowledged* borrowing. The Elfen and Velrathi are not recorded as adopting one another's culinary traditions during the pre-Empire age, despite extensive trade and political cooperation.
 
-The [[firethorn-empire|Firethorn Empire's]] later imposition of Taran martial culture across all three races likely homogenized food considerably â€” though the original distinct foodways persisted in regional and ceremonial form.
+The [[firethorn-empire|Firethorn Empire's]] later imposition of Taran martial culture across all three races likely homogenized food considerably — though the original distinct foodways persisted in regional and ceremonial form.
 
 <details>
 <summary>Related pages</summary>

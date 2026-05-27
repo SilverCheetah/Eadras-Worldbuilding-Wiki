@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # The Three Who Stood
 
-**Summary**: "The Three Who Stood" is the collective name for the [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] â€” three engineered servant-races created by the [[velrathi|Velrathi]], [[elfen|Elfen]], and [[tarans|Tarran]] respectively â€” who together held the line at the [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]] and went totally extinct as pure peoples in a single united last stand.
+**Summary**: "The Three Who Stood" is the collective name for the [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] — three engineered servant-races created by the [[velrathi|Velrathi]], [[elfen|Elfen]], and [[tarans|Tarran]] respectively — who together held the line at the [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]] and went totally extinct as pure peoples in a single united last stand.
 
 **Sources**: Grok WB Generation 4-29.txt
 
@@ -31,7 +31,7 @@ The [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]] was also c
 
 ## United in Death
 
-What makes the Three Who Stood unique in Eadras history is that **all three engineered servant-races went extinct simultaneously, in the same battle, for the same reason**. They were not lost across the long span of the [[demon-war|Demon War]] â€” they died together in three days at the Final Wall, knowing reinforcements would not arrive.
+What makes the Three Who Stood unique in Eadras history is that **all three engineered servant-races went extinct simultaneously, in the same battle, for the same reason**. They were not lost across the long span of the [[demon-war|Demon War]] — they died together in three days at the Final Wall, knowing reinforcements would not arrive.
 
 This shared extinction creates an unusual unity across modern descendant peoples:
 
@@ -43,21 +43,21 @@ All three modern peoples honor the same sacrifice from different angles.
 
 ## Each People's Role
 
-### The Orug â€” The Iron Core
+### The Orug — The Iron Core
 
 The [[orugi|Orug]] formed the **shield-walls**. Tall, broad, gray-skinned, engineered by the [[velrathi|Velrathi]] for guardianship and heavy labor. They absorbed the demonic charges with massed shields and unbreakable formations, **singing their service oaths even as ichor consumed them**.
 
 See [[orugi]] for full details on the Orug as a people.
 
-### The El'mer â€” The Living Song
+### The El'mer — The Living Song
 
-The [[el-mer|El'mer]] were the **proto-elves** â€” tall, graceful beings engineered by the [[elfen|Elfen]] to oversee natural balance. At the Final Wall they wove song-magic from shattered groves, raised temporary barriers of vitrified wood and thorn, and **healed the wounded with desperate beauty even as demons tore through**.
+The [[el-mer|El'mer]] were the **proto-elves** — tall, graceful beings engineered by the [[elfen|Elfen]] to oversee natural balance. At the Final Wall they wove song-magic from shattered groves, raised temporary barriers of vitrified wood and thorn, and **healed the wounded with desperate beauty even as demons tore through**.
 
 See [[el-mer]] for full details.
 
-### The Aetherin â€” The Striking Spear
+### The Aetherin — The Striking Spear
 
-The [[aetherins|Aetherin]] were **superior humans bred for war** â€” engineered by the [[tarans|Tarran]] (specifically by [[the-three|Melania]]'s direct involvement) as shock troops against chaos and demonic incursions. At the Final Wall they launched **ferocious counter-attacks into the demonic flanks**, buying minutes with their lives.
+The [[aetherins|Aetherin]] were **superior humans bred for war** — engineered by the [[tarans|Tarran]] (specifically by [[the-three|Melania]]'s direct involvement) as shock troops against chaos and demonic incursions. At the Final Wall they launched **ferocious counter-attacks into the demonic flanks**, buying minutes with their lives.
 
 See [[aetherins]] for full details.
 
@@ -67,7 +67,7 @@ Their final moments are remembered as a single, perfect movement: after their th
 
 > Then they charged together one last time.
 
-This image â€” three races moving as one final wave into the demonic horde â€” has become the defining icon of unified sacrifice in Eadras. The **Monument of the Threefold Oath** at the battle site depicts exactly this charge.
+This image — three races moving as one final wave into the demonic horde — has become the defining icon of unified sacrifice in Eadras. The **Monument of the Threefold Oath** at the battle site depicts exactly this charge.
 
 ## Cultural Bridge
 
@@ -93,9 +93,9 @@ The shared epitaph on the Tomb wall:
 
 The Three Who Stood are honored together rather than separately for three reasons:
 
-1. **They died together** â€” the same hours, the same battlefield, the same enemy
-2. **They were each made for purpose** â€” engineered races who fulfilled their design absolutely
-3. **They each came from a different progenitor line** â€” Velrathi, Elfen, Tarran â€” and so their united death is also the symbolic union of the three progenitor traditions in their final, irrevocable act
+1. **They died together** — the same hours, the same battlefield, the same enemy
+2. **They were each made for purpose** — engineered races who fulfilled their design absolutely
+3. **They each came from a different progenitor line** — Velrathi, Elfen, Tarran — and so their united death is also the symbolic union of the three progenitor traditions in their final, irrevocable act
 
 Modern philosophy treats them as proof that **created beings can transcend their making** by choosing how to die.
 

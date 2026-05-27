@@ -10,7 +10,7 @@ knowledge_access: [esoteric]
 
 # The Four Laws of Fae-da'Nar
 
-**Summary**: The behavioural thresholds binding the [[fae-da-nar|Fae-da'Nar]] hidden Woodkin society. Four laws, each a simple sentence, each addressing a survival threshold whose violation would endanger the entire compact. The Laws govern a society of incompatible instincts; their simplicity is not philosophical elegance but operational necessity â€” they must be remembered under stress by beings whose appetites, lifespans, and metaphysical natures vary too widely for a detailed code.
+**Summary**: The behavioural thresholds binding the [[fae-da-nar|Fae-da'Nar]] hidden Woodkin society. Four laws, each a simple sentence, each addressing a survival threshold whose violation would endanger the entire compact. The Laws govern a society of incompatible instincts; their simplicity is not philosophical elegance but operational necessity — they must be remembered under stress by beings whose appetites, lifespans, and metaphysical natures vary too widely for a detailed code.
 
 **Sources**: faedanar-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
 
@@ -18,7 +18,7 @@ knowledge_access: [esoteric]
 
 ---
 
-## I. The First Law â€” Never give humans reason to fear us
+## I. The First Law — Never give humans reason to fear us
 
 > ***"Never give humans reason to fear us."***
 
@@ -26,17 +26,17 @@ knowledge_access: [esoteric]
 
 **Core function**: protect the secrecy and stability of the hidden whole.
 
-The First Law is the **keystone**. Every other law presupposes it. It treats human fear as the primary environmental threat to Woodkin survival â€” not because humans are sacred above others, but because **human fear is strategically catastrophic**. Humans organise fear well. They build walls, militias, temples, guilds, witch-fires, bounty roads, and siege engines out of it. After the [[anti-magic-crusade|Anti-Magic Crusade]], fear of the strange became even easier to weaponise.
+The First Law is the **keystone**. Every other law presupposes it. It treats human fear as the primary environmental threat to Woodkin survival — not because humans are sacred above others, but because **human fear is strategically catastrophic**. Humans organise fear well. They build walls, militias, temples, guilds, witch-fires, bounty roads, and siege engines out of it. After the [[anti-magic-crusade|Anti-Magic Crusade]], fear of the strange became even easier to weaponise.
 
 > ***"The First Law does not say humans are harmless. It says human fear is fire, and Woodkin must not hand it oil."***
 
-The law protects both sides. Humans keep their cities. Woodkin keep the Frontier. Neither side is forced into extermination logic. The Frontier is not merely wilderness â€” it is **negotiated distance**.
+The law protects both sides. Humans keep their cities. Woodkin keep the Frontier. Neither side is forced into extermination logic. The Frontier is not merely wilderness — it is **negotiated distance**.
 
-The law also creates **cruelty inward**. A Woodkin who cannot control predatory instinct becomes a danger to the whole society. Some Woodkin are *born hungry in ways the law forbids*. The society must either teach, bind, exile, or kill â€” hidden peoples do not have the luxury of pretending appetite is philosophy.
+The law also creates **cruelty inward**. A Woodkin who cannot control predatory instinct becomes a danger to the whole society. Some Woodkin are *born hungry in ways the law forbids*. The society must either teach, bind, exile, or kill — hidden peoples do not have the luxury of pretending appetite is philosophy.
 
 The First Law is not pacifism. It is **concealment through restraint**.
 
-## II. The Second Law â€” Do not interfere in human society
+## II. The Second Law — Do not interfere in human society
 
 > ***"Do not interfere in human society."***
 
@@ -70,7 +70,7 @@ The Second Law also preserves **human sovereignty**, even though that is not its
 
 There is **loneliness** in the Second Law. A Woodkin may love a human town and still be forbidden from saving it too obviously. A Woodkin may love a particular human and be unable to guide them away from folly in the only ways that would work. The compact prices in this loneliness as part of the survival cost.
 
-## III. The Third Law â€” Oppose predatory Shunned races
+## III. The Third Law — Oppose predatory Shunned races
 
 > ***"Oppose predatory [[the-shunned|Shunned]] races when they threaten humans."***
 
@@ -86,13 +86,13 @@ The Third Law **activates when Shunned threaten humans**. Their predation endang
 
 The Third Law nevertheless **protects human victims**. Motive matters; so does breath. A Shunned attack stopped is a Shunned attack stopped, regardless of why the stopping happened.
 
-The Third Law requires patrols, informants, signs, warning networks. Some Shunned attacks must be stopped before they become a human story large enough to summon soldiers. That means **quiet violence**, often. Fey quiet violence is not always quiet â€” sometimes it is very loud, but nobody involved remembers how directions work afterward.
+The Third Law requires patrols, informants, signs, warning networks. Some Shunned attacks must be stopped before they become a human story large enough to summon soldiers. That means **quiet violence**, often. Fey quiet violence is not always quiet — sometimes it is very loud, but nobody involved remembers how directions work afterward.
 
 > ***"The Third Law does not make Fae-da'Nar protectors of humanity. It makes them protectors of the silence that lets humanity and Woodkin both endure."***
 
-The Third Law creates a hidden **policing function** â€” not police, but hunters, witnesses, debt-callers, boundary-keepers. Enforcement without state.
+The Third Law creates a hidden **policing function** — not police, but hunters, witnesses, debt-callers, boundary-keepers. Enforcement without state.
 
-## IV. The Fourth Law â€” Obey the Druids
+## IV. The Fourth Law — Obey the Druids
 
 > ***"Obey the Druids."***
 
@@ -114,15 +114,15 @@ The Druids enforce **thresholds**, not language. They decide:
 
 A Druid is **judge and healer** at once. A judge who cannot heal becomes a blade. A healer who cannot judge becomes prey. The Druids must hold both modes.
 
-Enforcement of the Fourth Law is paradoxical: it is enforced **by everyone**, because Druid-ground is one of the few structures that keeps Fey conflicts from becoming endless revenge. To violate it is not merely to insult a Druid â€” it is to **attack the possibility of settlement**.
+Enforcement of the Fourth Law is paradoxical: it is enforced **by everyone**, because Druid-ground is one of the few structures that keeps Fey conflicts from becoming endless revenge. To violate it is not merely to insult a Druid — it is to **attack the possibility of settlement**.
 
 > ***"The Fourth Law makes the Druid's ground the place where instinct must sit down and listen."***
 
-This is why Fae-da'Nar protected Druids fiercely during the [[anti-magic-crusade|Anti-Magic Crusade]] â€” see [[fae-da-nar#The Anti-Magic Crusade survival|Fae-da'Nar â€” Anti-Magic Crusade survival]].
+This is why Fae-da'Nar protected Druids fiercely during the [[anti-magic-crusade|Anti-Magic Crusade]] — see [[fae-da-nar#The Anti-Magic Crusade survival|Fae-da'Nar — Anti-Magic Crusade survival]].
 
 ## Punishment
 
-Detailed in [[fae-da-nar#Punishment structure|Fae-da'Nar â€” Punishment structure]]:
+Detailed in [[fae-da-nar#Punishment structure|Fae-da'Nar — Punishment structure]]:
 
 - First violation: warning
 - Second violation: death
@@ -143,11 +143,11 @@ These matters are handled by **local custom, species-specific tradition, fey-cou
 
 ## Open canon
 
-- The **original drafting** of the Four Laws â€” when, by whom, what crises preceded them
+- The **original drafting** of the Four Laws — when, by whom, what crises preceded them
 - Whether a fifth Law has been proposed in any era and rejected, and why
-- The relationship of the Four Laws to **draconic-era pre-Cataclysm Fae** â€” did the Laws exist then, or are they post-Cataclysm Frontier-emergence?
-- Specific **case law** examples â€” actual incidents that established interpretive precedent
-- **Edge cases** between Second Law (don't interfere) and Third Law (act against Shunned threats) â€” when does intervention against a Shunned-related crisis become Second-Law-violating interference?
+- The relationship of the Four Laws to **draconic-era pre-Cataclysm Fae** — did the Laws exist then, or are they post-Cataclysm Frontier-emergence?
+- Specific **case law** examples — actual incidents that established interpretive precedent
+- **Edge cases** between Second Law (don't interfere) and Third Law (act against Shunned threats) — when does intervention against a Shunned-related crisis become Second-Law-violating interference?
 
 <details>
 <summary>Related pages</summary>

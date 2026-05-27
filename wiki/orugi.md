@@ -16,7 +16,7 @@ axes_profile:
 
 # Orugi
 
-**Summary**: The Orug were one of three servant-scholar races engineered by the [[velrathi|Velrathi]] alongside the [[rathari|Rathar]] and [[grugi|Grug]] â€” strong, honorable, patient gray-skinned guardians and laborers who **went totally extinct** at the [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]] during the [[demon-war|Demon War]], holding the line until not one Orug remained.
+**Summary**: The Orug were one of three servant-scholar races engineered by the [[velrathi|Velrathi]] alongside the [[rathari|Rathar]] and [[grugi|Grug]] — strong, honorable, patient gray-skinned guardians and laborers who **went totally extinct** at the [[battle-of-the-broken-conclaves|Battle of the Broken Conclaves]] during the [[demon-war|Demon War]], holding the line until not one Orug remained.
 
 **Sources**: Grok WB Generation 4-29.txt, Peoples of Eadras.txt, Velrothi Servant Race Naming Conventions.txt
 
@@ -26,14 +26,14 @@ axes_profile:
 
 ## Origin
 
-The Orug were one of the three races crafted by the [[velrathi|Velrathi]] from refined Velrathi stock and carefully selected elemental essences. They were **not directly created by [[the-three|Rand]]** â€” they were Velrathi-engineered, like their sibling races [[rathari|Rathar]] and [[grugi|Grug]] (source: Grok WB Generation 4-29.txt).
+The Orug were one of the three races crafted by the [[velrathi|Velrathi]] from refined Velrathi stock and carefully selected elemental essences. They were **not directly created by [[the-three|Rand]]** — they were Velrathi-engineered, like their sibling races [[rathari|Rathar]] and [[grugi|Grug]] (source: Grok WB Generation 4-29.txt).
 
 The Velrathi engineered their three crafted races to support the smooth functioning of civilization:
-- **[[rathari|Rathar]]** â€” the pinnacle scholars and archivists
-- **Orug** â€” strong, honorable guardians and laborers
-- **[[grugi|Grug]]** â€” clever maintenance/inventors
+- **[[rathari|Rathar]]** — the pinnacle scholars and archivists
+- **Orug** — strong, honorable guardians and laborers
+- **[[grugi|Grug]]** — clever maintenance/inventors
 
-The Orug were optimized for **guardianship, heavy labor, and reliable enforcement of order**. They shared the Velrathi template â€” gray-skinned, red-eyed, long-lived, with minds tuned for precision and loyalty â€” but with broader, more muscular builds.
+The Orug were optimized for **guardianship, heavy labor, and reliable enforcement of order**. They shared the Velrathi template — gray-skinned, red-eyed, long-lived, with minds tuned for precision and loyalty — but with broader, more muscular builds.
 
 ## Pre-War Society
 
@@ -47,7 +47,7 @@ Hierarchy in the unified society was clear yet meritocratic. A brilliant Rathar 
 
 ### Daily Life
 
-Orug culture before the end was one of **quiet, unshakable duty**. They lived in disciplined companies attached to Velrathi and Rathar Conclaves. They ate simply, trained relentlessly, and spoke few words â€” their honor was shown through action.
+Orug culture before the end was one of **quiet, unshakable duty**. They lived in disciplined companies attached to Velrathi and Rathar Conclaves. They ate simply, trained relentlessly, and spoke few words — their honor was shown through action.
 
 Their meals were the same precise nutrient pastes, fungal stews, and bone-meal breads as their makers, **valued in simple, hearty portions that sustained long watches**.
 
@@ -60,30 +60,30 @@ Their meals were the same precise nutrient pastes, fungal stews, and bone-meal b
 
 ## Naming
 
-Orug names are **formal, honorable, martial, and dutiful** â€” built from heavy, reliable consonants (K, R, Th, G, V, B, D) and steady vowels (a, o, ar, or). Two or three syllables, often ending in strong stops (*-ak, -or, -ath, -ash*).
+Orug names are **formal, honorable, martial, and dutiful** — built from heavy, reliable consonants (K, R, Th, G, V, B, D) and steady vowels (a, o, ar, or). Two or three syllables, often ending in strong stops (*-ak, -or, -ath, -ash*).
 
 - **Male**: *Varak, Thragor, Korvash, Narok, Grendar, Borvath.*
 - **Female**: *Varaka, Thragara, Korvasha, Naroka, Grendra, Borvatha.*
 
-Like halflings and Mitans, Orug earned **cognomens** through honorable service â€” always given by others, never self-chosen. Common Orug cognomens: *Oathkeeper, Steadfast, Ironshield, Trueblade, Longwatch.*
+Like halflings and Mitans, Orug earned **cognomens** through honorable service — always given by others, never self-chosen. Common Orug cognomens: *Oathkeeper, Steadfast, Ironshield, Trueblade, Longwatch.*
 
-### Formal address â€” the "ser" particle
+### Formal address — the "ser" particle
 
 During the [[firethorn-empire|Firethorn Empire]] era, when the Velrathi House system emerged, Orug formal address followed the **servant pattern**:
 
 `[Given Name] ser [Velrathi House] [Own Clan]`
 
-The "ser" particle marked loyalty to a specific **Velrathi House** (not a Rathar House â€” the two systems are distinct; see [[velrathi#Houses|Velrathi Houses]] and [[rathari#The Ten Houses]]). Formal induction into the House (rare, the highest honor a servant could receive) elevated the Orug's address to *of House* â€” dropping the "ser" entirely. Examples:
+The "ser" particle marked loyalty to a specific **Velrathi House** (not a Rathar House — the two systems are distinct; see [[velrathi#Houses|Velrathi Houses]] and [[rathari#The Ten Houses]]). Formal induction into the House (rare, the highest honor a servant could receive) elevated the Orug's address to *of House* — dropping the "ser" entirely. Examples:
 
 - *Varak ser Velroth Stoneward*
 - *Thragara ser Narveth Oathbound*
 - *Korvash ser Korthal Ironshield*
 
-(Where a House name in these examples â€” Narveth, Korthal â€” happens to match a [[rathari#The Ten Houses|Rathar House]], it refers to the *Velrathi* House of that name. Velrathi House Korthal and Rathar House Korthal are distinct institutions.)
+(Where a House name in these examples — Narveth, Korthal — happens to match a [[rathari#The Ten Houses|Rathar House]], it refers to the *Velrathi* House of that name. Velrathi House Korthal and Rathar House Korthal are distinct institutions.)
 
-After the [[great-banishment|Great Banishment]] of 10,000 years ago, the Velrathi House structure as a living institution was broken; the surviving servant cultures slowly dropped the "ser" as the social order that gave it meaning fell away. Of course, the Orug as a people did not survive the Banishment â€” they were already extinct (see below) â€” so the dropping of "ser" applies to their descendant lines (modern [[orcs|Orcs]]).
+After the [[great-banishment|Great Banishment]] of 10,000 years ago, the Velrathi House structure as a living institution was broken; the surviving servant cultures slowly dropped the "ser" as the social order that gave it meaning fell away. Of course, the Orug as a people did not survive the Banishment — they were already extinct (see below) — so the dropping of "ser" applies to their descendant lines (modern [[orcs|Orcs]]).
 
-See [[naming-conventions#velrathi-servant-race-naming|Racial Naming Conventions â€” Velrathi Servant Race Naming]].
+See [[naming-conventions#velrathi-servant-race-naming|Racial Naming Conventions — Velrathi Servant Race Naming]].
 
 ## Total Extinction
 
@@ -100,9 +100,9 @@ Their stand at the **[[battle-of-the-broken-conclaves|Battle of the Broken Concl
 
 **Not one Orug survived.** They died to the last soul, **singing their oaths of service even as demonic ichor consumed them**.
 
-Their final cry â€” *"We were made to guard. We will guard until the end."* â€” is still recited by orcs, [[katharim|Katharim]], and [[beast-folk|beast-folk]] alike as one of the most sacred martial laments in Eadras.
+Their final cry — *"We were made to guard. We will guard until the end."* — is still recited by orcs, [[katharim|Katharim]], and [[beast-folk|beast-folk]] alike as one of the most sacred martial laments in Eadras.
 
-The Orug stood alongside the [[el-mer|El'mer]] and [[aetherins|Aetherin]] â€” together, the **[[three-who-stood|Three Who Stood]]**.
+The Orug stood alongside the [[el-mer|El'mer]] and [[aetherins|Aetherin]] — together, the **[[three-who-stood|Three Who Stood]]**.
 
 ## The Orog Legacy
 
@@ -116,15 +116,15 @@ Some orc clans maintain that **every true orc carries at least one drop of Orug 
 
 ## The Tomb of the Last Guardians
 
-The site of the [[battle-of-the-broken-conclaves|Final Wall]] is now a sacred scar within the [[demonfall-marches|Demonfall Marches]] â€” a vast field of fused black glass and shattered stone where no grass grows.
+The site of the [[battle-of-the-broken-conclaves|Final Wall]] is now a sacred scar within the [[demonfall-marches|Demonfall Marches]] — a vast field of fused black glass and shattered stone where no grass grows.
 
-[[katharim|Katharim]] maintain a memorial crypt at its edge â€” the **[[tomb-of-the-last-guardians|Tomb of the Last Guardians]]** â€” a simple, massive barrow containing **no bodies** (there were none left to bury) but filled with thousands of empty gray armor stands, each engraved with an Orug name and the words **"We Guard Still."**
+[[katharim|Katharim]] maintain a memorial crypt at its edge — the **[[tomb-of-the-last-guardians|Tomb of the Last Guardians]]** — a simple, massive barrow containing **no bodies** (there were none left to bury) but filled with thousands of empty gray armor stands, each engraved with an Orug name and the words **"We Guard Still."**
 
 Pilgrims leave offerings of broken weapons and oaths of protection.
 
 ## The Night of the Gray Wall
 
-Modern orcs celebrate the **Night of the Gray Wall** every year: great bonfires, ritual combat displays, and the collective recitation of the Final Oath. Those who distinguish themselves are marked with **gray ash across the shoulders** â€” a symbolic echo of Orug skin.
+Modern orcs celebrate the **Night of the Gray Wall** every year: great bonfires, ritual combat displays, and the collective recitation of the Final Oath. Those who distinguish themselves are marked with **gray ash across the shoulders** — a symbolic echo of Orug skin.
 
 ## Metaphysical Legacy
 
@@ -132,23 +132,23 @@ The Orug's **total sacrifice had metaphysical weight**. Their unified, honorable
 
 ## Summary
 
-> The Orug fulfilled their purpose to the absolute end. They were made to guard â€” and they guarded until nothing remained to guard with but memory. In their extinction they became immortal in story, blood, and oath.
+> The Orug fulfilled their purpose to the absolute end. They were made to guard — and they guarded until nothing remained to guard with but memory. In their extinction they became immortal in story, blood, and oath.
 
 > Eadras is safer for their sacrifice, and poorer for their absence.
 
 <details class="axes-block">
 <summary>Axes of Creation profile</summary>
 
-**Masculine â†” Feminine**
+**Masculine ↔ Feminine**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.masculine_feminine]`
 
-**Altruism â†” Self-Interest**
+**Altruism ↔ Self-Interest**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.altruism_self_interest]`
 
-**Obedient â†” Independent**
+**Obedient ↔ Independent**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.obedient_independent]`
 
-**Wisdom â†” Foolishness**
+**Wisdom ↔ Foolishness**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.wisdom_foolishness]`
 
 </details>

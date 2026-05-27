@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Kobolds
 
-**Summary**: One of the three "Lizard People" subtypes within the broader [[dragonfolk|dragonfolk]] family â€” small, scaled humanoids created by [[dragons|dragons]] in response to the appearance of the humanoid races. Kobolds, [[dragonborn|dragonborn]], and [[lizardfolk|lizardfolk]] are siblings of draconic origin.
+**Summary**: One of the three "Lizard People" subtypes within the broader [[dragonfolk|dragonfolk]] family — small, scaled humanoids created by [[dragons|dragons]] in response to the appearance of the humanoid races. Kobolds, [[dragonborn|dragonborn]], and [[lizardfolk|lizardfolk]] are siblings of draconic origin.
 
 **Sources**: Dragons.txt, Peoples of Eadras.txt
 
@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Origin
 
-Kobolds are part of the **Lizard People** branch of [[dragonfolk|dragonfolk]] â€” one of three reptilian humanoid subtypes created by [[dragons|dragons]] in response to the proliferation of humanoid races (source: Dragons.txt, line 53; Peoples of Eadras.txt). Unlike the descendant races created by Tarran, Velrathi, or Elfen progenitors, kobolds were not engineered as servants for a specific purpose â€” they are draconic creations meant to populate the world alongside the humanoid races already present.
+Kobolds are part of the **Lizard People** branch of [[dragonfolk|dragonfolk]] — one of three reptilian humanoid subtypes created by [[dragons|dragons]] in response to the proliferation of humanoid races (source: Dragons.txt, line 53; Peoples of Eadras.txt). Unlike the descendant races created by Tarran, Velrathi, or Elfen progenitors, kobolds were not engineered as servants for a specific purpose — they are draconic creations meant to populate the world alongside the humanoid races already present.
 
 Their parent stock is **dragonkind**, not any of [[the-three|the Three]]'s progenitor races.
 
@@ -27,11 +27,11 @@ Their parent stock is **dragonkind**, not any of [[the-three|the Three]]'s proge
 
 The Lizard People family includes three subtypes, all created in the same draconic creative impulse:
 
-- **Kobolds** â€” the smallest of the three.
-- **[[dragonborn|Dragonborn]]** â€” the largest and most recognizably draconic.
-- **[[lizardfolk|Lizardfolk]]** â€” middle-sized, more reptilian in temperament.
+- **Kobolds** — the smallest of the three.
+- **[[dragonborn|Dragonborn]]** — the largest and most recognizably draconic.
+- **[[lizardfolk|Lizardfolk]]** — middle-sized, more reptilian in temperament.
 
-Together with the **[[snakefolk|snakefolk]]** (Snake People) and "Anthropomorphic Reptiles except Snakes," they form the playable [[dragonfolk|dragonfolk]] category in the modern era â€” though snakefolk are explicitly NPCs, not playable (source: Peoples of Eadras.txt).
+Together with the **[[snakefolk|snakefolk]]** (Snake People) and "Anthropomorphic Reptiles except Snakes," they form the playable [[dragonfolk|dragonfolk]] category in the modern era — though snakefolk are explicitly NPCs, not playable (source: Peoples of Eadras.txt).
 
 ## Anatomy and Society
 
@@ -39,7 +39,7 @@ Detailed kobold anatomy and culture are not yet documented in canon. They are li
 
 ## Relations to Dragons
 
-As draconic creations, kobolds occupy an unusual position in Eadras: they are kin to the [[dragons|nine color clans]], whose population is rigidly capped at 999,999 by the [[runeswords|Treaty of Ratharil]]. Kobolds are emphatically **not** counted in that cap â€” but they share the symbolic weight of draconic creation, and certain dragon clans take a quiet interest in their distant kin.
+As draconic creations, kobolds occupy an unusual position in Eadras: they are kin to the [[dragons|nine color clans]], whose population is rigidly capped at 999,999 by the [[runeswords|Treaty of Ratharil]]. Kobolds are emphatically **not** counted in that cap — but they share the symbolic weight of draconic creation, and certain dragon clans take a quiet interest in their distant kin.
 
 <details>
 <summary>Related pages</summary>

@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Vos
 
-**Summary**: Vos is the Elder God of cities, wisdom, order, law, justice, wealth, commerce, and technology â€” the methodical and aloof architect of civilization, close ally of [[raja|Raja]] and [[nara|Nara]] and a frequent foil to [[qoxli|Qoxli]] and [[sylph|Sylph]].
+**Summary**: Vos is the Elder God of cities, wisdom, order, law, justice, wealth, commerce, and technology — the methodical and aloof architect of civilization, close ally of [[raja|Raja]] and [[nara|Nara]] and a frequent foil to [[qoxli|Qoxli]] and [[sylph|Sylph]].
 
 **Sources**: More Info on the Elder Gods.txt, Creation Myth.txt, Gods of Eadras.txt
 

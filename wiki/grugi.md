@@ -16,7 +16,7 @@ axes_profile:
 
 # Grugi
 
-**Summary**: The Grug were one of three servant-scholar races engineered by the [[velrathi|Velrathi]] alongside the [[rathari|Rathar]] and the extinct [[orugi|Orug]] â€” small, clever, mechanically adept gray-skinned maintainers and inventors whose surviving descendants diverged into modern **goblins and gnomes** after the [[demon-war|Demon War]].
+**Summary**: The Grug were one of three servant-scholar races engineered by the [[velrathi|Velrathi]] alongside the [[rathari|Rathar]] and the extinct [[orugi|Orug]] — small, clever, mechanically adept gray-skinned maintainers and inventors whose surviving descendants diverged into modern **goblins and gnomes** after the [[demon-war|Demon War]].
 
 **Sources**: Grok WB Generation 4-29.txt, Peoples of Eadras.txt, Velrothi Servant Race Naming Conventions.txt, Extra large grok chat 5-9-2026.txt
 
@@ -26,14 +26,14 @@ axes_profile:
 
 ## Origin
 
-The Grug were one of the three races crafted by the [[velrathi|Velrathi]] from refined Velrathi stock and carefully selected elemental essences. They were **not directly created by [[the-three|Rand]]** â€” they were Velrathi-engineered, like their sibling races [[rathari|Rathar]] and [[orugi|Orug]] (source: Grok WB Generation 4-29.txt).
+The Grug were one of the three races crafted by the [[velrathi|Velrathi]] from refined Velrathi stock and carefully selected elemental essences. They were **not directly created by [[the-three|Rand]]** — they were Velrathi-engineered, like their sibling races [[rathari|Rathar]] and [[orugi|Orug]] (source: Grok WB Generation 4-29.txt).
 
 The Velrathi engineered the Grug for **maintenance, scavenging, invention, and the thousand small tasks that keep great works running**.
 
 ## Physical Form
 
 The Grug shared the Velrathi template but with deliberate variations:
-- **Smaller stature** than Rathar or Orug â€” designed for nimble work in tight spaces
+- **Smaller stature** than Rathar or Orug — designed for nimble work in tight spaces
 - **Nimble fingers**
 - **Tool-belts and multi-pocketed work robes** covered in clever gadgets
 - The same gray skin and red eyes as the Velrathi line
@@ -42,9 +42,9 @@ The Grug shared the Velrathi template but with deliberate variations:
 
 In the unified Velrathi-Rathar-Orug-Grug civilization, **Grug work-teams** maintained the vast underground cities, tuned laboratory apparatus, scavenged rare reagents, and **invented the countless small mechanisms that made high magic practical** (source: Grok WB Generation 4-29.txt).
 
-Because labor was the Grug's literal purpose for existing, they developed a culture of **deep cultural respect for physical work** â€” even high-ranking Grug were expected to keep their hands on tools regularly, not as ceremony but as ordinary continuing work. A Grug authority figure who never picked up a tool was suspect; effort was respected over status; idle command was considered a corruption of proper Grug governance. This is the middle expression of the [[philosophy-of-contribution|Velrathi â†’ Grug â†’ Goblin philosophy of contribution]] â€” between the Velrathi's intellectual-or-skilled-contribution baseline and the Goblins' radically egalitarian work-gang rotation. See [[philosophy-of-contribution]].
+Because labor was the Grug's literal purpose for existing, they developed a culture of **deep cultural respect for physical work** — even high-ranking Grug were expected to keep their hands on tools regularly, not as ceremony but as ordinary continuing work. A Grug authority figure who never picked up a tool was suspect; effort was respected over status; idle command was considered a corruption of proper Grug governance. This is the middle expression of the [[philosophy-of-contribution|Velrathi → Grug → Goblin philosophy of contribution]] — between the Velrathi's intellectual-or-skilled-contribution baseline and the Goblins' radically egalitarian work-gang rotation. See [[philosophy-of-contribution]].
 
-The same brewing tradition that produced what later became [[goblin-ancestor-liquor|Goblin Ancestor Liquor]] originated in the Grug's deep working tunnels â€” a harsh, brimstone-and-tar high-proof spirit they made underground, in the same spaces where they maintained the magitek. The Goblins inherited the recipe and the inherited taste-preference. (See [[goblin-ancestor-liquor]] for the full descent.)
+The same brewing tradition that produced what later became [[goblin-ancestor-liquor|Goblin Ancestor Liquor]] originated in the Grug's deep working tunnels — a harsh, brimstone-and-tar high-proof spirit they made underground, in the same spaces where they maintained the magitek. The Goblins inherited the recipe and the inherited taste-preference. (See [[goblin-ancestor-liquor]] for the full descent.)
 
 In the daily **Unified Recitation** (the great cross-race assembly), [[rathari|Rathar]] reported discoveries, [[orugi|Orug]] reported on the state of the realm, and Grug **demonstrated new mechanisms**. **Grug foremen held absolute authority over workshops and maintenance tunnels.**
 
@@ -52,7 +52,7 @@ Hierarchy was clear yet meritocratic. Intermarriage between the four groups (Vel
 
 ### Daily Life
 
-Grug ate the same precise meals as their creators (fungal stews, nutrient pastes, bone-meal breads), but **often experimented with minor improvements to flavor or preservation** â€” the inventive instinct expressing itself even in the kitchen.
+Grug ate the same precise meals as their creators (fungal stews, nutrient pastes, bone-meal breads), but **often experimented with minor improvements to flavor or preservation** — the inventive instinct expressing itself even in the kitchen.
 
 ### Architecture Contributions
 
@@ -65,32 +65,32 @@ The result was perfection: vast halls of black stone and glowing crystal, **self
 
 ## Naming
 
-Grug names are **clever, sharp, inventive, and slightly chaotic** â€” quick, technical, and mechanical-sounding with sharp edges. Sharp consonants (Gr, Kr, X, Z, Tik, Rik, Phr, Grix); short, bright vowels. Short, punchy syllables, often including *-ix, -zar, -rik, -tik.*
+Grug names are **clever, sharp, inventive, and slightly chaotic** — quick, technical, and mechanical-sounding with sharp edges. Sharp consonants (Gr, Kr, X, Z, Tik, Rik, Phr, Grix); short, bright vowels. Short, punchy syllables, often including *-ix, -zar, -rik, -tik.*
 
 - **Male**: *Grix, Vexor, Narkim, Tikzar, Rixul, Phrikon.*
 - **Female**: *Grixa, Vexara, Narkima, Tikzara, Rixula, Phrikara.*
 
-Like the [[orugi|Orug]], Grug earned **cognomens** through invention or skill â€” always given by others. Common Grug cognomens: *Sparkfinger, Gearwhisper, Lockbreaker, Overclocker, Quickfix.*
+Like the [[orugi|Orug]], Grug earned **cognomens** through invention or skill — always given by others. Common Grug cognomens: *Sparkfinger, Gearwhisper, Lockbreaker, Overclocker, Quickfix.*
 
-### Formal address â€” the "ser" particle
+### Formal address — the "ser" particle
 
 During the [[firethorn-empire|Firethorn Empire]] era, when the Velrathi House system emerged, Grug formal address followed the **servant pattern**:
 
 `[Given Name] ser [Velrathi House] [Own Workshop]`
 
-The "ser" particle marked loyalty to a specific **Velrathi House** (not a Rathar House â€” the two systems are distinct; see [[velrathi#Houses|Velrathi Houses]] and [[rathari#The Ten Houses]]). Examples:
+The "ser" particle marked loyalty to a specific **Velrathi House** (not a Rathar House — the two systems are distinct; see [[velrathi#Houses|Velrathi Houses]] and [[rathari#The Ten Houses]]). Examples:
 
 - *Grix ser Korthal Sparkworks*
 - *Vexara ser Valtharion Gearvault*
 - *Tikzar ser Kathor Deepcoil*
 
-(Where a House name in these examples â€” Korthal, Valtharion â€” happens to match a [[rathari#The Ten Houses|Rathar House]], it refers to the *Velrathi* House of that name. Velrathi House Korthal and Rathar House Korthal are distinct institutions.)
+(Where a House name in these examples — Korthal, Valtharion — happens to match a [[rathari#The Ten Houses|Rathar House]], it refers to the *Velrathi* House of that name. Velrathi House Korthal and Rathar House Korthal are distinct institutions.)
 
-Formal induction into the House (rare, the highest honor a servant could receive) elevated the Grug's address to *of House* â€” dropping "ser" entirely.
+Formal induction into the House (rare, the highest honor a servant could receive) elevated the Grug's address to *of House* — dropping "ser" entirely.
 
 After the [[great-banishment|Great Banishment]] of 10,000 years ago, the surviving Grug cultures slowly dropped the "ser" as the social order that gave it meaning fell away. Modern descendants ([[gnomes|Gnomes]] and [[goblins|Goblins]]) typically don't carry the "ser" construction, though echoes may survive in formal or ceremonial contexts.
 
-See [[naming-conventions#velrathi-servant-race-naming|Racial Naming Conventions â€” Velrathi Servant Race Naming]].
+See [[naming-conventions#velrathi-servant-race-naming|Racial Naming Conventions — Velrathi Servant Race Naming]].
 
 ## The Demon War and Diaspora
 
@@ -104,30 +104,30 @@ The survivors split:
 
 The Grug's mechanical aptitude **seeded gnomish magitek brilliance**. Their clever, scavenging, inventive spark survives in:
 
-- **Gnomes** â€” natural devolution; inventive, practical, magitek-adept
-- **Goblins** â€” natural devolution; scavengers, adaptors
+- **Gnomes** — natural devolution; inventive, practical, magitek-adept
+- **Goblins** — natural devolution; scavengers, adaptors
 
-Both peoples carry the same Grug instincts in different cultural keys. The fundamental Grug pattern â€” **nimble fingers + clever solutions + delight in small machines** â€” appears in both descendant lines.
+Both peoples carry the same Grug instincts in different cultural keys. The fundamental Grug pattern — **nimble fingers + clever solutions + delight in small machines** — appears in both descendant lines.
 
 ## Legacy
 
 The Velrathi's engineering left lasting marks. The Grug's mechanical aptitude underpins gnomish ingenuity. Their **inventive spark** continues to serve civilization in ways the original makers would recognize even after ten thousand years of divergence.
 
-Some [[katharim|Katharim]] archivists maintain detailed pre-war Grug workshop records as part of the Eternal Archives â€” a tribute to a people who built so much of the world the modern races inherited.
+Some [[katharim|Katharim]] archivists maintain detailed pre-war Grug workshop records as part of the Eternal Archives — a tribute to a people who built so much of the world the modern races inherited.
 
 <details class="axes-block">
 <summary>Axes of Creation profile</summary>
 
-**Masculine â†” Feminine**
+**Masculine ↔ Feminine**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.masculine_feminine]`
 
-**Altruism â†” Self-Interest**
+**Altruism ↔ Self-Interest**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.altruism_self_interest]`
 
-**Obedient â†” Independent**
+**Obedient ↔ Independent**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.obedient_independent]`
 
-**Wisdom â†” Foolishness**
+**Wisdom ↔ Foolishness**
 `INPUT[sliderAdvanced(minValue(-1), maxValue(1), stepSize(0.05), addLabels):axes_profile.wisdom_foolishness]`
 
 </details>

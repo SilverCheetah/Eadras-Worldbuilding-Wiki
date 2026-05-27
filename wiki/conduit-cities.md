@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Conduit Cities
 
-**Summary**: Conduit Cities are the urban centers that grew around the fourteen emergence points of the seven world-piercing Weave conduits â€” centers of magical wealth, learning, political power, and danger, each anchored by a massive Conduit Tower.
+**Summary**: Conduit Cities are the urban centers that grew around the fourteen emergence points of the seven world-piercing Weave conduits — centers of magical wealth, learning, political power, and danger, each anchored by a massive Conduit Tower.
 
 **Sources**: Playground generation 3rd part.txt; cross-references via More corrections.txt and Compiled Lore - Velrathi and Their Descendant Races.txt
 
@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Overview
 
-The seven [[magic-in-eadras|Weave conduits]] pierce Eadras like world-poles. Each conduit has two ends, producing fourteen emergence points â€” called **conduit termini**. At most of these points, the local magical pressure is so intense, so reliable, and so useful that civilization gathers around it almost inevitably (source: Playground generation 3rd part.txt).
+The seven [[magic-in-eadras|Weave conduits]] pierce Eadras like world-poles. Each conduit has two ends, producing fourteen emergence points — called **conduit termini**. At most of these points, the local magical pressure is so intense, so reliable, and so useful that civilization gathers around it almost inevitably (source: Playground generation 3rd part.txt).
 
 Where conduits emerge, cities grow. These are **Conduit Cities**.
 
@@ -29,7 +29,7 @@ An old saying: *"Where the world-poles pierce the skin of Eadras, mortals built 
 
 ## The Conduit Tower
 
-At each major conduit terminus stands â€” or once stood â€” a **Conduit Tower**. This is not merely a building; it is a stabilizing, measuring, and regulating structure constructed around the point where a conduit emerges into the surface world (source: Playground generation 3rd part.txt).
+At each major conduit terminus stands — or once stood — a **Conduit Tower**. This is not merely a building; it is a stabilizing, measuring, and regulating structure constructed around the point where a conduit emerges into the surface world (source: Playground generation 3rd part.txt).
 
 ### Functions
 - Regulating magical pressure at the conduit end
@@ -64,12 +64,12 @@ The deepest level of a Conduit Tower may be called the **Spindle Chamber**, **Ro
 
 Conduit Cities typically arrange themselves in rings around the tower:
 
-1. **Inner Spire / Tower Core** â€” restricted, conduit access, Poleheart; Windspeaker's domain
-2. **First Ring** â€” Lirran Arcanums, spell academies, high guilds
-3. **Second Ring** â€” artificers, alchemists, magic-item markets
-4. **Third Ring** â€” civic administration, wealthy districts, student quarters
-5. **Outer Rings** â€” common neighborhoods, warehouses, caravan gates, refugee quarters
-6. **Wardlands** â€” farms, reservoirs, magical cooling fields, defensive perimeter
+1. **Inner Spire / Tower Core** — restricted, conduit access, Poleheart; Windspeaker's domain
+2. **First Ring** — Lirran Arcanums, spell academies, high guilds
+3. **Second Ring** — artificers, alchemists, magic-item markets
+4. **Third Ring** — civic administration, wealthy districts, student quarters
+5. **Outer Rings** — common neighborhoods, warehouses, caravan gates, refugee quarters
+6. **Wardlands** — farms, reservoirs, magical cooling fields, defensive perimeter
 
 ---
 
@@ -77,14 +77,14 @@ Conduit Cities typically arrange themselves in rings around the tower:
 
 A typical Conduit City contains:
 
-- **Lirran Arcanum** â€” a major institution devoted to magical stewardship, Weave theory, spell discipline, conduit maintenance, and arcane ethics (not a temple)
-- **Guild of Spellwrights** â€” regulates practical spell design, public wards, civic enchantments, and magical construction
-- **Artificer Houses** â€” build magitek, spell engines, ward keys, conduit gauges, and enchanted tools
-- **Alchemical Courts** â€” where magical salts, star-pumice, abyssal glass, and rare substances are processed
-- **Netharim Registry or Sanctuary** â€” depending on local politics, Netharim may be protected, monitored, exploited, or hidden
-- **Conduit Custodians** â€” magic users trained to maintain the tower and monitor flow
-- **High-Circle Licensing Halls** â€” regulate who may attempt spells above the Fifth Circle (degraded after the Breaking)
-- **Wardwright Collegia** â€” city shields, anti-demon wards, anti-Black-Hand screening, magical fire control
+- **Lirran Arcanum** — a major institution devoted to magical stewardship, Weave theory, spell discipline, conduit maintenance, and arcane ethics (not a temple)
+- **Guild of Spellwrights** — regulates practical spell design, public wards, civic enchantments, and magical construction
+- **Artificer Houses** — build magitek, spell engines, ward keys, conduit gauges, and enchanted tools
+- **Alchemical Courts** — where magical salts, star-pumice, abyssal glass, and rare substances are processed
+- **Netharim Registry or Sanctuary** — depending on local politics, Netharim may be protected, monitored, exploited, or hidden
+- **Conduit Custodians** — magic users trained to maintain the tower and monitor flow
+- **High-Circle Licensing Halls** — regulate who may attempt spells above the Fifth Circle (degraded after the Breaking)
+- **Wardwright Collegia** — city shields, anti-demon wards, anti-Black-Hand screening, magical fire control
 
 (source: Playground generation 3rd part.txt)
 
@@ -97,12 +97,12 @@ A conduit terminus produces magical abundance, enabling industries impossible el
 Common folk living in conduit cities have lives shaped by magical weather, tower bells, ward taxes, spell licenses, apprentice festivals, and periodic evacuation drills.
 
 ### Common Phrases
-- *"Born under the Tower"* â€” native of a conduit city
-- *"Tower-touched"* â€” magically sensitive or socially strange
-- *"Don't spit into the pole"* â€” don't insult the system that sustains you
-- *"The Tower hummed last night"* â€” something magical is wrong
-- *"Third-ring mage"* â€” mid-status practitioner
-- *"Conduit weather"* â€” unpredictable magical conditions near the tower
+- *"Born under the Tower"* — native of a conduit city
+- *"Tower-touched"* — magically sensitive or socially strange
+- *"Don't spit into the pole"* — don't insult the system that sustains you
+- *"The Tower hummed last night"* — something magical is wrong
+- *"Third-ring mage"* — mid-status practitioner
+- *"Conduit weather"* — unpredictable magical conditions near the tower
 
 A civic oath: *"By tower, thread, and turning world, I will not break what holds us."* (source: Playground generation 3rd part.txt)
 
@@ -110,9 +110,9 @@ A civic oath: *"By tower, thread, and turning world, I will not break what holds
 
 ## The Age of the Spires (Pre-Crusade)
 
-Before the [[anti-magic-crusade|Anti-Magic Crusade]], Conduit Towers were **ruled by [[windspeakers|Windspeakers]]** â€” called Spirelords or Spirelady by common people. This era is known as the **High Weave Age** or **Age of the Spires** (source: Playground generation 3rd part.txt).
+Before the [[anti-magic-crusade|Anti-Magic Crusade]], Conduit Towers were **ruled by [[windspeakers|Windspeakers]]** — called Spirelords or Spirelady by common people. This era is known as the **High Weave Age** or **Age of the Spires** (source: Playground generation 3rd part.txt).
 
-Seven Windspeaker sovereigns each governed a paired tower-domain (both ends of one conduit). They traveled between towers via **Spire-Step** (Conduit Translation) â€” conduit-supported teleportation. Cities at paired ends of a conduit called each other **Far-Kin**.
+Seven Windspeaker sovereigns each governed a paired tower-domain (both ends of one conduit). They traveled between towers via **Spire-Step** (Conduit Translation) — conduit-supported teleportation. Cities at paired ends of a conduit called each other **Far-Kin**.
 
 This made the fourteen conduit cities effectively a **global magical commonwealth**, far more politically integrated than mere geography would suggest. A message could be carried by a Windspeaker instantly; a crisis at one tower could summon aid from another within moments.
 
@@ -168,7 +168,7 @@ The Black Hand has always coveted conduit cities. During the Anti-Magic Crusade,
 
 ## The Windspeaker and the Tower
 
-A Windspeaker does not simply sit in a tower like a monarch. Their relationship to it is intimate and technical. They may enter the Spindle Chamber and hold magical force far beyond mortal capacity. They are not always present â€” with ten Windspeakers and seven conduits, seated stabilizers and roving Overthreads share the load. The tower custodians handle daily regulation; the Windspeaker intervenes during strain, surge, repair, or crisis.
+A Windspeaker does not simply sit in a tower like a monarch. Their relationship to it is intimate and technical. They may enter the Spindle Chamber and hold magical force far beyond mortal capacity. They are not always present — with ten Windspeakers and seven conduits, seated stabilizers and roving Overthreads share the load. The tower custodians handle daily regulation; the Windspeaker intervenes during strain, surge, repair, or crisis.
 
 If the public does not know the Windspeaker's true nature, they may operate under another title: Grand Magister, Conduit Auditor, Tower Architect, or simply "the Specialist."
 
@@ -178,7 +178,7 @@ If the public does not know the Windspeaker's true nature, they may operate unde
 
 The fourteen modern conduit termini are mostly unnamed in canon. The currently-named one is:
 
-- **[[bold|Bold]]** â€” Capital city, royal castle, dominated by the **Tower of Seven Spires** (also known as the **Tower of Lirra of Bold** â€” the founding chapter-house of the [[order-sharanel|Order Sharanel]] and the oldest of the seven surviving Towers of Lirra). One of the oldest cities in the world.
+- **[[bold|Bold]]** — Capital city, royal castle, dominated by the **Tower of Seven Spires** (also known as the **Tower of Lirra of Bold** — the founding chapter-house of the [[order-sharanel|Order Sharanel]] and the oldest of the seven surviving Towers of Lirra). One of the oldest cities in the world.
 
 See [[worldbuilding-needs#Modern present-day political geography|Worldbuilding Needs]] for the full gap; the other thirteen termini await canon.
 

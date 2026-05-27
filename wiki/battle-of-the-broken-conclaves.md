@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Battle of the Broken Conclaves
 
-**Summary**: The Battle of the Broken Conclaves â€” also called the **Final Wall** or the **Threefold Oath** â€” was a three-day stand during the [[demon-war|Demon War]] in which the [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] together held the line against the Demon Prince's hordes long enough for sealing rituals to complete. All three races were exterminated to the last individual. Their sacrifice broke the Tarran Emperor's command authority and triggered the [[great-betrayal|Great Betrayal]] that turned the war.
+**Summary**: The Battle of the Broken Conclaves — also called the **Final Wall** or the **Threefold Oath** — was a three-day stand during the [[demon-war|Demon War]] in which the [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] together held the line against the Demon Prince's hordes long enough for sealing rituals to complete. All three races were exterminated to the last individual. Their sacrifice broke the Tarran Emperor's command authority and triggered the [[great-betrayal|Great Betrayal]] that turned the war.
 
 **Sources**: Grok WB Generation 4-29.txt, ledger-wall-canon-2026-05-11.txt
 
@@ -19,9 +19,9 @@ knowledge_access: [common]
 
 ## Context
 
-In the darkest hour of the [[demon-war|Demon War]] â€” **year 15 of the twenty-year war** â€” when the Demon Prince's hordes had breached the greatest ley-vaults and the heartlands of [[velrathi|Velrathi]] civilization lay exposed, three engineered servant-races forged in service to the progenitors made their **unbreakable choice**.
+In the darkest hour of the [[demon-war|Demon War]] — **year 15 of the twenty-year war** — when the Demon Prince's hordes had breached the greatest ley-vaults and the heartlands of [[velrathi|Velrathi]] civilization lay exposed, three engineered servant-races forged in service to the progenitors made their **unbreakable choice**.
 
-The [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] â€” guardians, wardens, and shock troops â€” stood together as one (source: Grok WB Generation 4-29.txt).
+The [[orugi|Orug]], [[el-mer|El'mer]], and [[aetherins|Aetherin]] — guardians, wardens, and shock troops — stood together as one (source: Grok WB Generation 4-29.txt).
 
 > No grand strategy remained. No hope of overall victory in that sector. Only the simple, terrible calculus of delay: hold long enough for the [[rathari|Rathar]] to finish their emergency sealing rituals, for the [[tarans|Tarran]] legions to regroup, for the [[velrathi|Velrathi]] to prepare the greater counter-rites. **They knew reinforcements would not arrive in time. They chose to die anyway.**
 
@@ -55,13 +55,13 @@ The shared epitaph carved on the [[tomb-of-the-last-guardians|Tomb of the Last G
 
 > *"Reinforcements never came. We held anyway."*
 
-The reinforcements were the Tarran Emperor's responsibility, and his refusal to move legions in time is what convinced senior generals that **the war could not be won under his leadership**. This realization triggered the [[great-betrayal|Great Betrayal]] â€” see [[great-betrayal]] for the consequences.
+The reinforcements were the Tarran Emperor's responsibility, and his refusal to move legions in time is what convinced senior generals that **the war could not be won under his leadership**. This realization triggered the [[great-betrayal|Great Betrayal]] — see [[great-betrayal]] for the consequences.
 
 ## The Battlefield Today
 
-The site is now a **sacred scar** inside the [[demonfall-marches|Demonfall Marches]] â€” a vast expanse of fused black glass, shattered crystal, and petrified thorn-barriers where nothing natural grows.
+The site is now a **sacred scar** inside the [[demonfall-marches|Demonfall Marches]] — a vast expanse of fused black glass, shattered crystal, and petrified thorn-barriers where nothing natural grows.
 
-At its center stands the **Monument of the Threefold Oath** â€” three colossal statues carved from the very glass left by the battle:
+At its center stands the **Monument of the Threefold Oath** — three colossal statues carved from the very glass left by the battle:
 - An [[orugi|Orug]] shield-bearer
 - An [[el-mer|El'mer]] singer entwined with living vines
 - An [[aetherins|Aetherin]] spear-warrior
@@ -70,7 +70,7 @@ At its center stands the **Monument of the Threefold Oath** â€” three colos
 
 ## The Tomb of the Last Guardians
 
-At the edge of the battlefield, [[katharim|Katharim]] maintain the **[[tomb-of-the-last-guardians|Tomb of the Last Guardians]]** â€” a simple, massive barrow containing **no bodies** (there were none left to bury), but filled with thousands of empty gray armor stands and the names of every fallen Orug, El'mer, and Aetherin recorded by the gray-robed Rememberers. See [[tomb-of-the-last-guardians]].
+At the edge of the battlefield, [[katharim|Katharim]] maintain the **[[tomb-of-the-last-guardians|Tomb of the Last Guardians]]** — a simple, massive barrow containing **no bodies** (there were none left to bury), but filled with thousands of empty gray armor stands and the names of every fallen Orug, El'mer, and Aetherin recorded by the gray-robed Rememberers. See [[tomb-of-the-last-guardians]].
 
 ## Metaphysical Imprint
 
@@ -85,17 +85,17 @@ The unified, selfless deaths of three entire servant races created a **resonance
 
 The united last stand is one of the few events that **bridges every divide** in Eadras. Beast-folk and Katharim hold joint ceremonies at the monument. Orc clans and human knightly orders swear oaths there. Even the hidden pure [[rathari|Rathar]] sometimes send missives to be read aloud at the site.
 
-Modern [[orcs|Orcs]] celebrate the **Night of the Gray Wall** every year: great bonfires, ritual combat displays, and the collective recitation of the Final Oath. Those who distinguish themselves are marked with **gray ash across the shoulders** â€” a symbolic echo of [[orugi|Orug]] skin.
+Modern [[orcs|Orcs]] celebrate the **Night of the Gray Wall** every year: great bonfires, ritual combat displays, and the collective recitation of the Final Oath. Those who distinguish themselves are marked with **gray ash across the shoulders** — a symbolic echo of [[orugi|Orug]] skin.
 
 [[beast-folk|Beast-folk]] tell the story in wild, joyous [[flyting|flyting]] that somehow honors the solemnity. Humans (Aetherin descendants) speak of *"the uncles who bought our chance"* with quiet pride.
 
-The canonical orcish recitation form â€” *"They were betrayed. The reinforcements that were promised never cameâ€¦"* â€” is preserved at [[mythic-recitations#3-3-the-orcish-myth-the-night-of-the-gray-wall|Mythic Recitations Â§ 3.3 â€” The Night of the Gray Wall]] alongside the [[katharim|Katharim]] version (*The Breaking of the Three*) which holds the **three fallen races as "the last true children of the Three Progenitor Gods"** and names the failure that the orcs call betrayal in institutional precision. *They do not forgive, and they do not forget.*
+The canonical orcish recitation form — *"They were betrayed. The reinforcements that were promised never came…"* — is preserved at [[mythic-recitations#3-3-the-orcish-myth-the-night-of-the-gray-wall|Mythic Recitations § 3.3 — The Night of the Gray Wall]] alongside the [[katharim|Katharim]] version (*The Breaking of the Three*) which holds the **three fallen races as "the last true children of the Three Progenitor Gods"** and names the failure that the orcs call betrayal in institutional precision. *They do not forgive, and they do not forget.*
 
 ## Strategic Significance
 
-The Battle of the Broken Conclaves was **not the end of the war** â€” it was its **pivot**. Three entire races died so that those still living could find the courage to **betray a failing leader and beg the gods for mercy**.
+The Battle of the Broken Conclaves was **not the end of the war** — it was its **pivot**. Three entire races died so that those still living could find the courage to **betray a failing leader and beg the gods for mercy**.
 
-> Their sacrifice did not win the war alone â€” but it made victory possible.
+> Their sacrifice did not win the war alone — but it made victory possible.
 
 The casualty rolls were absolute. Senior tacticians and veteran generals looked at the empty armor stands being brought back and understood the truth the Tarran Emperor refused to accept: the war had become unwinnable under his leadership. This realization triggered the [[great-betrayal|Great Betrayal]], which led directly to the [[great-banishment|Banishment]] of all three progenitor races.
 

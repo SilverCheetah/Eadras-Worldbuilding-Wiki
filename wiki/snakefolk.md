@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Snakefolk
 
-**Summary**: Serpentine humanoids â€” Eadras's Yuan-ti analogue â€” created by [[dragons|dragons]] in response to the proliferation of humanoid races. Unlike their cousins in the [[dragonfolk|dragonfolk]] family, snakefolk are explicitly **NPC-only** in canon and are not playable.
+**Summary**: Serpentine humanoids — Eadras's Yuan-ti analogue — created by [[dragons|dragons]] in response to the proliferation of humanoid races. Unlike their cousins in the [[dragonfolk|dragonfolk]] family, snakefolk are explicitly **NPC-only** in canon and are not playable.
 
 **Sources**: Dragons.txt, Peoples of Eadras.txt
 
@@ -27,12 +27,12 @@ Snakefolk are listed as the **Snake People** branch of dragon-created races, sib
 
 The user's canonical "modern races" list explicitly identifies snakefolk with the **Yuan-ti** archetype:
 
-> Snakefolk (NPC, Yuan-ti) â€” (source: Peoples of Eadras.txt)
+> Snakefolk (NPC, Yuan-ti) — (source: Peoples of Eadras.txt)
 
 This is significant for two reasons:
 
 1. **NPC-only status**: Unlike the [[dragonfolk|dragonfolk]] umbrella (which is playable), snakefolk are not intended for player characters. They function as antagonists, schemers, and cult-figures in the modern setting.
-2. **Yuan-ti archetype**: This signals serpent-cult themes â€” secret societies, blood rituals, draconic-cult hierarchies â€” even though they originate from the dragons rather than from any of the more "classical" cult traditions.
+2. **Yuan-ti archetype**: This signals serpent-cult themes — secret societies, blood rituals, draconic-cult hierarchies — even though they originate from the dragons rather than from any of the more "classical" cult traditions.
 
 ## Anatomy and Society
 
@@ -40,7 +40,7 @@ Specific anatomical and cultural details for snakefolk remain to be defined. The
 
 ## Relations to Dragons
 
-Snakefolk are draconic creations and are not counted in the [[runeswords|Treaty of Ratharil]] cap of 999,999 dragons. Among the nine dragon clans, the **Purple** clan â€” described as chaotic and unpredictable, heavily influenced in early history by the Elder Goddess Faye (source: Dragons.txt) â€” has been speculated to have closer ties to certain snakefolk lineages, but no canon confirms this.
+Snakefolk are draconic creations and are not counted in the [[runeswords|Treaty of Ratharil]] cap of 999,999 dragons. Among the nine dragon clans, the **Purple** clan — described as chaotic and unpredictable, heavily influenced in early history by the Elder Goddess Faye (source: Dragons.txt) — has been speculated to have closer ties to certain snakefolk lineages, but no canon confirms this.
 
 ## Modern Role
 

@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Culethor
 
-**Summary**: Culethor is the **southeastern continent** of post-Cataclysm Eadras â€” one of the three landmasses that formed from the sundering of the [[altean-highlands|Altean Highlands]] in the [[arathi-cataclysm|Cataclysm]]. It is visible in [[eadras-tectonic-history|every snapshot]] of the post-Cataclysm tectonic series.
+**Summary**: Culethor is the **southeastern continent** of post-Cataclysm Eadras — one of the three landmasses that formed from the sundering of the [[altean-highlands|Altean Highlands]] in the [[arathi-cataclysm|Cataclysm]]. It is visible in [[eadras-tectonic-history|every snapshot]] of the post-Cataclysm tectonic series.
 
 **Sources**: 1mya.jpg, 2mya.jpg, 3mya.jpg, 4mya.jpg; map explanation.txt.
 
@@ -25,10 +25,10 @@ Culethor's pre-sundering identity was as the southeastern portion of the Altean 
 
 ## Position across tectonic snapshots
 
-- **1mya post-Cataclysm** â€” southeastern continent in the still-fragmented post-impact world.
-- **2mya post-Cataclysm** â€” drifted further from Avalon and Damedes; eastern continent with substantial coastal complexity.
-- **3mya post-Cataclysm** â€” clearly distinct, with mountain ranges, river systems, the Chashurp Plateau, Stoneward Front, Stonebreaker Bay, and Gallcliff Cape.
-- **4mya post-Cataclysm** â€” collides into the supercontinent [[eldravath|Eldravath]] along with Avalon and Damedes; the Culethor-derived component forms part of Eldravath's eastern mass.
+- **1mya post-Cataclysm** — southeastern continent in the still-fragmented post-impact world.
+- **2mya post-Cataclysm** — drifted further from Avalon and Damedes; eastern continent with substantial coastal complexity.
+- **3mya post-Cataclysm** — clearly distinct, with mountain ranges, river systems, the Chashurp Plateau, Stoneward Front, Stonebreaker Bay, and Gallcliff Cape.
+- **4mya post-Cataclysm** — collides into the supercontinent [[eldravath|Eldravath]] along with Avalon and Damedes; the Culethor-derived component forms part of Eldravath's eastern mass.
 
 ## Open canon
 
@@ -38,7 +38,7 @@ This is a stub. Culethor currently exists in canon as a named landmass at four g
 - **Climate regimes** across the snapshot series.
 - **Inhabitants** during the dragon, unicorn, and humanoid eras.
 - **Cultures, kingdoms, settlements** in modern Eadras.
-- **Notable surface features** â€” those visible on the maps need text definition.
+- **Notable surface features** — those visible on the maps need text definition.
 
 <details>
 <summary>Related pages</summary>

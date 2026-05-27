@@ -19,19 +19,19 @@ knowledge_access: [common]
 
 ## Origin
 
-Lizardfolk are part of the **Lizard People** branch of [[dragonfolk|dragonfolk]] â€” created by [[dragons|dragons]] in response to the appearance of the humanoid races (source: Dragons.txt, line 53; Peoples of Eadras.txt). They were not engineered as servants by any of [[the-three|the Three]]'s progenitor races; they are direct draconic creations.
+Lizardfolk are part of the **Lizard People** branch of [[dragonfolk|dragonfolk]] — created by [[dragons|dragons]] in response to the appearance of the humanoid races (source: Dragons.txt, line 53; Peoples of Eadras.txt). They were not engineered as servants by any of [[the-three|the Three]]'s progenitor races; they are direct draconic creations.
 
-Among the three Lizard People subtypes, lizardfolk sit between kobolds and dragonborn in size. They are the most reptilian in temperament and habitat preference â€” typically associated with wetlands, swamps, and tropical regions where their cold-blooded cousins among the **Black** dragons (a clan that prefers swamps, river deltas, and forested wetlands) sometimes share the territory (source: Dragons.txt).
+Among the three Lizard People subtypes, lizardfolk sit between kobolds and dragonborn in size. They are the most reptilian in temperament and habitat preference — typically associated with wetlands, swamps, and tropical regions where their cold-blooded cousins among the **Black** dragons (a clan that prefers swamps, river deltas, and forested wetlands) sometimes share the territory (source: Dragons.txt).
 
 ## Sibling Lines
 
 The Lizard People family:
 
-- **[[kobolds|Kobolds]]** â€” smallest.
-- **Lizardfolk** â€” middle-sized; primal, reptilian temperament.
-- **[[dragonborn|Dragonborn]]** â€” largest, most directly draconic.
+- **[[kobolds|Kobolds]]** — smallest.
+- **Lizardfolk** — middle-sized; primal, reptilian temperament.
+- **[[dragonborn|Dragonborn]]** — largest, most directly draconic.
 
-The full [[dragonfolk|dragonfolk]] category also includes the [[snakefolk|snakefolk]] (Snake People â€” NPCs only) and other "Anthropomorphic Reptiles except Snakes" (source: Peoples of Eadras.txt).
+The full [[dragonfolk|dragonfolk]] category also includes the [[snakefolk|snakefolk]] (Snake People — NPCs only) and other "Anthropomorphic Reptiles except Snakes" (source: Peoples of Eadras.txt).
 
 ## Anatomy and Society
 

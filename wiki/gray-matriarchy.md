@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Gray Matriarchy of Gaia
 
-**Summary**: The Gray Matriarchy is the post-exile [[tarans|Tarran]] society on [[gaia|Prime-like Gaia]] â€” a strict matriarchy with hereditary male enslavement that emerged over two thousand years of isolation, ruled by the **Circle of Mothers** under the **High Priestess-Mother**, whose worship of the faceless **[[she-who-shall-not-be-named|"She Who Shall Not Be Named"]]** is in fact secret service to an ancient dragon nesting in a pocket dimension within the [[thorn-sanctum|Thorn Sanctum's]] Cauldron.
+**Summary**: The Gray Matriarchy is the post-exile [[tarans|Tarran]] society on [[gaia|Prime-like Gaia]] — a strict matriarchy with hereditary male enslavement that emerged over two thousand years of isolation, ruled by the **Circle of Mothers** under the **High Priestess-Mother**, whose worship of the faceless **[[she-who-shall-not-be-named|"She Who Shall Not Be Named"]]** is in fact secret service to an ancient dragon nesting in a pocket dimension within the [[thorn-sanctum|Thorn Sanctum's]] Cauldron.
 
 **Sources**: Grok WB Generation 4-29.txt
 
@@ -17,7 +17,7 @@ knowledge_access: [common]
 
 ---
 
-## Origin â€” The Slow Turning
+## Origin — The Slow Turning
 
 After the [[great-banishment|Banishment]] sent the [[tarans|Tarran]] to the **Prime-like reflection of [[gaia|Gaia]]**, the surviving population arrived **broken, leaderless, and stripped of their Emperor**. The [[firethorn-throne|Firethorn Throne]] had already vanished. The old patriarchal order, built on martial glory and male primogeniture, had died with the Emperor in his poisoned bed. In the harsh, gray skies and unforgiving stone of their new home, **something colder and more enduring took root** (source: Grok WB Generation 4-29.txt).
 
@@ -28,7 +28,7 @@ Over the **first two thousand years of exile**, Tarran society slowly, deliberat
 The transformation was not violent revolution but **quiet, relentless erosion**:
 
 1. **Immediate aftermath**: with so many male warriors and nobles lost in the [[demon-war|Demon War]] and the [[great-betrayal|final betrayal]], women stepped into governance simply to **keep the refugee columns alive**.
-2. **Female [[velrathi|Velrathi]] princesses** (kin of the Emperor's widow) and **high-born Tarran matrons** formed the **first Circle of Mothers** â€” a ruling council that spoke with one voice.
+2. **Female [[velrathi|Velrathi]] princesses** (kin of the Emperor's widow) and **high-born Tarran matrons** formed the **first Circle of Mothers** — a ruling council that spoke with one voice.
 3. **They proved ruthlessly competent.**
 4. **As decades became centuries**, the Circle codified their power.
 5. Male lines were **gradually sidelined**.
@@ -40,7 +40,7 @@ The transformation was not violent revolution but **quiet, relentless erosion**:
 
 ## Modern Society
 
-Tarran society is now a **strict matriarchy** in which males hold no independent political or familial authority. They may **advise, fight, labor, and father children**, but **all formal power** â€” property, titles, law, and the right to speak in the Circle of Mothers â€” **belongs to women**.
+Tarran society is now a **strict matriarchy** in which males hold no independent political or familial authority. They may **advise, fight, labor, and father children**, but **all formal power** — property, titles, law, and the right to speak in the Circle of Mothers — **belongs to women**.
 
 The justification carved above every major hall:
 
@@ -52,19 +52,19 @@ The subjugation was never called slavery at first. It began as **"protective ste
 
 ### Modern Tarran Males
 
-- **Born into service** â€” from adolescence assigned to a female household or military matron
+- **Born into service** — from adolescence assigned to a female household or military matron
 - May **marry only with permission**
 - Their **children belong to the mother's line**
-- **Exceptional males** â€” brilliant tacticians, master craftsmen, unbreakable warriors â€” can earn limited respect and even influence, but **never autonomy**
-- **The Ash-Bound** are the lowest caste â€” males whose bloodlines repeatedly failed the Mothers. They wear **plain iron collars** and perform the most dangerous labor in the crystal mines and frontier outposts
+- **Exceptional males** — brilliant tacticians, master craftsmen, unbreakable warriors — can earn limited respect and even influence, but **never autonomy**
+- **The Ash-Bound** are the lowest caste — males whose bloodlines repeatedly failed the Mothers. They wear **plain iron collars** and perform the most dangerous labor in the crystal mines and frontier outposts
 
 ### The Binding of Ash
 
-Young males undergo the **Binding of Ash** at maturity â€” a public rite where they swear eternal service to the Maternal Line while a priestess **brands a small thorn-mark upon their shoulder with cooled crystal**.
+Young males undergo the **Binding of Ash** at maturity — a public rite where they swear eternal service to the Maternal Line while a priestess **brands a small thorn-mark upon their shoulder with cooled crystal**.
 
 Males kiss the [[she-who-shall-not-be-named|Holy Symbol]] on their collars each morning as an act of submission and belonging.
 
-## Government â€” The Circle of Mothers
+## Government — The Circle of Mothers
 
 The **Circle of Mothers** rules both faith and state. At the apex is the **High Priestess-Mother**, the supreme head who alone receives [[she-who-shall-not-be-named|the Voice]] from the [[thorn-sanctum|Cauldron]].
 
@@ -84,7 +84,7 @@ Below the Thorn-Daughters: lesser priestesses, regional matrons, household matri
 
 [[firethorn-hold|Firethorn Hold]] itself reflects the new order. The old domed citadel has been **expanded downward into vast underground matriarchal complexes**. Surface structures are austere and defensive. Below, in the crystal-lit halls, **women move freely while males walk in designated paths or serve silently**.
 
-The empty scar where the [[firethorn-throne|Firethorn Throne]] once stood is now a **shrine** â€” a place where young matrons swear never to let male ambition rise again.
+The empty scar where the [[firethorn-throne|Firethorn Throne]] once stood is now a **shrine** — a place where young matrons swear never to let male ambition rise again.
 
 ### Daily Order
 
@@ -94,15 +94,15 @@ The empty scar where the [[firethorn-throne|Firethorn Throne]] once stood is now
 - **Emotional attachment is discouraged** between males and females of equal status
 - **Male poets and musicians** exist, but their works may only **praise the Mothers**
 
-## Faith â€” She Who Shall Not Be Named
+## Faith — She Who Shall Not Be Named
 
-The Gray Matriarchy worships **[[she-who-shall-not-be-named|She Who Shall Not Be Named]]** â€” a deity who **does not exist as the Mothers believe**. They believe she is a true sovereign goddess of Order, Strength, Magic, and Matriarchy. **In truth she is an ancient dragon** holding a shard of [[worldender-crystal|Worldender alien crystal]] by [[dao|Dao's]] sufferance, ruling from a pocket dimension within the [[thorn-sanctum|Thorn Sanctum's]] Cauldron.
+The Gray Matriarchy worships **[[she-who-shall-not-be-named|She Who Shall Not Be Named]]** — a deity who **does not exist as the Mothers believe**. They believe she is a true sovereign goddess of Order, Strength, Magic, and Matriarchy. **In truth she is an ancient dragon** holding a shard of [[worldender-crystal|Worldender alien crystal]] by [[dao|Dao's]] sufferance, ruling from a pocket dimension within the [[thorn-sanctum|Thorn Sanctum's]] Cauldron.
 
 The Circle of Mothers, the Seven Thorn-Daughters, and even the High Priestess-Mother **do not know**. See [[she-who-shall-not-be-named]] for the dragon's true nature.
 
 ### The Holy Symbol
 
-She is represented solely by the Holy Symbol: a **thorn-crowned circle of gray crystal bisected by a single straight vertical line**. Thorns point inward. Always rendered in gray, black, or unpolished crystal â€” never gilded, never ornamented.
+She is represented solely by the Holy Symbol: a **thorn-crowned circle of gray crystal bisected by a single straight vertical line**. Thorns point inward. Always rendered in gray, black, or unpolished crystal — never gilded, never ornamented.
 
 The Symbol appears:
 - **Branded or tattooed** on the shoulders of Ash-Bound males
@@ -127,7 +127,7 @@ Magic is **strictly regulated**:
 - Spells are cast **without visual flourishes or personal flair**
 - Ritual circles are drawn with the Holy Symbol at every cardinal point
 
-The result is a **cold, efficient, almost mechanical style of spellwork** that feels more like **law than art**. The exiled Tarran have become **masters of binding and containment magics** â€” fitting for a society built on binding males.
+The result is a **cold, efficient, almost mechanical style of spellwork** that feels more like **law than art**. The exiled Tarran have become **masters of binding and containment magics** — fitting for a society built on binding males.
 
 The alien crystal fragments still scattered through Gaian ruins **respond more readily to female blood**, as though the material itself has absorbed the new order's resonance.
 
@@ -136,7 +136,7 @@ The alien crystal fragments still scattered through Gaian ruins **respond more r
 The matriarchy's divine sanction comes through:
 - **Heavy veneration of [[nara|Nara]]** (feminine order, motherhood)
 - **Re-interpreted [[ioa|Ioa]]** (sovereign order **redefined as maternal**)
-- **[[lirra|Lirra]]** is respected but **watched warily** â€” her Netharim are almost all female
+- **[[lirra|Lirra]]** is respected but **watched warily** — her Netharim are almost all female
 - **The old martial gods** ([[raja|Raja]], [[daj|Daj]]) are honored only in their **subordinate aspects** (as servants to female-ordered war)
 
 The Elder Gods themselves do not know about [[dao|Dao]] or [[she-who-shall-not-be-named|the dragon]]. They view the Tarran exiles as a strange but tolerable people.
@@ -148,13 +148,13 @@ Despite the matriarchy's iron discipline, **cracks show**:
 - Some **younger matrons** quietly question whether the pendulum has swung too far
 - A few males have begun secret societies of **"Oath-Breakers,"** whispering of the old Emperor's honor and the [[three-who-stood|Three Who Stood]]
 - The Circle of Mothers crushes such movements with cold efficiency
-- Some Ash-Bound males maintain **secret cults** that revere the old martial gods in hidden corners â€” they whisper that the [[three-who-stood|Three Who Stood]] would never have accepted chains
+- Some Ash-Bound males maintain **secret cults** that revere the old martial gods in hidden corners — they whisper that the [[three-who-stood|Three Who Stood]] would never have accepted chains
 
 ## Tarran Bodies and Bearing
 
 Despite the chains, **Tarran males are not broken. They are refined.** Tall, disciplined, and lethally competent, they make terrifyingly loyal soldiers and bodyguards. Many [[orcs|orc]] mercenaries on the Prime claim distant Tarran male ancestry through **escaped or exiled Ash-Bound** who reached Eadras through rare [[grand-conjunction|conjunction-rifts]].
 
-The females, by contrast, have become **masterful administrators, diplomats, and long-term strategists** â€” colder and more patient than their warrior ancestors.
+The females, by contrast, have become **masterful administrators, diplomats, and long-term strategists** — colder and more patient than their warrior ancestors.
 
 ## Relation to the Prime
 
@@ -173,9 +173,9 @@ They do not know:
 
 ## Summary
 
-> The post-exile Tarran are no longer the [[firethorn-empire|Firethorn Empire]]. They are the **Gray Matriarchy of [[gaia|Gaia]]** â€” a society that learned the lesson of the [[battle-of-the-broken-conclaves|Broken Conclaves]] and the [[great-betrayal|poisoned Emperor]] so thoroughly that they removed the possibility of male rule entirely.
+> The post-exile Tarran are no longer the [[firethorn-empire|Firethorn Empire]]. They are the **Gray Matriarchy of [[gaia|Gaia]]** — a society that learned the lesson of the [[battle-of-the-broken-conclaves|Broken Conclaves]] and the [[great-betrayal|poisoned Emperor]] so thoroughly that they removed the possibility of male rule entirely.
 
-> Males serve. Females command. The Throne remains lost. The fire has not gone out â€” it has simply changed color, from bright flame to **cold, gray steel**.
+> Males serve. Females command. The Throne remains lost. The fire has not gone out — it has simply changed color, from bright flame to **cold, gray steel**.
 
 > And somewhere in the crystal depths beneath [[firethorn-hold|Firethorn Hold]], an ancient dragon smiles, content that her experiment in perfect order continues to refine itself.
 

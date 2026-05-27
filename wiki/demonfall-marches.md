@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # The Demonfall Marches
 
-**Summary**: The Demonfall Marches are a region where the first great demonic breach opened during the [[demon-war|Demon War]] â€” heavily warded, culturally diverse, unstable to this day, and guarded in part by [[beast-folk|beast-folk]] communities whose ancestors were born from that war.
+**Summary**: The Demonfall Marches are a region where the first great demonic breach opened during the [[demon-war|Demon War]] — heavily warded, culturally diverse, unstable to this day, and guarded in part by [[beast-folk|beast-folk]] communities whose ancestors were born from that war.
 
 **Sources**: Playground generation 2nd part.txt
 
@@ -33,7 +33,7 @@ The region remains:
 
 When Xar'vion was losing his war, he performed the desperate true-name summoning that opened the Demonfall breach. The act was a severe metaphysical breach: [[demons]] are alien-Mythos energivores whose substance is poisonous to this Mythos and whose presence destabilizes magic, spirit, flesh, and ecology. The rupture opened a direct wound between the demon Mythos and Eadras's Prime Material at this site, introducing a nonnative magical metabolism that would, on a long enough timeline, have eaten the world's magic to depletion.
 
-The breach was eventually closed â€” sealed by the combined work of dragons, mortals, [[lirra|Lirra's]] nascent Weave, and the Elder Gods. But the metaphysical damage to the local territory remains.
+The breach was eventually closed — sealed by the combined work of dragons, mortals, [[lirra|Lirra's]] nascent Weave, and the Elder Gods. But the metaphysical damage to the local territory remains.
 
 ## Beast-Folk Guardianship
 
@@ -56,7 +56,7 @@ The Marches' cultural diversity is a legacy of wartime displacement. War-scarred
 - Qoxlian wild sanctuaries
 - Weave-storm zones near the original demonic breach
 
-This patchwork of survivor traditions explains why the modern Marches contain communities with very different languages, rites, and divine alignments â€” all descended from those who survived the breach.
+This patchwork of survivor traditions explains why the modern Marches contain communities with very different languages, rites, and divine alignments — all descended from those who survived the breach.
 
 ## Lingering Threats
 

@@ -10,7 +10,7 @@ aliases: [Little Gods, the Little Gods]
 
 # The Netharim
 
-**Summary**: The Netharim â€” colloquially *the Little Gods* â€” are an order of mortal magical practitioners who reshape reality intuitively, by imposing a deeply-studied personal model of how the world actually works directly onto the world itself. They use no formulas, no incantations, no reality-structuring language. They use comprehension. They are by far the most numerous of the four major magical orders, maintain a worldwide institutional structure, and are heavily involved in both politics and magical scholarship.
+**Summary**: The Netharim — colloquially *the Little Gods* — are an order of mortal magical practitioners who reshape reality intuitively, by imposing a deeply-studied personal model of how the world actually works directly onto the world itself. They use no formulas, no incantations, no reality-structuring language. They use comprehension. They are by far the most numerous of the four major magical orders, maintain a worldwide institutional structure, and are heavily involved in both politics and magical scholarship.
 
 **Sources**: Extra large grok chat 5-9-2026.txt
 
@@ -43,49 +43,49 @@ Because Netharim magic scales with the accuracy and completeness of the practiti
 
 What they study varies enormously. There are Netharim physicists, Netharim philosophers, Netharim biologists, Netharim ecologists, Netharim mathematicians, Netharim metaphysicians, Netharim theologians, Netharim historians of magic, Netharim cartographers of consciousness, and many more. There is no canonical Netharim curriculum. There is only the imperative that **the model must be deepened**.
 
-Two Netharim with very different study backgrounds will be capable of dramatically different things, even at the same nominal "level." A Netharim deeply trained in the workings of life might be a brilliant healer and resurrector and yet be unable to start a fire reliably; a Netharim trained in radiation and energy might be a peerless combatant and find herself helpless at a sickbed. The practice rewards depth, not breadth, in any given practitioner â€” and rewards the order as a whole for distributing depth across many specializations.
+Two Netharim with very different study backgrounds will be capable of dramatically different things, even at the same nominal "level." A Netharim deeply trained in the workings of life might be a brilliant healer and resurrector and yet be unable to start a fire reliably; a Netharim trained in radiation and energy might be a peerless combatant and find herself helpless at a sickbed. The practice rewards depth, not breadth, in any given practitioner — and rewards the order as a whole for distributing depth across many specializations.
 
 A senior Netharim is, in effect, a person whose model of some specific aspect of reality has become so accurate and so complete that they can rewrite that aspect of the world more or less at will, within the bounds of what their model encompasses.
 
 ## The worldwide order
 
-The Netharim maintain a **worldwide order** â€” older than any of the modern nation-states, comparable in age to the [[order-sharanel|Order Sharanel]] (whose original Netharim tradition the Netharim now succeed; see [[log]] and [[order-sharanel]] for the canon-status of that succession).
+The Netharim maintain a **worldwide order** — older than any of the modern nation-states, comparable in age to the [[order-sharanel|Order Sharanel]] (whose original Netharim tradition the Netharim now succeed; see [[log]] and [[order-sharanel]] for the canon-status of that succession).
 
 The order has three primary functions:
 
-1. **Identification.** Most candidates discover their potential late, often by accident â€” a moment of lucid attention to some aspect of the world that produces an unexpected, slight, observably-real effect on the world around them. The order maintains a network of recruiters and quiet observers who notice such moments and reach out to the candidate with the offer of training.
-2. **Education.** The order does not teach the magic itself â€” that is impossible, because the magic is the practitioner's own model of reality and cannot be transferred. The order does teach **how to study**: research methods, structured observation, philosophical frameworks, logical rigor, the discipline of refining a model against contrary evidence. A Netharim education is, in the most precise sense, an education in scholarship.
+1. **Identification.** Most candidates discover their potential late, often by accident — a moment of lucid attention to some aspect of the world that produces an unexpected, slight, observably-real effect on the world around them. The order maintains a network of recruiters and quiet observers who notice such moments and reach out to the candidate with the offer of training.
+2. **Education.** The order does not teach the magic itself — that is impossible, because the magic is the practitioner's own model of reality and cannot be transferred. The order does teach **how to study**: research methods, structured observation, philosophical frameworks, logical rigor, the discipline of refining a model against contrary evidence. A Netharim education is, in the most precise sense, an education in scholarship.
 3. **Specialization-pairing.** Because the order benefits from distributed depth, senior Netharim place junior Netharim with mentors whose specializations match the junior's natural inclinations. The pairing is voluntary on both sides and is treated as a serious commitment when it lands.
 
 ## Politics and scholarship
 
-Netharim are heavily involved in both **politics** and **magical scholarship** â€” by the structural inevitability of who they are.
+Netharim are heavily involved in both **politics** and **magical scholarship** — by the structural inevitability of who they are.
 
-In politics, a senior Netharim is genuinely consequential. A philosopher-Netharim with a finely-honed model of social systems can read a court the way most magisters cannot read a spell. A Netharim with a strong model of resources and ecology is a country-changing advisor to any monarch wise enough to listen. The order maintains careful internal codes about what kinds of political involvement are honorable â€” and what kinds cross the line into rule-by-magical-superiority â€” but the line is drawn often enough that there are notable historical violations.
+In politics, a senior Netharim is genuinely consequential. A philosopher-Netharim with a finely-honed model of social systems can read a court the way most magisters cannot read a spell. A Netharim with a strong model of resources and ecology is a country-changing advisor to any monarch wise enough to listen. The order maintains careful internal codes about what kinds of political involvement are honorable — and what kinds cross the line into rule-by-magical-superiority — but the line is drawn often enough that there are notable historical violations.
 
-In scholarship, the Netharim are at the center of every major intellectual tradition on Eadras. They are not the only scholars â€” many perfectly capable scholars are not Netharim and never will be â€” but a wildly disproportionate number of the great scholarly works in any era were produced by Netharim deepening their own internal models for the practical reason of becoming more powerful.
+In scholarship, the Netharim are at the center of every major intellectual tradition on Eadras. They are not the only scholars — many perfectly capable scholars are not Netharim and never will be — but a wildly disproportionate number of the great scholarly works in any era were produced by Netharim deepening their own internal models for the practical reason of becoming more powerful.
 
 This makes the order an unusual hybrid: a magical institution that genuinely doubles as one of the world's greatest universities. It is not unusual for a senior Netharim's published work to outlive their power, taught for centuries to non-Netharim students who simply benefit from the rigor of the original investigation.
 
-## Pillar Magic â€” the underlying grammar
+## Pillar Magic — the underlying grammar
 
-Netharim and Lexanari share **the same core magic system**: every working is constructed by combining one **Command Pillar** with one **Substance Pillar**. The Netharim path is to **shape the chosen Command + Substance combination through the practitioner's deeply-studied internal model of reality** â€” the more accurate and complete the model of each of the two Pillars in play, the more powerful and refined the resulting working.
+Netharim and Lexanari share **the same core magic system**: every working is constructed by combining one **Command Pillar** with one **Substance Pillar**. The Netharim path is to **shape the chosen Command + Substance combination through the practitioner's deeply-studied internal model of reality** — the more accurate and complete the model of each of the two Pillars in play, the more powerful and refined the resulting working.
 
 The five Command Pillars (the verbs of magic): **Control, Transform, Create, Destroy, Perceive.**
 The five Substance Pillars (the nouns of magic): **Essence, Matter, Flesh, Mind, Spirit.**
 Twenty-five canonical combinations.
 
-This is the structural reason Netharim **specialize**. A Netharim with deep *Transform + Flesh* understanding â€” perhaps a senior healer-Netharim who has spent decades studying living tissue and the mechanisms by which it changes â€” produces healing magic of extraordinary precision and power. The same Netharim might produce *Control + Mind* magic that is competent but not extraordinary, because their study has been in a different direction. The order benefits from distributed depth: senior Netharim hold deep mastery in different Pillars, and a Netharim community covers the grid by collaboration rather than by any single practitioner needing to know everything.
+This is the structural reason Netharim **specialize**. A Netharim with deep *Transform + Flesh* understanding — perhaps a senior healer-Netharim who has spent decades studying living tissue and the mechanisms by which it changes — produces healing magic of extraordinary precision and power. The same Netharim might produce *Control + Mind* magic that is competent but not extraordinary, because their study has been in a different direction. The order benefits from distributed depth: senior Netharim hold deep mastery in different Pillars, and a Netharim community covers the grid by collaboration rather than by any single practitioner needing to know everything.
 
-Netharim mastery progression is **per-Pillar**, not a unified spell-points pool â€” each of the ten Pillars has its own mastery level, deepened independently as the practitioner studies and works with that Pillar.
+Netharim mastery progression is **per-Pillar**, not a unified spell-points pool — each of the ten Pillars has its own mastery level, deepened independently as the practitioner studies and works with that Pillar.
 
-For the full canonical treatment of Pillar Magic â€” including the twenty-five-combination grid, the categorical meaning of each Pillar, and the philosophical reasons the system divides this way â€” see [[pillar-magic]]. For the splat-side mechanics (mastery point gain per character level, resolution rules, distribution rulings), see [[rpg/pillar-magic-mechanics]].
+For the full canonical treatment of Pillar Magic — including the twenty-five-combination grid, the categorical meaning of each Pillar, and the philosophical reasons the system divides this way — see [[pillar-magic]]. For the splat-side mechanics (mastery point gain per character level, resolution rules, distribution rulings), see [[rpg/pillar-magic-mechanics]].
 
 ## Distinction from the [[lexanari|Lexanari]]
 
 A common formulation: ***Lexanari speak; Netharim know.*** The first rewrites reality through linguistic command; the second reshapes reality through comprehension. Both are working with the same underlying [[pillar-magic|Pillar Magic]] grammar (above); they just access it differently.
 
-The Lexanari are extraordinarily rare and extraordinarily dangerous. The Netharim are common (relative to the Lexanari) and broadly safer â€” though not in fact safe; an inadequate model produces inadequate or wrong effects, and the consequences of being wrong about reality while operating directly on it are real. *No magic is safe, but Netharim magic is at least understandable.*
+The Lexanari are extraordinarily rare and extraordinarily dangerous. The Netharim are common (relative to the Lexanari) and broadly safer — though not in fact safe; an inadequate model produces inadequate or wrong effects, and the consequences of being wrong about reality while operating directly on it are real. *No magic is safe, but Netharim magic is at least understandable.*
 
 The two orders treat each other with a mixture of respect, wariness, and quiet professional rivalry. Lexanari sometimes view Netharim as *taking the long way around*; Netharim sometimes view Lexanari as *brittle and fundamentally unstable*. Both views contain a measure of truth.
 

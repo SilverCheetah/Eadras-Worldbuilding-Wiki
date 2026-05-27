@@ -19,13 +19,13 @@ knowledge_access: [common]
 
 ## Overview
 
-The White Palm is an order founded by a small number of **Inner Hand** defectors during the [[demon-war|Demon War]] â€” Hidden Thumb-tier members who realized Xar'vion had been spiritually severed by [[dao|Dao's]] curse and turned against him. The number of founders was small by necessity: only the Inner Hand knew enough to mourn what had been lost. The Outer Hand has always been about power, infiltration, and information (see [[black-hand]]) and would not have known there was anything to defect from. For ten thousand years, the White Palm have hunted the [[black-hand|Black Hand]] from within its own methods. (sources: Playground generation 2nd part.txt; Black hand revised.txt)
+The White Palm is an order founded by a small number of **Inner Hand** defectors during the [[demon-war|Demon War]] — Hidden Thumb-tier members who realized Xar'vion had been spiritually severed by [[dao|Dao's]] curse and turned against him. The number of founders was small by necessity: only the Inner Hand knew enough to mourn what had been lost. The Outer Hand has always been about power, infiltration, and information (see [[black-hand]]) and would not have known there was anything to defect from. For ten thousand years, the White Palm have hunted the [[black-hand|Black Hand]] from within its own methods. (sources: Playground generation 2nd part.txt; Black hand revised.txt)
 
 Their founding preserved the line: *"Our lord reached the summit and left his heart below."*
 
 ## Symbol
 
-An **open white hand with all five fingers visible** â€” the direct counter to the Black Hand's missing-finger symbol. The White Palm shows what the Black Hand conceals: a complete, open, accountable hand. (source: Playground generation 2nd part.txt)
+An **open white hand with all five fingers visible** — the direct counter to the Black Hand's missing-finger symbol. The White Palm shows what the Black Hand conceals: a complete, open, accountable hand. (source: Playground generation 2nd part.txt)
 
 ## Capabilities
 
@@ -39,7 +39,7 @@ Because the White Palm descend from Inner Hand defectors, their inherited knowle
 - Routes to Xar'vion's Still Court
 - Protocols of Gaze-Mark authentication
 
-This is **founding** knowledge from ten thousand years ago. The Black Hand has spent that time changing codes, rotating fronts, and rewriting doctrine â€” so the White Palm's inherited intelligence is partial and aging. They supplement it with present-day infiltration and counter-intelligence, but their foundational advantage has eroded.
+This is **founding** knowledge from ten thousand years ago. The Black Hand has spent that time changing codes, rotating fronts, and rewriting doctrine — so the White Palm's inherited intelligence is partial and aging. They supplement it with present-day infiltration and counter-intelligence, but their foundational advantage has eroded.
 
 Even at founding, the order was small and persistently mistrusted, because their origins lie in the cult they now oppose. (source: Playground generation 2nd part.txt)
 
@@ -51,7 +51,7 @@ The White Palm's primary operations:
 - Intercept pilgrims traveling to receive audience with the Icon at whatever location it currently occupies
 - Expose false mourning societies and grief-front organizations
 - Destroy Gaze-Marked messengers carrying active divine commands
-- Guard old roads into ruined Xanar (where the Black Throne of Xanareth â€” the Icon's most-frequently-occupied location â€” still stands)
+- Guard old roads into ruined Xanar (where the Black Throne of Xanareth — the Icon's most-frequently-occupied location — still stands)
 - Identify sycophants altered by repeated audiences with the Icon
 - Protect Netharim and Windspeakers from Black Hand plots
 - Seek the [[spear-of-crystallized-entropy|Spear]] before it can be brought before Xar'vion
@@ -80,7 +80,7 @@ They preserve ethical [[necromancy-and-undeath|necromancy]] as a discipline, mak
 
 ## Historical Position
 
-The White Palm and Black Hand share roots â€” both descended from the original cult around [[xarvion|Xar'vion]]. The postwar divergence created lasting moral complexity.
+The White Palm and Black Hand share roots — both descended from the original cult around [[xarvion|Xar'vion]]. The postwar divergence created lasting moral complexity.
 
 Some former Black Hand members became heroes after defecting. Others used defection to escape justice. Some were executed anyway. Some founded the penitential orders. This ambiguity follows the White Palm: they are effective but never fully trusted. (source: Playground generation 2nd part.txt)
 

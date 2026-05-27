@@ -22,9 +22,9 @@ knowledge_access: [common]
 
 For active magic-system canon, see:
 
-- [[magic-in-eadras]] â€” Umbrella page for the current magic system
-- [[netharim|Netharim]] â€” Intuitive reality-shapers (the order that supersedes Sorcerers)
-- [[lirra|Lirra]] â€” The goddess remains canonical; her direct relationship with the new magical orders is open canon
+- [[magic-in-eadras]] — Umbrella page for the current magic system
+- [[netharim|Netharim]] — Intuitive reality-shapers (the order that supersedes Sorcerers)
+- [[lirra|Lirra]] — The goddess remains canonical; her direct relationship with the new magical orders is open canon
 
 <details>
 <summary>Related pages</summary>

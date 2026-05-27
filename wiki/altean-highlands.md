@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Pre-Cataclysm form
 
-The Altean Highlands were a single landmass on a scale that has no modern equivalent on Eadras: a continent-sized **upland**, elevated above the surrounding world the way a present-day continent is elevated above an ocean basin. The user's analogue: imagine Earth's oceans drained, leaving the continental shelves and continental crust standing high above the bared abyssal plains â€” the Altean Highlands had that proportional relationship to the rest of pre-Cataclysm Eadras (source: Major changes to Arathi Capitol.txt).
+The Altean Highlands were a single landmass on a scale that has no modern equivalent on Eadras: a continent-sized **upland**, elevated above the surrounding world the way a present-day continent is elevated above an ocean basin. The user's analogue: imagine Earth's oceans drained, leaving the continental shelves and continental crust standing high above the bared abyssal plains — the Altean Highlands had that proportional relationship to the rest of pre-Cataclysm Eadras (source: Major changes to Arathi Capitol.txt).
 
 The Highlands were the political, magical, and demographic core of the [[arathi|Arathi]] civilization. [[altea|Altea]] sat at their geographic center, originally on a high inland lake. The seven Eldritch Conduits and the [[verdant-scar|inland focusing array (Arath-Veyr)]] threaded through Highland geography (source: Arathis.txt).
 
@@ -29,7 +29,7 @@ When the [[worldender|Worldbreaker]] struck Altea, the impact and the subsequent
 
 The three sundered continents are **[[avalon|Avalon]]** (north), **[[damedes|Damedes]]** (southwest), and **[[culethor|Culethor]]** (southeast). They stabilized as distinct landmasses within the first million years post-Cataclysm and are visible across the [[eadras-tectonic-history|tectonic snapshot series]]. (source: map explanation.txt)
 
-Two additional pre-Cataclysm landmasses â€” [[therion|Therion]] and [[aurettos|Aurettos]] â€” also appear on the post-Cataclysm maps. These were *not* part of the Altean Highlands; they are pre-Cataclysm highlands that survived the impact intact.
+Two additional pre-Cataclysm landmasses — [[therion|Therion]] and [[aurettos|Aurettos]] — also appear on the post-Cataclysm maps. These were *not* part of the Altean Highlands; they are pre-Cataclysm highlands that survived the impact intact.
 
 ## Present geography
 

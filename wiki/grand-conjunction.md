@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Grand Conjunction
 
-**Summary**: The Grand Conjunction is the rare celestial alignment â€” recurring on a roughly 5,000-year cycle â€” that activates the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] by unlocking the Wellspring of Creation, allowing it to transform a wielder into an Unrestricted Elder God.
+**Summary**: The Grand Conjunction is the rare celestial alignment — recurring on a roughly 5,000-year cycle — that activates the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] by unlocking the Wellspring of Creation, allowing it to transform a wielder into an Unrestricted Elder God.
 
 **Sources**: Playground generation 2nd part.txt, Spear of Crystallized Entropy.txt
 
@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Overview
 
-The **Grand Conjunction** is a rare celestial alignment under which the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] can unlock the **Wellspring of Creation** and transform its wielder into an Unrestricted Elder God. Without the conjunction, the Spear cannot perform its central transformation â€” it remains a dangerous artifact, but not an apotheosis engine. (source: Playground generation 2nd part.txt)
+The **Grand Conjunction** is a rare celestial alignment under which the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] can unlock the **Wellspring of Creation** and transform its wielder into an Unrestricted Elder God. Without the conjunction, the Spear cannot perform its central transformation — it remains a dangerous artifact, but not an apotheosis engine. (source: Playground generation 2nd part.txt)
 
 ## Cycle
 
@@ -28,12 +28,12 @@ The Grand Conjunction occurs on a roughly **ten-thousand-year cycle** (user dire
 | Date | Event |
 |---|---|
 | ~10,000 years ago | [[xarvion|Xar'vion]] used the Spear and ascended at the Grand Conjunction of that horizon; Demon War followed. The [[divine-concordat|Divine Concordat]] was sealed shortly after; the [[great-banishment|Great Banishment]] ended the empire era. |
-| ~9,000â€“10,000 years ago | [[lost-zenith|Lost Zenith]] â€” the [[black-hand|Black Hand]] failed to retrieve the Spear at the same Grand Conjunction; in the decades immediately preceding the window they engineered the [[anti-magic-crusade|Anti-Magic Crusade]] (after the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up) as a Spear-search diversion. The Crusade's catastrophic side-effects produced the [[thousand-year-dimming|Thousand-Year Dimming]]. |
-| Imminent (modern era) | Next Grand Conjunction â€” the [[black-hand|Black Hand]] races to deliver the Spear to Xar'vion before this window |
+| ~9,000–10,000 years ago | [[lost-zenith|Lost Zenith]] — the [[black-hand|Black Hand]] failed to retrieve the Spear at the same Grand Conjunction; in the decades immediately preceding the window they engineered the [[anti-magic-crusade|Anti-Magic Crusade]] (after the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up) as a Spear-search diversion. The Crusade's catastrophic side-effects produced the [[thousand-year-dimming|Thousand-Year Dimming]]. |
+| Imminent (modern era) | Next Grand Conjunction — the [[black-hand|Black Hand]] races to deliver the Spear to Xar'vion before this window |
 
-(sources: Playground generation 2nd part.txt; user direction 2026-05-15 â€” replacement-pass timeline and B1 cycle-period lock)
+(sources: Playground generation 2nd part.txt; user direction 2026-05-15 — replacement-pass timeline and B1 cycle-period lock)
 
-The recurrent ten-thousand-year period explains why each previous Spear-wielder was separated from the next by deep time. The Spear sits inert through the millennia between alignments. When the conjunction approaches, Source pressure increases, and the Spear may begin to resonate. Note that **Xar'vion's Spear-use and the Lost Zenith both fall within the same Grand-Conjunction window** roughly ~10,000 years ago â€” Xar'vion used the Spear early in the window; the Lost Zenith was the Black Hand's failed attempt to recover it during the same window (or a closely-adjacent window of the cycle), in the decades preceding which they engineered the Crusade as cover.
+The recurrent ten-thousand-year period explains why each previous Spear-wielder was separated from the next by deep time. The Spear sits inert through the millennia between alignments. When the conjunction approaches, Source pressure increases, and the Spear may begin to resonate. Note that **Xar'vion's Spear-use and the Lost Zenith both fall within the same Grand-Conjunction window** roughly ~10,000 years ago — Xar'vion used the Spear early in the window; the Lost Zenith was the Black Hand's failed attempt to recover it during the same window (or a closely-adjacent window of the cycle), in the decades preceding which they engineered the Crusade as cover.
 
 ## Astronomical Mechanics
 
@@ -54,7 +54,7 @@ The [[black-hand|Black Hand]] has spent ten thousand years preparing to deliver 
 2. The Spear be brought into Xar'vion's line of sight or grasp
 3. Both to occur during the Grand Conjunction
 
-If successful, Xar'vion would undergo a second apotheosis layered over his first â€” a recursive ascension never before attempted. The Black Hand believes this would make him uncontainable.
+If successful, Xar'vion would undergo a second apotheosis layered over his first — a recursive ascension never before attempted. The Black Hand believes this would make him uncontainable.
 
 Their hidden maxim: *"What bound the First Crown shall break upon the Second."* (source: Playground generation 2nd part.txt)
 

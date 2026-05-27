@@ -9,9 +9,9 @@ knowledge_access: [common]
 
 # The Lost Zenith
 
-**Summary**: The Lost Zenith is the [[black-hand|Black Hand's]] secret name for the previous [[grand-conjunction|Grand Conjunction]] roughly **9,000â€“10,000 years ago**, when their plan to retrieve the [[spear-of-crystallized-entropy|Spear]] for [[xarvion|Xar'vion]] failed â€” though their secondary operation, the [[anti-magic-crusade|Anti-Magic Crusade]] (preceded by the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up), succeeded catastrophically.
+**Summary**: The Lost Zenith is the [[black-hand|Black Hand's]] secret name for the previous [[grand-conjunction|Grand Conjunction]] roughly **9,000–10,000 years ago**, when their plan to retrieve the [[spear-of-crystallized-entropy|Spear]] for [[xarvion|Xar'vion]] failed — though their secondary operation, the [[anti-magic-crusade|Anti-Magic Crusade]] (preceded by the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up), succeeded catastrophically.
 
-**Sources**: Playground generation 2nd part.txt, Black hand revised.txt; user direction 2026-05-15 (Crusade timeline shift from ~5,000 ya to ~9,000â€“10,000 ya; previous GC anchor updated accordingly).
+**Sources**: Playground generation 2nd part.txt, Black hand revised.txt; user direction 2026-05-15 (Crusade timeline shift from ~5,000 ya to ~9,000–10,000 ya; previous GC anchor updated accordingly).
 
 **Last updated**: 2026-05-15
 
@@ -19,9 +19,9 @@ knowledge_access: [common]
 
 ## Overview
 
-Five thousand years ago, during the previous [[grand-conjunction|Grand Conjunction]], the [[black-hand|Black Hand]]'s Inner Hand mounted a major operation to fulfill their long-running mission: deliver the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] to the Icon-bound [[xarvion|Xar'vion]] at the conjunction. The Inner Hand entertained â€” and still entertains â€” two speculative outcomes for what the Spear would do for Xar'vion: a modest *freeing-only* (the Spear unmakes the Icon-binding) or an ambitious *second ascension* (a second pull of Source-power raising Xar'vion above the Elder Gods, which would also free him as a side effect). Neither possibility was, or is, known to be mechanically possible â€” but the operational target is identical for both: get the Spear to him at the right time. See [[black-hand]] for the full speculation and for the inner-purpose phase history.
+Five thousand years ago, during the previous [[grand-conjunction|Grand Conjunction]], the [[black-hand|Black Hand]]'s Inner Hand mounted a major operation to fulfill their long-running mission: deliver the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] to the Icon-bound [[xarvion|Xar'vion]] at the conjunction. The Inner Hand entertained — and still entertains — two speculative outcomes for what the Spear would do for Xar'vion: a modest *freeing-only* (the Spear unmakes the Icon-binding) or an ambitious *second ascension* (a second pull of Source-power raising Xar'vion above the Elder Gods, which would also free him as a side effect). Neither possibility was, or is, known to be mechanically possible — but the operational target is identical for both: get the Spear to him at the right time. See [[black-hand]] for the full speculation and for the inner-purpose phase history.
 
-That core objective failed. But their parallel cover operation â€” the [[anti-magic-crusade|Anti-Magic Crusade]] â€” succeeded with civilizational consequences.
+That core objective failed. But their parallel cover operation — the [[anti-magic-crusade|Anti-Magic Crusade]] — succeeded with civilizational consequences.
 
 The Black Hand secretly remembers this conjunction as **the Lost Zenith**: the failed apex, the moment when their long preparation came to nothing on its central goal. Outside the cult, the era is remembered through its public catastrophes. (source: Playground generation 2nd part.txt)
 
@@ -33,7 +33,7 @@ The Black Hand's plan at the Lost Zenith had two simultaneous layers:
 - Find the Spear (which had remained where it was hidden since [[xarvion|Xar'vion's]] defeat 10,000 years ago)
 - Reach [[xarvion|Xar'vion's]] [[icons|Icon]]
 - Bring the Spear into contact with the Icon during the Grand Conjunction
-- Begin the Second Crown â€” a recursive ascension layered over Xar'vion's first
+- Begin the Second Crown — a recursive ascension layered over Xar'vion's first
 
 ### Public Catastrophe
 - Provoke, guide, and weaponize a crusade against [[windspeakers|Netharim]]
@@ -67,7 +67,7 @@ To conceal their Spear search and weaken opposition, the Black Hand engineered o
 
 - Three of seven [[windspeakers|Windspeakers]] were killed under false demonic accusations
 - Three of seven Weave conduits ruptured
-- The [[thousand-year-dimming|Thousand-Year Dimming]] began â€” no spell above the Fifth Circle could be cast for a thousand years
+- The [[thousand-year-dimming|Thousand-Year Dimming]] began — no spell above the Fifth Circle could be cast for a thousand years
 - High magic collapsed globally rather than regionally
 
 The Crusade was both a primary failure (the Spear was not retrieved) and a strategic victory (the world's high-magic defenses were crippled for a millennium). See [[anti-magic-crusade]] and [[thousand-year-dimming]]. (source: Playground generation 2nd part.txt)
@@ -84,7 +84,7 @@ The Lost Zenith failure caused internal Black Hand purges:
 
 (source: Playground generation 2nd part.txt)
 
-The cult emerged from the Lost Zenith chastened but more focused. Their entire culture became built around calendrical obsession â€” every initiate now learns timing alongside doctrine. They do not say "Someday." They say "At the next opening." (source: Playground generation 2nd part.txt)
+The cult emerged from the Lost Zenith chastened but more focused. Their entire culture became built around calendrical obsession — every initiate now learns timing alongside doctrine. They do not say "Someday." They say "At the next opening." (source: Playground generation 2nd part.txt)
 
 ## Why Breaking the Weave Helped Them Long-Term
 
@@ -111,7 +111,7 @@ A White Palm saying captures the irony:
 
 ## Modern Implications
 
-The Lost Zenith taught the Black Hand patience. They will not squander the next cycle. Modern Black Hand activity in the lead-up to the present Grand Conjunction is therefore far more careful than 9,000â€“10,000 years ago â€” but they are also closer than ever to identifying the Spear's true hiding place.
+The Lost Zenith taught the Black Hand patience. They will not squander the next cycle. Modern Black Hand activity in the lead-up to the present Grand Conjunction is therefore far more careful than 9,000–10,000 years ago — but they are also closer than ever to identifying the Spear's true hiding place.
 
 If the Spear is found and brought before [[xarvion|Xar'vion's]] Icon during the next conjunction, the catastrophe of the Lost Zenith will look minor by comparison.
 

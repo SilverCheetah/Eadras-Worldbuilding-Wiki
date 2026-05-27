@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Origin
 
-Dragonfolk were created by [[dragons|dragonkind]] in response to the appearance of the humanoid races (source: Dragons.txt, line 53). Unlike the descendant races created by [[the-three|the Three]]'s progenitor races (which are biological devolutions of engineered servant stock), dragonfolk are **direct draconic creations** â€” a deliberate answer to the spread of humanoids into territory dragons had previously dominated alone.
+Dragonfolk were created by [[dragons|dragonkind]] in response to the appearance of the humanoid races (source: Dragons.txt, line 53). Unlike the descendant races created by [[the-three|the Three]]'s progenitor races (which are biological devolutions of engineered servant stock), dragonfolk are **direct draconic creations** — a deliberate answer to the spread of humanoids into territory dragons had previously dominated alone.
 
 The defining feature of dragonfolk is shared draconic ancestry, not a single body plan: they range from the smallest [[kobolds|kobolds]] up through the largest [[dragonborn|dragonborn]], and outward into [[lizardfolk|lizardfolk]] and the explicitly NPC-only [[snakefolk|snakefolk]].
 
@@ -43,7 +43,7 @@ This means the **Lizard People** subtree is the playable face of the umbrella, w
 
 ## Relations to Dragons
 
-All dragonfolk are draconic in origin but are **not counted in the [[runeswords|Treaty of Ratharil]] cap of 999,999 dragons**. The cap applies only to true dragons of the nine color clans. Dragonfolk are kin in lineage but separate as a population â€” and the modern reclusive dragons rarely involve themselves directly in dragonfolk affairs.
+All dragonfolk are draconic in origin but are **not counted in the [[runeswords|Treaty of Ratharil]] cap of 999,999 dragons**. The cap applies only to true dragons of the nine color clans. Dragonfolk are kin in lineage but separate as a population — and the modern reclusive dragons rarely involve themselves directly in dragonfolk affairs.
 
 Some dragonfolk lineages claim affinity with specific [[dragons|dragon clans]] (Red, Blue, Green, Purple, Black, White, Copper, Silver, Gold), and rarely an elder dragon will take quiet interest in dragonfolk descended from "their" stock. This is informal and does not produce coherent clan structures across the dragonfolk population.
 

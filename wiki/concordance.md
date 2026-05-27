@@ -19,13 +19,13 @@ knowledge_access: [common]
 
 ## Overview
 
-Concordance is an overwhelmingly vast plane â€” roughly 20,000 km across â€” ringed by massive mountains. The [[bastion-of-light]] sits at its absolute center, surrounded by [[nexus]].
+Concordance is an overwhelmingly vast plane — roughly 20,000 km across — ringed by massive mountains. The [[bastion-of-light]] sits at its absolute center, surrounded by [[nexus]].
 
 All the other Outer Planes encircle Concordance. The presence of the [[omniversal-creator]] (or at least his [[bastion-of-light]]) keeps [[chaos]] back far enough that no enclosing shell is needed.
 
 ## Environment
 
-Concordance contains every environment imaginable â€” and many that are not. Sections of the plane shift on an unpredictable schedule. However, shifts are always to a place with **similar resources**: farmland shifts to farmland or fishing waters, never to barren desert. Those who make their living in a place can always continue to do so after a shift.
+Concordance contains every environment imaginable — and many that are not. Sections of the plane shift on an unpredictable schedule. However, shifts are always to a place with **similar resources**: farmland shifts to farmland or fishing waters, never to barren desert. Those who make their living in a place can always continue to do so after a shift.
 
 ## Population
 

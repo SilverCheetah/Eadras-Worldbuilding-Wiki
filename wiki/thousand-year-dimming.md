@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Overview
 
-After the [[black-hand|Black Hand]] engineered the [[anti-magic-crusade|Anti-Magic Crusade]] roughly **9,000â€“10,000 years ago** â€” in the decades immediately preceding the previous [[grand-conjunction|Grand Conjunction]], following the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up â€” three of the seven [[windspeakers|Windspeakers]] were killed and three of the seven Weave conduits ruptured. The Weave could no longer carry complex high-density magical structures.
+After the [[black-hand|Black Hand]] engineered the [[anti-magic-crusade|Anti-Magic Crusade]] roughly **9,000–10,000 years ago** — in the decades immediately preceding the previous [[grand-conjunction|Grand Conjunction]], following the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up — three of the seven [[windspeakers|Windspeakers]] were killed and three of the seven Weave conduits ruptured. The Weave could no longer carry complex high-density magical structures.
 
 For approximately one thousand years, no mortal spell above the **Fifth Circle** could be cast in Eadras. This era is called the **Thousand-Year Dimming**, also remembered as:
 
@@ -118,7 +118,7 @@ While most of the world suffered, certain peoples adapted or thrived:
 - **Gnomish magitek** had to become more efficient and less dependent on high-energy spells
 - **Dwarven engineering** rose in prestige
 - **Orcish caravan networks** became essential because teleportation and high transport magic failed
-- **Dragons** became disproportionately valuable as mercenaries â€” their innate elemental power was not capped the same way as mortal Weave spellcasting (formal dragon spellcasting through the Weave was affected, but their breath, body-magic, and ancient Source-born nature were not)
+- **Dragons** became disproportionately valuable as mercenaries — their innate elemental power was not capped the same way as mortal Weave spellcasting (formal dragon spellcasting through the Weave was affected, but their breath, body-magic, and ancient Source-born nature were not)
 - **Unicorn psionics** gained political importance because psionics is not fully dependent on the Weave
 
 (source: Playground generation 2nd part.txt)
@@ -129,7 +129,7 @@ Some species dependent on high ambient magic declined. Others adapted. Some dorm
 
 ## Lirra's Response
 
-[[lirra|Lirra]] could not simply remake the Weave instantly. The Weave is vast â€” it interfaces with ley lines, Source-reflected [[eldritch|Eldritch]], mortal minds, spell traditions, conduits, and planar boundaries. Repair required:
+[[lirra|Lirra]] could not simply remake the Weave instantly. The Weave is vast — it interfaces with ley lines, Source-reflected [[eldritch|Eldritch]], mortal minds, spell traditions, conduits, and planar boundaries. Repair required:
 
 - Surviving Lirran priesthoods
 - Mortal mages
@@ -155,12 +155,12 @@ A Lirran lament from that age:
 
 Netharim culture from this era still echoes today. Possible terms preserved from the Dimming:
 
-- **Ash-Born** â€” descendants of crusade survivors
-- **Quiet Towers** â€” prisons where Netharim were suppressed
-- **The Brand of Unweaving** â€” mark burned onto accused Netharim
-- **Hidden Blood Houses** â€” lineages that concealed Netharim inheritance
-- **The Lantern Roads** â€” escape routes used to move Netharim to safe territories
-- **Fifth-Circle Orphans** â€” children born during the Dimming with magic no one knew how to train safely
+- **Ash-Born** — descendants of crusade survivors
+- **Quiet Towers** — prisons where Netharim were suppressed
+- **The Brand of Unweaving** — mark burned onto accused Netharim
+- **Hidden Blood Houses** — lineages that concealed Netharim inheritance
+- **The Lantern Roads** — escape routes used to move Netharim to safe territories
+- **Fifth-Circle Orphans** — children born during the Dimming with magic no one knew how to train safely
 
 (source: Playground generation 2nd part.txt)
 
@@ -168,7 +168,7 @@ Some states protected Netharim. Some temples hid them. Some dragon patrons shelt
 
 ## Recovery and Modern Legacy
 
-The Weave was eventually repaired enough for high magic to return â€” but not to its former strength. Repair created a second architecture over the first. Modern magic bears scars:
+The Weave was eventually repaired enough for high magic to return — but not to its former strength. Repair created a second architecture over the first. Modern magic bears scars:
 
 - Spells above Fifth Circle are possible again, but harder
 - High magic requires more formal safeguards
@@ -180,7 +180,7 @@ The Weave was eventually repaired enough for high magic to return â€” but n
 
 (source: Playground generation 2nd part.txt)
 
-This is why modern Eadras is not as magically grand as the immediate post-[[demon-war|Demon War]] age. Magic is pervasive but degraded compared to its height. The world remembers high magic the way it remembers lost empires â€” through ruins, forbidden spells, and impossible stories.
+This is why modern Eadras is not as magically grand as the immediate post-[[demon-war|Demon War]] age. Magic is pervasive but degraded compared to its height. The world remembers high magic the way it remembers lost empires — through ruins, forbidden spells, and impossible stories.
 
 ## Lirran Reform
 
