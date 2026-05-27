@@ -10,6 +10,34 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-27 — Repo hygiene cleanup (Phase 1 + 2 audit) and source/image externalization
+
+User direction: *"clean up my mess, however is best to do so"* — after moving large `raw/` sources to the external `D:\Worldbuilding\Chat Logs` archive and image originals to `D:\Worldbuilding\images-backup`. Executed the full Phase-1/2 mechanical cleanup from the 2026-05-27 audit (`solutions/`), committed as 12 atomic, independently-revertable commits on `main` and pushed to GitHub.
+
+### File / repo housekeeping
+
+- **Externalized `raw/`** — committed the 263 source-document deletions (recoverable from history at `857a096`); added `raw/` and `generated/` to `.gitignore`; added `.gitattributes` (`*.md text eol=lf`).
+- **Compressed images** — 8 large PNGs recompressed via pngquant (~35 MB → 17 MB); uncompressed originals retained in `images-backup` outside the repo.
+- **Added `solutions/` tooling** + `bundle_for_ai.py` + `Audit_Prompt.md` as reproducible reference.
+
+### Mechanical canon-integrity fixes
+
+- **Mojibake sweep** — repaired 5,892 UTF-8→cp1252→UTF-8 corruption markers (`â€` / `â†` …) across 227 pages via `ftfy`. Zero remaining.
+- **`unicorns.md`** — replaced the corrupted 2,400-line / 411 KB file (mythic-voice section duplicated 262×) with the cleaned 312-line version.
+- **`system-governance.md` §6** — finalized the now-under-git workflow; removed the stacked `## 6.` header and 5 stray self-anchor lines.
+- **Table-cell wikilinks** — escaped 186 alias-pipes (`[[slug\|Display]]`) across 34 pages so Obsidian tables render correctly.
+- **`peoples-of-eadras.md`** — rebuilt the broken Original Races table as a clean 3-column Race / Creator / Notes table (37 rows).
+- **`celestia.md` / `aramet.md`** — stripped leading garbage (191 lone-CR + 192 B before frontmatter; 1 B) so YAML frontmatter starts at line 1.
+- **Deprecated-stub Related-list refs** — removed 5 links to `[[dashar]]` / `[[heart-of-the-goddess]]` from `conduit-cities.md`, `lirra.md`, `voroik.md`.
+- **Typo / rename wikilinks** — `velrathi-tea-tradition→velrathi-tea-culture`, `ascended-mortal-deities-mechanism→apotheosis`, `order-sworn-sorcerers→order-sworn-netharim`; renamed the first duplicate `## Naming` in `dwarves.md` to `## Etymology`.
+
+### Left for authorial decision (NOT auto-changed)
+
+- **Heart-of-the-Goddess as a *place*** — 5 body-text references (`eras.md:45`, `lirra.md:102`, `lirra.md:161`, `rpg/closed-time-bubble.md:30`, `voroik.md:44`) and 2 mechanism references (`lirra.md:89`, `lirra.md:116` Da'shar table row). The 2026-05-14 deprecation retired the sorcerer-transmutation *mechanism*, not the place; keep-as-historical vs rename vs remove is an open authorial call.
+- Phase 3 missing-page decisions (`demonfall-gate`, `bold-republic`, …) and Phase 4 content development remain open.
+
+---
+
 ## 2026-05-16 (sixth) — CLAUDE.md ↔ system-governance.md reconciliation
 
 User direction: *"reconcile."* The 2026-05-16 system-governance.md ingest (entry "fifth" below) created an in-wiki rule-set that overlapped with the long-standing `CLAUDE.md` project-instructions file; both claimed to be canonical for wiki rules. This entry resolves the dual-authority problem and migrates content.
