@@ -13,7 +13,7 @@ knowledge_access: [meta]
 
 **Sources**: Direct codification of established practice across 273 pages of `wiki-export-2026-05-15.md`; the `wiki/_sealed/README.md` sealed-folder rules; the `wiki/naming-conventions.md` morphology canon; the `wiki/protocols/` protocol-page conventions; user direction 2026-05-15 (governance canonization, AP system, multi-calendar architecture, plugin integration). 2026-05-16 reconciliation pass with `CLAUDE.md` (axes block, OOC tonal-references block, schema exceptions, renames-and-aliases, source-to-wiki ingest workflow, question-answering, lint, citation format, backups-and-exports section, no-`sed` rule).
 
-**Last updated**: 2026-05-16
+**Last updated**: 2026-05-27
 
 ---
 
@@ -501,35 +501,63 @@ When canon shifts in the wiki, the relevant protocol(s) under `wiki/protocols/` 
 
 ---
 
-## 6. Backups and Exports
+## 6. Backups and Recovery
 
-The wiki is **not under git**. The `wiki-export-YYYY-MM-DD.md` file at the repository root is the only cross-file recovery mechanism. The export is a single concatenated file containing every wiki page separated by `=== / FILE: wiki/<name> / ===` delimiter blocks; it can be split back into individual files via `split_export.py`.
 
-### Two outputs per export run
+The wiki is **under git** at https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki (public repo). Every commit is a snapshot; full revision history is preserved on the local disk and on GitHub's servers. The repo is the single source of truth and the canonical backup mechanism.
 
-`generate_export.py` (locked 2026-05-11) produces **two** files every run:
+### Commit discipline
 
-- **`wiki-export-YYYY-MM-DD.md`** — *full*. Includes everything under `wiki/`: canon, `_sealed/`, `rpg/`, `protocols/`, reference/meta pages, and `log.md`. This is the canonical backup and the file trusted users receive. One per day; same-day re-runs overwrite silently.
-- **`wiki-export-YYYY-MM-DD-public.md`** — *public*. Stripped for sharing with external AI collaborators. Excludes `wiki/_sealed/*` (sealed plot-spine), `wiki/log.md` (operational changelog), `wiki/index.md` (TOC), and `wiki/inspirations.md` (OOC real-world touchstones). Keeps all in-universe canon plus `tags.md`, `naming-conventions.md`, `open-questions.md`, `worldbuilding-needs.md`, this document, `calendar.md`, and the entire `wiki/rpg/` and `wiki/protocols/` subfolders.
 
-Stripping happens at **export-generation time**, not at share time — there is no separate "remember to strip" step. Always share the `-public.md` file; never hand the unsuffixed full export to anyone outside the trusted circle.
+Commit at the end of any session that modified wiki content. Commit messages should describe the change at a useful granularity:
 
-`--full-only` and `--public-only` flags exist for single-output runs.
+- *"Add velveth-04-narrative-scenes; refine velveth.md gender-conflict section"*
+- *"Rename taran → tarans; sweep wikilinks; add aliases"*
+- *"Backfill calendar fields on Firethorn-era event pages"*
 
-### When to generate a fresh export
+Use the standard sync sequence after editing:
 
-- After any **large change session** that touched many pages or made schema-altering changes (rename sweeps, full-wiki backfills, multi-page retcons).
-- **Before closing down a session** if any wiki content has been modified that day, even on small sessions.
+git add -A
+git commit -m "<message>"
+git push
 
-### Restoring from an export
+A `[deprecated]` setting on a page is preserved automatically — git keeps the full history even when content is later rewritten.
 
-`split_export.py` reverses an export back into individual `wiki/*.md` files. Supports `--only-sealed` (extract only the sealed-folder pages) and `--fix-mojibake` (repair UTF-8 corruption on the way out). The 2026-05-10 incident — when a runaway `sed -i` destroyed every wiki page mid-session — was recovered from the previous day's export via this tool.
+### Restoring from disaster
+
+
+If the local working copy is lost, corrupted, or destroyed (drive failure, runaway sweep script, accidental deletion):
+
+1. **Clone the repo fresh**: `git clone https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki.git` into a working folder.
+2. **Verify the latest commit hash matches** what was last pushed — `git log -1`.
+3. **Re-enable Obsidian vault access** by opening the cloned folder as a vault.
+
+If a specific file was corrupted but the repo is intact, restore one file from history:
+git checkout HEAD -- wiki/<filename>.md
+
+To recover a file deleted in an earlier commit:
+git log --all --full-history -- wiki/<filename>.md
+git checkout <commit-hash> -- wiki/<filename>.md
+
+The 2026-05-10 incident — when a runaway `sed -i` destroyed every wiki file mid-session and required a full restore from a daily export — is no longer the recovery model. Git's revision history replaces the prior export-and-split workflow.
+
+### Retired export workflow
+
+
+The pre-git backup workflow used `generate_export.py` to produce a daily `wiki-export-YYYY-MM-DD.md` (full) and `wiki-export-YYYY-MM-DD-public.md` (sealed-stripped, for external-AI sharing), with `split_export.py` to reverse the export back into files for recovery. As of 2026-05-20, all three are retired:
+
+- The daily export is redundant with git commits.
+- The public export was too large for external AI sessions to consume usefully; pasting individual relevant pages, or pointing the AI at the public repo URL, is more efficient.
+- Recovery is `git clone`, not `split_export.py`.
+
+The scripts remain in the repo root for historical reference but should not be run.
 
 ### Cross-file edits and the no-`sed` rule
 
+
 For sweeps across many files (renames, terminology shifts, schema migrations), **always use the Python `str.replace`-based scripts at repo root**: `sweep_wikilinks.py`, `sweep_padded_links.py`, `verify_no_stale_slugs.py`, and topic-specific sweep scripts as they're added. Always run with `--dry-run` first; verify the change set before committing.
 
-**Never use `sed -i` or `awk -i`** for cross-file edits. The 2026-05-10 incident is the load-bearing reason: an in-place stream-editor regex destroyed every wiki file mid-session and required a full restore from the previous day's export. The Edit tool is fine for one-offs; Python sweep scripts are the cross-file equivalent.
+**Never use `sed -i` or `awk -i`** for cross-file edits. The 2026-05-10 incident is the load-bearing reason: an in-place stream-editor regex destroyed every wiki file mid-session and required a full restore. The Edit tool is fine for one-offs; Python sweep scripts are the cross-file equivalent. Git provides safety-net recovery if a sweep goes wrong: `git checkout -- .` reverts uncommitted damage; `git reset --hard HEAD~1` reverts a bad commit before push.
 
 ---
 
