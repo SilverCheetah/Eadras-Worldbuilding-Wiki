@@ -1,0 +1,3 @@
+# Normalize line endings to LF for all wiki markdown.
+# Prevents spurious CRLF/LF diffs when files are edited in Windows tools.
+*.md text eol=lf

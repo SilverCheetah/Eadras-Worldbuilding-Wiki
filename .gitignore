@@ -4,6 +4,14 @@ wiki-export-*.md
 # === Derived skill outputs (regenerable by re-running skills) ===
 derived/
 
+# === AI-ingestion bundles (regenerable via bundle_for_ai.py) ===
+generated/
+
+# === Externalized large source archive (originals live in D:\Worldbuilding\Chat Logs) ===
+# raw/ sources were moved out for iPhone-sync / repo-size reasons (2026-05-27).
+# Originals remain recoverable from git history at commit 857a096.
+raw/
+
 # === Python ===
 __pycache__/
 *.pyc
