@@ -10,6 +10,16 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-29 — Regenerated ai-index.md; documented it in governance §6
+
+Regenerated `wiki/ai-index.md` from `index.md`: 330 links converted, 1 unresolved.
+
+Also fixed a broken wikilink in `index.md`: the Festival of Broken Certainties is a section within `fallback-doctrine.md`, not a standalone page, so `[[festival-of-broken-certainties|…]]` was rewritten as a heading link `[[fallback-doctrine#Festival of Broken Certainties|…]]`. The one remaining unresolved link, `[[log]]`, is excluded from the index by design (`log.md` is not canon and is not self-listed).
+
+Documented the AI navigation index in `system-governance.md` §6 (Backups and Recovery): new subsection **"AI navigation index (`ai-index.md`)"** covering what `make_ai_index.py` generates, its governance-matching design constraints (source never modified; `_sealed/`/`templates/`/`log.md` excluded; bounded-regex parser), and the regenerate-after-editing-`index.md` workflow.
+
+---
+
 ## 2026-05-27 — Repo hygiene cleanup (Phase 1 + 2 audit) and source/image externalization
 
 User direction: *"clean up my mess, however is best to do so"* — after moving large `raw/` sources to the external `D:\Worldbuilding\Chat Logs` archive and image originals to `D:\Worldbuilding\images-backup`. Executed the full Phase-1/2 mechanical cleanup from the 2026-05-27 audit (`solutions/`), committed as 12 atomic, independently-revertable commits on `main` and pushed to GitHub.

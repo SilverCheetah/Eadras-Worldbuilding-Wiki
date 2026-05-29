@@ -336,7 +336,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[deep-vaults]] — Arathi-built repositories: 12 known on Eadras (5 opened, 7 sealed) plus +1 on the red moon Daj
 - [[arathi-geo-substrate]] — The Arathi did not build only crystals — they bio-engineered **living/semi-living earth-matter** in five clades (Saelith Choir, Veyruun Bone, Ishkara Vein, Thamrite Mirror, Oru-Sha War); pre-Cataclysm Eadras had no active plate tectonics; modern tectonic geography is itself a post-Cataclysm reorganisation of the substrate
 - [[vault-concordat]] — International framework agreement among Conduit-anchored polities governing Deep Vault opening, classification, and shared loss-of-recovery protocols
-- [[fallback-doctrine]] — Setting-wide principle: *no life-supporting system without mortal-scale fallback*; produces the Entropy Taboo and the [[festival-of-broken-certainties|Festival of Broken Certainties]] and the [[vault-concordat]] itself
+- [[fallback-doctrine]] — Setting-wide principle: *no life-supporting system without mortal-scale fallback*; produces the Entropy Taboo and the [[fallback-doctrine#Festival of Broken Certainties|Festival of Broken Certainties]] and the [[vault-concordat]] itself
 - [[unsealing-oath]] — Three-witnesses standard for opening a sealed vault: knowledge, consequence, the unborn
 - [[absence-traditions]] — Formal honest-no-memory theology: *we do not remember, and this too is true*; refuses invented continuity where the record genuinely failed
 - [[obsidian-sanctum]] — Sealed Arathi Deep Vault deep in Varkhul's Scorched Waste; the only sealed vault on dry land

@@ -552,6 +552,22 @@ The pre-git backup workflow used `generate_export.py` to produce a daily `wiki-e
 
 The scripts remain in the repo root for historical reference but should not be run.
 
+### AI navigation index (`ai-index.md`)
+
+
+GitHub serves wiki pages with their Obsidian `[[wikilinks]]` intact, and renders them as dead literal text — an AI agent or external reader landing on the public repo cannot follow them. `make_ai_index.py` (repo root) solves this by generating one committed file, `wiki/ai-index.md`:
+
+- It rewrites every `[[wikilink]]` in `index.md` into an absolute GitHub blob URL, preserving all categories and descriptions.
+- It appends a **Complete page manifest** — every canon page name → URL — so any `[[name]]` reference an agent meets mid-page resolves by lookup.
+
+Design constraints, matching this governance:
+
+- **Source is never modified**; only `wiki/ai-index.md` is written.
+- `_sealed/` (the one-way-linking rule), `templates/`, and `log.md` are excluded both as link targets and from the manifest.
+- The wikilink parser uses a **bounded regex** (character classes that cannot match `]`), so there is no runaway-expansion risk — in the spirit of the no-`sed` rule below.
+
+Regenerate after editing `index.md`, or before any push that changed canon structure: `python make_ai_index.py` (add `--dry-run` to preview). It prints a ready-to-paste `log.md` entry; append that to the TOP of `wiki/log.md` per §5. Unresolved links are left as readable plain text and reported — `[[log]]` is expected (the log is excluded by design); any *other* unresolved target is a real broken link in `index.md` and should be fixed at source. This is the file to point an external AI at on the public repo.
+
 ### Cross-file edits and the no-`sed` rule
 
 
