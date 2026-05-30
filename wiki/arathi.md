@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Arathi were an ancient pre-Cataclysm civilization of humanoid insect-reptile hybrids who dominated Eadras for ten million years, mastering magitech and crystalmancy before being annihilated in the [[arathi-cataclysm]].
 
-**Sources**: Arathis.txt, Playground generation 1st part.txt, Major changes to Arathi Capitol.txt, arathi image.txt, Eadras – Golden Age Map.txt, Crystalmancy.txt, Trolls.txt, Grug, Goblin, Arathi and Gnome naming conventions.txt, Eadras Cannon Expansion.txt; Arathi_01_InWorld_Facts.txt; Arathi_02_MetaCommentary.txt (2026-05-12 ingest).
+**Sources**: Arathis.txt, Playground generation 1st part.txt, Major changes to Arathi Capitol.txt, arathi image.txt, Eadras – Golden Age Map.txt, Crystalmancy.txt, Trolls.txt, Grug, Goblin, Arathi and Gnome naming conventions.txt, Eadras Cannon Expansion.txt; Arathi_01_InWorld_Facts.txt; Arathi_02_MetaCommentary.txt (2026-05-12 ingest); user direction 2026-05-29 (Arathi worldwalking; off-world survivor diaspora).
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-05-29
 
 ---
 
@@ -23,7 +23,7 @@ The Arathi were both a race and a civilization — humanoid reptile-insect hybri
 
 **In their own tongue they called themselves the Nerathi.** *Nerathi* is a word from their own naming conventions — see [[naming-conventions#arathi-naming|the Arathi naming pattern]] — and is the self-name preserved in their language and in surviving Arathi-era inscriptions. *Arathi* is how the modern Eadran world refers to them: a post-catastrophe outsider name worn smooth by ten million years of foreign tongues. Both forms are correct in their respective registers; the Tome and most modern scholarship use *Arathi*. (source: notes on various topics 2.txt)
 
-**The Arathi left no descendants.** Every last Arathi perished in the cataclysm or its aftermath. Their language became a fossil. Their cities became pressure-crushed labyrinths. Any later culture claiming Arathi descent is mistaken, fraudulent, religiously symbolic, or politically opportunistic. Two proverbs preserve the cultural memory: *"Every tyrant eventually discovers he is descended from Arath"* (used of any ruler whose ambition is felt to be unearned) and *"Proud as Arath before steam"* (used of complacency about permanence — of a person, faction, or civilization that has become certain its current order will last). The second proverb has effectively domesticated the Arathi catastrophe into everyday warning speech: cultures that say *"proud as Arath"* are using the Arathi as a teaching tool, and the trauma has accumulated into common wisdom. (source: Playground generation 1st part.txt; Arathi_01_InWorld_Facts.txt)
+**The Arathi left no descendants on Eadras.** Every Arathi *on the world* perished in the cataclysm or its aftermath. Their language became a fossil. Their cities became pressure-crushed labyrinths. Any later *Eadran* culture claiming Arathi descent is mistaken, fraudulent, religiously symbolic, or politically opportunistic. (A scattered few Arathi who were *off the world* when it broke survived as a world-less diaspora elsewhere in the [[omniverse|Omniverse]] — see [[#Worldwalkers and the off-world diaspora]] — but they founded nothing on Eadras and left no descendants here.) Two proverbs preserve the cultural memory: *"Every tyrant eventually discovers he is descended from Arath"* (used of any ruler whose ambition is felt to be unearned) and *"Proud as Arath before steam"* (used of complacency about permanence — of a person, faction, or civilization that has become certain its current order will last). The second proverb has effectively domesticated the Arathi catastrophe into everyday warning speech: cultures that say *"proud as Arath"* are using the Arathi as a teaching tool, and the trauma has accumulated into common wisdom. (source: Playground generation 1st part.txt; Arathi_01_InWorld_Facts.txt)
 
 ## The Race
 
@@ -125,6 +125,14 @@ The Arathi themselves carried no scar — they never survived long enough to dev
 The trauma was inherited by every civilization that came after. Modern Eadras is, in a real sense, a setting of second-generation survivors carrying someone else's pain. Every later culture is, somewhere beneath its surface, organized around the question *"how do we avoid becoming Arathi?"* — and around the contradictory drive that follows: an unconscious cultural ambition to recover Arathi-tier capacity while also unconsciously trying to prove the recovering civilization is not Arathi.
 
 The unconscious goal is **exoneration through achievement**. If a later civilization can hold Arathi-tier power without falling, it will have demonstrated that the problem was Arathi character, not the power itself. The danger is that the conditions for achievement and the conditions for Arathi-style fall are the same conditions — modern civilizations that climb toward the lost ceiling are necessarily the most exposed to repeating the catastrophe they are unconsciously trying to disprove. (source: Arathi_01_InWorld_Facts.txt; Arathi_02_MetaCommentary.txt)
+
+## Worldwalkers and the off-world diaspora
+
+The Arathi were not a sealed, single-world people. They were **[[planewalkers|worldwalkers]]** — a cosmopolitan civilization that crossed between [[mythos|Mythoi]], traded and travelled across the [[omniverse|Omniverse]], and kept a standing presence out in [[nexus|Nexus]] at the Omniverse's heart. Worldwalking was woven into their civilization: outsiders from other Mythoi were a familiar sight in Arathi cities, and Arathi were a familiar sight abroad. As Eadras-origin walkers they carried the full [[planewalkers#The Eadras advantage|2–4× planewalker amplification]] wherever they went.
+
+This has one quiet, devastating consequence for the [[arathi-cataclysm|Cataclysm]]. Everyone *on the world* died (save the hibernating [[trolls|trolls]] and the already-ascended [[ixthal|Ixthal]]). But a scattered few Arathi were **off the world entirely** when it broke — abroad in other Mythoi, in transit across the [[concordance|Concordance]], or resident in [[nexus|Nexus]]. Those individuals were not there to die, and so they did not.
+
+What survives is therefore not a people but a **world-less diaspora**: individual Arathi, scattered thin across the Omniverse, who outlived their entire civilization and have no home to return to. They are long-lived, and the Omniverse is wide; a few may persist even into the modern era. They are not a continuing lineage — they founded nothing on Eadras and left no descendants here — and their existence does not soften the [[#Inherited trauma|absoluteness of the on-world extinction]]. If anything it sharpens it: they *are* the absence, made flesh and set wandering, each one carrying a dead world's golden age in personal memory with nowhere to set it down. (User direction 2026-05-29.)
 
 ## Remnants
 

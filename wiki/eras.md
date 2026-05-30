@@ -13,7 +13,7 @@ knowledge_access: [meta]
 
 **Sources**: Grok Chat 5-8-26.txt; HighArathiCampaign_01_InWorld_Facts.txt (2026-05-12 ingest, "High Arathi Era" alias).
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-05-29
 
 ---
 
@@ -44,7 +44,7 @@ The four chosen eras all share the qualities that make a setting playable: enoug
 - The only era where mortal civilization has access to true [[crystalmancy|living crystalmancy]], untruncated. Modern characters cannot match it; this is the original.
 - High-level play is built into the environment. A party with the right magitek and conduit access can step into the [[concordance|Concordance]], walk into the [[heart-of-the-goddess|Heart of the Goddess]], stroll through the [[nexus|Nexus]] like downtown, or drop into [[limina|Limina]] without leaving the city.
 - The world is **tectonically still** — fixed, eternal, predictable continental layout. No plate tectonics, no continental drift. The [[seven-conduits|conduits]] sit exactly where the Arathi expect them to. (The world is not, however, geologically dead: earthquakes are a constant low-level background and the subterranean hydrological cycle is active. The Arathi simply have no concept that the continents themselves could move at scale.)
-- [[dragons|Dragons]] and [[unicorns|unicorns]] are present, not yet ascendant; the [[great-exchange|Great Exchange]] runs in the background.
+- The [[arathi|Arathi]] are the **only sapient race**, alongside their [[arathi-servitors|engineered servitor lineages]] (the [[trolls|trolls]] and the rest). [[dragons|Dragons]] and [[unicorns|unicorns]] **do not exist yet** — the first dragons wake ~8 mybp, roughly two million years *after* the Cataclysm — and none of the later peoples exist either. The world is Arathi, and Arathi-made. The Arathi are themselves [[planewalkers|worldwalkers]], so this golden age is cosmopolitan and multiversally connected rather than isolated.
 - [[kudur-etir|Kudur-eá¹­ir]] is a child or unborn somewhere in the empire. The end is approaching that no character knows is coming.
 
 **Central tension**: dramatic irony. The players know what's coming. The Arathi do not.
@@ -114,7 +114,7 @@ Several things are present in all four eras and serve as anchors for players mov
 
 - **The [[seven-conduits|seven conduits]]** are eternal, magical, and unmoving relative to the planet's core. They predate even the Arathi. Across all four eras, the conduit termini are where civilizations cluster — though after the Cataclysm, the surface positions of the termini shifted relative to the land above (the conduits stayed where they were while the crust slid).
 - **The [[gods-of-eadras|Elder Gods]]** exist throughout, though their level of direct intervention varies dramatically. They are most direct in the Crystalline Age and least direct in the Modern Era (per the [[doctrine-of-unheld-hand|Doctrine of the Unheld Hand]]).
-- **[[dragons|Dragons]] and [[unicorns|unicorns]]** are present in three of the four eras (all but a hypothetical post-Cataclysm draconic-only era that the four-era structure does not support). They are sentient lifelong learners, not background creatures.
+- **[[dragons|Dragons]] and [[unicorns|unicorns]]** are present in three of the four eras — the High Firethorn Era, the Demon War, and the Modern Era — but **not the Crystalline Age**, which predates their existence entirely (the first dragons wake ~8 mybp, roughly two million years after the Cataclysm). They are sentient lifelong learners, not background creatures.
 - **The [[tome-of-baldaran|Tome of Baldaran]]** has chronicled all four eras (and a fair amount of pre-Crystalline-Age history besides). Whatever the players do, it is, in some sense, in the book.
 
 ---

@@ -13,7 +13,7 @@ knowledge_access: [scholarly]
 
 **Sources**: eadras-planewalker-strength-and-sacrifice-method-2026-05-11.txt; cross-referenced against [[gods-of-eadras]], [[primordial-duo]], [[bastion-of-light]].
 
-**Last updated**: 2026-05-11
+**Last updated**: 2026-05-29
 
 ---
 
@@ -42,6 +42,8 @@ The advantage applies regardless of whether the Eadras-origin being is divine, m
 ## What this means in practice
 
 Most Eadrasi never encounter the multiplier because most Eadrasi never planewalk. The capacity is too rare. But for the very small number who do — for the dispatched [[seraphim|Seraphim]] sent on cross-Mythos errands, the rare mortal scholars whose study or artifacts permit a crossing, the artifact-bearers who acquire one of the seldom-discovered cross-Mythos instruments, the Tarran exiles whose ancestors crossed into [[gaia|Gaian]] reflections — the 2–4x amplification is a real and recurring feature of their experience outside Eadras.
+
+The great historical exception to Eadrasi planewalking rarity was the ancient [[arathi|Arathi]]. The First Civilization crossed between [[mythos|Mythoi]] as a matter of course, traded across the Omniverse, and kept a presence in [[nexus|Nexus]] — and because a scattered few of them happened to be off-world when the [[arathi-cataclysm|Cataclysm]] struck, those individuals survived it. They persist as a **world-less Arathi diaspora**, still carrying the full 2–4x amplification wherever they wander, and may be encountered even in the modern era. See [[arathi#Worldwalkers and the off-world diaspora]].
 
 In other Mythoi, the experience of meeting a planewalker who came from Eadras is recognisably different from meeting any other kind of planewalker. The Eadrasi are *larger* in the cosmic sense — they push harder against the world around them, their spells work more readily, their physical persons hold up under pressures that would break locals of their tier. Cosmologically-curious scholars in those Mythoi sometimes notice the pattern and theorise about its origin; in most Mythoi, they have no way to verify the theory because they themselves cannot reach Eadras to look.
 

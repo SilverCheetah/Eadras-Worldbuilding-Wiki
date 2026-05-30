@@ -10,6 +10,24 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-29 — Arathi worldwalking + off-world diaspora; Crystalline-Age race correction
+
+User direction (2026-05-29), arising while compiling an OOC doomed-intervention scenario brief (`derived/scenarios/the-first-exception.txt`, not canon). Two canon corrections promoted into the wiki.
+
+**1. The Arathi were worldwalkers; an off-world diaspora survived the Cataclysm.** The Arathi were a cosmopolitan, multiversally-connected civilization ([[planewalkers]]) who crossed between Mythoi and kept a presence in [[nexus|Nexus]]. A scattered few who were off-world when the [[worldender|Worldbreaker]] fell survived as a **world-less diaspora** across the [[omniverse|Omniverse]], possibly persisting into the modern era. They are not a lineage and left no descendants on Eadras; the **on-world extinction remains absolute**. Edits:
+- `arathi.md` — new section *Worldwalkers and the off-world diaspora*; scoped the "left no descendants / every last Arathi perished" claim to *on Eadras*.
+- `arathi-cataclysm.md` — scoped the partial-extinction point and the Survivors section to *on Eadras*, with the off-world caveat.
+- `post-cataclysm-fauna.md` — scoped the Drowned-Continuities rebuttal to *on Eadras*.
+- `planewalkers.md` — added the Arathi as the great historical exception to Eadrasi planewalking rarity, plus the surviving diaspora.
+
+**2. Crystalline-Age race correction.** Dragons and unicorns do **not** exist in the Crystalline Age — the first dragons wake ~8 mybp, roughly two million years *after* the Cataclysm. In that era the [[arathi|Arathi]] are the only sapient race, alongside their [[arathi-servitors|engineered servitor lineages]]. Fixed two lines in `eras.md` (the Crystalline-Age flavor bullet and the muddled cross-era-constants parenthetical), resolving a standing timeline contradiction.
+
+Brief-side only (not canon): corrected the outer-realm currency mechanic in the scenario brief — **any** magic user can mint the coin (a very-high-power spell that exhausts mortals almost instantly; coins are condensed power, hence the energy boost a spirit gets from consuming one); the goddess of magic ([[lirra|Lirra]]) has effectively unlimited headroom but restrains herself to avoid wrecking the outer-realm economy.
+
+**Protocol drift note:** `wiki/protocols/core-canon-and-thematic-principles.md` touches timeline and Arathi material; a drift check / regeneration may be warranted but was not done in this pass.
+
+---
+
 ## 2026-05-29 — Regenerated ai-index.md; documented it in governance §6
 
 Regenerated `wiki/ai-index.md` from `index.md`: 330 links converted, 1 unresolved.

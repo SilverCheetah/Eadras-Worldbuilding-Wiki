@@ -97,7 +97,7 @@ The fauna above are real. The following are *not* real, despite what folk tradit
 
 - **Arathi ghosts in the modern sense** — no Arathi person survives as spirit, shade, or revenant. The Lantern Dead and Pressure Echoes are imprints, not spirits. (See [[arathi-cataclysm#All Arathi died — the extinction was absolute]] and [[ixthal]] for the one ascended survivor.)
 - **Surviving Altean wildlife** — Altea was annihilated. Nothing biological from the impact city survived.
-- **Submerged Arathi as a people** — the Drowned Continuities (sealed undersea vault-cities preserving Arathi populations) were briefly proposed by historians and conclusively rejected. Every last Arathi perished.
+- **Submerged Arathi as a people** — the Drowned Continuities (sealed undersea vault-cities preserving Arathi populations) were briefly proposed by historians and conclusively rejected. Every last Arathi *on Eadras* perished; no submerged population survived. (Off-world Arathi survivors, abroad in the Omniverse when the world broke, are a separate matter — see [[arathi#Worldwalkers and the off-world diaspora]].)
 - **Bathyric Mandate as currently-confirmed canon** — proposed as creature, polity, or both; status deferred. See [[open-questions]].
 
 The post-Cataclysm fauna are the world's *new* answer to the Drowning, not its memory of what drowned.
