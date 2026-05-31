@@ -10,6 +10,30 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-31 — Map-session ingest: modern world map, Halaran, oceanic Weave-magic
+
+Ingested `EADRAS WORLDBUILDING — MAP SESSION.txt` (working session: climate, tectonics, continent layout, antipodes, oceanic Weave-magic). User decisions before writing: record as **established canon**; **adopt the oceanic-magic reframe fully**; **the 14 conduit ends already include the oceanic conduits**; **new dedicated world-map page**.
+
+**Two new pages:**
+- `eadras-world-map.md` — the equirectangular dragon-memory map (2048×1024, 1°=5.689px); coordinate system with the **Prime Meridian through the [[worldbreaker-scar|Worldbreaker Scar]]**; antipode rule; planetary climate model (Earth-analog latitude bands, ~70% ocean → milder/wetter; **NH gyres clockwise, SH counterclockwise**); geocentric astronomy that reproduces tilted-sphere climate identically; tectonic assembly to the modern arrangement; marked-coordinate/antipode table.
+- `halaran.md` — the large **eastern continent** where the majority of peoples live; fused from two pole-crossing fragments; **volcanic Collision Range** across the middle; regions (Northern Mountains/Ratharil, Collision Range Shada'din-and-gnome industry, arid orc steppe, forested mid-west Demonfall/Kharathen, temperate heartland, Azure Basin bay); gyre-driven coastal temperatures.
+
+**Placements added (consistent gap-fills):** Ratharil → northern Halaran (~58°N, coord ~1332,190), antipode on the Dark Continent; Dragon Empire → **northwestern continent**, tropical-south capital, "far east" reframed as an in-world directional, shares the landmass with the Verdant Scar, thriving-young-dragons vs faded-ancient-eras + generational fault line (young→Empire, elder→Ratharil); Verdant Scar → northwestern continent (coord ~151,385), antipode = ruined Crusade Tower on Halaran at (1175,639); Demonfall Marches + Kharathen → forested mid-west Halaran; Bold → **warm west coast of Halaran**, antipode is open ocean (corrects/drops the speculative Bold↔Scar pairing; Far-Kin still open).
+
+**Azure Basin (`[CHANGE]`):** open geography **resolved** — the Basin is Halaran's warm, enclosed far-eastern bay (an arm of the Arathalassic, ringed by the Collision Range); Venethar and the Amunorian diaspora pinned to Halaran.
+
+**Oceanic-magic reframe (`[CHANGE]`, adopted fully):** the five Modern Oceanic Races ([[merrow|Merrow]], [[sirens|Sirens]], [[shimmercloaks|Shimmercloaks]], [[ink-lords|Ink Lords]], [[tideclad|Tideclad]]) are now a **Weave-magical power** — oceanic [[netharim|Netharim]] (a branch of the same tradition, race-flavored: growth/ecology, resonance, memory/mind, story/archive, force/current), and **three of the fourteen conduit ends are submarine conduit-cities** with oceanic [[order-sharanel|Towers of Lirra]] (grown coral + [[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]]). Conduit-count reconciliation per user ruling (**14 already includes the oceanic ends**): **14 = 1 Verdant Scar + 7 surviving Towers (3 submarine + 4 surface incl. Bold) + 6 Crusade-destroyed** — and the three submarine Towers **survived the Crusade intact** precisely because the surface persecution could not reach the seafloor, which is part of why a full seven endured. Edited: `order-sharanel` (new *Oceanic Towers and chapters* section + recomputed tally), `anti-magic-crusade`, `seven-conduits`, `conduit-cities` (Drowned-Tower type + named-cities), `netharim` (oceanic branch), and all five race pages.
+
+**Reconciliations surfaced:**
+- **Dark Continent = [[varkhul|Varkhul]].** The session's unnamed "southwestern Dark Continent behind the unbreachable ward" is an exact match for the established prison-continent Varkhul inside the [[continental-ward|Continental Ward]]; identified as canon and flagged for confirmation.
+- **Tectonic-naming reconciliation (FLAG ONLY, not merged):** session fragment names *Valdaran/Elyndar/Korvath/Thalindor* vs the established *Avalon/Damedes/Culethor/Eldravath* lineage. Logged in `open-questions.md`.
+
+**Verified:** Aqualith is already canonical (`crystalmancy.md#3`) — no new page; the session's "Aqualith is the sea-crystal lineage" checks out.
+
+Updated `index.md` (new pages under Continents; Varkhul note) and `open-questions.md` (tectonic-naming flag, Dark-Continent=Varkhul, submarine-conduit-cities, Bold Far-Kin update). All edited pages stamped 2026-05-31.
+
+---
+
 ## 2026-05-29 — Arathi worldwalking + off-world diaspora; Crystalline-Age race correction
 
 User direction (2026-05-29), arising while compiling an OOC doomed-intervention scenario brief (`derived/scenarios/the-first-exception.txt`, not canon). Two canon corrections promoted into the wiki.

@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Demonfall Marches are a region where the first great demonic breach opened during the [[demon-war|Demon War]] — heavily warded, culturally diverse, unstable to this day, and guarded in part by [[beast-folk|beast-folk]] communities whose ancestors were born from that war.
 
-**Sources**: Playground generation 2nd part.txt
+**Sources**: Playground generation 2nd part.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, Halaran mid-west placement)
 
-**Last updated**: 2026-04-29
+**Last updated**: 2026-05-31
 
 ---
 
@@ -28,6 +28,8 @@ The region remains:
 - Culturally diverse due to ancient refugee settlement
 
 (source: Playground generation 2nd part.txt)
+
+On the modern world map, the Demonfall Marches lie in the **forested mid-west of [[halaran|Halaran]]**, above the eastern continent's natural western bay (see [[halaran#Regions]] and [[eadras-world-map]]). [[kharathen|Kharathen]] sits at the Marches' western lip; [[katharim|Katharim]] caretaker circuits radiate from here, and the surrounding forest belt is [[beast-folk|beast-folk]] country. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
 
 ## The First Breach
 
@@ -93,5 +95,8 @@ Modern beast-folk wardens, [[order-sharanel|Order Sharanel]] maintainers, and [[
 - [[black-hand]]
 - [[lirra]]
 - [[magic-in-eadras]]
+- [[kharathen]]
+- [[halaran]]
+- [[eadras-world-map]]
 
 </details>

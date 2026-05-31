@@ -9,17 +9,17 @@ knowledge_access: [common]
 
 # Azure Basin
 
-**Summary**: A warm, island-dotted, lagoon-and-peninsula region along one edge of the [[arathalassic-sea|Arathalassic Sea]] (or a comparable warm-coast region of one of the sundered post-Cataclysm continents). The Azure Basin is **explicitly not Roman** in its political shape — it has no central empire and no analogue to one. Instead, it is a fractious, sun-baked **patchwork of proud city-states, merchant principalities, cliff-villages, oasis-cities, and highland clans** that survived the Firethorn collapse through trade, seafaring cunning, and fierce local identity. The region's cultural texture draws on real-world inspirations including the eastern Mediterranean, the Levant, North Africa, southern France, Iberia, and the Balkans, with a Greek-style maritime poleis backbone — independent, philosophically argumentative, drama-loving, and obsessed with sea-trade and ancient ruins. The Azure Basin is the southern/coastal counterweight to the [[orden|Orden's]] northern continental [[orden#The Conduit Compact — Hanseatic-style trade league|Conduit Compact]] and the [[bold|Bold Conduit Republic's]] independent maritime energy.
+**Summary**: A warm, island-dotted, lagoon-and-peninsula region ringing the **enclosed far-eastern bay of [[halaran|Halaran]]** — an arm of the [[arathalassic-sea|Arathalassic Sea]] held warm by enclosure within Halaran's volcanic Collision Range. The Azure Basin is **explicitly not Roman** in its political shape — it has no central empire and no analogue to one. Instead, it is a fractious, sun-baked **patchwork of proud city-states, merchant principalities, cliff-villages, oasis-cities, and highland clans** that survived the Firethorn collapse through trade, seafaring cunning, and fierce local identity. The region's cultural texture draws on real-world inspirations including the eastern Mediterranean, the Levant, North Africa, southern France, Iberia, and the Balkans, with a Greek-style maritime poleis backbone — independent, philosophically argumentative, drama-loving, and obsessed with sea-trade and ancient ruins. The Azure Basin is the southern/coastal counterweight to the [[orden|Orden's]] northern continental [[orden#The Conduit Compact — Hanseatic-style trade league|Conduit Compact]] and the [[bold|Bold Conduit Republic's]] independent maritime energy.
 
-**Sources**: Grok Chat 5-8-26.txt
+**Sources**: Grok Chat 5-8-26.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, location resolved to Halaran's eastern bay)
 
-**Last updated**: 2026-05-08
+**Last updated**: 2026-05-31
 
 ---
 
 ## Geography and shape
 
-The Azure Basin sits along the warm edge of the Arathalassic Sea (or a comparable warm-coast region of the post-Cataclysm continents). It is **fragmented**: lagoons and lagoon-islands, rocky peninsulas, mountain ranges that drop directly into the sea, archipelagos, river-mouth city-states, oasis-and-desert margins, and highland clan territories that overlook the coastal cities from above. Several [[seven-conduits|conduit termini]] sit within the region, but **no single Tower of Lirra dominates** the way Bold's Tower does in its territory; Lirran presence is **distributed** across small shrines, wandering Windspeakers, and minor chapters rather than concentrated in one major institution.
+The Azure Basin is the **warm, enclosed far-eastern bay of [[halaran|Halaran]]** — the eastern continent's Mediterranean-analogue, ringed by the volcanic **Collision Range** and kept warm by enclosure regardless of the offshore currents that cool Halaran's other eastern coasts (see [[halaran#Coastal climate]] and [[eadras-world-map]]). The bay opens onto the broader [[arathalassic-sea|Arathalassic Sea]], across which the Basin's polities broker their trade with the oceanic peoples. It is **fragmented**: lagoons and lagoon-islands, rocky peninsulas, mountain ranges that drop directly into the sea, archipelagos, river-mouth city-states, oasis-and-desert margins, and highland clan territories that overlook the coastal cities from above. Several [[seven-conduits|conduit termini]] sit within the region, but **no single Tower of Lirra dominates** the way Bold's Tower does in its territory; Lirran presence is **distributed** across small shrines, wandering Windspeakers, and minor chapters rather than concentrated in one major institution.
 
 The fragmentation is geographic, political, and cultural simultaneously. **No two Azure Basin polities organize themselves the same way.** Even within a single language family or religious tradition, neighbors squabble about ritual details, trade tariffs, the proper form of city governance, and the correct way to handle blood feuds. **Temporary leagues form and dissolve constantly.** Vendettas flare. Trade trumps ideology when it has to.
 
@@ -104,7 +104,7 @@ The Azure Basin's fragmented political structure makes it the **most permeable**
 
 ## Open canon
 
-- **The Azure Basin's specific geographic location** in the post-Cataclysm continental layout — likely along a warm edge of the Arathalassic Sea or a sundered Altean fragment such as parts of [[damedes|Damedes]] or [[culethor|Culethor]]. Specific termination is open canon.
+- **The Azure Basin's specific geographic location** is now **resolved**: the enclosed far-eastern bay of [[halaran|Halaran]], ringed by the Collision Range (map session, 2026-05-31). Its deep-tectonic lineage — which sundered fragment the bay's shores descend from — folds into the pending [[eadras-tectonic-history|tectonic-naming reconciliation]] and remains open at that level only.
 - **The full roster of Azure Basin polities** — six broad zones documented above; specific named city-states within each zone are open canon.
 - **Specific named Venethar Magnates and the current ruling council.**
 - **Inter-zone diplomatic protocols** for the constantly-forming-and-dissolving leagues.
@@ -116,6 +116,8 @@ The Azure Basin's fragmented political structure makes it the **most permeable**
 
 
 - [[arathalassic-sea]]
+- [[halaran]]
+- [[eadras-world-map]]
 - [[orden]]
 - [[bold]]
 - [[amunorians]]

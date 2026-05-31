@@ -14,7 +14,7 @@ knowledge_access: [common]
 
 **Sources**: More corrections.txt; More info 5-4-26.txt; Eadras Cannon Expansion.txt; **user direction 2026-05-14 (make-it-mine pass on the magic system): Sorcerers retired in favor of Netharim, who are the members of Order Sharanel; Weavespinners replaced by [[windspeakers|Windspeakers]]; the Weave is now a purely defensive structure sustained by the lives of every magic user).**
 
-**Last updated**: 2026-05-14.
+**Last updated**: 2026-05-31. **(2026-05-31 map session: Order Sharanel reframed as a planetary surface-and-sea order; three of the seven surviving Towers are submarine oceanic Towers that likely survived the Crusade intact.)**
 
 ---
 
@@ -75,13 +75,21 @@ To ordinary perception, a conduit end appears as a **magic sink** — a place wh
 
 ### Fourteen conduit ends, seven Towers remain
 
-There are **fourteen conduit ends** — the seven Weave conduits each with two antipodal surface termini (see [[seven-conduits]]). Of the fourteen sites, **only seven still have a standing Tower** of Lirra today. The breakdown:
+There are **fourteen conduit ends** — the seven Weave conduits each with two antipodal surface termini (see [[seven-conduits]]). Of the fourteen sites, **seven still have a standing Tower** of Lirra today. The breakdown:
 
-- **Seven Towers stand.** These form the Order's federated backbone.
+- **Seven Towers stand.** These form the Order's federated backbone. **Three of the seven are submarine** — oceanic Towers grown by oceanic Netharim on the three [[conduit-cities|conduit ends that emerge underwater]] — and four are dry-land surface Towers (including the oldest, the [[bold|Tower of Bold]]). The three submarine Towers' inaccessibility to the surface [[anti-magic-crusade|Crusade]] is a principal reason a full seven endured; surface records, written by surface scholars, often counted only the four they could see (see [[#Oceanic Towers and chapters]] below).
 - **Six Towers were destroyed in the [[anti-magic-crusade|Anti-Magic Crusade]]** roughly 9,000–10,000 years ago (in the decades immediately preceding the previous [[grand-conjunction|Grand Conjunction]]). The killing of three [[windspeakers|Windspeakers]] caused structural damage at three conduit junctions, and the six termini at those junctions' two ends suffered catastrophe so total that no Tower has been rebuilt at any of them.
 - **One conduit end never had a Tower at all** — the [[verdant-scar|Verdant Scar]]. The Arathi-era ruins of Arath-Veyr stood there from before the Demon War, and the magic-regulating forest grew over those ruins; Lirra's conduit system found a distributed regulator already in place and never built a Tower atop it. The Verdant Scar is therefore not a destroyed Tower site — it is the one conduit end whose surface presence has *never* been a Tower of Lirra. (source: More corrections.txt, clarifying conversation 2026-04-30)
 
-The lost six Crusade sites are dangerous, abandoned, or sealed-off. The Verdant Scar, by contrast, is alive — a wild ecological replacement for the institutional regulation a Tower would have provided.
+The arithmetic closes on the fourteen canonical ends: **7 standing (3 submarine + 4 surface) + 6 destroyed + 1 Verdant Scar = 14.** The lost six Crusade sites are dangerous, abandoned, or sealed-off. The Verdant Scar, by contrast, is alive — a wild ecological replacement for the institutional regulation a Tower would have provided.
+
+### Oceanic Towers and chapters
+
+The [[magic-in-eadras|Weave]] is planetary; it does not stop at the waterline. Three of the fourteen [[seven-conduits|conduit]] ends **emerge underwater**, and conduit ends are the strongest Weave-sources on the planet — so [[netharim|Netharim]] arise among the [[merrow|oceanic peoples]] as naturally as anywhere else, indeed nearly of necessity, since the [[merrow|Merrow]], [[sirens|Sirens]], [[shimmercloaks|Shimmercloaks]], [[ink-lords|Ink Lords]], and [[tideclad|Tideclad]] live atop three of the fourteen conduit ends. **Oceanic Netharim are a branch of the same tradition as surface Netharim, not a separate magic.** (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
+Towers of Lirra were — and may still be — built on the submarine conduit-ends by these oceanic Netharim, in **oceanic form**: grown coral fused with **[[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]]** (the canonical sea-crystal lineage) rather than dry-land masonry. The Order Sharanel is therefore best understood as a **planetary (surface-and-sea) order with oceanic chapters**, crewed by oceanic Netharim and [[windspeakers|Windspeakers]] who may be Merrow, Tideclad, or any of the five peoples. The surface canon's "seven surviving Towers" should be read with this in mind: the surface world records what surface civilization built and can see, and so under-documents the oceanic chapters — consistent with the world's surface-biased epistemology.
+
+Because the [[anti-magic-crusade|Anti-Magic Crusade]] was a surface political-religious movement that could not reach the seafloor, the oceanic Towers and their Netharim **likely survived the Crusade intact** — making the oceanic peoples the probable keepers of an unbroken Netharim-and-Tower tradition while the surface lost six Towers and suffered the [[thousand-year-dimming|Thousand-Year Dimming]]. How many of the oceanic towers are intact versus ruined, whether the surface world even knows of them, and which peoples hold which submarine conduit-cities are open canon.
 
 ### The Tower of Bold — the oldest
 
@@ -146,7 +154,7 @@ The [[white-palm|White Palm]] coordinates with the Order on counter-Black-Hand w
 
 ## Open canon
 
-- The **locations** of the other six surviving Towers (the seventh, in [[bold|Bold]], is the oldest and is named).
+- The **locations** of the other six surviving Towers (the seventh, in [[bold|Bold]], is the oldest and is named) — now known to include **three submarine oceanic Towers** (see [[#Oceanic Towers and chapters]]); which of the five oceanic peoples hold which submarine conduit-cities is open.
 - Whether the Tower of Bold has formal authority over the other six Towers, or only ceremonial seniority.
 - The **specific identities** of the six destroyed Anti-Magic Crusade Tower sites — which conduit junctions broke, where their termini stood.
 - Specific Tower layout, rituals, and inter-Tower coordination protocols.
@@ -171,5 +179,7 @@ The [[white-palm|White Palm]] coordinates with the Order on counter-Black-Hand w
 - [[white-palm]]
 - [[demon-war]]
 - [[thousand-year-dimming]]
+- [[merrow]]
+- [[crystalmancy]]
 
 </details>

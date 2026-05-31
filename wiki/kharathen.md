@@ -11,15 +11,15 @@ knowledge_access: [common]
 
 **Summary**: Kharathen is the **City of Unforgotten Names** — the largest necropolis in Eadras, a 12-mile-circumference metropolis of the dead at the western edge of the [[demonfall-marches|Demonfall Marches]], built and maintained by the [[katharim|Katharim]] across ten thousand years to record every soul lost in the [[demon-war|Demon War]] and every honored death since.
 
-**Sources**: Grok WB Generation 4-29.txt
+**Sources**: Grok WB Generation 4-29.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, Halaran mid-west placement)
 
-**Last updated**: 2026-04-29
+**Last updated**: 2026-05-31
 
 ---
 
 ## Location
 
-At the scarred western lip of the [[demonfall-marches|Demonfall Marches]], where ash-choked soil finally yields to living grass and the last faint ichor-stains fade from the stone, stands Kharathen.
+At the scarred western lip of the [[demonfall-marches|Demonfall Marches]], where ash-choked soil finally yields to living grass and the last faint ichor-stains fade from the stone, stands Kharathen. The Marches — and Kharathen with them — lie in the **forested mid-west of [[halaran|Halaran]]**, the eastern continent (see [[halaran#Regions]] and [[eadras-world-map]]).
 
 It is **not a city of the living**. It is a metropolis of the dead whose walls and avenues sprawl across the same footprint as the greatest living capitals (source: Grok WB Generation 4-29.txt). From the air it resembles a vast gray labyrinth pressed against the Waste, its outer curtain of black marble and iron-laced granite forming a perfect, unbroken ring **twelve miles in circumference**. Inside, district after district of crypts, mausolea, and memorial halls stretch in perfect archival order, each era of the last ten thousand years preserved in its own architectural tongue.
 
@@ -102,5 +102,7 @@ To the [[beast-folk|Laughing Third]] it is also home — a place where they may 
 - [[tomb-of-the-last-guardians]]
 - [[flyting]]
 - [[black-hand]]
+- [[halaran]]
+- [[eadras-world-map]]
 
 </details>

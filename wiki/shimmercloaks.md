@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Shimmercloaks — *the Echo Traders* — are one of the **Five Modern Oceanic Races** descended from the **Sea'tua**, the [[elfen|Elfen]]-engineered overseers of oceanic balance. They are living trade networks who treat memory and emotion as physical currency, peeling off pieces of their own iridescent skin containing perfect living memories and trading them as coin. They are the ultimate neutral middlemen of the oceans.
 
-**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt
+**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, oceanic Netharim)
 
-**Last updated**: 2026-05-01
+**Last updated**: 2026-05-31
 
 ---
 
@@ -39,6 +39,10 @@ Shimmercloaks are **the ultimate neutral middlemen of the oceans**. They trade w
 
 Surface captains sometimes find a Shimmercloak waiting at their anchor chain with the standard offer: **"One memory for one favor."** The favor is always specified at the moment of the offer; the memory is always one the captain genuinely possesses; the trade is always settled at the moment of contact. A Shimmercloak who has waited at an anchor chain has already done the calculation — the offer is the offer, and there is no haggling.
 
+## Weave-magic and the oceanic Netharim
+
+The Shimmercloaks are not a magically-blank trade culture. The [[magic-in-eadras|Weave]] is planetary, and three of the fourteen [[seven-conduits|conduit]] ends emerge underwater among the five oceanic peoples — so **[[netharim|Netharim]] arise among the Shimmercloaks** as naturally as on land. Oceanic Netharim are a branch of the same tradition (a deeply-studied internal model of reality imposed directly on the world); a Shimmercloak Netharim's model most often runs toward **mind, memory, and emotion** — the medium they already trade in as currency, deepened into reality-shaping. As the oceans' neutral middlemen, Shimmercloaks also carry Netharim knowledge and the favors of the submarine [[order-sharanel#Oceanic Towers and chapters|Towers of Lirra]] between conduit-cities that cannot meet directly. Because the surface [[anti-magic-crusade|Anti-Magic Crusade]] could not reach the seafloor, the oceanic peoples likely kept an **unbroken Netharim-and-Tower tradition** while the surface lost six Towers. Which of the five peoples hold which of the three submarine conduit-cities is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
 ## Relations with other oceanic peoples
 
 - **[[merrow|Merrow]]** — frequent clients for surface trade.
@@ -61,5 +65,8 @@ Surface captains sometimes find a Shimmercloak waiting at their anchor chain wit
 - [[kuo-toa]]
 - [[sahuagin]]
 - [[peoples-of-eadras]]
+- [[netharim]]
+- [[order-sharanel]]
+- [[seven-conduits]]
 
 </details>

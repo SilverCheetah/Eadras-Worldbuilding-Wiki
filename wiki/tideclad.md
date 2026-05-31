@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Tideclad — *the Current Wardens* — are one of the **Five Modern Oceanic Races** descended from the **Sea'tua**, the [[elfen|Elfen]]-engineered overseers of oceanic balance. They are disciplined martial protectors who weaponize and endure extreme currents, riptides, and pressure — "cladding" themselves in living water forces to form temporary armor and blades from redirected currents and pressure waves.
 
-**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt
+**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, oceanic Netharim)
 
-**Last updated**: 2026-05-01
+**Last updated**: 2026-05-31
 
 ---
 
@@ -47,6 +47,10 @@ Tideclad are **highly disciplined and honor-bound**. They guard:
 
 They live in **fortified trench-cities** and **roving warden schools** that patrol the most volatile waters. A warden school is a unit; a trench-city is a base; both are organized hierarchically and trained to move as a single body. Warden schools are the units typically encountered by surface mariners who have travel arrangements with Tideclad waters.
 
+## Weave-magic and the oceanic Netharim
+
+The Tideclad are not a magically-blank martial culture. The [[magic-in-eadras|Weave]] is planetary, and three of the fourteen [[seven-conduits|conduit]] ends emerge underwater among the five oceanic peoples — so **[[netharim|Netharim]] arise among the Tideclad** as naturally as on land. Oceanic Netharim are a branch of the same tradition (a deeply-studied internal model of reality imposed directly on the world); a Tideclad Netharim's model most often runs toward **force, current, and pressure** — the same comprehension that underlies cladding, carried into reality-shaping. The Tideclad's institutional role makes them the natural **wardens of the submarine conduit-cities**: a [[order-sharanel#Oceanic Towers and chapters|submarine Tower of Lirra]] sits on the strongest Weave-source for leagues, and the warden schools that already guard rifts and migration routes are the obvious guardians of those Towers and their oceanic Netharim. Because the surface [[anti-magic-crusade|Anti-Magic Crusade]] could not reach the seafloor, the oceanic peoples likely kept an **unbroken Netharim-and-Tower tradition** while the surface lost six Towers. Which of the five peoples hold which of the three submarine conduit-cities is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
 ## Relations with other oceanic peoples
 
 - **[[merrow|Merrow]]** — frequent contracted protection of reef-cities and Growth Circles.
@@ -69,5 +73,8 @@ They live in **fortified trench-cities** and **roving warden schools** that patr
 - [[kuo-toa]]
 - [[sahuagin]]
 - [[peoples-of-eadras]]
+- [[netharim]]
+- [[order-sharanel]]
+- [[seven-conduits]]
 
 </details>

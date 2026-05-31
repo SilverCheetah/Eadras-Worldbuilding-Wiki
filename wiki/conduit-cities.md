@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Conduit Cities are the urban centers that grew around the fourteen emergence points of the seven world-piercing Weave conduits — centers of magical wealth, learning, political power, and danger, each anchored by a massive Conduit Tower.
 
-**Sources**: Playground generation 3rd part.txt; cross-references via More corrections.txt and Compiled Lore - Velrathi and Their Descendant Races.txt
+**Sources**: Playground generation 3rd part.txt; cross-references via More corrections.txt and Compiled Lore - Velrathi and Their Descendant Races.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine conduit-cities)
 
-**Last updated**: 2026-05-02
+**Last updated**: 2026-05-31
 
 ---
 
@@ -140,7 +140,7 @@ The Spire-Step network shattered. High magic failed. Tower governance collapsed.
 |---|---|
 | **The Thriving Tower-City** | A major metropolis of magic, trade, guilds, and learning |
 | **The Broken Terminus** | Destroyed during the Breaking; dangerous, haunted by wild magic, possibly sealed |
-| **The Drowned Tower** | A conduit end beneath the sea, surrounded by aquatic peoples and underwater magical institutions |
+| **The Drowned Tower** | A conduit end beneath the sea — one of the three **submarine conduit-cities** of the [[merrow|oceanic peoples]], carrying an oceanic [[order-sharanel#Oceanic Towers and chapters|Tower of Lirra]] grown from coral and [[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]] and crewed by oceanic [[netharim|Netharim]]. Likely survived the Crusade intact (beyond its surface reach). |
 | **The Dragon-Claimed Tower** | Conduit terminus within dragon clan territory; the [[order-sharanel\|Order Sharanel]] operates only by ancient agreement |
 | **The Hidden Terminus** | Conduit end unknown to most maps, concealed to protect a Windspeaker or prevent Black Hand infiltration |
 | **The Pilgrim-Tower** | A city where magical study and pilgrimage blur |
@@ -178,9 +178,11 @@ If the public does not know the Windspeaker's true nature, they may operate unde
 
 The fourteen modern conduit termini are mostly unnamed in canon. The currently-named one is:
 
-- **[[bold|Bold]]** — Capital city, royal castle, dominated by the **Tower of Seven Spires** (also known as the **Tower of Lirra of Bold** — the founding chapter-house of the [[order-sharanel|Order Sharanel]] and the oldest of the seven surviving Towers of Lirra). One of the oldest cities in the world.
+- **[[bold|Bold]]** — Capital city, royal castle, dominated by the **Tower of Seven Spires** (also known as the **Tower of Lirra of Bold** — the founding chapter-house of the [[order-sharanel|Order Sharanel]] and the oldest of the seven surviving Towers of Lirra). On the [[bold|warm west coast of Halaran]]. One of the oldest cities in the world.
 
-See [[worldbuilding-needs#Modern present-day political geography|Worldbuilding Needs]] for the full gap; the other thirteen termini await canon.
+Of the thirteen as-yet-unnamed termini, **three emerge underwater** as **submarine conduit-cities** of the [[merrow|five Modern Oceanic Races]] — the oceanic equivalents of Bold (see the *Drowned Tower* type above). These three carry **oceanic [[order-sharanel#Oceanic Towers and chapters|Towers of Lirra]]** grown from coral and [[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]] and crewed by oceanic [[netharim|Netharim]]; because the [[anti-magic-crusade|Anti-Magic Crusade]] could not reach the seafloor, they likely survived it intact and are counted among the seven surviving Towers. Which oceanic peoples hold which submarine conduit-city is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
+See [[worldbuilding-needs#Modern present-day political geography|Worldbuilding Needs]] for the full gap; the other ten dry-land termini await canon.
 
 <details>
 <summary>Related pages</summary>
@@ -194,5 +196,7 @@ See [[worldbuilding-needs#Modern present-day political geography|Worldbuilding N
 - [[xarvion]]
 - [[spear-of-crystallized-entropy]]
 - [[bold]]
+- [[merrow]]
+- [[crystalmancy]]
 
 </details>

@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Merrow — *the Tideweavers* — are one of the **Five Modern Oceanic Races** descended from the **Sea'tua**, the [[elfen|Elfen]]-engineered overseers of oceanic balance. They are symbiotic coral architects and patient gardeners who treat the ocean like a vast, breathing garden, growing entire reef-cities into existence over decades through layered, harmonized song.
 
-**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt; notes on various topics 2.txt
+**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt; notes on various topics 2.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, oceanic Netharim)
 
-**Last updated**: 2026-05-06
+**Last updated**: 2026-05-31
 
 ---
 
@@ -49,6 +49,10 @@ Merrow hold a deep symbiotic alliance with the [[orden|Orden]], the seafaring cl
 
 Sailors who earn the Merrow's highest respect are named **Deep Friends** and given a **reusable charm that allows them to breathe underwater**. Among the Orden, Deep Friends are affectionately (and somewhat teasingly) called **Fish Friends**, and most go on to become valued advisors to coastal Jarls. The relationship is one of the few cross-race symbioses in the modern era that an outside observer can describe simply: *the Merrow rescue, the Orden remember.* (source: notes on various topics 2.txt)
 
+## Weave-magic and the oceanic Netharim
+
+The Merrow are not a magically-blank coral culture. The [[magic-in-eadras|Weave]] is planetary, and three of the fourteen [[seven-conduits|conduit]] ends emerge underwater among the five oceanic peoples — so **[[netharim|Netharim]] arise among the Merrow** as naturally as on land. Oceanic Netharim are a branch of the same tradition (a deeply-studied internal model of reality imposed directly on the world); a Merrow Netharim's model is most often one of **living systems, reef-ecology, and growth** — the same comprehension that underlies the Growth Circles, sharpened into reality-shaping. The submarine [[order-sharanel#Oceanic Towers and chapters|Towers of Lirra]] are built in exactly the Merrow idiom: **grown coral fused with [[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]]**, sung into shape rather than quarried. Because the surface [[anti-magic-crusade|Anti-Magic Crusade]] could not reach the seafloor, the oceanic peoples likely kept an **unbroken Netharim-and-Tower tradition** while the surface lost six Towers. Which of the five peoples hold which of the three submarine conduit-cities is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
 ## Relations with other oceanic peoples
 
 - **[[sirens|Sirens]]** — natural collaborators; the Sirens' geological song-shaping and the Merrow's living architecture overlap in technique. Joint Merrow-Siren projects produce some of the largest deepwater landmarks in modern Eadras.
@@ -71,5 +75,8 @@ Sailors who earn the Merrow's highest respect are named **Deep Friends** and giv
 - [[sahuagin]]
 - [[orden]]
 - [[peoples-of-eadras]]
+- [[netharim]]
+- [[order-sharanel]]
+- [[seven-conduits]]
 
 </details>

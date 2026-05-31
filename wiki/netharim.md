@@ -12,9 +12,9 @@ aliases: [Little Gods, the Little Gods]
 
 **Summary**: The Netharim — colloquially *the Little Gods* — are an order of mortal magical practitioners who reshape reality intuitively, by imposing a deeply-studied personal model of how the world actually works directly onto the world itself. They use no formulas, no incantations, no reality-structuring language. They use comprehension. They are by far the most numerous of the four major magical orders, maintain a worldwide institutional structure, and are heavily involved in both politics and magical scholarship.
 
-**Sources**: Extra large grok chat 5-9-2026.txt
+**Sources**: Extra large grok chat 5-9-2026.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, oceanic Netharim branch)
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-05-31
 
 ---
 
@@ -56,6 +56,10 @@ The order has three primary functions:
 1. **Identification.** Most candidates discover their potential late, often by accident — a moment of lucid attention to some aspect of the world that produces an unexpected, slight, observably-real effect on the world around them. The order maintains a network of recruiters and quiet observers who notice such moments and reach out to the candidate with the offer of training.
 2. **Education.** The order does not teach the magic itself — that is impossible, because the magic is the practitioner's own model of reality and cannot be transferred. The order does teach **how to study**: research methods, structured observation, philosophical frameworks, logical rigor, the discipline of refining a model against contrary evidence. A Netharim education is, in the most precise sense, an education in scholarship.
 3. **Specialization-pairing.** Because the order benefits from distributed depth, senior Netharim place junior Netharim with mentors whose specializations match the junior's natural inclinations. The pairing is voluntary on both sides and is treated as a serious commitment when it lands.
+
+### Oceanic Netharim
+
+The order is genuinely **worldwide** — it does not stop at the waterline. Three of the fourteen [[seven-conduits|conduit]] ends emerge underwater, so Netharim arise among the [[merrow|five Modern Oceanic Races]] ([[merrow|Merrow]], [[sirens|Sirens]], [[shimmercloaks|Shimmercloaks]], [[ink-lords|Ink Lords]], [[tideclad|Tideclad]]) as naturally as on land — nearly of necessity, since those peoples live atop three of the strongest Weave-sources on the planet. **Oceanic Netharim are a branch of the same tradition**, not a separate magic: the mechanism (imposing a deeply-studied model of reality) is identical; only the models differ, shaped by lives lived in song, current, pressure, coral, and ink. Oceanic Netharim crew the three submarine [[order-sharanel#Oceanic Towers and chapters|Towers of Lirra]], and — because the surface [[anti-magic-crusade|Anti-Magic Crusade]] could not reach the seafloor — they likely preserve an unbroken Netharim-and-Tower tradition the surface lost in the [[thousand-year-dimming|Dimming]]. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
 
 ## Politics and scholarship
 
@@ -111,6 +115,8 @@ The Netharim fill the niche the old [[order-sharanel|Netharim]] tradition used t
 - [[true-language]]
 - [[observer-and-naming]]
 - [[order-sharanel]]
+- [[merrow]]
+- [[seven-conduits]]
 - [[log]]
 - [[inspirations]]
 

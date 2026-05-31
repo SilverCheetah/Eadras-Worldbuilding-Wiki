@@ -13,7 +13,7 @@ knowledge_access: [common]
 
 **Sources**: Playground generation 1st part.txt, May 1 revisions.txt, Updates afternoon 5-1-26.txt, Draconic Capital City name change.txt, The Flesh-Eaters.txt, DragonsAndUnicorns_01_InWorld_Facts.txt, ForbiddenKindlingAndUnheldHand_01_InWorld_Facts.txt
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-05-31
 
 ---
 
@@ -67,6 +67,12 @@ Within flight, the city has access to:
 - Old devastation fields for Coppers
 
 (source: Playground generation 1st part.txt)
+
+### Modern placement — the Northern Mountains of Halaran
+
+On the modern world map, Ratharil's high basalt highlands are the **Northern Mountains of [[halaran|Halaran]]** — the cold, glacially scarred northern reach of the eastern continent (see [[eadras-world-map]]). The city sits at roughly **58°N** (map coordinate ~1332, 190). This is consistent with the [[#Construction timeline|founding horizon]] below: the Eldravath plateau that first hosted Ratharil rode the northern pole-crossing fragment that later fused into Halaran, carrying the city to its present northern latitude.
+
+Its **antipode** — the point exactly opposite on the planet — is a cold coastal point on the sealed **Dark Continent** ([[varkhul|Varkhul]], the prison continent inside the [[continental-ward|Continental Ward]]) at ~58°S, *"the shore opposite Rhtrakhadara."* The dragons built their one neutral city as far from the forbidden land as the planet allows. What that antipodal coordinate signifies — a ward-meets-sea point, an unreachable pilgrimage mark, or a weak point in the seal — is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
 
 ---
 
@@ -301,5 +307,7 @@ Ratharil's official calendar uses **F.F. (First Flare)** as its origin. Dragon h
 - [[doctrine-of-unheld-hand]]
 - [[gods-of-eadras]]
 - [[religion-in-eadras]]
+- [[halaran]]
+- [[eadras-world-map]]
 
 </details>

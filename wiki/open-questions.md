@@ -11,9 +11,9 @@ knowledge_access: [meta]
 
 **Summary**: A pointer index of every "Open canon" / unresolved-thread / loose-end already flagged on existing wiki pages, organized by topic. Source pages remain authoritative — this page is a navigation aid. Implicit findings (loose ends I noticed during this audit but which are not yet flagged on any source page) are marked **(audit-flagged, not yet on source page)**.
 
-**Sources**: Audit of all wiki pages, 2026-05-01; refresh 2026-05-09 (folding in 2026-05-08 Sarathim/architectures/eras ingest, 2026-05-09 magic-system rework + cultural-drinks tree + Divine Bureaucracy + Pillar Magic); refresh 2026-05-12 (live-wires expanded from the 2026-05-12 seven-topic re-ingest); refresh 2026-05-13 (Bathyric Mandate and post-Cataclysm geographic-features gaps added from the 2026-05-13 triple ingest); refresh 2026-05-14 (precessional-cycle period reconciliation deferred from the May-14 six-topic ingest).
+**Sources**: Audit of all wiki pages, 2026-05-01; refresh 2026-05-09 (folding in 2026-05-08 Sarathim/architectures/eras ingest, 2026-05-09 magic-system rework + cultural-drinks tree + Divine Bureaucracy + Pillar Magic); refresh 2026-05-12 (live-wires expanded from the 2026-05-12 seven-topic re-ingest); refresh 2026-05-13 (Bathyric Mandate and post-Cataclysm geographic-features gaps added from the 2026-05-13 triple ingest); refresh 2026-05-14 (precessional-cycle period reconciliation deferred from the May-14 six-topic ingest); refresh 2026-05-31 (map-session ingest: tectonic-naming reconciliation flagged, Dark Continent = Varkhul identification, three submarine conduit-cities).
 
-**Last updated**: 2026-05-14.
+**Last updated**: 2026-05-31.
 
 ---
 
@@ -140,6 +140,8 @@ No outstanding rework items remain in this section. Future open canon about the 
 ## History and Events
 
 - **Modern continent correspondence** — How pre-Cataclysm regions and the Termini correspond to modern continents — pending iterative plate-tectonics map work. → [[arathi-golden-age-map#Open canon]]
+- **Tectonic-naming reconciliation (FLAG ONLY)** — The 2026-05-31 map session uses fragment names **Valdaran / Elyndar / Korvath / Thalindor** for the second-megacontinent pieces that drifted into the modern arrangement, which differ from the established deep-lineage names **[[avalon|Avalon]] / [[damedes|Damedes]] / [[culethor|Culethor]] / [[eldravath|Eldravath]]**. These are two naming systems for the same drift history and were deliberately **not merged**; a dedicated reconciliation pass is needed. The modern *outcomes* are fixed ([[halaran|Halaran]] east; [[dragon-empire|Dragon Empire]]/[[verdant-scar|Verdant Scar]] northwest; [[varkhul|Varkhul]] southwest); only the fragment-name mapping is open. → [[eadras-world-map#Tectonic assembly of the modern arrangement]], [[eadras-tectonic-history]], [[halaran#Open canon]]
+- **Dark Continent = Varkhul identification** — The map session's unnamed "southwestern Dark Continent behind the unbreachable ward" is identified here as the established prison-continent [[varkhul|Varkhul]] inside the [[continental-ward|Continental Ward]] (southwestern, sealed, Exile Lands — an exact match). Treated as canon, flagged for confirmation. → [[eadras-world-map#Marked coordinates and antipodes]]
 - **Anti-Magic Crusade ruined Towers** — specific identities and locations of the six destroyed Tower sites; which conduits broke; where their termini stood. → [[order-sharanel#Open canon]] *(also affected by rework-pending status)*
 - **Black Hand cycle history** — The three nations the Hand has ruled outright (none named yet); specific anti-Hand crusades; the current cycle's position; modern Inner Hand size. → [[black-hand#Open canon]]
 - **Religion: post-Weave priesthood evolution** — how dragon and unicorn priests reconciled with Lirran Netharim practice in the centuries after the Demon War. → [[religion-in-eadras#Open canon]]
@@ -191,7 +193,8 @@ No outstanding rework items remain in this section. Future open canon about the 
 - **Towers of Lirra (six surviving beyond Bold)** — locations and names *(also affected by rework-pending status)*. → [[order-sharanel#Open canon]]
 - **The three activated Crystalline Forges** — specific identities and locations. → [[magitek#Open canon]]
 - **Modern political map** — the kingdoms and city-states beyond the conduit cities, the Azure Basin sub-zones (Venethar / Serene / Rif / Iberian / Balkan / Levantine), the trade-triangle of [[orden|Orden]] / [[bold|Bold]] / [[azure-basin|Azure]]. → [[worldbuilding-needs#Modern present-day political geography]]
-- **Modern cities at the other 13 conduit termini** beyond Bold; the Far-Kin partner of Bold's conduit. → [[bold#Open canon]] and [[conduit-cities]]
+- **Modern cities at the conduit termini** beyond Bold — now: **three of the fourteen ends are submarine conduit-cities** of the oceanic peoples (which of the five peoples holds which is open), leaving **ten dry-land termini** beyond Bold unnamed. Bold's Far-Kin partner is its antipode in **open ocean** (~668, 574) — possibly one of the three submarine ends; still open. → [[bold#Open canon]], [[conduit-cities]], [[order-sharanel#Oceanic Towers and chapters]]
+- **Which oceanic peoples hold the three submarine conduit-cities**, and how many of their oceanic Towers of Lirra are intact vs. ruined; whether the surface world knows of them. → [[order-sharanel#Oceanic Towers and chapters]]
 - **The Eternal City within Solarion** — the Bureaucracy is canonically located within Solarion, but the specific district / neighborhood / palace-complex it occupies is open. → [[solarion]]
 
 ## Artifacts and Items

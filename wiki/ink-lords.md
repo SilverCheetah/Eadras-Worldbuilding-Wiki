@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Ink Lords — *the Story Eaters* — are one of the **Five Modern Oceanic Races** descended from the **Sea'tua**, the [[elfen|Elfen]]-engineered overseers of oceanic balance. They are communal octopus-like scholars who travel among other societies to collect and consume well-told, emotionally true stories. Feeding does not erase the memory from the teller — only the Ink Lord is fed. They maintain hidden Memory Groves where particularly delicious stories are stored in suspended ink droplets.
 
-**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt
+**Sources**: Updates afternoon 5-1-26.txt; Peoples of Eadras.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, oceanic Netharim)
 
-**Last updated**: 2026-05-01
+**Last updated**: 2026-05-31
 
 ---
 
@@ -46,6 +46,10 @@ Ink Lords are **sardonic, hungry, and surprisingly honorable**. They consider st
 
 The corollary: an Ink Lord who lies *about* a story (claiming it for nourishment when it was a fabrication, or misrepresenting it to a third party) is shamed across the entire diaspora. There is no faster way for an Ink Lord to lose standing.
 
+## Weave-magic and the oceanic Netharim
+
+The Ink Lords are not a magically-blank story culture. The [[magic-in-eadras|Weave]] is planetary, and three of the fourteen [[seven-conduits|conduit]] ends emerge underwater among the five oceanic peoples — so **[[netharim|Netharim]] arise among the Ink Lords** as naturally as on land. Oceanic Netharim are a branch of the same tradition (a deeply-studied internal model of reality imposed directly on the world), and the Ink Lords are temperamentally suited to it: a people who feed on emotionally-true stories and store them in ink-cloud libraries are, almost by nature, **scholars whose models run deep**. Ink Lord Netharim tend toward the archival and the theoretical, and the hidden Memory Groves double as repositories of the oceanic Netharim tradition — the kind the surface lost in the Dimming but the [[order-sharanel#Oceanic Towers and chapters|submarine Towers]] kept. Because the surface [[anti-magic-crusade|Anti-Magic Crusade]] could not reach the seafloor, that tradition likely runs **unbroken**. Which of the five peoples hold which of the three submarine conduit-cities is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
 ## Relations with other oceanic peoples
 
 - **[[merrow|Merrow]]** — welcoming. A long-resident Ink Lord in a Merrow Growth Circle may eventually earn a polyp-arrangement of their own.
@@ -68,5 +72,8 @@ The corollary: an Ink Lord who lies *about* a story (claiming it for nourishment
 - [[kuo-toa]]
 - [[sahuagin]]
 - [[peoples-of-eadras]]
+- [[netharim]]
+- [[order-sharanel]]
+- [[seven-conduits]]
 
 </details>

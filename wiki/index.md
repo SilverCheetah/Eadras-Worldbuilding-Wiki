@@ -343,13 +343,15 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[continental-ward]] — Strongest magical barrier on Eadras; encircles Varkhul 25mi offshore; multi-layer, frequency-shifting, inward-reflective; fed continuously by hundreds of casters from nearly every nation
 
 ### Continents (post-Cataclysm)
+- [[eadras-world-map]] — Reference atlas for the modern surface: the equirectangular dragon-memory map, the coordinate system anchored to the Worldbreaker Scar, the planetary climate model (latitude bands, gyres), the antipode rule, and the marked-coordinate table; tectonic assembly to the modern arrangement
+- [[halaran]] — The large **eastern continent** where the majority of Eadras's peoples live; fused from two pole-crossing fragments, with a volcanic Collision Range across its middle; holds Ratharil (north), the Demonfall Marches/Kharathen (mid-west), the temperate heartland, and the Azure Basin (eastern bay)
 - [[avalon]] — Northern continent; sundered from the Altean Highlands
 - [[damedes]] — Southwestern continent; sundered from the Altean Highlands
 - [[culethor]] — Southeastern continent; sundered from the Altean Highlands
 - [[therion]] — Pre-Cataclysm highland that survived intact
 - [[aurettos]] — Pre-Cataclysm highland that survived intact
 - [[eldravath]] — *"The Forged Land"* — supercontinent at 4mya post-Cataclysm; "the last time the world existed as a single landmass"
-- [[varkhul]] — Modern post-Eldravath southwestern continent (the Dark Continent / Exile Lands); ~2× a major continent in size; ¼ Scorched Waste; the world's prison continent encircled by the [[continental-ward|Continental Ward]]
+- [[varkhul]] — Modern post-Eldravath southwestern continent (the Dark Continent / Exile Lands); ~2× a major continent in size; ¼ Scorched Waste; the world's prison continent encircled by the [[continental-ward|Continental Ward]]. On the modern map this is the **southwestern landmass** and the **antipode of Ratharil** (the dragons' neutral city sits as far from it as the planet allows; see [[eadras-world-map]])
 - [[worldbreaker-scar]] — Persistent geological wound at the Worldbreaker impact site; basement of Arathyn
 
 ---

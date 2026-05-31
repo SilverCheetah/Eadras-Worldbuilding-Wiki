@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Seven Conduits are eternal **magical** structures — not physical shafts — that pierce the body of Eadras along seven deep, stable axes anchored to the planetary core. Each conduit connects two antipodal surface endpoints, producing **fourteen termini** that have served as the world's primary Eldritch sinks across every era of Eadras history, including before and after both the Arathi Cataclysm and the creation of the Weave.
 
-**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; Eadras Cannon Expansion.txt
+**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; Eadras Cannon Expansion.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine termini)
 
-**Last updated**: 2026-05-06
+**Last updated**: 2026-05-31
 
 ---
 
@@ -41,6 +41,10 @@ The [[arathi|Arathi]] **built around the conduits' surface termini** but did not
 The fourteen termini are placed **roughly equidistantly across the globe**. The distribution is **not aligned to the rotational (north–south) axis** of the planet — it does not correspond to poles, equator, or rotational geometry in any neat way. The arrangement is its own geometry, internally consistent and antipodal-paired but unaligned to terrestrial cardinal frames. (source: Eadras Cannon Expansion.txt)
 
 This is geographically load-bearing: a scholar mapping conduit termini against latitude or longitude finds **no axial pattern** — instead a roughly even spherical distribution that respects the antipodal-pairing constraint of the seven-conduit system but has no preferred orientation relative to Eadras's spin.
+
+### Three submarine termini
+
+On a world that is ~70% ocean, an even spherical distribution puts several termini at sea. Of the fourteen, **three emerge underwater** — on the seafloor among the [[merrow|five Modern Oceanic Races]]. Conduit ends are the strongest Weave-sources on the planet and seed civilization wherever they surface, so these three are **submarine conduit-cities** with their own [[order-sharanel#Oceanic Towers and chapters|oceanic Towers of Lirra]] (grown coral and [[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]] rather than dry-land masonry). They are the oceanic equivalent of [[bold|Bold]] and the [[azure-basin|Azure Basin]] — capitals of the merfolk political world. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
 
 ## Lirra has governed the conduits since their creation
 
@@ -127,5 +131,7 @@ A deeper question is still open within the Tome: whether the antipodal-paired se
 - [[lirra]]
 - [[primordial-duo]]
 - [[tome-of-baldaran]]
+- [[order-sharanel]]
+- [[merrow]]
 
 </details>

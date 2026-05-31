@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Bold (B-O-L-D) is **one of the oldest cities in the world** — and in the modern era, the **Bold Conduit Republic** (alternately *Spirehold* in older usage), an elected merchant-prince city-state and the most independent major polity of the modern conduit-trade world. Bold is dominated by the great Netharim fortress popularly known as the **Tower of Seven Spires** (which is the same building as, or stands directly atop, the **oldest [[order-sharanel|Tower of Lirra]]** — the founding chapter-house of the Order Sharanel, built atop one of the fourteen world-piercing [[magic-in-eadras|conduit]] ends). The Republic is a fierce commercial rival of the [[orden|Orden's Conduit Compact]], whose Compact merchants Bold derisively calls *the Gray Ledger* and who in turn call Bold *upstart disruptors*. Modern Bold is also famous for the waste-and-salvage empire of [[harvey-wash|Harvey Wash]], the goblin philanthropist who runs the *Golden Road* from a processing yard well outside the expanding city walls.
 
-**Sources**: More corrections.txt; Compiled Lore - Velrathi and Their Descendant Races.txt; Grok Chat 5-8-26.txt
+**Sources**: More corrections.txt; Compiled Lore - Velrathi and Their Descendant Races.txt; Grok Chat 5-8-26.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, Halaran west-coast placement + antipode correction)
 
-**Last updated**: 2026-05-08
+**Last updated**: 2026-05-31
 
 ---
 
@@ -25,6 +25,8 @@ Bold has two intertwined claims to importance:
 2. **Political** — Bold is an **elected republic** — a fiercely independent city-state that does not belong to the [[orden|Orden's Conduit Compact]] and has never accepted the Compact's tariff harmonization. (source: Compiled Lore - Velrathi and Their Descendant Races.txt; Grok Chat 5-8-26.txt)
 
 Bold is one of the **oldest cities in the world** — a deep-time settlement continuously inhabited and rebuilt across multiple eras of civilization. It is also one of the major modern [[conduit-cities|Conduit Cities]] (see [[worldbuilding-needs#Modern present-day political geography|Worldbuilding Needs]] for the broader context).
+
+On the modern world map, Bold occupies the **warm, wet west coast of [[halaran|Halaran]]** — the eastern continent — where the northern gyre's warm limb gives the coast a mild maritime climate (see [[eadras-world-map]] and [[halaran#Coastal climate]]). It anchors the maritime corner of the modern trade triangle, alongside the [[orden|Orden]] in Halaran's cold north and the [[azure-basin|Azure Basin]] on its warm eastern bay.
 
 ## The Republic — modern political form
 
@@ -82,7 +84,7 @@ The expansion is the reason [[harvey-wash|Harvey Wash]] deliberately placed his 
 ## Open canon
 
 - **Bold's pre-republican royal-era history** — Bold was a kingdom once, and the transition to republic happened across the centuries following the Demon War. The royal line's actual end and the specific transitional events are open canon.
-- **The geography of Bold** (continent, climate, neighboring polities).
+- **The geography of Bold** — resolved to the **warm west coast of [[halaran|Halaran]]** (mild and wet, warmed by the northern gyre; map session 2026-05-31). The city's exact coordinates and immediate neighboring polities remain open.
 - **Whether Bold predates the Tower or grew up around it.** Given Bold's status as "one of the oldest cities in the world," this question now carries additional weight — Bold may predate the Order Sharanel and even the founding of the first Tower.
 - **The current Spirewarden** — name, character, current public projects.
 - **The full guild council composition.**
@@ -90,7 +92,7 @@ The expansion is the reason [[harvey-wash|Harvey Wash]] deliberately placed his 
 - **Specific named pre-Cataclysm relics that have passed through the Bold Auction House.**
 - **The naming origin of "Tower of Seven Spires"** — whether the seven references the seven conduits, the Order's seven surviving Towers, the building's literal architecture, or something else.
 - **Whether the Tower of Bold's Council of Seven holds any inter-Tower authority.**
-- **The conduit's "Far-Kin" partner** — Bold's conduit pierces the planet and emerges at one other location; that location either hosts another of the seven surviving Towers, or hosts one of the six destroyed Crusade sites, or is the Verdant Scar.
+- **The conduit's "Far-Kin" partner** — Bold's conduit pierces the planet and emerges at its antipode. On the modern map, Bold (~1692, 450) is antipodal to **open ocean south of the equator (~668, 574)** — which *corrects and drops* the earlier speculative Bold↔[[arathyn|Worldbreaker-Scar]] pairing (the Scar lies north, at a different latitude). An open-ocean antipode leaves the Far-Kin **open**, while raising the possibility that Bold's partner is one of the three **submarine conduit-ends** (see [[conduit-cities]] and [[order-sharanel#Oceanic Towers and chapters]]). Unresolved.
 - **Bold's pilgrim status.** [[worldbuilding-needs|Worldbuilding Needs]] lists Bold among speculative candidates for a major pilgrim route alongside Arathyn, the Verdant Scar, and Ratharil. Whether Bold is in fact a pilgrim destination, and for which faith(s), is undefined.
 
 <details>
@@ -101,6 +103,8 @@ The expansion is the reason [[harvey-wash|Harvey Wash]] deliberately placed his 
 - [[lirra]]
 - [[conduit-cities]]
 - [[magic-in-eadras]]
+- [[halaran]]
+- [[eadras-world-map]]
 - [[harvey-wash]]
 - [[goblins]]
 - [[worldbuilding-needs]]

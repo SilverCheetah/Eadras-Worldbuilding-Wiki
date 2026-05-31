@@ -14,7 +14,7 @@ knowledge_access: [common]
 
 **Sources**: Playground generation 3rd part.txt; Playground generation 2nd part.txt; Magic in Eadras.txt; More info 5-4-26.txt; user direction 2026-05-04 (BH goal was Spear-search diversion); user direction 2026-05-14 (make-it-mine pass: all-magic-targeted, Windspeakers replace Weavespinners, Weave sustained by every magic user's life); **user direction 2026-05-15 (replacement-pass: timeline shift to 9,000–10,000 ya before the previous Grand Conjunction; Century of Sorrows engineered ramp-up; Icon-not-Avatar halt; Silent Century reparations; Knights of Lirra founded).**
 
-**Last updated**: 2026-05-15.
+**Last updated**: 2026-05-31. **(2026-05-31 map session: the three submarine Towers of Lirra were beyond the surface Crusade's reach and likely survived intact — part of why a full seven Towers endured.)**
 
 ---
 
@@ -151,6 +151,10 @@ The Spire-Step network shattered. Tower-to-tower governance collapsed. Cities fo
 
 See [[thousand-year-dimming|the Thousand-Year Dimming]] for the full account of the millennium-long magical dark age that followed.
 
+### The oceanic Towers beyond the Crusade's reach
+
+The Crusade was a **surface political-religious movement** and could not reach the seafloor. The three [[order-sharanel#Oceanic Towers and chapters|submarine Towers of Lirra]] — built on the [[seven-conduits|conduit]] ends that emerge underwater among the [[merrow|oceanic peoples]] — therefore **likely survived the Crusade intact**, along with the oceanic [[netharim|Netharim]] who crewed them. This is a principal reason a full seven Towers endured rather than four: three of the survivors were simply beyond the persecution's grasp. It also makes the oceanic peoples the probable keepers of an **unbroken Netharim-and-Tower tradition** while the surface lost six Towers and fell into the Dimming. How many oceanic towers are intact versus ruined, and whether the surface world even knows of them, is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
 ## Tiers of Knowledge
 
 | Tier | Knowledge |
@@ -210,5 +214,7 @@ The Crusade marked the permanent end of open Windspeaker political rule and left
 - [[divine-bureaucracy]]
 - [[icons]]
 - [[tome-of-baldaran]]
+- [[merrow]]
+- [[seven-conduits]]
 
 </details>

@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The **Dragon Empire** is a far-eastern modern-era polity ruled directly by a small **coalition of [[dragons]]** — treated as semi-divine by their populace — running a comprehensive **bureaucratic meritocracy** in which every adult citizen, including the ruling dragons themselves, carries a publicly visible pictogram-and-hashmark record of their tested skills and their ranks within those skills. Free universal education in every graded discipline is part of the empire's institutional commitment, and the empire's authoritarian-meritocratic logic produces both genuine social mobility and a relentless expansionist tendency justified as harm-minimization. The Empire is one of three civilizations in the modern [[three-cultures-ethical-triangle|three-cultures ethical triangle]] — the authoritarian-virtuous pole, contrasted with the [[amunorians|Amunorian]] caravan-and-pastoral hinterland (pragmatic middle) and the [[goblins|goblin tunnel cultures]] (live-and-let-live anarchic).
 
-**Sources**: Grok Chat 5-12-2026.txt; dragon-empire-far-eastern-meritocracy.md (2026-05-13 ingest).
+**Sources**: Grok Chat 5-12-2026.txt; dragon-empire-far-eastern-meritocracy.md (2026-05-13 ingest); EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, northwestern-continent placement).
 
-**Last updated**: 2026-05-13.
+**Last updated**: 2026-05-31.
 
 ---
 
@@ -45,6 +45,20 @@ The coalition's relationship to territory is non-traditional: day-to-day governa
 The dragons of the coalition are treated as **semi-divine** by the empire's populace. The lived religious experience of citizens is that they live under the immediate, visible presence of beings whom they are entitled to worship as gods. The dragons accept this framing without insisting on it — the dragons themselves are aware that draconic divinity is a complicated theological category in the broader Eadran pantheon, but the populace's devotion is something the empire's institutional logic builds on rather than corrects.
 
 Whether the coalition's dragons are *literally* divine — Ascended Mortal Dragon Gods in the strict sense — dragon-descended near-gods, or simply very old, very powerful dragons whom mortals revere as gods, is partially open canon. The mortal religious experience is the same either way; the theological precision is held by deeper imperial scholars and (presumably) by the dragons themselves.
+
+## Geography and placement
+
+The Dragon Empire occupies the **northwestern continent** (the upper-left landmass of the [[eadras-world-map|world map]]) — large enough to span several latitude bands, **temperate in the north** with its **capital in the tropical south** (the Khmer/Angkor rice-paddy and jungle-temple core), and a warm east coast.
+
+*"Far east of the world"* — the phrase by which the rest of Eadras knows the Empire — is an **in-world directional from the heartland's perspective**, not an absolute position on the globe. From [[halaran|Halaran]], the demographic heart of the modern world, the Empire lies far across the eastern ocean; the name stuck even though the continent itself sits in the planet's northwest. The Empire's monumental-tropical idiom belongs to that southern, jungle-templed capital region.
+
+The Empire **shares the northwestern continent with the [[verdant-scar|Verdant Scar]]** (Arath-Veyr, the Green Wound) — an ungovernable, semi-sentient Verdantite forest at the edge of the meritocratic dragon state, where Veyran Warden communities (elves, orcs, humans, goliaths, beast-folk) hold the frontier. The exact relationship — revered no-go zone, tense border, or Warden-held march within the Empire's reach — is open canon (see [[verdant-scar]]). The continent's internal regions and its name are not yet chosen. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
+### The thriving Empire vs. the faded dragon eras
+
+The Dragon Empire is **present-day and thriving**, run by **young, dynamic dragons energized by ruling a modern world of many small humanoids.** It must not be conflated with the ancient, faded draconic glory-periods (the dragon-domination period when dragons were the only living things; the later draconic–unicorn period). Those are faded ancestral memory; the Empire is not.
+
+This produces a **generational fault line** in dragonkind: **young dragons gravitate to the Empire**, exhilarated by administering the crowded modern world; **elder dragons find that world wearying and withdraw** to [[ratharil|Ratharil's]] archives and the Council of 99. The Empire's dragons are *some* modern dragons — the young and dynamic — not all of them.
 
 ## Aesthetic and civilizational tone
 
@@ -141,7 +155,7 @@ The Empire's specific official cult almost certainly elaborates this voice furth
 
 A great deal about the Empire is deliberately unspecified and remains open canon. Major open items:
 
-- **Geography.** *Far east of the world* is the only spatial framing. The Empire's actual continent, neighbours, ports, and frontiers are not specified.
+- **Geography.** Resolved to the **northwestern continent**, temperate-north with a tropical-south capital, sharing the landmass with the [[verdant-scar|Verdant Scar]] (see [[#Geography and placement]]). Still open: the continent's **name**, its internal regions, the Empire's neighbours, ports, and frontiers, and the exact relationship to the Verdant Scar.
 - **Dating.** When the dragon mercenary coup happened (within the post-Demon-War window from ~10,000 BP onwards, narrowed to ~5,000 BP onwards by user direction). Whether the Empire predates, postdates, or overlapped with the [[amunorians|Amunorian Empire]] is unspecified.
 - **Population composition.** Implicitly multi-species (humans, beast-folk, dragons), but the exact mix of mortal races, the place of beast-folk under draconic rule, the role of other intelligent species (goblins? lizardfolk? snakefolk?), and the demographic balance are not specified.
 - **Religion.** What the Empire's official religious cult looks like, how the dragons-as-semi-divine framework relates to the broader Eadran pantheon (Elder Gods, [[nine-embers-of-renewal|Nine Embers]], the broader dragon-god tradition), and whether the coalition dragons claim a relationship to specific draconic gods.
@@ -190,5 +204,7 @@ A **far-eastern monumental-tropical empire** of stone palaces and dragon-iconogr
 - [[firethorn-empire]]
 - [[nine-embers-of-renewal]]
 - [[ratharil]]
+- [[verdant-scar]]
+- [[eadras-world-map]]
 
 </details>

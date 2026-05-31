@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Verdant Scar (Arath-Veyr, "the Green Wound") is a vast, magically charged forest that grew over the ruins of the [[arathi|Arathi]] land-based focusing array after the [[arathi-cataclysm]], serving as a living magical regulator over a broken ley-vault network.
 
-**Sources**: Playground generation 1st part.txt, New information about Arathi Cataclysm.txt, Crystalmancy.txt
+**Sources**: Playground generation 1st part.txt, New information about Arathi Cataclysm.txt, Crystalmancy.txt, EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, northwestern-continent placement + antipode coordinate)
 
-**Last updated**: 2026-05-01
+**Last updated**: 2026-05-31
 
 ---
 
@@ -35,7 +35,7 @@ The Verdant Scar is also one of the **fourteen world-piercing [[magic-in-eadras|
 
 During the [[arathi-cataclysm|Cataclysm]], extreme plate tectonics — newly initiated by the [[worldender|Worldbreaker]]'s impact — **shifted the surface underneath the conduits**. The conduits themselves are cosmologically anchored and did not move, but the planetary surface drifted relative to them. As a result, the surface points where the conduits emerge today are **not** the same surface points where they emerged pre-Cataclysm. (source: More corrections.txt — clarifying conversation 2026-04-30)
 
-This is why pairing the Verdant Scar with [[altea|Altea]] as conduit Far-Kin is a *historical* relationship from the Arathi era; in the modern Weave, the Verdant Scar's conduit emerges at a different antipodal surface point than where Altea used to be. **The Verdant Scar's modern antipode is one of the six [[order-sharanel|Towers of Lirra]] ruined in the [[anti-magic-crusade|Anti-Magic Crusade]]** — meaning the conduit running through the Verdant Scar was one of the three conduits broken during the Crusade, and its other end was a Tower until the Crusade brought it down. The Verdant Scar's regulating-forest mind compensates for some of the loss; the ruined antipode does not.
+This is why pairing the Verdant Scar with [[altea|Altea]] as conduit Far-Kin is a *historical* relationship from the Arathi era; in the modern Weave, the Verdant Scar's conduit emerges at a different antipodal surface point than where Altea used to be. **The Verdant Scar's modern antipode is one of the six [[order-sharanel|Towers of Lirra]] ruined in the [[anti-magic-crusade|Anti-Magic Crusade]]** — meaning the conduit running through the Verdant Scar was one of the three conduits broken during the Crusade, and its other end was a Tower until the Crusade brought it down. On the modern map this ruined antipode is fixed at **(1175, 639)** — in the [[halaran|Halaran]] heartland, by the forest-river (the antipode of the Scar's own ~151, 385; see [[eadras-world-map#Marked coordinates and antipodes]]). The Verdant Scar's regulating-forest mind compensates for some of the loss; the ruined antipode does not.
 
 The forest acts as a **distributed magical regulating mind** — every root, fungal web, creature herd, and whispering leaf participates in stabilizing the broken ley-vault network beneath. It is not sentient the way a person is; it is more like a dreaming immune system.
 
@@ -44,6 +44,10 @@ Warden wisdom: *"The forest does not forgive Arath. It remembers Arath so the wo
 ---
 
 ## Geography
+
+### Continental placement
+
+On the modern world map, the Verdant Scar sits on the **northwestern continent** at map coordinate **~151, 385 (~22°N, temperate)** — the **same landmass as the thriving [[dragon-empire|Dragon Empire]].** The Green Wound is thus an ungovernable, semi-sentient Verdantite forest at the edge of (or within) the meritocratic dragon state; the [[#Veyran Wardens|Veyran Wardens]] hold that frontier. Whether the relationship is a revered no-go zone, a tense border, or a Warden-held march under imperial reach is open canon (see [[dragon-empire]] and [[eadras-world-map]]). (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
 
 The Scar lies in a basin where three mountain chains once met around an Arathi ritual site. After the shattering, the land collapsed into terraces — concentric rings of forest descending toward a hidden inner hollow. Rain flows inward but disappears into root-chasms and returns as mist.
 
@@ -118,5 +122,8 @@ Devotees of Evye, Fryr, and Lirra who believe the Verdant Scar is holy evidence 
 - [[shadowdark]]
 - [[necromancy-and-undeath]]
 - [[eldritch]]
+- [[dragon-empire]]
+- [[halaran]]
+- [[eadras-world-map]]
 
 </details>
