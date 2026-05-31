@@ -10,6 +10,32 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-31 — Map-session Part 2 (metaphysics + Sarathis) and Draconic-language rebuild
+
+Two further ingests from `D:\Worldbuilding\LLMWikiRaw`, both applied as established canon after user decisions.
+
+### Map-session ingest Part 2 (`eadras_map_session_ingest_part2.txt`)
+
+Supplement + corrections to the Part-1 map work. User decision: **apply the metaphysics correction fully**, reconciling the Dimming as Weave/assembly damage (not conduit damage).
+
+- **Eldritch energy chain + conduit model** (foundational). [[magic-in-eadras]]: Sourceshine → bedrock-transduced → Eldritch → mana; **conduits are non-physical, core-anchored *drains*** — the low points Eldritch flows toward, hence magic-rich; the recycling path beyond the core (core → Source?) is open canon; the Weave locks Eldritch for **native-born access** and empties into the conduits.
+- **Towers of Lirra are NOT regulators — they are assemblies of magic-users** who gather where magic pools deepest. A conduit is **indestructible** (can't be ruptured/leaked/drained from the surface); a fallen Tower = a scattered mage-community, not a ruptured engine. Reframed across [[seven-conduits]], [[conduit-cities]], [[order-sharanel]], [[magic-in-eadras]].
+- **Dimming reconciliation.** [[anti-magic-crusade]] + [[thousand-year-dimming]]: the conduits did not "break"; the **Weave's anchoring failed at three junctions** when the Windspeakers died, and the **six Tower-assemblies** were destroyed. Poetic "three conduits screamed" language preserved as in-world memory under a clarifying note.
+- **Core-anchor → true-antipode mechanism.** Conduit ends are *exact* antipodes through the core and stay exact as the crust drifts (explains the Arathi-vs-modern pairing shift). [[seven-conduits]], [[eadras-world-map]].
+- **The Amunorian Empire placed.** [[amunorians]]: capital **Sarathis** at conduit **(1177, 640), ~22.5°S, southern [[halaran|Halaran]]** — the **true antipode of the [[verdant-scar|Verdant Scar]]**, and a *named* one of the six Crusade-destroyed Tower sites. Climate-straddle geography (fertile mountain-fed maritime core on the wet side; arid interior dominion / caravan hinterland over the range). The fall reframed to assembly-destruction (conduit intact). Bay-crossing diaspora to the [[azure-basin|Azure Basin]] resolves the Azure "was Sarathis nearby?" hook and the empire's fall-cause. Verdant Scar and world-map antipode notes updated to name Sarathis (correcting Part 1's "heartland/forest-river" placeholder).
+- **Climate.** [[eadras-world-map]]: prevailing-wind/rain-shadow rule (tropical trade winds wet-east/dry-west; temperate westerlies wet-west/dry-east); added the temperate southern conduit city (1200,781); a phantom third southern city was retracted in the source (never entered the wiki).
+
+### Draconic-language rebuild (`draconic-language-clean.md` + `eadras_draconic_language_addendum.txt`)
+
+User decision: **replace the page with the clean version, then merge the addendum.**
+
+- Overwrote `draconic-language.md` with the clean rebuild (tidy consonant table replacing the bloated half-finished in-progress edit; all canon preserved, same structure).
+- Merged the addendum: **fire-phonation positional rules** (V word-initial ignition; F word-final authority-spark with end-migration; V/F independent); the full **12×3 vowel-slot matrix** (V₁ aspect / V₂ register / V₃ modality, two cells flagged provisional); the **hiatus/epenthesis rule** (default epenthetic Rh, euphony override, rule ordering with F-migration last); and the **Dragon Empire's Draconic name** *Dræhrafh* / ceremonial *Dræhrarahraf* (root D-H-F, "The Gathered Fire that Rules"), added to the Example-names table and a decoded walkthrough. New **Open canon** section (slot-absorption rule, provisional cells, mortal-reduction mapping, non-Rh epenthesis). Recorded the Draconic name on [[dragon-empire]].
+
+Updated [[open-questions]] (conduit-return path, temperate southern city, Amunorian regions, draconic grammar loose ends; resolved Azure↔Sarathis and Sarathis-location). All edited pages stamped 2026-05-31.
+
+---
+
 ## 2026-05-31 — Map-session ingest: modern world map, Halaran, oceanic Weave-magic
 
 Ingested `EADRAS WORLDBUILDING — MAP SESSION.txt` (working session: climate, tectonics, continent layout, antipodes, oceanic Weave-magic). User decisions before writing: record as **established canon**; **adopt the oceanic-magic reframe fully**; **the 14 conduit ends already include the oceanic conduits**; **new dedicated world-map page**.

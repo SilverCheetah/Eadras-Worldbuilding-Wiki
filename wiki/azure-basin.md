@@ -109,7 +109,7 @@ The Azure Basin's fragmented political structure makes it the **most permeable**
 - **Specific named Venethar Magnates and the current ruling council.**
 - **Inter-zone diplomatic protocols** for the constantly-forming-and-dissolving leagues.
 - **The specific conduit termini located within the Azure Basin** — multiple are documented, but their precise mapping to the fourteen-terminus inventory ([[seven-conduits]]) is open.
-- **Whether any of the six Crusade-destroyed conduit sites lies within the Azure Basin** — possible, particularly given the strong [[amunorians|Amunorian]] presence and the historical possibility that the original Sarathis was nearby.
+- **The regional Crusade-destroyed conduit site is [[amunorians|Sarathis]]** — **resolved 2026-05-31**: the ruined Amunorian capital sits at the conduit on the *far shore of the same bay* the Azure Basin rings (southern [[halaran|Halaran]], ~22.5°S). When Sarathis fell in the Crusade, the survivors crossed the bay into the Azure city-states — the short bay-crossing is why the [[amunorians|Amunorian]] diaspora concentrated here. (Sarathis itself is not *within* the Basin; it is across the water.)
 
 <details>
 <summary>Related pages</summary>

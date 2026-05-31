@@ -9,17 +9,20 @@ knowledge_access: [common]
 
 # The Thousand-Year Dimming
 
-**Summary**: The Thousand-Year Dimming was the millennium-long magical dark age following the [[anti-magic-crusade|Anti-Magic Crusade]], during which no mortal spells above the Fifth Circle could be cast because three of the seven Weave conduits had ruptured.
+**Summary**: The Thousand-Year Dimming was the millennium-long magical dark age following the [[anti-magic-crusade|Anti-Magic Crusade]], during which no mortal spells above the Fifth Circle could be cast because the [[magic-in-eadras#The Weave|Weave]]'s anchoring failed at three of the seven [[seven-conduits|conduit]] junctions when their [[windspeakers|Windspeakers]] were killed.
 
-**Sources**: Playground generation 2nd part.txt
+> [!note] On "broken conduits"
+> Older phrasing on this page (and in the in-world laments below) speaks of *conduits* rupturing, breaking, and screaming. Per the corrected metaphysics ([[seven-conduits#Drains, not valves — and why settlement gathers there]]), the **conduits themselves are non-physical, core-anchored drains and cannot break**. What ruptured was the **Weave's anchoring at three junctions** — the load-bearing points the slain Windspeakers had held. The conduits kept concentrating Eldritch throughout; it was the Weave-strands and the mortal magical order around them that collapsed. The dramatic "three conduits screamed" language is preserved as in-world memory of how the catastrophe *felt*.
 
-**Last updated**: 2026-04-29
+**Sources**: Playground generation 2nd part.txt; eadras_map_session_ingest_part2.txt (2026-05-31, conduit/Weave correction)
+
+**Last updated**: 2026-05-31
 
 ---
 
 ## Overview
 
-After the [[black-hand|Black Hand]] engineered the [[anti-magic-crusade|Anti-Magic Crusade]] roughly **9,000–10,000 years ago** — in the decades immediately preceding the previous [[grand-conjunction|Grand Conjunction]], following the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up — three of the seven [[windspeakers|Windspeakers]] were killed and three of the seven Weave conduits ruptured. The Weave could no longer carry complex high-density magical structures.
+After the [[black-hand|Black Hand]] engineered the [[anti-magic-crusade|Anti-Magic Crusade]] roughly **9,000–10,000 years ago** — in the decades immediately preceding the previous [[grand-conjunction|Grand Conjunction]], following the hundred-year [[century-of-sorrows|Century of Sorrows]] ramp-up — three of the seven [[windspeakers|Windspeakers]] were killed and the Weave's anchoring at their three [[seven-conduits|conduit]] junctions ruptured (the indestructible conduits themselves were untouched — see the note above). The Weave could no longer carry complex high-density magical structures.
 
 For approximately one thousand years, no mortal spell above the **Fifth Circle** could be cast in Eadras. This era is called the **Thousand-Year Dimming**, also remembered as:
 
@@ -98,7 +101,7 @@ Nonmagical crafts, engineering, military organization, and local priesthoods gai
 
 ### Conduit Cities Destroyed
 
-Cities built around the three broken conduits often died. Examples described in canon:
+Cities built around the three broken junctions often died — not because the conduits failed (they did not) but because the mage-assemblies that made those cities centers of power were destroyed and the local Weave tore. Examples described in canon:
 
 - A city of floating glass fell into its own harbor
 - A mountain academy sealed itself and never reopened
@@ -175,7 +178,7 @@ The Weave was eventually repaired enough for high magic to return — but not to
 - Conduit maintenance is a recognized profession
 - Netharim are now understood as living Weave factors
 - Some regions remain permanently low-magic
-- The three broken conduits have never fully recovered
+- The Weave at the three broken junctions has never fully recovered
 - Wild magic zones persist at crusade atrocity sites
 
 (source: Playground generation 2nd part.txt)

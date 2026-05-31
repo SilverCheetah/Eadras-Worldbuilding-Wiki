@@ -11,7 +11,7 @@ knowledge_access: [common]
 
 **Summary**: Conduit Cities are the urban centers that grew around the fourteen emergence points of the seven world-piercing Weave conduits — centers of magical wealth, learning, political power, and danger, each anchored by a massive Conduit Tower.
 
-**Sources**: Playground generation 3rd part.txt; cross-references via More corrections.txt and Compiled Lore - Velrathi and Their Descendant Races.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine conduit-cities)
+**Sources**: Playground generation 3rd part.txt; cross-references via More corrections.txt and Compiled Lore - Velrathi and Their Descendant Races.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine conduit-cities); eadras_map_session_ingest_part2.txt (2026-05-31, Towers reframed as mage-assemblies, not regulators; conduits indestructible)
 
 **Last updated**: 2026-05-31
 
@@ -29,19 +29,17 @@ An old saying: *"Where the world-poles pierce the skin of Eadras, mortals built 
 
 ## The Conduit Tower
 
-At each major conduit terminus stands — or once stood — a **Conduit Tower**. This is not merely a building; it is a stabilizing, measuring, and regulating structure constructed around the point where a conduit emerges into the surface world (source: Playground generation 3rd part.txt).
+At each major conduit terminus stands — or once stood — a **Conduit Tower**. It is best understood not as a flow-regulating engine but as the **institutional seat of the assembly of magic-users** who gather at the conduit end to exploit the extraordinary natural concentration of magic there. The [[seven-conduits|conduit]] itself is a non-physical, core-anchored **drain** — indestructible, and needing no regulation; people gather where the magic pools deepest. What a Tower governs is *the mage-community and its work*, not the conduit. (source: Playground generation 3rd part.txt; corrected per eadras_map_session_ingest_part2.txt, 2026-05-31)
 
-### Functions
-- Regulating magical pressure at the conduit end
-- Measuring Weave flow
-- Preventing uncontrolled Eldritch discharge
+### Functions of the Tower-community
+- Studying and measuring the local Eldritch concentration and the Weave's behavior at the junction
+- Managing the hazards of living atop a magic-rich drain — surges, wild discharges, Grand-Conjunction effects — as community safety work, not as regulation of the conduit
 - Training magic users
-- Supporting conduit custodians
+- Supporting conduit custodians and the [[windspeakers|Windspeaker]] tied to that conduit
 - Housing magical guilds and institutions
 - Maintaining high-circle spell infrastructure
-- Coordinating with the [[windspeakers|Windspeaker]] tied to that conduit
-- Monitoring Source surges and Grand Conjunction effects
-- Defending the conduit from sabotage
+- Monitoring Source surges and [[grand-conjunction|Grand Conjunction]] effects
+- Defending the assembly and its works from sabotage
 
 ### Physical Forms
 Conduit Towers vary enormously:
@@ -122,7 +120,7 @@ Political resentment grew: kingdoms chafed under tower independence, guilds rese
 
 ## The Breaking and Its Aftermath
 
-During the Anti-Magic Crusade, three Windspeakers were killed. Three conduits broke. Six conduit termini suffered catastrophe. Examples of damage:
+During the Anti-Magic Crusade, three Windspeakers were killed. The **Weave's anchoring failed at three junctions** (the conduits themselves, being indestructible core-anchored drains, did not break), and the **mage-assemblies at all six termini of those three conduits were destroyed**, with catastrophic local magical fallout as the wielders died and their works unbound. Examples of the catastrophe at those sites:
 - A tower cracked from crown to foundation, spilling blue-white fire for seven years
 - A city's upper districts levitated away and never came down
 - A harbor boiled, then froze into glass

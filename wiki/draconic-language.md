@@ -11,21 +11,53 @@ knowledge_access: [common]
 
 **Summary**: Draconic is the primordial, instinctual language of dragonkind — an agglutinative abjad built on triconsonantal roots, with every root composed of exactly three consonants and meaning layered through a strict three-vowel template plus suffixes. It feels ancient, heavy, and resonant: an extension of the Fire itself. Dragons do not learn it; they awaken already speaking it.
 
-**Sources**: Draconic language.txt; more notes on draconic language.txt; Draconic Capital City name change.txt; references in Dragons.txt and Ratharil entry; Draconic_01_InWorld_Facts.txt; Draconic_02_MetaCommentary.txt; Draconic_03_Principles_and_Diagnosis.txt.
+**Sources**: Draconic language.txt; more notes on draconic language.txt; Draconic Capital City name change.txt; references in Dragons.txt and Ratharil entry; Draconic_01_InWorld_Facts.txt; Draconic_02_MetaCommentary.txt; Draconic_03_Principles_and_Diagnosis.txt; draconic-language-clean.md (2026-05-31 clean rebuild of the page); eadras_draconic_language_addendum.txt (2026-05-31, fire-phonation positional rules, the 12×3 vowel-slot matrix, the hiatus/epenthesis rule, and the Dragon Empire's Draconic name).
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-05-31
 
 ---
 
 ## Phonology
 
-### Consonants (14 total)
+### Consonants
 
-S, Z, Tr, Dr, Rr, Shr, Zr, Rh, Lr, K, G, Ng, Kh, Gh
+Draconic has fourteen letter-consonants plus two fire-phonation sounds that mortals cannot reproduce. Each is romanized for Common-readable transcription; the romanization is an approximation, since the deeper resonances do not survive a mortal throat.
 
-### Transcription convention
+| Letter | Romanization | Description | Human approximation | Draconic quality |
+| --- | --- | --- | --- | --- |
+| S | S | Sharp hissing sound used for precision, warning, and emphasis | English *s* in *snake* | Longer and more sustained than human speech; carries over distance |
+| Z | Z | Voiced counterpart to S | English *z* in *zeal* | A low vibration riding beneath the hiss |
+| T | Tr | Hard alveolar affricate, a stop releasing into a rolling resonance | The *tr* in *tree*, but heavier | Sounds like stone striking stone |
+| D | Dr | Voiced counterpart to Tr | The *dr* in *dragon* | Heavier and deeper, with chest resonance |
+| R | Rr | A fully rolled resonant R | Spanish *rr* | Can be sustained for several beats; physically vibrates the chest |
+| X | Shr | A deep hissing trill | *sh* + rolled *r* | The sound of steam escaping a volcanic vent |
+| J | Zr | Voiced counterpart to Shr | *zh* + rolled *r* | Produces a deep harmonic buzzing |
+| H | Rh | A breathy, resonant R — a vibrating exhalation, neither merely R nor merely H | A rolled R spoken through a steady exhalation | The sound of a sleeping dragon's breath |
+| L | Lr | A dark lateral resonance | An L transitioning into a soft rolled R | Smooth and flowing compared to the harsher Rh |
+| K | K | A hard stop | English K | Very crisp and deliberate |
+| G | G | Voiced counterpart to K | English G | Low and heavy |
+| Q | Ng | A velar nasal that can begin a syllable naturally | The final sound in *sing* | Mortals struggle to onset it; dragons do not |
+| C | Kh | A voiceless throat fricative produced deep in the throat | German *Bach*, Scottish *loch* | Carries exceptionally well; feels ancient and elemental |
+| Y | Gh | Voiced counterpart to Kh | Arabic *ghayn* | A low rumbling growl hidden inside speech; among the hardest for mortals to imitate |
 
-Multi-letter consonants have **only the first letter capitalized** when written in mortal/Common script (e.g., **KKhR**, **ZKhR**, **LrRhDr**, **RhTrKh**, **TrKhR**). This is purely a transcription convention; the native [[#Writing System|runic script]] has no case distinction.
+**Rh** is the most important sound in the inventory and dominates ritual speech, Council speech, and ancient names. **Kh** and **Gh** are the foundational throat-fricatives that give formal Draconic its elemental weight.
+
+#### Fire-phonation sounds
+
+Beyond the letter-consonants, two sounds are produced by manipulating fire within the mouth. Both are semantically active and effectively impossible for mortals to reproduce.
+
+**V — Swirling Ember Resonance** — the sound of a dragon moving fire around inside its mouth without expelling it: a low rumbling airflow of circulating hot gas with a subtle crackling undertone, no flame leaving the mouth. A human ear might hear it as *rhhhhh* or *ghrrrr*, but it is neither — it is a resonance produced by manipulating the fire itself. Linguistically it marks **power held in reserve**: latent energy, containment, potential, controlled fury, waiting, preparation.
+
+**F — Ember-Spit Release** — a tiny puff of flame leaves the mouth, not enough to injure or even ignite, just a spark. It sounds like *tkh'* or *kht'* accompanied by a visible spark, and mortals cannot reproduce it at all. Linguistically it marks **assertion, completion, finality, and authority** — the difference between *"I think"* and *"I have spoken."*
+
+##### Positional rules
+
+The two fire-phonation sounds are **positionally constrained by the physical lifecycle of fire in a dragon's mouth**:
+
+- **V occurs only word-initially.** It is the optional *ignition*: the dragon kindles and swirls fire in the mouth at the start of the word, and the rest of the word is articulated through that dissipating fire. A dragon cannot re-ignite mid-word, so V never occurs medially or finally.
+- **F occurs only word-finally.** It is the *authority-spark*, a discrete expulsion of residual fire. Under suffixation it **migrates to the absolute end of the fully-inflected word** — the spark is always the last act of the word. F draws on the residual fire any dragon's mouth carries and therefore does **not** require a preceding V; the two are independent, and a word may carry V, F, both, or neither.
+
+A word bracketed by fire (carrying V and/or F) reads as the **fiery / ceremonial / authoritative register**; a "cold" word with no fire-phonation reads as plainer, everyday, or outsider register.
 
 ### Vowels and the root template
 
@@ -40,7 +72,7 @@ The three vowel slots are not interchangeable; each carries an independent layer
 | Slot   | Category                     | Function                                                                                                                                                                                    |
 | ------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **V₁** | Aspect / Temporal state      | How the action or concept exists in time — progressive, completed, habitual, potential, etc.                                                                                                |
-| **Vâ''** | Relational / Social register | The speaker's relationship to the subject: honor level, emotional distance, hierarchy, attitude. May be overridden or amplified by an honor suffix in the [[#suffix-system\|suffix stack]]. |
+| **V₂** | Relational / Social register | The speaker's relationship to the subject: honor level, emotional distance, hierarchy, attitude. May be overridden or amplified by an honor suffix in the [[#suffix-system\|suffix stack]]. |
 | **V₃** | Modality / Force / Voice     | The grammatical force of the utterance: intent, realis vs. irrealis, voice, power level, direction.                                                                                         |
 
 #### Vowel inventory
@@ -52,17 +84,54 @@ The full inventory is twelve vowels, transcribed in IPA when precision matters a
 | **i** | *ee*          | Sharp, completed, precise, piercing   |
 | **ɪ** | short *i*     | Quick, light, fleeting                |
 | **e** | *ay*          | Active, progressive, burning, ongoing |
-| **É›** | open *e*      | Harsh, strained, aggressive           |
+| **ɛ** | open *e*      | Harsh, strained, aggressive           |
 | **æ** | *a* in *cat*  | Bright, open, radiant                 |
 | **a** | *ah*          | Neutral, balanced, manifest, default  |
 | **ʌ** | *uh*          | Dark, heavy, grounded                 |
-| **É™** | schwa         | Muted, neutral, background            |
+| **ə** | schwa         | Muted, neutral, background            |
 | **o** | *oh*          | Deep, enduring, resonant              |
-| **É"** | open *o*      | Rounded, full, possessive             |
-| **ÊŠ** | short *oo*    | Wild, chaotic, potential, irrealis    |
+| **ɔ** | open *o*      | Rounded, full, possessive             |
+| **ʊ** | short *oo*    | Wild, chaotic, potential, irrealis    |
 | **ɯ** | unrounded *u* | Distant, ancient, primordial          |
 
 The same root can therefore carry radically different weight depending on its vowels — a manifest, neutral utterance (V₁=V₂=V₃=`a`) is heard as plain ceremonial gravity; the same root in `i-a-ʊ` reads as *sharp, neutral-register, irrealis* — a precise statement about a thing that has not yet happened. Mortals taught the consonants but not the vowels can produce only the crudest approximation of meaning, and frequently produce the opposite of what they intend.
+
+#### Slot scope and defaults
+
+The three-vowel template applies to the **root only**. **Suffix vowels are fixed and lexical** — the vowels inside suffixes (`-ara`, `-khâr`, `-thûl`, `-adru`, etc.) are part of the suffix's frozen shape and are *not* decoded as aspect / register / modality. Slot-decoding stops at the end of the root; suffixes are read as whole fixed units. (This is why an honor suffix can override or amplify V₂ — it is a separate fixed layer stacked on top of the slot, not a competitor within it.)
+
+The **default, unmarked vowel is `a`** (neutral / balanced / manifest). An unspecified slot defaults to `a`; an all-`a` root (`a-a-a`) reads as neutral aspect, neutral register, manifest realis force — plain ceremonial gravity (exactly the [[#rhtrakhadara-the-official-draconic-name-for-ratharil|Rhtrakhadara]] pattern).
+
+#### The vowel-slot matrix
+
+Each of the twelve vowels keeps its [core flavor](#vowel-inventory) across all three slots but expresses it in that slot's currency — **time** (V₁), **social stance** (V₂), or **force** (V₃).
+
+| Vowel | V₁ — Aspect / Temporal | V₂ — Relational / Register | V₃ — Modality / Force / Voice |
+| --- | --- | --- | --- |
+| **i** | completed / perfective | exacting / severe | precise-declarative / incisive |
+| **ɪ** | momentary / just-now | casual / familiar | tentative / suggestive |
+| **e** | ongoing / progressive | warm / engaged | active / performative |
+| **ɛ** | violently-active / erupting | hostile / contemptuous | forceful / aggressive command |
+| **æ** | dawning / newly-begun | radiant / high-honor | exalted / proclamatory |
+| **a** | manifest / realis *(default)* | neutral | plain realis (states a fact) |
+| **ʌ** | enduring-burdened / long-borne | grave / solemn | binding / heavy-obligation |
+| **ə** | dormant / latent | distant / detached | passive / impersonal *(provisional)* |
+| **o** | eternal / ageless | reverent / venerating | enduring-decree / permanent |
+| **ɔ** | held / retained *(provisional)* | possessive / proprietary | encompassing / totalizing |
+| **ʊ** | potential / not-yet / irrealis | wary / uncertain-toward | conditional / irrealis / wished |
+| **ɯ** | ancient-past / primordial | ancestral-deference / awe | invocative / calling-on-deep-power |
+
+(Two cells are best-guess defaults flagged *provisional* — see [[#open-canon|Open canon]].)
+
+### Hiatus and epenthesis
+
+When suffixation (or any stacking) brings two vowels into contact, the hiatus is broken by an **epenthetic consonant**:
+
+- The **default epenthetic consonant is Rh** — the breathy resonant R, the language's most characteristic and most sacred sound. The consequence is that heavily-inflected formal speech **accumulates more Rh and grows breathier and more resonant as it elaborates**: high register literally sounds more draconic.
+- **Euphony override.** Where Rh produces an awkward result, another consonant is substituted by ear. Native dragons do this instinctively (the language is awakened-with, not learned); mortal learners lack the instinct and tend to **over-apply the default Rh**, which is one audible marker of non-native speech.
+- **Rule ordering.** Hiatus repair occurs *during* suffix-stacking, as each junction forms; **F-migration is applied last** (the authority-spark is always the final act of the word, after all other resolution).
+
+The specific conditions that trigger a non-Rh substitution are deliberately left to the ear (see [[#open-canon|Open canon]]).
 
 ---
 
@@ -143,7 +212,7 @@ After the triconsonantal root and its three-vowel template, suffixes carry the r
 2. **Tense / Time**
 3. **Mood / Attitude**
 4. **Plurality / Scale**
-5. **Honor / Social Register** (can override or amplify Vâ'')
+5. **Honor / Social Register** (can override or amplify V₂)
 6. **Power / Magical Intensity** (how strongly the [[eldritch|Fire]] is being called upon)
 
 Not every utterance fills every slot. Casual speech among dragons may use only one or two suffixes; formal Council speech, ceremonial proclamations, and operative invocations may fill all six.
@@ -181,7 +250,7 @@ Not every utterance fills every slot. Casual speech among dragons may use only o
 | `-uz`  | Desiderative ("I wish / desire") |
 | `-akh` | Contemptuous / Scornful          |
 
-> The desiderative `-uz` uses the irrealis vowel **ÊŠ** ("wild, chaotic, potential") because desire is by definition reaching toward something not yet real. The closest-sounding suffix `-esh` is reserved for the reflexive in Slot 1; the two never collide because they fill different slots.
+> The desiderative `-uz` uses the irrealis vowel **ʊ** ("wild, chaotic, potential") because desire is by definition reaching toward something not yet real. The closest-sounding suffix `-esh` is reserved for the reflexive in Slot 1; the two never collide because they fill different slots.
 
 ### Slot 4 — Plurality / Scale
 
@@ -253,6 +322,7 @@ The full set of honor suffixes is part of the broader [[#suffix-system|Slot 5 re
 | **Lrrhadra**              | Forest-warden                                                                         |
 | **Rhtrakhadara**          | The Eternal Radiant Gathering — the official Draconic name for [[ratharil\|Ratharil]] |
 | **Drrhadru**              | Crushing Power                                                                        |
+| **Dræhrafh** (ceremonial *Dræhrarahraf*) | The Gathered Fire that Rules — the Draconic name of the [[dragon-empire\|Dragon Empire]] |
 | **Rhngadra Zkhar Trkhar** | Radiant Storm of the First Age                                                        |
 
 ### Decoded names — how the system reads end to end
@@ -262,7 +332,7 @@ The same machinery that builds names also builds spells, decrees, and oaths. Wal
 **Rhtrakhadara** (canonical, the Draconic name for [[ratharil|Ratharil]]).
 - Roots: **RhTrKh** (Ancient Memory) + **Rh** (Radiant Gathering) + **Dr** (Enduring Place).
 - Vowels: V₁ = **a**, V₂ = **a**, V₃ = **a** — neutral aspect, neutral relational register, manifest realis force.
-- Honor suffix: **`-ara`** (Radiant / High honor) elevating the otherwise neutral Vâ''.
+- Honor suffix: **`-ara`** (Radiant / High honor) elevating the otherwise neutral V₂.
 - Reading: *the place — manifest, balanced, undisputed in time — of the Radiant Gathering of Ancient Memory, lifted to high honor.* The all-`a` vowel pattern is precisely what the city is *for*: a place where every fire burns at once without one outshining another, no aspect or attitude foregrounded.
 
 **Kkharara** (canonical, "Fire-born").
@@ -296,6 +366,12 @@ The same machinery that builds names also builds spells, decrees, and oaths. Wal
 - Slot 5 — **`-rakh`** (eternal).
 - Slot 6 — **`-thûl`** (subtle, precise).
 - Reading: *It is declared — sharply, completely, in eternal honor and with the most precise possible operative force — that the entirety of ancient memory rests in the distant past.* A Sealed Hall closing-line: not merely a benediction but an operative instruction to the Fire to *hold* what has been laid to rest. The `-thûl` is the working part; the rest tells the working what to do.
+
+**Dræhrafh** (canonical, the Draconic name of the [[dragon-empire|Dragon Empire]] — "The Gathered Fire that Rules").
+- Root skeleton **D-H-F**: **Dr** (Guard / Stone / Enduring Place) + **Rh** (Radiant / Noble / Gathering) + **F** (Ember-Spit Release — authority, finality, *"it is so"*). The word is *fire-bracketed* by the final F, placing it in the authoritative register.
+- Vowels (radiant register): V₁ = **a** (manifest / realis — the rule is present and actual), V₂ = **æ** (radiant / high-honor — the empire speaks of itself at elevated register), V₃ = **a** (plain realis force, made *operative* by the closing F).
+- **Plain / root form:** *Dræhrafh* (approx. **DRÆH-rahf**).
+- **Full radiant ceremonial form:** *Dræhrarahraf* (approx. **DRÆH-ra-RAH-rahf**) — the `-ara` honor suffix is added, the resulting vowel-hiatus is bridged by the default epenthetic **Rh**, and the authority-spark **F migrates to the absolute end**. The everyday root blooms into the breathier ceremonial form under inflection; the `-rahrah-` medial Rh-stack is correct and retained (no euphony substitution applied), and the word still closes on the spat ember-spark.
 
 **Compare two operative invocations of the same root.**
 
@@ -363,6 +439,15 @@ The Common-language name for the city remains [[ratharil|Ratharil]]; Rhtrakhadar
 
 ---
 
+## Open canon
+
+- **Slot-absorption rule.** The canonical name *Kkharara* shows a root's **third vowel slot absorbed into the following `-ara` honor suffix** — happening in canon without a stated rule. A formal rule for *when and how* the third slot folds into a following honor suffix is needed (a latent inconsistency, not blocking).
+- **Two provisional matrix cells** (best-guess defaults): **ɔ in V₁** — "held / retained" (alt: "recurring / habitual"); **ə in V₃** — "passive / impersonal" (alt: "muted / understated force").
+- **Mortal-reduction mapping.** Which of the twelve vowels collapse together in a non-dragon mouth — needed for rendering [[windspeakers|Windspeaker]] / mortal broken-Draconic speech on the page. Optional flavor, not yet defined.
+- **Non-Rh epenthesis conditions.** The specific phonetic or register conditions that trigger a euphony substitution away from the default Rh (e.g. avoiding an Rh-on-Rh collision) are deliberately left to the ear for now.
+
+---
+
 <details class="ooc-block">
 <summary>Author's craft notes (OOC)</summary>
 
@@ -385,6 +470,7 @@ The load-bearing craft choices behind Draconic, preserved from the 2026-05-11 co
 
 - [[dragons]]
 - [[ratharil]]
+- [[dragon-empire]]
 - [[eldritch]]
 - [[windspeakers]]
 - [[source-surges]]

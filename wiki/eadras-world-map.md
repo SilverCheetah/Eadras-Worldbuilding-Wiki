@@ -11,7 +11,7 @@ knowledge_access: [common]
 
 **Summary**: The reference frame for the modern surface of Eadras — the equirectangular dragon-memory map, its coordinate system anchored to the Worldbreaker Scar, the planetary climate model that governs its latitude bands and ocean gyres, and the tectonic-assembly history that produced the modern arrangement of continents (the eastern continent [[halaran|Halaran]], the two western landmasses, and the great oceans between). Eadras is a spinning globe with standard within-system astrophysics *and* mythic infrastructure simultaneously true — physics sets the baseline grid; the [[mythos|Mythos]] adds named anomalies on top of it.
 
-**Sources**: EADRAS WORLDBUILDING — MAP SESSION.txt (map-building working session, 2026-05-31); cross-references [[eadras-tectonic-history]], [[seven-conduits]], [[night-sky-cosmology]].
+**Sources**: EADRAS WORLDBUILDING — MAP SESSION.txt and eadras_map_session_ingest_part2.txt (map-building working session, 2026-05-31); cross-references [[eadras-tectonic-history]], [[seven-conduits]], [[night-sky-cosmology]].
 
 **Last updated**: 2026-05-31.
 
@@ -39,7 +39,7 @@ The modern **dragon-memory world map** is an **equirectangular (plate carrée) p
 
 ### The antipode rule
 
-For any point **(x, y)**, its antipode is **(x + 1024, wrapped to ≤ 2048; and 1024 − y)** — shift half the map width horizontally (wrapping at the edge) and mirror across the equator. This is the working rule behind every [[seven-conduits|conduit]] Far-Kin pairing and the antipodal relationships catalogued [below](#Marked-coordinates-and-antipodes).
+For any point **(x, y)**, its antipode is **(x + 1024, wrapped to ≤ 2048; and 1024 − y)** — shift half the map width horizontally (wrapping at the edge) and mirror across the equator. This is the working rule behind every [[seven-conduits|conduit]] Far-Kin pairing and the antipodal relationships catalogued [below](#Marked-coordinates-and-antipodes). Because the conduits anchor to the planet's **core**, the two surface ends of a single conduit are *exact* antipodes by this rule — and stay exact even as the crust drifts over the fixed anchor, which is why old Arathi-era pairings broke and re-formed after the Cataclysm (see [[seven-conduits#Antipodal Pairs and Linked Behavior]]).
 
 ### Projection caveat
 
@@ -72,6 +72,18 @@ Coriolis on the spinning globe sets the rotation of the great gyres:
 - **Southern-hemisphere gyres rotate counterclockwise.**
 
 Currents redistribute heat: a gyre's poleward limb warms a coast; its equatorward limb cools one. This is the mechanism behind [[halaran|Halaran's]] warm west coast and cool southeast tail.
+
+### Prevailing winds and rain shadows
+
+Wind direction is the primary driver of where a mountain range is wet and where it is dry; offshore current temperature only fine-tunes coastal humidity on top of it. The Earth-analogue belts on the spinning globe:
+
+| Belt | Latitude | Prevailing wind | Wet (windward) | Dry (rain-shadow lee) |
+|---|---|---|---|---|
+| **Tropical** | 0–30° | Trade winds, from the **east** | a range's **east** side | its **west** side |
+| **Temperate** | 30–60° | Westerlies, from the **west** | a range's **west** side | its **east** side |
+| **Subpolar/polar** | 60°+ | Polar easterlies | — | — |
+
+This is why a single range can carry a wet flank and an arid lee at the same latitude — e.g. the climate-straddle of the [[amunorians|Amunorian Empire]] (fertile trade-wind-facing core, arid interior over the range) and the rain-shadow steppe of [[halaran|Halaran]].
 
 ### Mythic anomalies override the baseline locally
 
@@ -108,14 +120,16 @@ Positions fixed on the dragon-memory map this session. Antipodes are computed by
 |---|---|---|---|---|
 | **[[arathyn|Worldbreaker Scar]]** (Arathyn) | 668, 378 | ~23.6°N | 1692, 646 | — (Prime-Meridian anchor) |
 | **[[ratharil|Ratharil]]** (Rhtrakhadara) | 1332, 190 | ~58°N | 308, 834 | **Dark Continent coast** ([[varkhul|Varkhul]]), ~58°S (cold, near southern ice) |
-| **[[verdant-scar|Verdant Scar]]** (Arath-Veyr) | 151, 385 | ~22°N | 1175, 639 | **Halaran** — a ruined [[anti-magic-crusade|Crusade]] [[order-sharanel|Tower of Lirra]] by the forest-river |
+| **[[verdant-scar|Verdant Scar]]** (Arath-Veyr) | 151, 385 | ~22°N | 1177, 640 | **[[amunorians|Sarathis]]** — the conduit's other end; ruined Amunorian capital, a Crusade-destroyed Tower site |
+| **[[amunorians|Sarathis]]** (tropical southern conduit city) | 1177, 640 | ~22.5°S | 151, 385 | the **[[verdant-scar|Verdant Scar]]** (its true antipode) |
+| Temperate southern conduit city | 1200, 781 | ~47°S | 176, 243 | — (westerly belt; rain-shadow dry-temperate; identity open) |
 | **[[bold|Bold]]** | 1692, 450 | — | 668, 574 | open ocean, south of the equator (no Bold↔Scar pairing) |
 | Unnamed conduit city | 345, 416 | — | 1369, 608 | **Halaran** |
 
 Notes on the load-bearing antipodes:
 
 - **Ratharil ↔ the Dark Continent ([[varkhul|Varkhul]]).** The point exactly opposite the City of Dragons is a specific cold coastal point on the sealed southwestern continent — *"the shore opposite Rhtrakhadara."* The map session's unnamed "Dark Continent behind the unbreachable ward" is the established **prison-continent [[varkhul|Varkhul]]** inside the **[[continental-ward|Continental Ward]]** (southwestern, sealed, Exile Lands; confirmed by user 2026-05-31). Only the deep-tectonic lineage folds into the [tectonic-naming reconciliation](#Tectonic-assembly-of-the-modern-arrangement). The dragons placed their one neutral city as far from the forbidden land as the planet allows. Whether this antipode marks a ward-meets-sea point, an unreachable pilgrimage coordinate, or a weak point in the seal is open canon.
-- **Verdant Scar ↔ a ruined Crusade Tower on Halaran.** This is consistent with established [[verdant-scar|Verdant Scar]] canon: the Scar's pre-Cataclysm antipode was [[altea|Altea]], but the surface drifted, so the *modern* antipode is one of the six Crusade-ruined [[order-sharanel|Towers of Lirra]] — now fixed at (1175, 639) in the Halaran heartland.
+- **Verdant Scar ↔ Sarathis.** The Scar's pre-Cataclysm antipode was [[altea|Altea]], but the surface drifted over the fixed core-anchor, so the *modern* antipode is a different place: **(1177, 640), ~22.5°S on southern [[halaran|Halaran]]** — and it has a name, **[[amunorians|Sarathis]]**, the fallen Amunorian capital, one of the six Crusade-destroyed Tower sites. The Verdant Scar and Sarathis are the two surface ends of one conduit: a living forest-regulator and a ruined imperial capital, exact antipodes through the planet's core.
 - **Bold has no Scar pairing.** Bold's antipode is open ocean at a different latitude from the Scar; the earlier speculative Bold↔Scar pairing is **corrected and dropped.** Bold's conduit Far-Kin remains open canon.
 
 ---

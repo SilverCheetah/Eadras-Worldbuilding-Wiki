@@ -11,11 +11,15 @@ knowledge_access: [common]
 
 **Summary**: The **Dragon Empire** is a far-eastern modern-era polity ruled directly by a small **coalition of [[dragons]]** — treated as semi-divine by their populace — running a comprehensive **bureaucratic meritocracy** in which every adult citizen, including the ruling dragons themselves, carries a publicly visible pictogram-and-hashmark record of their tested skills and their ranks within those skills. Free universal education in every graded discipline is part of the empire's institutional commitment, and the empire's authoritarian-meritocratic logic produces both genuine social mobility and a relentless expansionist tendency justified as harm-minimization. The Empire is one of three civilizations in the modern [[three-cultures-ethical-triangle|three-cultures ethical triangle]] — the authoritarian-virtuous pole, contrasted with the [[amunorians|Amunorian]] caravan-and-pastoral hinterland (pragmatic middle) and the [[goblins|goblin tunnel cultures]] (live-and-let-live anarchic).
 
-**Sources**: Grok Chat 5-12-2026.txt; dragon-empire-far-eastern-meritocracy.md (2026-05-13 ingest); EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, northwestern-continent placement).
+**Sources**: Grok Chat 5-12-2026.txt; dragon-empire-far-eastern-meritocracy.md (2026-05-13 ingest); EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, northwestern-continent placement); eadras_draconic_language_addendum.txt (2026-05-31, the Empire's Draconic name Dræhrafh).
 
 **Last updated**: 2026-05-31.
 
 ---
+
+## The Draconic name
+
+In [[draconic-language|Draconic]], the Empire is **Dræhrafh** — *"The Gathered Fire that Rules."* It is built on the root skeleton **D-H-F** (Dr, *enduring place* + Rh, *radiant gathering* + the **Ember-Spit Release** F, the authority-spark meaning *"it is so"*), in the radiant register (V₂ = **æ**, high-honor). The everyday form is *Dræhrafh* (**DRÆH-rahf**); the full ceremonial form, with the `-ara` honor suffix and the authority-spark migrated to the very end, is *Dræhrarahraf* (**DRÆH-ra-RAH-rahf**) — a name that closes, fittingly, on a spat ember. (See [[draconic-language#decoded-names--how-the-system-reads-end-to-end|the decoded walkthrough]].)
 
 ## Origin — the mercenary coup
 

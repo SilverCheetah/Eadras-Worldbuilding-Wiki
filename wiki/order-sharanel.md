@@ -14,7 +14,7 @@ knowledge_access: [common]
 
 **Sources**: More corrections.txt; More info 5-4-26.txt; Eadras Cannon Expansion.txt; **user direction 2026-05-14 (make-it-mine pass on the magic system): Sorcerers retired in favor of Netharim, who are the members of Order Sharanel; Weavespinners replaced by [[windspeakers|Windspeakers]]; the Weave is now a purely defensive structure sustained by the lives of every magic user).**
 
-**Last updated**: 2026-05-31. **(2026-05-31 map session: Order Sharanel reframed as a planetary surface-and-sea order; three of the seven surviving Towers are submarine oceanic Towers that likely survived the Crusade intact.)**
+**Last updated**: 2026-05-31. **(2026-05-31 map session: Order Sharanel reframed as a planetary surface-and-sea order; three of the seven surviving Towers are submarine oceanic Towers that likely survived the Crusade intact. Part 2: Towers are assemblies of magic-users gathered at conduit-ends, not flow-regulators — a fallen Tower is a scattered mage-community, not a ruptured engine.)**
 
 ---
 
@@ -69,7 +69,7 @@ Each Tower is governed by its own Council of seven — see the grade structure b
 
 ### Built on conduit ends
 
-A **Tower of Lirra is built directly on top of a conduit end** — one of the fourteen places where the seven planet-piercing [[seven-conduits|Seven Conduits]] emerge to the surface. Without the conduit, there is no Tower; with it, the Tower is the institutional and physical structure that regulates and houses the surface presence of that conduit-end.
+A **Tower of Lirra is built directly on top of a conduit end** — one of the fourteen places where the seven planet-piercing [[seven-conduits|Seven Conduits]] emerge to the surface. Without the conduit, there is no Tower; with it, the Tower is the **institutional seat and physical home of the assembly of magic-users** that gathers at the conduit-end to exploit its extraordinary natural concentration of magic. A Tower does **not regulate the conduit** — the conduit is a non-physical, core-anchored **drain** that needs no regulation and cannot be damaged from the surface (see [[seven-conduits]]); people simply gather where the magic pools deepest. A Tower organizes the *community and its work*, not the conduit, and a fallen Tower is a scattered mage-community, not a ruptured engine.
 
 To ordinary perception, a conduit end appears as a **magic sink** — a place where ambient magic flows naturally down into the earth. To **magical perception**, the same place appears as a **column of unbelievable magical power** rising vertically from the ground. The flow at a conduit end is so concentrated that **any magician who steps inside the column is dissolved** — flooded with so much power their body simply unmakes itself. Towers are therefore built *around* conduit ends, not over them: their inner sanctums (Spindle Chamber, Poleheart, Conduit Mouth — see [[conduit-cities]]) ring the column of power without intruding on it. The Windspeaker who anchors that junction is the sole exception — their innate capacity, and the binding that anchors them to the junction, permits them to exist within the column the way no other magic user can. (source: More corrections.txt — clarifying conversation 2026-04-30; user direction 2026-05-14)
 

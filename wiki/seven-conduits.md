@@ -11,7 +11,7 @@ knowledge_access: [common]
 
 **Summary**: The Seven Conduits are eternal **magical** structures — not physical shafts — that pierce the body of Eadras along seven deep, stable axes anchored to the planetary core. Each conduit connects two antipodal surface endpoints, producing **fourteen termini** that have served as the world's primary Eldritch sinks across every era of Eadras history, including before and after both the Arathi Cataclysm and the creation of the Weave.
 
-**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; Eadras Cannon Expansion.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine termini)
+**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; Eadras Cannon Expansion.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine termini); eadras_map_session_ingest_part2.txt (2026-05-31, drains-not-valves, core-anchor true-antipode mechanism, Towers-as-assemblies)
 
 **Last updated**: 2026-05-31
 
@@ -62,9 +62,22 @@ This distinction is load-bearing. It is the reason the conduits **survived the W
 
 What *was* destroyed at the Cataclysm was everything mortal civilization had built around the conduits: the [[arathi|Arathi]] terminus cities, their crystalline control structures, their [[crystalmancy|crystalmancy lattices]] for regulating local flow, their towers, their archives. The mortal infrastructure was annihilated. The conduits themselves did not move and were not damaged.
 
+### Drains, not valves — and why settlement gathers there
+
+A conduit is the **drain** of the planetary magical cycle — the low point the [[eldritch|Eldritch]] flow is forever sliding toward, where it is drawn back into the body of the world at the **core**. A conduit end is the most magic-rich point for leagues not because it emits or projects power, and not because it is a control valve, but because it is the bottom of the slope: Eldritch concentrates most heavily where it drains. This is what makes a terminus appear as a *magic sink* to ordinary perception and a *column of unbearable power* to magical perception — the same concentration read two ways.
+
+Two consequences follow:
+
+- **A conduit is effectively indestructible.** Being non-physical and core-anchored, it **cannot be killed, ruptured, leaked, or drained dry** by destroying anything at its surface end. It keeps concentrating Eldritch regardless of what stands — or falls — above it.
+- **The [[order-sharanel|Towers of Lirra]] are not regulators.** They are **assemblies of magic-users** who gather where the magic pools deepest. A fallen Tower means a *scattered mage-community*, not a ruptured magical engine; the conduit beneath it goes on concentrating Eldritch exactly as before. (This corrects any framing that treated a Tower as a flow-regulator or a ruined Tower as a magical leak. See [[conduit-cities]] and [[order-sharanel]].)
+
+The recycling mechanism beyond the core is unknown — suspected to run core → [[eldritch|Source]] somehow, closing the loop — but the return path is open canon.
+
 ## Antipodal Pairs and Linked Behavior
 
 Each conduit's two endpoints are **paired** — they exhibit linked magical behavior across the shared axis. A surge at one terminus is registered at its partner. A breach at one is felt at the other. A regulating instrument tuned to one end can be calibrated against the other.
+
+Because the conduits anchor to the **core** rather than the crust, the two surface ends of a single conduit are **always true antipodes** — a straight line through the planet's center emerges at two exactly-opposite surface points. Antipodal pairing of conduit ends is therefore **physically exact, not approximate**, and holds regardless of how far the crust has drifted. When the [[arathi-cataclysm|Cataclysm]] set the plates in motion, the crust slid past the stationary core-anchors: the Arathi-era surface ends (stable while the crust had not yet drifted, enabling permanent paired infrastructure like [[altea|Altea]] ↔ [[verdant-scar|Arath-Veyr]]) gave way to new crustal positions, and old pairings broke and were replaced by new antipodal ones.
 
 This linked-pair structure was the basis of the [[conduit-cities#The Age of the Spires (Pre-Crusade)|pre-Crusade Spire-Step network]]: the [[windspeakers|Windspeakers]] who governed paired tower-domains travelled between them through the conduit's own paired axis ("Conduit Translation"). The cities at paired ends called each other **Far-Kin**.
 

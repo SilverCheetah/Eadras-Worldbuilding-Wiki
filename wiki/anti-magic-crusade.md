@@ -14,7 +14,7 @@ knowledge_access: [common]
 
 **Sources**: Playground generation 3rd part.txt; Playground generation 2nd part.txt; Magic in Eadras.txt; More info 5-4-26.txt; user direction 2026-05-04 (BH goal was Spear-search diversion); user direction 2026-05-14 (make-it-mine pass: all-magic-targeted, Windspeakers replace Weavespinners, Weave sustained by every magic user's life); **user direction 2026-05-15 (replacement-pass: timeline shift to 9,000–10,000 ya before the previous Grand Conjunction; Century of Sorrows engineered ramp-up; Icon-not-Avatar halt; Silent Century reparations; Knights of Lirra founded).**
 
-**Last updated**: 2026-05-31. **(2026-05-31 map session: the three submarine Towers of Lirra were beyond the surface Crusade's reach and likely survived intact — part of why a full seven Towers endured.)**
+**Last updated**: 2026-05-31. **(2026-05-31 map session: the three submarine Towers of Lirra were beyond the surface Crusade's reach and likely survived intact — part of why a full seven Towers endured. Part 2: conduits are indestructible core-anchored drains, so what the Crusade destroyed was the Weave-anchoring at three junctions and the six Tower-assemblies — not the conduits; Sarathis named as one of the six destroyed sites.)**
 
 ---
 
@@ -145,7 +145,9 @@ A hidden Lirran record from the era: *"The western stars vanished one by one, th
 
 ## The Thousand-Year Dimming
 
-The three vacant anchors caused catastrophic damage. **Six [[conduit-cities|Conduit Towers]] were destroyed** in total — the two termini of each of the three broken junctions — and magical potency across Eadras collapsed for a thousand years. No mortal spell above the **Fifth Circle** could be reliably cast.
+The three vacant anchors caused catastrophic damage. **Six [[conduit-cities|Conduit Tower-assemblies]] were destroyed** in total — the two termini of each of the three junctions whose **Weave-anchor failed** when its Windspeaker died. (The conduits themselves, being non-physical core-anchored drains, were untouched and went on concentrating Eldritch as before; what broke was the Weave's anchoring and the mage-communities gathered at those ends — see [[seven-conduits#Drains, not valves — and why settlement gathers there]].) Magical potency across Eadras collapsed for a thousand years; no mortal spell above the **Fifth Circle** could be reliably cast.
+
+One of the six destroyed sites is now named: **[[amunorians|Sarathis]]**, the capital of the [[amunorians|Amunorian Empire]]. The Crusade destroyed the great assembly of Amunorian magic-users gathered at the Sarathis conduit, and because the empire's magical heart *was* that assembly, breaking it broke the empire. The conduit at Sarathis was not ruptured — it still concentrates Eldritch — but the Tower-community that made it an imperial capital was annihilated, and the empire fell. (See [[amunorians]].)
 
 The Spire-Step network shattered. Tower-to-tower governance collapsed. Cities formerly connected instantly were isolated by months of sea and road travel. Political alliances failed; trade collapsed; magical supplies could not move; refugees were trapped.
 

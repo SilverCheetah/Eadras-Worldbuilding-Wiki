@@ -16,9 +16,9 @@ For approximately five thousand years, the **Amunorian Empire** ruled a desert h
 
 Modern Amunorians survive as a widespread, fractured diaspora across the [[azure-basin|Azure Basin]] and neighboring regions — cultured, ambitious, politically connected, and haunted by the memory of imperial greatness. Most surviving houses live in the warmer Mediterranean trade zone the Crusade refugees relocated to; the desert heartland that once held Sarathis remains thinly populated, its old sites mostly inaccessible to modern travel.
 
-**Sources**: Grok Chat 5-8-26.txt, sarathim-revision-2026-05-11.txt; BlendedKingdom_01_InWorld_Facts.txt; BlendedKingdom_02_MetaCommentary.txt (2026-05-12 ingest, desert-empire and imperial-architecture canon); cheese-cultures-and-the-three-civilizational-ethics.md (2026-05-13 ingest, caravan culture and [[tchoukou]] foodway canon).
+**Sources**: Grok Chat 5-8-26.txt, sarathim-revision-2026-05-11.txt; BlendedKingdom_01_InWorld_Facts.txt; BlendedKingdom_02_MetaCommentary.txt (2026-05-12 ingest, desert-empire and imperial-architecture canon); cheese-cultures-and-the-three-civilizational-ethics.md (2026-05-13 ingest, caravan culture and [[tchoukou]] foodway canon); eadras_map_session_ingest_part2.txt (2026-05-31, Sarathis placed at conduit (1177,640) on southern Halaran, climate-straddle geography, conduit-vs-assembly fall mechanics, bay-crossing diaspora).
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-05-31
 
 ---
 
@@ -233,7 +233,16 @@ The empire's flagship Netharim institution — the great tower at the heart of S
 
 ## Sarathis
 
-The imperial capital, **Sarathis**, stood in the **desert heartland of the empire** atop one of the fourteen [[seven-conduits|conduit]] termini, and was crowned by a colossal Netharim tower visible for miles across the surrounding sands. The tower's identity within the broader fourteen-terminus inventory is open canon; per the [[seven-conduits]] reckoning, fourteen termini were divided after the Crusade into seven surviving Towers of Lirra, six destroyed Crusade sites, and the [[verdant-scar|Verdant Scar]]. **Sarathis is one of the six destroyed Crusade sites.** The capital's desert location is part of why the post-Crusade refugees relocated to the warmer Mediterranean trade zone of the [[azure-basin|Azure Basin]] rather than attempting to rebuild *in situ* — the heartland was difficult enough country that maintaining imperial-scale civilization there required imperial-scale infrastructure, and once that infrastructure was broken, the survivable life was elsewhere.
+The imperial capital, **Sarathis**, stood atop one of the fourteen [[seven-conduits|conduit]] termini — on the modern map at **(1177, 640), ~22.5°S, on the southern reach of [[halaran|Halaran]]** ([[eadras-world-map|world map]]) — crowned by a colossal Netharim tower (in truth the empire's great **assembly of magic-users** gathered at the magic-rich conduit). **Sarathis is one of the six [[anti-magic-crusade|Crusade]]-destroyed Tower sites**, and its conduit is the same one whose antipodal end is the [[verdant-scar|Verdant Scar]] (Sarathis at 1177,640 is the true antipode of the Scar at ~151,385).
+
+### Geography — the climate straddle
+
+The empire was a **dry empire that trades by sea**, and it used a coastal mountain range as its internal spine, ruling both flanks of a climate divide:
+
+- **The fertile maritime core (wet side).** Sarathis itself sits nestled against the mountains on their trade-wind-facing flank, **mountain-fed and fronting a large bay** — a watered, fertile capital in the Egyptian-riverine + Italian-maritime mode (canals, harbor-fortresses, hanging gardens). This is the empire's political and magical heart.
+- **The arid interior dominion (dry side).** Over the range, in its rain shadow, lies the true desert — caravan country, oasis-cities, and the [[#The caravan-and-pastoral hinterland|camel-and-goat-herding pastoral hinterland]]. The mountains are the empire's internal rain-divide, **not its border**; it ruled both flanks.
+
+The bay that Sarathis fronts is the same bay whose far shore holds the [[azure-basin|Azure Basin]]. This is why, when Sarathis fell, the survivors crossed *the bay* into the Azure city-states — a short, obvious migration that explains why the [[#Modern Amunorians|diaspora]] concentrated there specifically. The desert interior, hard to hold without imperial-scale infrastructure, was abandoned once the magical heart at Sarathis was broken; the survivable life was across the water.
 
 The city embodied the Amunorian worldview at its highest expression:
 
@@ -256,13 +265,13 @@ The Crusade did not arrive at the empire purely as an outside force. It arrived 
 
 The hysteria had been engineered. When the Black Hand launched the Anti-Magic Crusade as a diversion to cover their hunt for the [[spear-of-crystallized-entropy|Spear]], they directly controlled only three military religious orders — but their real masterstroke was stirring up religious hysteria and social pressure across the world, and that hysteria reached Sarathis with catastrophic force. The city's own citizens, whipped into anti-Netharim frenzy by infiltrated preachers and propaganda, **joined** the crusader knights in storming the tower.
 
-The fall of Sarathis was particularly catastrophic because of what was inside the tower. Netharim were dragged from their homes and killed in the streets. Powerful magical artifacts detonated as their wielders died. The conduit terminus beneath the tower was damaged, the local Weave tore catastrophically, and a series of magical explosions wrecked entire districts of the city. Tens of thousands of Amunorians died — Netharim, scholars, citizens caught in the magical detonations, and the manipulated mob themselves when the workings they had unleashed spiraled beyond their understanding.
+The fall of Sarathis was particularly catastrophic because of what was inside the tower. Netharim were dragged from their homes and killed in the streets. Powerful magical artifacts detonated as their wielders died. The conduit beneath the tower — a non-physical, core-anchored drain — **was not and could not be damaged** ([[seven-conduits#Drains, not valves — and why settlement gathers there]]); what shattered was the great **assembly of magic-users** itself, the **local Weave tore catastrophically**, and a series of magical explosions wrecked entire districts of the city. Because the empire's magical heart *was* that assembly, breaking it broke the empire. Tens of thousands of Amunorians died — Netharim, scholars, citizens caught in the magical detonations, and the manipulated mob themselves when the workings they had unleashed spiraled beyond their understanding.
 
 Imperial archives were looted or destroyed. Libraries vanished. Merchant dynasties fled. Entire bloodlines disappeared in weeks. **The Divine Throne itself was lost in the chaos; no formal succession has been recorded since.**
 
 The trauma was not only that the Amunorians lost their greatest center of magical learning, their flagship conduit terminus, and a massive portion of their population. It was that **their own people had done it.** The hysteria had been engineered, but the hands had been Amunorian. Much of the modern Amunorian political character — the layered formality, the careful management of public crowds, the deep cultural distrust of religious populism — traces directly to the memory of Sarathis.
 
-The empire never recovered. The remaining houses fragmented across the [[azure-basin|Azure Basin]] and surrounding regions, established cadet-branches in [[bold|Bold]] and the [[orden|Orden]] trade compact's territories, and continued a diminished form of their old life. The Imperial Throne was never restored. The capital city of Sarathis was never rebuilt — the conduit damage made the original site magically unstable for centuries afterward, and by the time the worst of the damage had settled, the Amunorians no longer had the political coherence to commit to a rebuild.
+The empire never recovered. The remaining houses fragmented across the [[azure-basin|Azure Basin]] and surrounding regions, established cadet-branches in [[bold|Bold]] and the [[orden|Orden]] trade compact's territories, and continued a diminished form of their old life. The Imperial Throne was never restored. The capital city of Sarathis was never rebuilt — the torn local Weave and the unbound workings of the dead made the original site magically unstable for centuries afterward (the conduit itself still concentrates Eldritch there, undamaged, now without any assembly to use it), and by the time the worst of the instability had settled, the Amunorians no longer had the political coherence to commit to a rebuild.
 
 ## Modern Amunorians
 
@@ -271,7 +280,7 @@ Modern Amunorians live as a **diaspora-elite** across the modern world's trade-a
 - **Faded capital cities** — several ancient Amunorian cities outside Sarathis itself still survive, with reduced wealth and reduced ambition but with surviving libraries, observatories, and houses. None match the original golden age.
 - **The [[azure-basin|Azure Basin]]** — many surviving Amunorian houses relocated to the warmer Mediterranean trade zone, where they remain influential merchant-princes within Venethari and other lagoon-republic societies.
 - **[[bold|Bold]] and the [[orden|Orden]] trade compact** — Amunorian banking and arcane-research expertise remains in demand at the great trade-compact cities, even though the Amunorians are not themselves a trade-compact people.
-- **Surviving original-territory enclaves** — pockets of recognizably Amunorian cultural continuity persist in their original homelands (precise geography open canon — likely the warmer parts of one of the sundered Altean fragments, possibly a coastal or river-valley region of [[damedes|Damedes]] or [[culethor|Culethor]]).
+- **Surviving original-territory enclaves** — pockets of recognizably Amunorian cultural continuity persist in their old heartland on **southern [[halaran|Halaran]]** (around the fertile maritime core and the arid interior dominion). The deep-tectonic lineage of that land folds into the pending [[eadras-tectonic-history|tectonic-naming reconciliation]].
 
 Modern Amunorian culture retains:
 
@@ -330,7 +339,7 @@ A handful of distinctive Amunorian cultural features worth noting beyond the str
 
 ## Open canon
 
-- **The exact geographic location of Sarathis** within the post-Cataclysm continents — known to be a **desert capital** (2026-05-12 ingest), known to be one of the six destroyed Crusade sites, exact continental placement still undocumented.
+- ~~**The exact geographic location of Sarathis**~~ — **RESOLVED 2026-05-31** (map session part 2): the conduit at **(1177, 640), ~22.5°S, on southern [[halaran|Halaran]]**, nestled against the coastal mountains, fronting the bay whose far shore is the [[azure-basin|Azure Basin]]; the true antipode of the [[verdant-scar|Verdant Scar]]. Sarathis sits in the empire's fertile maritime core (wet side), with the arid interior dominion over the range. Its internal regions and named districts remain open.
 - **Specific named Amunorian houses** beyond [[house-sitharis|House Sitharis]] — many existed and exist; only Sitharis is documented.
 - **The imperial spellcasters** who wove and maintained the minaret crystal wards. A dedicated order maintained the imperial network; their relationship to the [[magic-in-eadras|four magical orders]] (most plausibly [[wizards|Wizards]] working at infrastructure scale, possibly a specialized hybrid) and their fate during and after the Crusade are open canon.
 - **The minaret crystal-mesh-housing materials** — the mesh and roof materials are unspecified, as is the relationship between the housed crystal and the maintaining spellcaster.
@@ -338,7 +347,7 @@ A handful of distinctive Amunorian cultural features worth noting beyond the str
 - **Whether the Amunorians consciously borrowed the spell-crystal minaret form from [[taran-architecture|Tarran architecture]]** during their imperial expansion, or arrived at the same solution independently. Both readings are defensible.
 - **The hieroglyph-rune hybrid script** — translation tradition, whether the opacity to foreigners is incidental or deliberate, and whether any modern scholars have reconstructed a working reading method from surviving inscriptions.
 - **The fate of the Divine Throne after Sarathis** — whether any legitimate claimant lineage survived the destruction of the capital, whether anyone has plausibly claimed inheritance in the millennia since, and how modern Amunorian houses formally regard the question.
-- **The fate of the original Amunorian conduit terminus** — geological shift since the Crusade may have moved it relative to the surface; recoverable in principle.
+- **The still-active conduit at abandoned Sarathis** — the conduit is intact and still concentrates Eldritch (core-anchored, indestructible; only the assembly and the local Weave were destroyed). Whether anyone — relic-hunters, a successor mage-community — has reoccupied or contests the site is open.
 - **Whether the Amunorian claim to Velrathi heritage is taken seriously by any actual Velrathi exiles in [[veyr-keth|Veyr'Keth]]**, and whether either side has reached out across the divide.
 - **Amunorian naming conventions** at the level documented in [[naming-conventions]] for other peoples.
 - **Whether the `historical_horizon` enum should be refined** to add a `pre-modern` era (10,000–5,000 ya, covering the Amunorian Empire and other long-lived post-Demon-War institutions) and to narrow `dimming` to 5,000–4,000 ya. The Amunorian page currently uses `[all]` as the closest fit pending this refinement; touching the enum would require a wiki-wide migration sweep.
@@ -392,6 +401,9 @@ Preserved from the 2026-05-09 expert-council analysis of the kingdom's iterative
 - [[black-hand]]
 - [[seven-conduits]]
 - [[azure-basin]]
+- [[halaran]]
+- [[eadras-world-map]]
+- [[verdant-scar]]
 - [[orden]]
 - [[bold]]
 - [[humans]]
