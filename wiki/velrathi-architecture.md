@@ -128,14 +128,14 @@ Modern uses of Velrathi sites include:
 - **Gnomish archaeological dig sites** — many of the most productive vaults of recovered crystalmancy theory are Velrathi-built; gnomes treat the buildings (and their wardspirits) with particular respect.
 - **Black Hand safehouses** — at least some of the [[black-hand|Black Hand's]] deepest hidden installations are built into Velrathi ruins whose Stone-Bound have been compromised, deceived, or (in rare cases) cooperatively persuaded.
 
-The Velrathi exiles in [[veyr-keth|Veyr'Keth]] (Shadowdark Gaia) continue the tradition with full vigor, and have refined it under Shadowdark conditions in directions no Prime-side scholar has yet mapped. What modern Velrathi architecture looks like in Veyr'Keth, after ten thousand years of post-banishment iteration, is open canon and probably terrifying.
+The Velrathi exiles in [[veyr-keth|Veyr'Keth]] (Glimmerdark Gaia) continue the tradition with full vigor, and have refined it under Glimmerdark conditions in directions no Prime-side scholar has yet mapped. What modern Velrathi architecture looks like in Veyr'Keth, after ten thousand years of post-banishment iteration, is open canon and probably terrifying.
 
 ## Open canon
 
 - **The total number of Stone-Bound currently active on Eadras**, and how many are willing to communicate with modern scholars in a sustained way.
 - **The full mechanism of wardspirit invitation** — the ritual, its prerequisites, and whether modern practitioners could in principle perform it. Order Sharanel theoretical work has reconstructed pieces; nobody is publicly claiming to have completed the full protocol.
 - **Whether Velrathi-Tarran-Imperial collaborative buildings exist** — that is, structures combining Velrathi spell-lattice work with [[taran-architecture|Tarran imperial Roman-Ottoman]] forms. Documented Velrathi-Elfen collaboration is canonical; Velrathi-Tarran collaboration is plausible but not confirmed.
-- **The post-banishment Veyr'Keth tradition** — extensively developed under Shadowdark conditions; its features and the temperament of its Stone-Bound are unmapped.
+- **The post-banishment Veyr'Keth tradition** — extensively developed under Glimmerdark conditions; its features and the temperament of its Stone-Bound are unmapped.
 - **What a Stone-Bound is, exactly, in the cosmology of [[observer-and-naming|observer and naming]]** — whether it is a Mythos-native spirit, a fragment of architectural attention granted personhood, or something stranger.
 
 <details>

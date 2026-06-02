@@ -21,6 +21,8 @@ knowledge_access: [common]
 
 Demons come from an entirely different [[mythos|Mythos]] — a reality so alien to ours that **their very existence is poisonous to this Mythos**.
 
+Demons are **mythos-native creatures** — created *within* a specific Mythos (Nethar / Vorath) — and are emphatically **not [[chaos|Chaos]] entities**. The Chaos "form-or-dissolve" law that governs chaos-born things therefore **does not apply to them**: a demon's persistence does not depend on the conditions that let chaos-life cohere, which is part of why they are so hard to remove and why they behave like a true invasive species rather than a chaos pocket. (source: Grok Chat Results 6-2-26.txt)
+
 ### The demon Mythos: Nethar / Vorath
 
 The demon Mythos's true name in the demonic language is **unpronounceable by humanoid mouths** — there is no clean way to render it. In the [[concordance|Concordance]] tongue, the cross-Mythos lingua franca, the names that have been recorded for the Mythos are **Nethar** or **Vorath** (used roughly interchangeably by different Concordance scholars). Eadras texts default to *Nethar* in formal writing and *Vorath* in older sources. (source: More corrections.txt)

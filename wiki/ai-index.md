@@ -52,6 +52,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [neverborn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/neverborn.md) — Pre-ontological Chaos entity that aided Kudur-eṭir's forging of the Spear
 - [observer-and-naming](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/observer-and-naming.md) — Reality requires an observer; naming requires a namer who is also an observer. Eadras runs slightly observer-hungry because the Primordial Duo sacrificed themselves into the Mythos and left no ultimate observer behind
 - [night-sky-cosmology](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/night-sky-cosmology.md) — The stars visible from Eadras are not distant suns but other [Mythoi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/mythos.md) seen through [Limina's](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/limina.md) distortion; the slow precessional cycle (5,000 / 10,000 / 26,000-year figures all extant) functions as a **cosmic lock**, not a recharge mechanism, gating the eras in which the Spear can fire
+- [declaration-principle](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/declaration-principle.md) — *Proposed.* Cosmological hypothesis that existence rests on the Creator's primordial declaration "I AM"; each lower tier of being a fainter echo, and Ascension the point where reality accepts a new declaration as true
 
 ### Eadras Internal Planes
 - [eadras-cosmology](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-cosmology.md) — Full internal structure of the Eadras Mythos and its nine planes
@@ -62,8 +63,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [seraphim](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/seraphim.md) — Native rank-and-file celestial spirits of Celestia; workforce of the Divine Bureaucracy; the setting's "angels" when dispatched to the mortal world
 - [nyxar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/nyxar.md) — The lowest plane; analogue to Hell
 - [devils](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/devils.md) — Native rank-and-file infernal spirits of Nyxar; office workers of the Infernal Bureaucracy; ordinary 5-foot red-skinned humanoids whose dramatic mortal-iconography forms (imps, pit fiends, etc.) are magical Bureaucracy uniforms; **explicitly not Demons**
-- [feywild](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/feywild.md) — Bright reflection of the Prime Material; home of fey and positive spirits
-- [shadowdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shadowdark.md) — Dark reflection of the Prime Material; home of darkness-tainted spirits
+- [wyldglimmer](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/wyldglimmer.md) — Bright reflection of the Prime Material; home of fey and positive spirits
+- [glimmerdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/glimmerdark.md) — Dark reflection of the Prime Material; home of darkness-tainted spirits
 - [limina](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/limina.md) — The connecting plane; the "air" of the Mythos through which all planes are linked
 
 ### Moons and Exile Realms
@@ -72,7 +73,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [daj](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/daj.md) — The Red Moon; second-largest; named for the Elder God of war
 - [shali](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shali.md) — Twin crystal moon; named for the gentle Elder Goddess of death
 - [shani](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shani.md) — Twin crystal moon; named for the stern Elder Goddess of death
-- [veyr-keth](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/veyr-keth.md) — Capital of the exiled Velrathi in Shadowdark Gaia
+- [veyr-keth](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/veyr-keth.md) — Capital of the exiled Velrathi in Glimmerdark Gaia
 - [firethorn-hold](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/firethorn-hold.md) — Capital of the exiled Tarran in Prime-like Gaia; home of the Gray Matriarchy
 
 ---
@@ -145,6 +146,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [worldbreaker-mechanism](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldbreaker-mechanism.md) — The deep geophysical mechanism of the Cataclysm: steam-flash cascade, crustal decoupling, polar stability, conduit anchoring
 - [pre-cataclysm-relics](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/pre-cataclysm-relics.md) — Fossils, Stillbeasts, Ashseed Forests, and other fragments of the lost 70%-land world
 - [post-cataclysm-fauna](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/post-cataclysm-fauna.md) — Abyssal Crownwhales, Vent Seraphs, Scaldwyrms, Crown-Eels, Lantern Dead, Pressure Echoes — the new fauna of the world the Drowning made
+- [great-northern-whales](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/great-northern-whales.md) — Oceanic ecological engineers whose whale honey triggers drifting Life Blooms; the Merrow's "Gardens of the Sea," seeding reefs thousands of miles south
+- [bathyric-mandate](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bathyric-mandate.md) — A magical bacterial hive mind, a Cataclysm side-effect; infests hosts, takes over by telepathy, regrows from a single cell; eradicated five times and returned five times
 - [arathi-golden-age-map](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/arathi-golden-age-map.md) — Illuminated Arathi cartographic record of Eadras a generation before the Cataclysm; Altea as Heart of the Conduits, named Termini and regions
 - [chaos-crusades](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/chaos-crusades.md) — The two times raw Chaos breached the Mythos through Kudur-eṭir's old aperture (~6 mybp, ~2 mybp)
 - [great-exchange](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/great-exchange.md) — Centuries-long mutual teaching between young dragons and young unicorns; foundation of the Council of 99 and the Treaty of Ratharil; source of the phrases *Walking the Dragon Path* and *Singing with the Unicorn Voice*
@@ -182,8 +185,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [demons](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/demons.md) — Alien-Mythos energivores; existential threat to the omniverse; arrive only by summoning or breach
 
 ### Progenitor Races (the only three created by The Three; all banished after Demon War)
-- [elfen](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elfen.md) — First progenitor; wardens of wildlands; created by Mark; banished to Feywild Gaia
-- [velrathi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velrathi.md) — Second progenitor; masters of magic; created by Rand; banished to Shadowdark Gaia (Veyr'Keth)
+- [elfen](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elfen.md) — First progenitor; wardens of wildlands; created by Mark; banished to Wyldglimmer Gaia
+- [velrathi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velrathi.md) — Second progenitor; masters of magic; created by Rand; banished to Glimmerdark Gaia (Veyr'Keth)
 - [tarans](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/tarans.md) — Third progenitor; keepers of order; created by Melania; banished to Prime-like Gaia (Gray Matriarchy)
 
 ### Engineered and Descendant Peoples
@@ -202,7 +205,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 ### Modern Era Races (extant)
 - [humans](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/humans.md) — Diminished descendants of the Aetherin; widely distributed
-- [elves](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elves.md) — Descendants of the El'mer; multiple environmental subtypes
+- [elves](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elves.md) — Descendants of the El'mer; rare, caste-structured, purpose-born, womb-tree-grown guardians of natural balance
+- [varkhul-native-elves](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul-native-elves.md) — Varkhul's only indigenous people; hidden elf tribes who turned the atavist into an institution; the one people on the prison continent who solved trust
 - [Shada'din (Dwarves)](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dwarves.md) — Descendants of the Mitans; clan-based miners, smiths, and magitek factory operators; two-mode culture (Work / Relaxation); ascended-mortal patron Din'shadar
 - [gnomes](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/gnomes.md) — Inventive Grugi descendants; sibling line to goblins
 - [goblins](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/goblins.md) — Scavenging Grug descendants; sibling line to gnomes
@@ -223,7 +227,6 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [lizardfolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/lizardfolk.md) — Middle-sized Lizard People; primal reptilian temperament
 - [dragonborn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonborn.md) — Largest Lizard People; most directly draconic
 - [snakefolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/snakefolk.md) — Yuan-ti analogue; NPC-only dragonfolk subtype
-- [dragonkin](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonkin.md) — Mendelian-bred humanoid descendants of dragons on [Varkhul](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul.md); distinct from dragonfolk; provide territorial hostility on the prison continent
 - [turkorcs](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/turkorcs.md) — Wholly individualistic, amoral, honor-rejecting warriors and casters of [Varkhul](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul.md); strictly contained
 - [trolls](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/trolls.md) — Living mineral constructs engineered by the Arathi as perfect miners; mostly elder hibernators
 
@@ -313,7 +316,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 ## Artifacts & Objects
 
 - [runeswords](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/runeswords.md) — Eleven sentient Starmetal blades forged by Dao to maintain balance; alien-crystal hearts
-- [spear-of-crystallized-entropy](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/spear-of-crystallized-entropy.md) — The most dangerous artifact in Eadras; turns wielders into Unrestricted Elder Gods. **Alien to the Mythos** and outside the gods' direct jurisdiction (they cannot destroy or expel it). Wielded 3 times, hidden 4: destruction-illusions / time-displacement in the [Feywild](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/feywild.md) / reverse-time-bubble god-prison in the deepest [Shadowdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shadowdark.md) / impaled back into the original First Breach Wound under [Arathyn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/arathyn.md)
+- [spear-of-crystallized-entropy](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/spear-of-crystallized-entropy.md) — The most dangerous artifact in Eadras; turns wielders into Unrestricted Elder Gods. **Alien to the Mythos** and outside the gods' direct jurisdiction (they cannot destroy or expel it). Wielded 3 times, hidden 4: destruction-illusions / time-displacement in the [Wyldglimmer](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/wyldglimmer.md) / reverse-time-bubble god-prison in the deepest [Glimmerdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/glimmerdark.md) / impaled back into the original First Breach Wound under [Arathyn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/arathyn.md)
 - [worldender](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldender.md) — The apocalyptic falling star pulled through Kudur-eṭir's First Breach when his shattered post-ascension mind reached uncontrollably back into Chaos; destroyed his Icon and shattered the planet
 - [worldender-crystal](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldender-crystal.md) — Alien crystal Dao harvested from the Worldender; foreign to the Mythos; all fragments hoarded by Dao alone
 - [firethorn-throne](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/firethorn-throne.md) — Melania's masterpiece from leftover alien crystal; vanished after the Emperor's poisoning; not in any known location
@@ -353,13 +356,15 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [continental-ward](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/continental-ward.md) — Strongest magical barrier on Eadras; encircles Varkhul 25mi offshore; multi-layer, frequency-shifting, inward-reflective; fed continuously by hundreds of casters from nearly every nation
 
 ### Continents (post-Cataclysm)
+- [eadras-world-map](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-world-map.md) — Reference atlas for the modern surface: the equirectangular dragon-memory map, the coordinate system anchored to the Worldbreaker Scar, the planetary climate model (latitude bands, gyres), the antipode rule, and the marked-coordinate table; tectonic assembly to the modern arrangement
+- [halaran](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/halaran.md) — The large **eastern continent** where the majority of Eadras's peoples live; fused from two pole-crossing fragments, with a volcanic Collision Range across its middle; holds Ratharil (north), the Demonfall Marches/Kharathen (mid-west), the temperate heartland, and the Azure Basin (eastern bay)
 - [avalon](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/avalon.md) — Northern continent; sundered from the Altean Highlands
 - [damedes](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/damedes.md) — Southwestern continent; sundered from the Altean Highlands
 - [culethor](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/culethor.md) — Southeastern continent; sundered from the Altean Highlands
 - [therion](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/therion.md) — Pre-Cataclysm highland that survived intact
 - [aurettos](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/aurettos.md) — Pre-Cataclysm highland that survived intact
 - [eldravath](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eldravath.md) — *"The Forged Land"* — supercontinent at 4mya post-Cataclysm; "the last time the world existed as a single landmass"
-- [varkhul](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul.md) — Modern post-Eldravath southwestern continent (the Dark Continent / Exile Lands); ~2× a major continent in size; ¼ Scorched Waste; the world's prison continent encircled by the [Continental Ward](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/continental-ward.md)
+- [varkhul](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul.md) — Modern post-Eldravath southwestern continent (the Dark Continent / Exile Lands); ~2× a major continent in size; ¼ Scorched Waste; the world's prison continent encircled by the [Continental Ward](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/continental-ward.md). On the modern map this is the **southwestern landmass** and the **antipode of Ratharil** (the dragons' neutral city sits as far from it as the planet allows; see [eadras-world-map](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-world-map.md))
 - [worldbreaker-scar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldbreaker-scar.md) — Persistent geological wound at the Worldbreaker impact site; basement of Arathyn
 
 ---
@@ -407,7 +412,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 ## Complete page manifest
 
-Every canon page (273), for resolving any `[[name]]` by lookup.
+Every canon page (278), for resolving any `[[name]]` by lookup.
 
 - [aberrations](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/aberrations.md)
 - [absence-traditions](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/absence-traditions.md)
@@ -437,6 +442,7 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [baldaranic-council-cycle](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/baldaranic-council-cycle.md)
 - [bastion-of-light](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bastion-of-light.md)
 - [bathing-customs](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bathing-customs.md)
+- [bathyric-mandate](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bathyric-mandate.md)
 - [battle-of-the-broken-conclaves](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/battle-of-the-broken-conclaves.md)
 - [beast-folk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/beast-folk.md)
 - [black-hand](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/black-hand.md)
@@ -461,6 +467,7 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [damedes](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/damedes.md)
 - [dao](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dao.md)
 - [dashar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dashar.md)
+- [declaration-principle](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/declaration-principle.md)
 - [decree-of-shali-shani-ioa](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/decree-of-shali-shani-ioa.md)
 - [deep-vaults](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/deep-vaults.md)
 - [demon-prince-of-the-open-wound](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/demon-prince-of-the-open-wound.md)
@@ -478,7 +485,6 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [dragon-empire](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragon-empire.md)
 - [dragonborn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonborn.md)
 - [dragonfolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonfolk.md)
-- [dragonkin](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonkin.md)
 - [dragons](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragons.md)
 - [dreadharrow](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dreadharrow.md)
 - [druids](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/druids.md)
@@ -486,6 +492,7 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [eadras-cosmology](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-cosmology.md)
 - [eadras-tectonic-history](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-tectonic-history.md)
 - [eadras-timeline](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-timeline.md)
+- [eadras-world-map](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eadras-world-map.md)
 - [el-mer](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/el-mer.md)
 - [eldravath](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eldravath.md)
 - [eldritch](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eldritch.md)
@@ -498,7 +505,6 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [fae](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/fae.md)
 - [fae-da-nar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/fae-da-nar.md)
 - [fallback-doctrine](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/fallback-doctrine.md)
-- [feywild](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/feywild.md)
 - [firethorn-empire](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/firethorn-empire.md)
 - [firethorn-hold](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/firethorn-hold.md)
 - [firethorn-throne](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/firethorn-throne.md)
@@ -510,6 +516,7 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [four-moons-of-eadras](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/four-moons-of-eadras.md)
 - [frontier-hospitality](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/frontier-hospitality.md)
 - [gaia](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/gaia.md)
+- [glimmerdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/glimmerdark.md)
 - [gnomes](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/gnomes.md)
 - [goblin-ancestor-liquor](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/goblin-ancestor-liquor.md)
 - [goblin-tunnel-cheese](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/goblin-tunnel-cheese.md)
@@ -523,7 +530,9 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [great-banishment](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/great-banishment.md)
 - [great-betrayal](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/great-betrayal.md)
 - [great-exchange](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/great-exchange.md)
+- [great-northern-whales](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/great-northern-whales.md)
 - [grugi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/grugi.md)
+- [halaran](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/halaran.md)
 - [halflings](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/halflings.md)
 - [hall-of-kings](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/hall-of-kings.md)
 - [hall-of-the-long-quiet](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/hall-of-the-long-quiet.md)
@@ -615,7 +624,6 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [sea-tua](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/sea-tua.md)
 - [seraphim](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/seraphim.md)
 - [seven-conduits](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/seven-conduits.md)
-- [shadowdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shadowdark.md)
 - [shali](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shali.md)
 - [shani](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shani.md)
 - [she-who-shall-not-be-named](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/she-who-shall-not-be-named.md)
@@ -659,6 +667,7 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [unreceived](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unreceived.md)
 - [unsealing-oath](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unsealing-oath.md)
 - [varkhul](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul.md)
+- [varkhul-native-elves](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul-native-elves.md)
 - [vault-concordat](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/vault-concordat.md)
 - [velena](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velena.md)
 - [velrathi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velrathi.md)
@@ -681,4 +690,5 @@ Every canon page (273), for resolving any `[[name]]` by lookup.
 - [worldender](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldender.md)
 - [worldender-crystal](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldender-crystal.md)
 - [woundwatch](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/woundwatch.md)
+- [wyldglimmer](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/wyldglimmer.md)
 - [xarvion](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/xarvion.md)

@@ -73,14 +73,14 @@ The Elfen themselves engineered three child races. Per established canon, [[the-
 | Race | Description | Modern Status |
 |---|---|---|
 | **[[el-mer\|El'mer]]** | Created to oversee natural balance on land | **Totally extinct** — died at the [[battle-of-the-broken-conclaves\|Battle of the Broken Conclaves]] as one of the [[three-who-stood\|Three Who Stood]]. Diluted blood survives in modern Elves and Fae. |
-| **Sidhe** | Created to regulate and rule the [[feywild]] | Ancestors of all modern sapient Fae |
+| **Sidhe** | Created to regulate and rule the [[wyldglimmer]] | Ancestors of all modern sapient Fae |
 | **[[sea-tua\|Sea'tua]]** | Created to oversee natural balance in the oceans; created roughly **ten million years after the [[arathi-cataclysm\|Arathi Cataclysm]]**, well after Eadras's hydrology had stabilized in its post-Drowning configuration | Ancestors of all modern sapient sea peoples — the Five Modern Oceanic Races ([[merrow\|Merrow]], [[sirens\|Sirens]], [[shimmercloaks\|Shimmercloaks]], [[ink-lords\|Ink Lords]], [[tideclad\|Tideclad]]) plus two alien-branch peoples ([[kuo-toa\|Kuo-toa]], [[sahuagin\|Sahuagin]]) |
 
 Modern descendants include Elves (various types), Fae, the Five Modern Oceanic Races (collectively known on the surface as [[merfolk|Merfolk]]), [[kuo-toa|Kuo-toa]], [[sahuagin|Sahuagin]], and others.
 
 ## Banishment
 
-At the conclusion of the [[demon-war|Demon War]], the [[great-banishment|Elder Gods banished all three progenitor races]] from the Prime Material of Eadras. The Elfen were sent to the **[[gaia|Feywild version of the moon Gaia]]** — a bright, positive-tainted reflection where wild magic runs rampant and living architecture blooms with impossible speed. Their descendants there leaned fully into wild-song magic.
+At the conclusion of the [[demon-war|Demon War]], the [[great-banishment|Elder Gods banished all three progenitor races]] from the Prime Material of Eadras. The Elfen were sent to the **[[gaia|Wyldglimmer version of the moon Gaia]]** — a bright, positive-tainted reflection where wild magic runs rampant and living architecture blooms with impossible speed. Their descendants there leaned fully into wild-song magic.
 
 Modern elves and fey on the Prime are diluted descendants of the surviving servant lines and El'mer/Sidhe/Sea'tua bloodlines that remained on Eadras during the Banishment. Pure Elfen no longer exist on the Prime Material — though hidden Elfen deep wilds remain on Eadras as part of the "enclaves remained behind" exception to the Banishment (see [[great-banishment]]).
 
@@ -99,7 +99,7 @@ Elfen names are elegant, melodic, flowing, and nature-inspired with a distinctiv
 - [[peoples-of-eadras]]
 - [[magic-in-eadras]]
 - [[eldritch]]
-- [[feywild]]
+- [[wyldglimmer]]
 - [[gods-of-eadras]]
 - [[pre-empire-foodways]]
 - [[el-mer]]

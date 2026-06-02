@@ -28,7 +28,7 @@ The Amunorians emerged in the centuries following the [[demon-war|Demon War]], d
 
 What distinguishes the Amunorians from other post-war human cultures is their **explicit self-claim** to be the **spiritual and intellectual heirs of the Velrathi**. The argument they make, in their own histories and political rhetoric, runs roughly:
 
-> *The [[rathari|Rathari]] shattered into [[three-thirds-of-the-rathar|three branches]]. A third died. A third — the [[katharim|Katharim]] — turned away from arcane magic forever and became death-priests. A third — the [[beast-folk|Laughing Third]] — embraced Sylph's Veil and became something other. The Velrathi themselves were [[great-banishment|banished]] to Shadowdark Gaia. None of them carry the living tradition forward.*
+> *The [[rathari|Rathari]] shattered into [[three-thirds-of-the-rathar|three branches]]. A third died. A third — the [[katharim|Katharim]] — turned away from arcane magic forever and became death-priests. A third — the [[beast-folk|Laughing Third]] — embraced Sylph's Veil and became something other. The Velrathi themselves were [[great-banishment|banished]] to Glimmerdark Gaia. None of them carry the living tradition forward.*
 >
 > *We do. We picked up scholarship, ambition, monumental building, deep arcane mastery, the worship of knowledge for its own sake. We remembered what they forgot. We remembered for them. **We are the Velrathi legacy in the modern world.***
 

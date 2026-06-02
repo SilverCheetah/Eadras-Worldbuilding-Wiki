@@ -11,9 +11,9 @@ knowledge_access: [general]
 
 **Summary**: Druids are a specialized sub-order of [[priests|priesthood]] who serve the three [[gods-of-eadras|Elder Gods]] most closely tied to the natural and fey worlds — [[qoxli|Qoxli]], [[sylph|Sylph]], and [[nox|Nox]] — and who are expected, beyond the ordinary obligations of priesthood, to be **highly self-sufficient** and competent in practical wilderness skills. They serve as guardians of the natural world and as mediators between mortal societies and the [[fae|fae realms]].
 
-**Sources**: Extra large grok chat 5-9-2026.txt
+**Sources**: Extra large grok chat 5-9-2026.txt, Grok Chat Results 6-2-26.txt (2026-06-02, rarity, lethal master-to-apprentice training, per-people aptitude, patron-manifestation)
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-06-02
 
 ---
 
@@ -96,10 +96,20 @@ Under the current canon, druids are not a fourth magical order; the four orders 
 
 The previous canon's druidic concept of "tapping The All directly" is no longer the druidic mechanism. The All — the leftover creation energy of [[primordial-duo|Evye and Fryr]] — remains canonical as the deep reservoir that surfaces as the [[magic-in-eadras|Source/Eldritch/Mana]] family of states; it is not, however, a substrate that mortal druids draw on directly. *(See [[magic-in-eadras]] for the substrate-state model and the [[magic-in-eadras|Note-and-defer]] banner about the larger rework.)*
 
+## Rarity, training, and aptitude
+
+Druids are **extremely rare**. There is no academy that produces them at scale; the craft is passed **master-to-apprentice**, one teacher to a handful of students at most, and the training is **extraordinarily lethal** — roughly **a third or more of trainees die** before completing it. The survivors share a recognizable temperament: having already passed through something that killed their peers, they tend to be **unusually calm in the face of interpersonal conflict**, hard to rattle and slow to escalate.
+
+All druids **cooperate regardless of which deity they serve.** Serving [[qoxli|Qoxli]], [[sylph|Sylph]], or [[nox|Nox]] is treated as a personal choice, not a professional or factional divide; a Qoxli-druid and a Nox-druid will work together as fellow druids even though their patrons are at odds.
+
+Aptitude is **not evenly distributed across peoples.** [[elves|Elves]] and the [[feydinar|Feydinar]] produce druids at notably higher rates, owing to their deep natural ties and fey ancestry, and [[beast-folk|Beast-Folk]] become druids at success rates similar to the Feydinar. Other peoples produce druids only rarely.
+
+## Manifesting the patron
+
+When a druid needs **political weight** — to force a negotiation, settle a dispute, or make a doubting authority take the fae or the wild seriously — they can **manifest a piece of their deity.** This is not a full [[icons|avatar]] (no god manifests avatars in the wounded Eadras Mythos); it is a small, direct, unmistakable showing of the patron's presence, enough to demonstrate that the god **exists and is angry.** It is used sparingly, as a closing argument rather than an opening one, and it is one of the quiet sources of the outsized authority druids carry relative to their numbers.
+
 ## Open canon
 
-- Whether druids of [[qoxli|Qoxli]], [[sylph|Sylph]], and [[nox|Nox]] **train together** in shared institutions, train separately within each cult, or apprentice individually under senior druids regardless of shared patron.
-- Whether modern post-Banishment [[elves|elves]] (whose [[elfen|ancestors]] are deeply tied to the same nature-and-fey domain) tend to produce druids at higher rates than other modern peoples.
 - Whether [[beast-folk|Beast-Folk]] communities recognize their own [[flyting|Laughing Circle]] elders as performing a function structurally identical to druid mediation, even when the elders never adopt the druid title.
 - Whether druidic political weight is **greater** in the modern era than under the [[firethorn-empire|Firethorn Empire]] (when imperial bureaucracy could substitute for fae mediation in some cases) or whether the drop in central authority has elevated their role.
 

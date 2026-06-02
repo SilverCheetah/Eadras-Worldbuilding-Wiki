@@ -142,7 +142,7 @@ The Orden, gnome, and goblin practices are **not part of this downstream family*
 
 - A definitive treatment of [[elfen|Elfen]] bathing customs (and modern [[elves|elf]] practice).
 - The bathing customs of the [[tarans|Taran]], the [[katharim|Katharim]], the [[dwarves|Shada'din (Dwarves)]], the modern [[humans|humans]], the modern oceanic peoples (which is an interesting case given they live in water already), and the [[halflings|halflings]].
-- Whether [[velrathi|Velrathi]] in [[veyr-keth|Veyr'Keth]] (the post-Banishment exile in Shadowdark Gaia) still operate full-protocol communal bathhouses, or whether the tradition has evolved/degraded under exile conditions.
+- Whether [[velrathi|Velrathi]] in [[veyr-keth|Veyr'Keth]] (the post-Banishment exile in Glimmerdark Gaia) still operate full-protocol communal bathhouses, or whether the tradition has evolved/degraded under exile conditions.
 - Whether the [[gray-matriarchy|Gray Matriarchy]] preserves the Velrathi bathing tradition (since they are descended from exiled [[tarans|Tarans]] who would have known the imperial bathhouse system at the height of [[firethorn-empire|Firethorn]] cultural integration).
 
 <details>

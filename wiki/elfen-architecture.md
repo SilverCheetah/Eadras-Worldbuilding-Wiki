@@ -115,13 +115,13 @@ Elfen ruins are widely revered. Specific modern interactions include:
 - **Azure Basin scholars and Venethari relic-merchants** mount careful expeditions for song-wood artifacts — rare resonant instruments, memory-sap vials, and "living seed-cores" capable, with the right encouragement, of starting new song-grown growth in hospitable conditions.
 - **Modern gnome workshops** study Elfen ruins as the Elfen counterpart to crystalmancy — *organic* shaping vs. *mineral* shaping. Comparative gnome-druid scholarship is one of the more productive minor academic intersections in the modern era.
 
-The exiled Elfen on Feywild [[gaia|Gaia]] continue the tradition with full vigour, leaning fully into wild-song magic in conditions that would have horrified their measured Prime-side ancestors. What Feywild-Gaia Elfen architecture looks like after ten thousand years of bright-side exile is open canon and probably extraordinary.
+The exiled Elfen on Wyldglimmer [[gaia|Gaia]] continue the tradition with full vigour, leaning fully into wild-song magic in conditions that would have horrified their measured Prime-side ancestors. What Wyldglimmer-Gaia Elfen architecture looks like after ten thousand years of bright-side exile is open canon and probably extraordinary.
 
 ## Open canon
 
 - **Whether any Elfen sites are still actively song-tended** by hidden Elfen enclaves on the Prime (the Banishment's "enclaves remained behind" exception leaves theoretical room for this).
 - **Specific named Elfen sanctuary cities** — none are currently named in canon.
-- **The modern Feywild-Gaia tradition** — extensively developed, unmapped from the Prime side.
+- **The modern Wyldglimmer-Gaia tradition** — extensively developed, unmapped from the Prime side.
 - **Whether Elfen song-shaping can be partly revived** by modern bards or druids working in cooperation with surviving fey, or whether the technique is irrecoverable without pure-Elfen practitioners.
 
 <details>

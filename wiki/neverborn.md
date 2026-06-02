@@ -103,7 +103,7 @@ The Spear may be partly the Neverborn's anchor. This does not mean it lives insi
 Each use of the Spear teaches the Neverborn how to remain, giving it an accumulating shadow of history inside Eadras:
 
 - **Kudur-eṭir** — first use; created the Spear, caused the Arathi Cataclysm
-- **Tarloth the Cruel** — a [[dragons|dragon]] who retrieved the Spear from Shadowdark and ascended; eventually imprisoned by the Elder Gods (User direction 2026-05-01)
+- **Tarloth the Cruel** — a [[dragons|dragon]] who retrieved the Spear from Glimmerdark and ascended; eventually imprisoned by the Elder Gods (User direction 2026-05-01)
 - **Darkhoof** — a unicorn who used the Spear (see [[arathi]] and [[arathi-cataclysm]])
 - **Xar'vion** — used it during or near the [[demon-war]]
 

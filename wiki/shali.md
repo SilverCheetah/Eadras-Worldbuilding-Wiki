@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Shali is one of the twin Elder Goddesses of death, born from the splitting of the tenth Elder God at creation — the compassionate, patient, merciful half who gently escorts worthy souls to peace and rest, locked forever in argument with her twin [[shani|Shani]].
 
-**Sources**: More Info on the Elder Gods.txt, Creation Myth.txt, Gods of Eadras.txt, More corrections.txt
+**Sources**: More Info on the Elder Gods.txt, Creation Myth.txt, Gods of Eadras.txt, More corrections.txt, Grok Chat Results 6-2-26.txt (2026-06-02, crystal-moon detail)
 
-**Last updated**: 2026-04-30
+**Last updated**: 2026-06-02
 
 ---
 
@@ -61,9 +61,9 @@ Shali views [[nox|Nox]]'s liberal use of [[necromancy-and-undeath|undeath and ne
 
 ## Celestial aspect — twin crystal moon
 
-One of the two **twin crystal moons** of Eadras is named for Shali. Shali and her twin [[shani|Shani]] are the third- and fourth-largest of [[four-moons-of-eadras|Eadras's four moons]]; they orbit each other while jointly orbiting Eadras, and are seen together in the sky as a coupled pair. The crystalline composition of the moons aligns with the metaphysical crystallinity often associated with the death-twin domain — clarity, finality, the unbreakable.
+One of the two **twin crystal moons** of Eadras is named for Shali. Shali and her twin [[shani|Shani]] are the third- and fourth-largest of [[four-moons-of-eadras|Eadras's four moons]]; they orbit each other while jointly orbiting Eadras, and are seen together in the sky as a coupled pair. The crystalline composition of the moons aligns with the metaphysical crystallinity often associated with the death-twin domain — clarity, finality, the unbreakable. The moons are each **roughly the size of Charon** and **made entirely of the crystal used in [[crystalmancy|crystal magic]] and technology**; the pair shines one **blue** and one **purple** (which colour belongs to which goddess is unspecified). (source: Grok Chat Results 6-2-26.txt)
 
-Like all four moons of Eadras, Shali is **reflected across the Feywild and Shadowdark** — there is a Shali (and a Shani) in each plane. (source: More corrections.txt)
+Like all four moons of Eadras, Shali is **reflected across the Wyldglimmer and Glimmerdark** — there is a Shali (and a Shani) in each plane. (source: More corrections.txt)
 
 <details>
 <summary>Related pages</summary>

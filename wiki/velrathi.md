@@ -65,7 +65,7 @@ The Velrathi engineered three crafted races from refined Velrathi stock — not 
 |---|---|---|
 | **[[rathari\|Rathar]]** | Scholarly assistants, archivists, deep researchers | Fractured into [[three-thirds-of-the-rathar\|three branches]] during the Demon War: the Fallen, the [[beast-folk\|Laughing Third]] (Beast-Folk), and the [[katharim\|Weighted Third]] (Katharim). Pure enclaves still exist in deep vaults. |
 | **[[orugi\|Orug]]** | Strong, honorable guardians and laborers | **Totally extinct** — died to the last individual at the [[battle-of-the-broken-conclaves\|Battle of the Broken Conclaves]]. Diluted blood survives in modern [[orcs\|Orcs]]. |
-| **[[grugi\|Grug]]** | Small, clever, mechanically adept maintainers and inventors | Catastrophically reduced; survivors diverged into modern Goblins and Gnomes; some accompanied the Velrathi into [[gaia\|Shadowdark Gaia]] exile. |
+| **[[grugi\|Grug]]** | Small, clever, mechanically adept maintainers and inventors | Catastrophically reduced; survivors diverged into modern Goblins and Gnomes; some accompanied the Velrathi into [[gaia\|Glimmerdark Gaia]] exile. |
 
 These three races were **not directly created by [[the-three|Rand]]**. Rand created the Velrathi alone; the Velrathi themselves engineered Rathar, Orug, and Grug through generations of meticulous arcane ritual.
 
@@ -79,11 +79,11 @@ The daily **Unified Recitation** brought all four together: Rathar reported disc
 
 ## Banishment
 
-At the conclusion of the [[demon-war|Demon War]], the [[great-banishment|Elder Gods banished all three progenitor races]] from the Prime Material of Eadras. The Velrathi were sent to the **[[gaia|Shadowdark version of the moon Gaia]]**, where they rebuilt a fortress-archive capital called **[[veyr-keth|Veyr'Keth]]** within a vast geode whose facets refract the few sources of light into blood-red patterns.
+At the conclusion of the [[demon-war|Demon War]], the [[great-banishment|Elder Gods banished all three progenitor races]] from the Prime Material of Eadras. The Velrathi were sent to the **[[gaia|Glimmerdark version of the moon Gaia]]**, where they rebuilt a fortress-archive capital called **[[veyr-keth|Veyr'Keth]]** within a vast geode whose facets refract the few sources of light into blood-red patterns.
 
-Loyal [[grugi|Grug]] work-crews and a handful of [[orugi|Orug]] honor-guards (those who survived the Broken Conclaves) accompanied them. Most of these bloodlines have since intermingled with Shadowdark-adapted life or faded into legend.
+Loyal [[grugi|Grug]] work-crews and a handful of [[orugi|Orug]] honor-guards (those who survived the Broken Conclaves) accompanied them. Most of these bloodlines have since intermingled with Glimmerdark-adapted life or faded into legend.
 
-The exiled Velrathi endure as a **diminished, proud, and dangerous civilization** — fewer in number, more paranoid, and far more dangerous in their isolation. They have turned to stranger arts: shadow-reflected rituals, negative-energy harmonics, and the study of how the [[spear-of-crystallized-entropy|Spear's]] lingering corruption warped the Shadowdark itself. They still refuse to accept the justice of their banishment and nurse quiet dreams of return.
+The exiled Velrathi endure as a **diminished, proud, and dangerous civilization** — fewer in number, more paranoid, and far more dangerous in their isolation. They have turned to stranger arts: shadow-reflected rituals, negative-energy harmonics, and the study of how the [[spear-of-crystallized-entropy|Spear's]] lingering corruption warped the Glimmerdark itself. They still refuse to accept the justice of their banishment and nurse quiet dreams of return.
 
 Pure Velrathi no longer exist on the Prime Material — though hidden Velrathi archives remain on Eadras as part of the "enclaves remained behind" exception to the Banishment (see [[great-banishment]]).
 

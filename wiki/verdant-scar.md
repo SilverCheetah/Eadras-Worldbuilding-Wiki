@@ -56,7 +56,7 @@ The Scar lies in a basin where three mountain chains once met around an Arathi r
 | Region | Description |
 |---|---|
 | **The Green Mantle** | Outer woodland; villages, Warden paths, Glasshart sightings. Navigable by hunters, pilgrims, scholars, and smugglers. |
-| **The Tilted Miles** | Middle forest where distance warps; paths lengthen, hills appear where maps say none should be, ruins surface and sink. Spatial and perceptual instability caused by damaged Eldritch reflections and [[feywild]]/[[shadowdark]] resonance. |
+| **The Tilted Miles** | Middle forest where distance warps; paths lengthen, hills appear where maps say none should be, ruins surface and sink. Spatial and perceptual instability caused by damaged Eldritch reflections and [[wyldglimmer]]/[[glimmerdark]] resonance. |
 | **The Road of Wanting** | Ancient imperial avenue haunted by Want-Wolves. Roads are metaphysically "worn" by purpose. |
 | **The Sunken Forums** | Buried Arathi civic districts where Marble Mourners gather. |
 | **The Root-Crucible** | The sealed inner hollow over the broken ley-vault network. Contains the *shape of the desire Kudur-eṭir lost* — not his soul, but a motivational absence given form. Referred to as "The Last Vault of Arath" (Remnant Houses), "The Place Under the First Root" (Wardens), and "The Shut Door" (Pilgrims). |
@@ -118,8 +118,8 @@ Devotees of Evye, Fryr, and Lirra who believe the Verdant Scar is holy evidence 
 - [[crystalmancy]]
 - [[spear-of-crystallized-entropy]]
 - [[magic-in-eadras]]
-- [[feywild]]
-- [[shadowdark]]
+- [[wyldglimmer]]
+- [[glimmerdark]]
 - [[necromancy-and-undeath]]
 - [[eldritch]]
 - [[dragon-empire]]

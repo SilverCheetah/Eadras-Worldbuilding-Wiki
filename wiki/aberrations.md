@@ -48,7 +48,7 @@ The known and suspected sources of aberration-generating residual chaos on Eadra
 
 The principal canon source. The First Crusade (~6 mybp on [[eldravath|Eldravath]]) consumed one-third of the Prime Material plus the entirety of both reflective planes before the Gods sealed the breach. Across that vast affected region, the Crusade left an irregular distribution of **residual chaos pockets** where the failure of structure persisted past the sealing. Some pockets dissolved over geological time; many did not. (source: Combined info dump 2 5-4-2026.txt)
 
-These pockets are scattered across the modern continents (the post-Cataclysm fragments of what was once Eldravath and the surrounding Prime Material) and across the [[feywild|Feywild]] and [[shadowdark|Shadowdark]] (the post-Crusade reflective planes). Aberrations native to Eadras are concentrated wherever those pockets persist.
+These pockets are scattered across the modern continents (the post-Cataclysm fragments of what was once Eldravath and the surrounding Prime Material) and across the [[wyldglimmer|Wyldglimmer]] and [[glimmerdark|Glimmerdark]] (the post-Crusade reflective planes). Aberrations native to Eadras are concentrated wherever those pockets persist.
 
 ### The Second Chaos Crusade pockets
 
@@ -112,8 +112,8 @@ Aberrations are studied chiefly by:
 - [[fae]]
 - [[necromancy-and-undeath]]
 - [[kuo-toa]]
-- [[feywild]]
-- [[shadowdark]]
+- [[wyldglimmer]]
+- [[glimmerdark]]
 - [[nox]]
 - [[order-sharanel]]
 

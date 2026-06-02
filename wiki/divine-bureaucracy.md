@@ -12,9 +12,9 @@ aliases: [Divine Bureaucracy, Bureaucracy of the Gods]
 
 **Summary**: The Divine Bureaucracy is a **vast, ancient, and notoriously dysfunctional** organization responsible for managing the day-to-day operations of divinity across the realms. **The entire Bureaucracy is located within [[solarion|Solarion]]**, the divine city in [[celestia|Celestia]]; in Bureaucratic and theological writing, Solarion is sometimes called *the Eternal City* in its administrative-capital aspect. The [[gods-of-eadras|Elder Gods]] stand at the very top of the hierarchy but are almost entirely hands-off; the Bureaucracy is primarily run by [[gods-of-eadras#Ascended Mortal Gods|Ascended Mortal Gods]], while the overwhelming majority of the actual workforce consists of celestial spirits from [[celestia|Celestia]]. After countless eons of service, these spirits have grown deeply bored, jaded, tired, overworked, and increasingly petty. The Bureaucracy is infamous for being massively inefficient, riddled with political maneuvering, turf wars, laziness, and corruption — and yet it is the institution through which **all** divine magic, prayer-routing, Favor adjustment, miracle approval, soul-judgment, oath-tracking, and most other actual divine operations actually happen.
 
-**Sources**: User direction 2026-05-09 evening (in the same session that produced [[priests]] and [[wizards]] as new pages).
+**Sources**: User direction 2026-05-09 evening (in the same session that produced [[priests]] and [[wizards]] as new pages); Grok Chat Results 6-2-26.txt (2026-06-02, Bureau of Unactualized Timelines; spirit promotion/defection).
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-06-02
 
 ---
 
@@ -125,6 +125,12 @@ Reviews and **approves (or denies) requests for divine miracles and major interv
 
 **Monitors possible futures, handles prophecy, and provides divination and foresight for the Bureaucracy.** Closely connected with the [[voroik|Voroik]] (the three Weavers of Fate). When a petitioner asks for divination, when an oracle's prophecy needs verifying, when the Bureaucracy itself needs to know what is coming, the Bureau of Prediction is the source. The Bureau is famously cagey about its outputs, both because the futures it sees are genuinely indeterminate and because foreknowledge in the wrong hands is institutionally hazardous.
 
+It also **keeps the records of sealed and unactualized timelines** — the futures that were foreseen, weighed, or even partly set in motion but never came to pass. Once a timeline is sealed as unactualized, the Bureau of Prediction hands its record off to the [[#Bureau of Unactualized Timelines|Bureau of Unactualized Timelines]] for long-term storage. (source: Grok Chat Results 6-2-26.txt)
+
+### Bureau of Unactualized Timelines
+
+**Receives the sealed, unactualized timeline records from the [[#Bureau of Prediction|Bureau of Prediction]] and stores them in deep vaults.** This is the archive of roads not taken — the catalogue of every future that was real enough to be recorded and then never happened. **Most gods could access these records if they wished, but almost none bother**; the futures that did not occur hold little interest for beings fully occupied with the one that did. The result is one of the quietest, least-visited, and least-political bureaus in the whole institution: a vast dark vault-archive of might-have-beens that essentially no one reads. (source: Grok Chat Results 6-2-26.txt)
+
 ### Bureau of Justice
 
 Operates the **Divine Courts** and administers divine law and justice. The bureau most concerned with formal proceedings: heresy trials, oath-violation prosecutions, divine-claim adjudications, the processing of appeals from mortal religious courts up to the divine level. Long-running turf war with the [[#Bureau of Souls|Bureau of Souls]] over the boundary between justice-while-living and judgment-after-death.
@@ -167,13 +173,13 @@ Commands the **divine armies** and manages the defense of the celestial realms. 
 
 Oversees all matters related to **the celestial realms** — [[celestia|Celestia]] itself, the various lesser celestial regions, the divine cities ([[solarion|Solarion]], et cetera), the structural maintenance of the bright planar infrastructure. The bureau most of the workforce hails from, and (correspondingly) the bureau with the most internal politics about which celestial spirits get the better postings.
 
-### Bureau of the Feywild
+### Bureau of the Wyldglimmer
 
-Manages affairs concerning **the [[feywild|Feywild]]** and its inhabitants. Closely associated with [[sylph|Sylph]] in particular. Handles the formal relationship with the [[fae|fae courts]], the long-running negotiations over the boundary between Prime and Feywild jurisdiction, and the [[#Bureau of Souls|Bureau of Souls]]'s occasional cross-jurisdictional cases involving fae deaths.
+Manages affairs concerning **the [[wyldglimmer|Wyldglimmer]]** and its inhabitants. Closely associated with [[sylph|Sylph]] in particular. Handles the formal relationship with the [[fae|fae courts]], the long-running negotiations over the boundary between Prime and Wyldglimmer jurisdiction, and the [[#Bureau of Souls|Bureau of Souls]]'s occasional cross-jurisdictional cases involving fae deaths.
 
-### Bureau of the Shadowdark
+### Bureau of the Glimmerdark
 
-Handles matters related to **the [[shadowdark|Shadowdark]] and the realm of death.** Closely associated with [[shali|Shali]] and [[shani|Shani]] (Death's two halves) and with [[nox|Nox]] (night and the loathsome). Handles the formal relationship with the dead, the regulation of the shadow infrastructure, and the long-standing question of how the [[veyr-keth|Velrathi exiles]] in Shadowdark Gaia interface with the rest of the Bureaucracy's structure.
+Handles matters related to **the [[glimmerdark|Glimmerdark]] and the realm of death.** Closely associated with [[shali|Shali]] and [[shani|Shani]] (Death's two halves) and with [[nox|Nox]] (night and the loathsome). Handles the formal relationship with the dead, the regulation of the shadow infrastructure, and the long-standing question of how the [[veyr-keth|Velrathi exiles]] in Glimmerdark Gaia interface with the rest of the Bureaucracy's structure.
 
 ### Bureau of Nyxar
 
@@ -216,7 +222,7 @@ The exact nature of their relationship — how much the two systems overlap, whe
 
 - **The exact identity of which Ascended Mortal God runs which Bureau.** [[inki|Inki]] and the [[#Bureau of Arcane Regulation|Bureau of Arcane Regulation]] is plausible but not confirmed; the rest is open. (Note: [[baldaran|Baldaran]]'s relationship to the [[#Bureau of Records|Bureau of Records]] is **not** an executive one — see [[#Bureau of Records vs. the Tome of Baldaran|the relationship section above]] — so it should not be assumed Baldaran runs the Bureau.)
 - ~~**The relationship between the [[#Bureau of Records|Bureau of Records]]'s archives and the [[tome-of-baldaran|Tome of Baldaran]].**~~ **Resolved 2026-05-09**: The Bureau is mechanical-precision raw archive; the Tome is Baldaran's personal active-interpreter solution to a gap the Bureaucracy refused to fill. Two parallel systems with occasional conflicts. See [[#Bureau of Records vs. the Tome of Baldaran|the dedicated section above]].
-- **Whether the Bureau records anything for unactualized potential timelines** at all. The Tome [[tome-of-baldaran#Potential events at inflection points|records inflection-point potentials and seals the unactualized ones]]; the Bureau's mandate is mechanical filing of what was actually reported. The most natural reading is that the Bureau has nothing to file for events that didn't actualize — only the Tome carries the unactualized-branch records. Whether the [[#Bureau of Prediction|Bureau of Prediction]]'s before-the-fact futures-monitoring leaves any institutional residue in the Bureau of Records' archives is open.
+- **Where unactualized potential timelines are recorded.** Partly resolved 2026-06-02: the [[#Bureau of Prediction|Bureau of Prediction]] keeps sealed/unactualized timeline records and hands them to the new [[#Bureau of Unactualized Timelines|Bureau of Unactualized Timelines]] for deep-vault storage — so the Bureaucracy *does* carry unactualized-branch records, in parallel with the Tome's [[tome-of-baldaran#Potential events at inflection points|inflection-point potentials]]. Open: how the Bureau of Unactualized Timelines' archive relates to the Tome's sealed chapters, and whether the [[#Bureau of Records|Bureau of Records]] (mechanical filing of what actually occurred) holds anything of the not-taken at all.
 - ~~**Whether celestial spirits can be *promoted* out of the workforce** to higher tiers within the Bureaucracy or to ascension-adjacent status, or whether their service is structurally permanent.~~ **Resolved 2026-05-09**: spirits can be promoted, demoted, transferred between departments, or leave entirely; service is not permanent. Every position, however, is always filled — see [[#Service is not permanent|Service is not permanent]] above. Whether spirits who leave the Bureaucracy can ascend further (e.g., toward Ascended Mortal status) or merely return to ordinary celestial existence is still open.
 - ~~**The size of the workforce.** "Vast" is canonical; specific numbers are not.~~ **Resolved 2026-05-09**: the workforce is **massively overstaffed** — far more spirits than the institution actually needs, with many sinecure positions where spirits do very little actual work. Specific headcount remains open canon. See [[#Size and the sinecure problem|Size and the sinecure problem]] above.
 - **Whether the [[voroik|Voroik]] sit inside the Bureaucracy** (perhaps as senior staff of the [[#Bureau of Prediction|Bureau of Prediction]]) or are structurally above it. Both readings are theologically defensible.
@@ -237,8 +243,8 @@ The exact nature of their relationship — how much the two systems overlap, whe
 - [[din-shadar]]
 - [[three-last-lights]]
 - [[voroik]]
-- [[feywild]]
-- [[shadowdark]]
+- [[wyldglimmer]]
+- [[glimmerdark]]
 - [[nyxar]]
 - [[shali]]
 - [[shani]]

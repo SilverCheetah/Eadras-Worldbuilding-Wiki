@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # Veyr'Keth
 
-**Summary**: Veyr'Keth is the fortress-archive capital of the exiled [[velrathi|Velrathi]] in [[gaia|Shadowdark Gaia]] — a vast geode-encased city whose facets refract the few sources of light into blood-red patterns, founded after the [[great-banishment|Great Banishment]] and home to a diminished, paranoid, dangerous people who still nurse ancient grudges.
+**Summary**: Veyr'Keth is the fortress-archive capital of the exiled [[velrathi|Velrathi]] in [[gaia|Glimmerdark Gaia]] — a vast geode-encased city whose facets refract the few sources of light into blood-red patterns, founded after the [[great-banishment|Great Banishment]] and home to a diminished, paranoid, dangerous people who still nurse ancient grudges.
 
 **Sources**: Grok WB Generation 4-29.txt
 
@@ -19,13 +19,13 @@ knowledge_access: [common]
 
 ## Location
 
-Veyr'Keth sits within the largest stable cavern system the [[velrathi|Velrathi]] could claim in [[gaia|Shadowdark Gaia]] — the dark, negative-tainted reflection of the moon Gaia, where light itself feels reluctant.
+Veyr'Keth sits within the largest stable cavern system the [[velrathi|Velrathi]] could claim in [[gaia|Glimmerdark Gaia]] — the dark, negative-tainted reflection of the moon Gaia, where light itself feels reluctant.
 
 The city is **suspended within a vast geode** whose internal facets refract the few sources of light into blood-red patterns across every surface (source: Grok WB Generation 4-29.txt).
 
 ## Founding
 
-Veyr'Keth was founded shortly after the [[great-banishment|Banishment]], when the [[velrathi|Velrathi]] arrived through the one-way rift the Elder Gods opened. They claimed the largest stable cavern system and **rebuilt pale echoes of their old Deep Conclaves** — black stone halls lit by cold red crystal, reinforced against the constant psychic pressure of the Shadowdark.
+Veyr'Keth was founded shortly after the [[great-banishment|Banishment]], when the [[velrathi|Velrathi]] arrived through the one-way rift the Elder Gods opened. They claimed the largest stable cavern system and **rebuilt pale echoes of their old Deep Conclaves** — black stone halls lit by cold red crystal, reinforced against the constant psychic pressure of the Glimmerdark.
 
 The architecture deliberately mimics the pre-war [[rathari|Rathar]]-Velrathi Conclaves: vast halls supported by slender rune-etched columns, glowing crystal veins in the stone, perfect geometric alignments. But every surface is darker, every angle harsher, every protection layered — a city built not to flourish, but to endure.
 
@@ -34,19 +34,19 @@ The architecture deliberately mimics the pre-war [[rathari|Rathar]]-Velrathi Con
 The exiled Velrathi proper endure in **smaller numbers, more paranoid, and far more dangerous** than their pre-war ancestors. Most pre-Banishment Velrathi died in the [[demon-war|war]] or refused exile and perished afterward; only a portion of the surviving population reached Veyr'Keth.
 
 Some servants accompanied the Velrathi:
-- **Loyal [[grugi|Grug]] work-crews** — most of these bloodlines have since intermingled with Shadowdark-adapted life or faded into legend
+- **Loyal [[grugi|Grug]] work-crews** — most of these bloodlines have since intermingled with Glimmerdark-adapted life or faded into legend
 - **A handful of [[orugi|Orug]] honor-guards** who refused to abandon their makers (none survived after a few generations; the [[orugi|Orug]] line is fully extinct)
 - **Scattered [[rathari|Rathar]] scholars** — those who chose exile rather than the [[three-thirds-of-the-rathar|three-way schism]] on the Prime
 
-In the Shadowdark of Gaia one may still encounter pale, red-eyed figures that resemble ancient [[orugi|Orug]] or [[grugi|Grug]] — now adapted to darkness, subtly changed by the negative energies, yet still bound by ancient oaths of service.
+In the Glimmerdark of Gaia one may still encounter pale, red-eyed figures that resemble ancient [[orugi|Orug]] or [[grugi|Grug]] — now adapted to darkness, subtly changed by the negative energies, yet still bound by ancient oaths of service.
 
 ## Stranger Arts
 
 Cut off from the [[magic-in-eadras|Weave]] and adapted to negative-tainted reality, the Velrathi of Veyr'Keth have turned to **stranger arts**:
 
-- **Shadow-reflected rituals** that exploit the geometry of the Shadowdark
+- **Shadow-reflected rituals** that exploit the geometry of the Glimmerdark
 - **Negative-energy harmonics** for both offense and defense
-- Study of how the **[[spear-of-crystallized-entropy|Spear's]] lingering corruption** warped the Shadowdark itself — they are perhaps the foremost living scholars of what the Spear actually does to a plane
+- Study of how the **[[spear-of-crystallized-entropy|Spear's]] lingering corruption** warped the Glimmerdark itself — they are perhaps the foremost living scholars of what the Spear actually does to a plane
 
 Their magic is colder, more dangerous, and more unstable than the pre-war traditions, but they have had ten thousand years to refine it.
 
@@ -60,9 +60,9 @@ Her existence is one of Veyr'Keth's most carefully kept secrets. Some [[katharim
 
 Modern relations with the exiled Velrathi are **almost nonexistent**:
 
-- **Occasional contact** through dangerous Shadowdark portals during [[grand-conjunction|conjunctions]]
+- **Occasional contact** through dangerous Glimmerdark portals during [[grand-conjunction|conjunctions]]
 - **Rare diplomatic envoys** in either direction (these are usually fraught)
-- **Beast-folk pilgrimages** — some adventurous [[beast-folk|Laughing Third]] Circles mount rare, dangerous pilgrimages through Shadowdark portals simply to see what became of the old blood (they call the exiled Velrathi *"the Gray Uncles in the Black Mirror"*)
+- **Beast-folk pilgrimages** — some adventurous [[beast-folk|Laughing Third]] Circles mount rare, dangerous pilgrimages through Glimmerdark portals simply to see what became of the old blood (they call the exiled Velrathi *"the Gray Uncles in the Black Mirror"*)
 - **[[katharim|Katharim]] archival correspondence** — exchanging records of the dead across planes; the Velrathi maintain a perfect crystalline record of every soul lost in the war
 - **Cryptic missives** sent occasionally from Veyr'Keth to pure [[rathari|Rathar]] enclaves on the Prime — warnings, theorems, or bitter accusations in perfect ancient script
 
@@ -93,7 +93,7 @@ The Velrathi exile is remembered (on the Prime) in two stark lines:
 
 ## Containing Demonic Taint
 
-One of the unspoken justifications for the Velrathi exile to Shadowdark Gaia: **their presence helps contain some of the worst taint left by the [[demon-prince-of-the-open-wound|Demon Prince]]**. The negative-tainted reflection holds onto demonic residues that even the Prime cannot fully cleanse, and the Velrathi's continued arcane vigilance keeps these residues from spilling further.
+One of the unspoken justifications for the Velrathi exile to Glimmerdark Gaia: **their presence helps contain some of the worst taint left by the [[demon-prince-of-the-open-wound|Demon Prince]]**. The negative-tainted reflection holds onto demonic residues that even the Prime cannot fully cleanse, and the Velrathi's continued arcane vigilance keeps these residues from spilling further.
 
 This is one of [[dao]]'s subtle balances: the punishment serves a continuing purpose.
 
@@ -109,7 +109,7 @@ This is one of [[dao]]'s subtle balances: the punishment serves a continuing pur
 - [[grugi]]
 - [[orugi]]
 - [[rathari]]
-- [[shadowdark]]
+- [[glimmerdark]]
 - [[demon-prince-of-the-open-wound]]
 - [[spear-of-crystallized-entropy]]
 - [[grand-conjunction]]

@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Shani is one of the twin Elder Goddesses of death, born from the splitting of the tenth Elder God at creation — the cold, ruthless, unforgiving half who drags the wicked to eternal torment, so feared that mortals refuse to speak her name and call her only "Death Itself."
 
-**Sources**: More Info on the Elder Gods.txt, Creation Myth.txt, Gods of Eadras.txt, More corrections.txt
+**Sources**: More Info on the Elder Gods.txt, Creation Myth.txt, Gods of Eadras.txt, More corrections.txt, Grok Chat Results 6-2-26.txt (2026-06-02, crystal-moon detail)
 
-**Last updated**: 2026-04-30
+**Last updated**: 2026-06-02
 
 ---
 
@@ -57,9 +57,9 @@ Shani has a **strong rivalry with** [[nox|Nox]] (source: More Info on the Elder 
 
 ## Celestial aspect — twin crystal moon
 
-One of the two **twin crystal moons** of Eadras is named for Shani. Shani and her twin [[shali|Shali]] are the third- and fourth-largest of [[four-moons-of-eadras|Eadras's four moons]]; they orbit each other while jointly orbiting Eadras, and are seen together in the sky as a coupled pair. The crystal-pair imagery in the heavens echoes the irreducible doubleness of the death-twin domain.
+One of the two **twin crystal moons** of Eadras is named for Shani. Shani and her twin [[shali|Shali]] are the third- and fourth-largest of [[four-moons-of-eadras|Eadras's four moons]]; they orbit each other while jointly orbiting Eadras, and are seen together in the sky as a coupled pair. The crystal-pair imagery in the heavens echoes the irreducible doubleness of the death-twin domain. The moons are each **roughly the size of Charon** and **made entirely of the crystal used in [[crystalmancy|crystal magic]] and technology**; the pair shines one **blue** and one **purple** (which colour belongs to which goddess is unspecified). (source: Grok Chat Results 6-2-26.txt)
 
-Like all four moons of Eadras, Shani is **reflected across the Feywild and Shadowdark** — there is a Shani (and a Shali) in each plane. (source: More corrections.txt)
+Like all four moons of Eadras, Shani is **reflected across the Wyldglimmer and Glimmerdark** — there is a Shani (and a Shali) in each plane. (source: More corrections.txt)
 
 <details>
 <summary>Related pages</summary>

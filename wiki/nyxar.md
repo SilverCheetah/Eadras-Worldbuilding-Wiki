@@ -31,7 +31,7 @@ Nyxar sits dimensionally below the Prime Material Plane of Eadras. It is the low
 
 - [[eadras-cosmology]]
 - [[celestia]]
-- [[shadowdark]]
+- [[glimmerdark]]
 - [[dreadharrow]]
 - [[limina]]
 

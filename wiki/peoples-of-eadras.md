@@ -50,8 +50,8 @@ This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" /
 | **[[trolls\|Trolls]]** | Arathi-engineered | Living mineral constructs; perfect miners; bud-reproduce, single gender. Some elder trolls survived the Cataclysm in hibernation. |
 | **[[dragons\|Dragons]]** | [[ixthal\|Ixthal]] (Source Flare) | First sapient race after the Arathi |
 | **Unicorns** | [[ixthal\|Ixthal]] (Source Flare) | Second sapient race; defeated dragons in war; exchanged magic knowledge |
-| **[[elfen\|Elfen]]** | [[the-three\|Mark]] | Proto-elves; wardens of wildlands; 3m tall. **Banished to [[gaia\|Feywild Gaia]]** after Demon War. |
-| **[[velrathi\|Velrathi]]** | [[the-three\|Rand]] | Masters of Magic; 3m tall, cadaverous. **Banished to [[gaia\|Shadowdark Gaia]]** ([[veyr-keth\|Veyr'Keth]]) after Demon War. |
+| **[[elfen\|Elfen]]** | [[the-three\|Mark]] | Proto-elves; wardens of wildlands; 3m tall. **Banished to [[gaia\|Wyldglimmer Gaia]]** after Demon War. |
+| **[[velrathi\|Velrathi]]** | [[the-three\|Rand]] | Masters of Magic; 3m tall, cadaverous. **Banished to [[gaia\|Glimmerdark Gaia]]** ([[veyr-keth\|Veyr'Keth]]) after Demon War. |
 | **[[tarans\|Taran]]** | [[the-three\|Melania]] | Keepers of Order; 3m tall, "perfect-human." **Banished to [[gaia\|Prime-like Gaia]]** ([[firethorn-hold\|Firethorn Hold]] / [[gray-matriarchy\|Gray Matriarchy]]) after Demon War. |
 | **[[orugi\|Orug]]** | Velrathi-engineered | Strong honorable guardians. **Totally extinct** at [[battle-of-the-broken-conclaves\|Final Wall]]. Diluted blood in modern Orcs. |
 | **Titan** | Tarran-engineered | Warriors against chaotic incursions; ancestors of Giants |
@@ -59,7 +59,7 @@ This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" /
 | **[[el-mer\|El'mer]]** | Elfen-engineered | Oversaw natural balance on land. **Totally extinct** at [[battle-of-the-broken-conclaves\|Final Wall]]. Diluted blood in modern Elves & Fae. |
 | **[[sea-tua\|Sea'tua]]** | Elfen-engineered (created ~10M years *after* the [[arathi-cataclysm\|Cataclysm]]) | Oversaw natural balance in oceans; ancestors of sea peoples. *Not* Cataclysm survivors. |
 | **[[aetherins\|Aetherin]]** | Tarran-engineered | Shock troops against chaos. **Totally extinct** at [[battle-of-the-broken-conclaves\|Final Wall]]. Diluted blood in modern Humans. |
-| **Sidhe** | Elfen-engineered | Rule and regulate the [[feywild]]; ancestors of Fae |
+| **Sidhe** | Elfen-engineered | Rule and regulate the [[wyldglimmer]]; ancestors of Fae |
 | **[[rathari\|Rathar]]** | Velrathi-engineered | Scholarly assistants; built first underground cities. **Fractured into [[three-thirds-of-the-rathar\|three branches]]** in Demon War: Fallen, [[beast-folk\|Laughing Third]], [[katharim\|Weighted Third]]. |
 | **[[mitans\|Mitans]]** | Tarran-engineered | Miners and tunnel warriors; ancestors of Dwarves and Halflings. (Gnomes were *removed* from this list on 2026-05-10 — gnomes descend purely from Grugi.) |
 | **Dragonfolk** | Dragons | Created in response to humanoid races being made |

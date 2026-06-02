@@ -11,7 +11,7 @@ knowledge_access: [common]
 
 **Summary**: The Spear of Crystallized Entropy is the most dangerous artifact in Eadras — a weapon forged by [[kudur-etir|Kudur-eṭir]] with the aid of the [[neverborn|Neverborn]] entity Cthosh, that transforms its wielder into an Unrestricted Elder God while stripping away their deepest desire. It has been **wielded three times and hidden four times**, and the gods' fourth hiding is a desperate cosmic violation whose visible scar is the modern continent of [[arathyn]]. The Spear is **alien to the Mythos** in a way that places aspects of it outside the gods' direct jurisdiction — they cannot destroy it, cannot eject it, and cannot hide it absolutely; they can only delay it, manage its consequences, and (in extremis) commit acts of cosmic violence against the body of the world itself.
 
-**Sources**: Spear of Crystallized Entropy.txt, Arathis.txt, Playground generation 1st part.txt, Playground generation 2nd part.txt, New information about Arathi Cataclysm.txt, More Xarvion.txt, Eadras Cannon Expansion.txt, notes on various topics 1.txt, spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest, alien-artifact principle and revised four-hidings sequence; user-integrated resolution preserves [[feywild|Feywild]] and [[shadowdark|Shadowdark]] plane-corruption canon and reorders the prison sequence accordingly).
+**Sources**: Spear of Crystallized Entropy.txt, Arathis.txt, Playground generation 1st part.txt, Playground generation 2nd part.txt, New information about Arathi Cataclysm.txt, More Xarvion.txt, Eadras Cannon Expansion.txt, notes on various topics 1.txt, spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest, alien-artifact principle and revised four-hidings sequence; user-integrated resolution preserves [[wyldglimmer|Wyldglimmer]] and [[glimmerdark|Glimmerdark]] plane-corruption canon and reorders the prison sequence accordingly).
 ![[Spear of Crystallized Entropy.png]]
 **Last updated**: 2026-05-13
 
@@ -106,11 +106,11 @@ Tarloth was the **first being to discover that the gods had not actually destroy
 
 ### Darkhoof — a [[unicorns|unicorn]]
 
-A unicorn who retrieved the Spear from the [[feywild|Feywild]] — where it had been held in the gods' second hiding, [[#The four hidings|time-displaced into a state one minute in the future and surrounded by the Feywild's broader temporal anomaly]]. Darkhoof's history is notable; he was also the first to open one of the [[arathi|Arathi Deep Vaults]]. The mechanism by which he reached and seized the time-displaced Spear is not fully recorded — unicorn temporal sensitivity gives them some access to time-anomalous regions, but seizing the Spear *despite* the one-minute displacement was a feat with no replicable method. After his use, his consequences are recorded in [[unicorns|unicorn]] memory but not in mortal scholarly canon. (sources: Playground generation 2nd part.txt; 2026-05-13 ingest.)
+A unicorn who retrieved the Spear from the [[wyldglimmer|Wyldglimmer]] — where it had been held in the gods' second hiding, [[#The four hidings|time-displaced into a state one minute in the future and surrounded by the Wyldglimmer's broader temporal anomaly]]. Darkhoof's history is notable; he was also the first to open one of the [[arathi|Arathi Deep Vaults]]. The mechanism by which he reached and seized the time-displaced Spear is not fully recorded — unicorn temporal sensitivity gives them some access to time-anomalous regions, but seizing the Spear *despite* the one-minute displacement was a feat with no replicable method. After his use, his consequences are recorded in [[unicorns|unicorn]] memory but not in mortal scholarly canon. (sources: Playground generation 2nd part.txt; 2026-05-13 ingest.)
 
 ### Xar'vion (most recent — 10,000 years ago)
 
-[[xarvion|Xar'vion]] retrieved the Spear from the gods' [[#The four hidings|third hiding]] — the **god-prison in the deepest depths of the [[shadowdark|Shadowdark]]**, an Ascended Mortal Dragon God [[#The volunteer dragon god|volunteer]] sealed with the Spear inside a **reverse time bubble** that ran subjective time at vast acceleration relative to outside. Xar'vion broke the bubble's seal. The volunteer dragon god — by then subjectively older, more powerful, more experienced, and more isolated than any other being in the Mythos — was killed by Xar'vion in the act of taking the Spear. This act is among the heaviest specific moral injuries on Xar'vion's record: a god who had voluntarily sacrificed themselves to hold the line for the rest of the Mythos was slain by a Netharim-king in pursuit of resurrection magic. The voluntary martyr-god's sacrifice was both wasted and avenged on the wrong actor (Xar'vion, who at that point was acting under the Spear's pull and his own grief, not in pure malice).
+[[xarvion|Xar'vion]] retrieved the Spear from the gods' [[#The four hidings|third hiding]] — the **god-prison in the deepest depths of the [[glimmerdark|Glimmerdark]]**, an Ascended Mortal Dragon God [[#The volunteer dragon god|volunteer]] sealed with the Spear inside a **reverse time bubble** that ran subjective time at vast acceleration relative to outside. Xar'vion broke the bubble's seal. The volunteer dragon god — by then subjectively older, more powerful, more experienced, and more isolated than any other being in the Mythos — was killed by Xar'vion in the act of taking the Spear. This act is among the heaviest specific moral injuries on Xar'vion's record: a god who had voluntarily sacrificed themselves to hold the line for the rest of the Mythos was slain by a Netharim-king in pursuit of resurrection magic. The voluntary martyr-god's sacrifice was both wasted and avenged on the wrong actor (Xar'vion, who at that point was acting under the Spear's pull and his own grief, not in pure malice).
 
 Xar'vion used the Spear to become an Unrestricted Elder God. His deepest desire — to resurrect his murdered elder sister [[velena|Velena]] — was stripped away, leaving only ambition and the machinery of domination. His war eventually became the [[demon-war|Demon War]] when he made the catastrophic mistake of summoning a [[demon-prince-of-the-open-wound|Demon Prince]]. (sources: Playground generation 2nd part.txt; More Xarvion.txt; 2026-05-13 ingest.)
 
@@ -120,16 +120,16 @@ Xar'vion used the Spear to become an Unrestricted Elder God. His deepest desire 
 
 The Spear has been hidden four times — once after each wielder. Each hiding is the gods' best attempt at the time, given everything they have learned from the previous failures. The pattern is **progressively desperate**, not iteratively clever: each attempt represents what the gods reached for once the previous attempt had been broken, and the fourth attempt is a cosmic violation against the body of the world itself.
 
-The hidings are summarized in the table below and described in detail in the subsections that follow. The arrangement preserves the [[feywild|Feywild]] and [[shadowdark|Shadowdark]] plane-corruption canon (the Spear's presence in each plane drove its long-term transformation) while reordering the prison sequence per the 2026-05-13 ingest's revised cosmology.
+The hidings are summarized in the table below and described in detail in the subsections that follow. The arrangement preserves the [[wyldglimmer|Wyldglimmer]] and [[glimmerdark|Glimmerdark]] plane-corruption canon (the Spear's presence in each plane drove its long-term transformation) while reordering the prison sequence per the 2026-05-13 ingest's revised cosmology.
 
 | # | After | Mechanism | Plane / Location |
 |---|---|---|---|
 | **1** | [[kudur-etir\|Kudur-eṭir]] | Failed destruction attempts, covered by **illusions of destruction** | Hidden location, illusion-shrouded |
-| **2** | Tarloth | **Time displacement** (held 1 minute in the future) | The [[feywild\|Feywild]] — its long-term corruption from Brightmirror is downstream of the displacement |
-| **3** | Darkhoof | **Reverse time bubble** (vastly accelerated subjective time) over a [[#The volunteer dragon god\|volunteer dragon god's]] Total Icon Binding prison | Deepest depths of the [[shadowdark\|Shadowdark]] — its long-term corruption from Darkmirror is downstream of the Spear's presence |
+| **2** | Tarloth | **Time displacement** (held 1 minute in the future) | The [[wyldglimmer\|Wyldglimmer]] — its long-term corruption from Brightmirror is downstream of the displacement |
+| **3** | Darkhoof | **Reverse time bubble** (vastly accelerated subjective time) over a [[#The volunteer dragon god\|volunteer dragon god's]] Total Icon Binding prison | Deepest depths of the [[glimmerdark\|Glimmerdark]] — its long-term corruption from Darkmirror is downstream of the Spear's presence |
 | **4** | Xar'vion | Impalement back into the [[#The fourth hiding\|original First Breach Wound]] | [[arathyn\|Arathyn]] is the scar tissue grown over the impalement |
 
-**Each use of the Spear also slowly corrupts the surrounding area or plane** — the corruption is gradual and cumulative, becoming visible only across long centuries, but every place the Spear sits for an extended time is changed by it. The plane-conversions of Darkmirror → [[shadowdark|Shadowdark]] and Brightmirror → [[feywild|Feywild]] are the largest-scale demonstrations of this rule. Both took millions of years; both happened during the second and third hidings of the new sequence.
+**Each use of the Spear also slowly corrupts the surrounding area or plane** — the corruption is gradual and cumulative, becoming visible only across long centuries, but every place the Spear sits for an extended time is changed by it. The plane-conversions of Darkmirror → [[glimmerdark|Glimmerdark]] and Brightmirror → [[wyldglimmer|Wyldglimmer]] are the largest-scale demonstrations of this rule. Both took millions of years; both happened during the second and third hidings of the new sequence.
 
 ### Hiding 1 — destruction illusions (after Kudur-eṭir)
 
@@ -143,17 +143,17 @@ After Kudur-eṭir's use destroyed Altea and triggered the Cataclysm, the surviv
 
 Accepting that destruction was not available to them, the gods then committed to a **cover-up**. They constructed an elaborate **illusion of successful destruction** — visible to every observer outside the divine community, sustained over millions of years — under which the actually-not-destroyed Spear was hidden. The illusion held until **Tarloth** saw through it, by means not fully recorded. From the perspective of every mortal observer (and most of the broader divine community) for those millions of years, the Spear had been destroyed and the matter was closed.
 
-### Hiding 2 — time displacement in the Feywild (after Tarloth)
+### Hiding 2 — time displacement in the Wyldglimmer (after Tarloth)
 
 After Tarloth was contained, the gods placed the Spear under a new principle: **don't hide it in space; hide it in time.** They displaced the Spear into a state **one minute in the future** relative to ordinary present time, and located that displaced state within the plane then called **Brightmirror**.
 
 The displacement was the key mechanism. The Spear was permanently slightly inaccessible — any attempt to grasp it always reached the empty space where the Spear *had been* one minute ago; the artifact was always just ahead of any approach, always just out of reach across a sliver of time that no ordinary effort could close. The plane itself served as the spatial anchor; the displacement was the lock.
 
-Over the long centuries the Spear sat in Brightmirror, its presence — and especially its time-displaced presence — leaked into the plane around it. **Brightmirror gradually transformed into the [[feywild|Feywild]]**: a plane whose hallmark is exactly the time-strange, half-out-of-step character that prolonged exposure to the Spear's displacement produced. The Feywild's modern temporal anomalies (years passing in a night, an hour stretching to lifetimes, mortals returning from fae feasts to find the world centuries older) are the residue of the Spear's hiding shaping the plane around it.
+Over the long centuries the Spear sat in Brightmirror, its presence — and especially its time-displaced presence — leaked into the plane around it. **Brightmirror gradually transformed into the [[wyldglimmer|Wyldglimmer]]**: a plane whose hallmark is exactly the time-strange, half-out-of-step character that prolonged exposure to the Spear's displacement produced. The Wyldglimmer's modern temporal anomalies (years passing in a night, an hour stretching to lifetimes, mortals returning from fae feasts to find the world centuries older) are the residue of the Spear's hiding shaping the plane around it.
 
-**Darkhoof retrieved the Spear from the Feywild.** The exact mechanism is not in the open record. Unicorn temporal sensitivity gives unicorns some access to time-anomalous regions, but seizing a Spear that is permanently one minute ahead of any reach was a feat with no replicable method. Whatever Darkhoof did, it cost him; and the Spear came with him out of the plane.
+**Darkhoof retrieved the Spear from the Wyldglimmer.** The exact mechanism is not in the open record. Unicorn temporal sensitivity gives unicorns some access to time-anomalous regions, but seizing a Spear that is permanently one minute ahead of any reach was a feat with no replicable method. Whatever Darkhoof did, it cost him; and the Spear came with him out of the plane.
 
-### Hiding 3 — reverse time bubble over a god prison in the deepest Shadowdark (after Darkhoof)
+### Hiding 3 — reverse time bubble over a god prison in the deepest Glimmerdark (after Darkhoof)
 
 After Darkhoof was contained, the gods accepted that containment-by-mechanism alone would not hold — the Spear's pull and the alien-artifact principle ensured that no purely impersonal seal could indefinitely resist a sufficiently motivated wielder. They needed a **living watcher** inside the prison to maintain the seal from within.
 
@@ -162,10 +162,10 @@ What they did was **ugly, costly, and theologically unprecedented**:
 - **An ancient [[nine-embers-of-renewal|Ascended Mortal Dragon God]] voluntarily stepped forward.** A respected senior member of the divine community offered themselves for the role. *The gods did not demand a sacrifice. The dragon god offered themselves* — and the volunteer aspect is load-bearing. Without it, the act would have been cruelty; with it, it is martyrdom. See [[#The volunteer dragon god|below]].
 - **The volunteer was placed into Total Icon Binding** — the same form the gods had used on Kudur-eṭir. The dragon god's entire divine essence was compressed into their Icon, restricting their existence and their power to the icon's footprint.
 - **The Spear was sealed inside the Icon, with the volunteer god.** Icon and Spear became a single composite prison-object. The volunteer god maintained the seal from within for as long as the binding endured.
-- **The composite prison was placed in the deepest depths of the [[shadowdark|Shadowdark]]** — the gods' chosen plane for the seal, both because of its depth and isolation and because they were willing to accept the corruption-cost of long-term Spear presence in the plane.
+- **The composite prison was placed in the deepest depths of the [[glimmerdark|Glimmerdark]]** — the gods' chosen plane for the seal, both because of its depth and isolation and because they were willing to accept the corruption-cost of long-term Spear presence in the plane.
 - **The entire prison was wrapped in a reverse time bubble** — a region where time inside ran *vastly faster* than time outside. The bubble was not a slow-down field; it was a runaway acceleration. From outside, ten thousand years passed in the time between Darkhoof's use and Xar'vion's retrieval; **inside the bubble, the volunteer god subjectively endured roughly 10^37 years** — a span so vast that the comparison to mortal duration loses all meaning.
 
-Over the very long span the Spear sat in the Shadowdark, its presence corrupted the plane around it — **Darkmirror gradually transformed into the [[shadowdark|Shadowdark]]**. The plane's modern character (the cold, the lightlessness, the predatory wrongness of its deeper layers) is the residue of the Spear's hiding shaping the plane around it, the same way Brightmirror became the Feywild during the second hiding.
+Over the very long span the Spear sat in the Glimmerdark, its presence corrupted the plane around it — **Darkmirror gradually transformed into the [[glimmerdark|Glimmerdark]]**. The plane's modern character (the cold, the lightlessness, the predatory wrongness of its deeper layers) is the residue of the Spear's hiding shaping the plane around it, the same way Brightmirror became the Wyldglimmer during the second hiding.
 
 #### The volunteer dragon god
 
@@ -180,7 +180,7 @@ Inside the bubble, they:
 - **Grew more isolated.** No outside contact ever reached them. The gods could not check on them without risking the seal. They held the line alone, for what was, to them, longer than the Mythos itself had existed.
 - **Likely fractured.** Ten-to-the-thirty-seventh years of unbroken solitude with only the Spear's low-grade sentient presence for company is beyond what any mind — including a divine mind — is built to endure. Working canon: the volunteer suffers from a form of **divine schizophrenia**, the late-stage state of a consciousness that has spent so long alone with itself that it has split, multiplied, forgotten, rebuilt, and renamed its own identity many times over. By the time Xar'vion arrived, the being inside the prison was no longer cleanly the dragon god who had volunteered. Multiple internal personas existed in tension; elaborate inner cosmologies had been constructed, forgotten, and reconstructed; the volunteer's relationship to the Spear had become its own private theology. (Working canon, 2026-05-13 ingest, time-mechanic clarification.)
 
-When Xar'vion broke the bubble's seal and killed the volunteer to take the Spear, what he killed was a being of vast, alien, partially-shattered power. What he absorbed or learned in the act is open canon; what he carried out of the Shadowdark — a Spear that had been the singular companion of a 10^37-year solitude — was a substantially more *attuned* artifact than the one Darkhoof had taken from the Feywild.
+When Xar'vion broke the bubble's seal and killed the volunteer to take the Spear, what he killed was a being of vast, alien, partially-shattered power. What he absorbed or learned in the act is open canon; what he carried out of the Glimmerdark — a Spear that had been the singular companion of a 10^37-year solitude — was a substantially more *attuned* artifact than the one Darkhoof had taken from the Wyldglimmer.
 
 The dragon god's death is **a major moral injury** to the gods. A volunteer-martyr who had given themselves to hold the line for the rest of the Mythos was killed in the act of doing so, by a mortal wielder pursuing resurrection magic, who afterward triggered the [[demon-war|Demon War]]. The gods experienced this as bitter, humiliating, and a refutation of even **willing god-sacrifice** as a containment strategy.
 
@@ -231,8 +231,8 @@ The Spear is the single greatest engine of catastrophe in Eadras history. Each o
 Each of the gods' four containment attempts has had its own world-visible cost:
 
 - The first attempt's failed destruction worsened the [[chaos-crusades|First Chaos Crusade]] by amplifying the breach with deflected divine power.
-- The second attempt's time-displacement seeded the long corruption of Brightmirror into the [[feywild|Feywild]].
-- The third attempt cost the volunteer's life and seeded the long corruption of Darkmirror into the [[shadowdark|Shadowdark]] — and produced one of the most painful god-killings in Eadran cosmology when Xar'vion broke the seal.
+- The second attempt's time-displacement seeded the long corruption of Brightmirror into the [[wyldglimmer|Wyldglimmer]].
+- The third attempt cost the volunteer's life and seeded the long corruption of Darkmirror into the [[glimmerdark|Glimmerdark]] — and produced one of the most painful god-killings in Eadran cosmology when Xar'vion broke the seal.
 - The fourth attempt incorporated the Spear into the body of the world itself, triggering the volcanism that forced [[arathyn|Arathyn]] into its modern shape; the continent is the visible scar over the impalement.
 
 The loss of three **[[windspeakers|Windspeakers]]** during the [[anti-magic-crusade|Anti-Magic Crusade]] contributed to the **[[thousand-year-dimming|Thousand-Year Dimming]]** of the magical Weave.
@@ -261,8 +261,8 @@ The [[black-hand|Black Hand]] plans to give Xar'vion the Spear during the next [
 - [[xarvion]]
 - [[black-hand]]
 - [[icons]]
-- [[shadowdark]]
-- [[feywild]]
+- [[glimmerdark]]
+- [[wyldglimmer]]
 - [[demon-war]]
 - [[magic-in-eadras]]
 - [[grand-conjunction]]

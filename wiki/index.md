@@ -42,6 +42,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[neverborn]] — Pre-ontological Chaos entity that aided Kudur-eṭir's forging of the Spear
 - [[observer-and-naming]] — Reality requires an observer; naming requires a namer who is also an observer. Eadras runs slightly observer-hungry because the Primordial Duo sacrificed themselves into the Mythos and left no ultimate observer behind
 - [[night-sky-cosmology]] — The stars visible from Eadras are not distant suns but other [[mythos|Mythoi]] seen through [[limina|Limina's]] distortion; the slow precessional cycle (5,000 / 10,000 / 26,000-year figures all extant) functions as a **cosmic lock**, not a recharge mechanism, gating the eras in which the Spear can fire
+- [[declaration-principle]] — *Proposed.* Cosmological hypothesis that existence rests on the Creator's primordial declaration "I AM"; each lower tier of being a fainter echo, and Ascension the point where reality accepts a new declaration as true
 
 ### Eadras Internal Planes
 - [[eadras-cosmology]] — Full internal structure of the Eadras Mythos and its nine planes
@@ -52,8 +53,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[seraphim]] — Native rank-and-file celestial spirits of Celestia; workforce of the Divine Bureaucracy; the setting's "angels" when dispatched to the mortal world
 - [[nyxar]] — The lowest plane; analogue to Hell
 - [[devils]] — Native rank-and-file infernal spirits of Nyxar; office workers of the Infernal Bureaucracy; ordinary 5-foot red-skinned humanoids whose dramatic mortal-iconography forms (imps, pit fiends, etc.) are magical Bureaucracy uniforms; **explicitly not Demons**
-- [[feywild]] — Bright reflection of the Prime Material; home of fey and positive spirits
-- [[shadowdark]] — Dark reflection of the Prime Material; home of darkness-tainted spirits
+- [[wyldglimmer]] — Bright reflection of the Prime Material; home of fey and positive spirits
+- [[glimmerdark]] — Dark reflection of the Prime Material; home of darkness-tainted spirits
 - [[limina]] — The connecting plane; the "air" of the Mythos through which all planes are linked
 
 ### Moons and Exile Realms
@@ -62,7 +63,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[daj]] — The Red Moon; second-largest; named for the Elder God of war
 - [[shali]] — Twin crystal moon; named for the gentle Elder Goddess of death
 - [[shani]] — Twin crystal moon; named for the stern Elder Goddess of death
-- [[veyr-keth]] — Capital of the exiled Velrathi in Shadowdark Gaia
+- [[veyr-keth]] — Capital of the exiled Velrathi in Glimmerdark Gaia
 - [[firethorn-hold]] — Capital of the exiled Tarran in Prime-like Gaia; home of the Gray Matriarchy
 
 ---
@@ -135,6 +136,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[worldbreaker-mechanism]] — The deep geophysical mechanism of the Cataclysm: steam-flash cascade, crustal decoupling, polar stability, conduit anchoring
 - [[pre-cataclysm-relics]] — Fossils, Stillbeasts, Ashseed Forests, and other fragments of the lost 70%-land world
 - [[post-cataclysm-fauna]] — Abyssal Crownwhales, Vent Seraphs, Scaldwyrms, Crown-Eels, Lantern Dead, Pressure Echoes — the new fauna of the world the Drowning made
+- [[great-northern-whales]] — Oceanic ecological engineers whose whale honey triggers drifting Life Blooms; the Merrow's "Gardens of the Sea," seeding reefs thousands of miles south
+- [[bathyric-mandate]] — A magical bacterial hive mind, a Cataclysm side-effect; infests hosts, takes over by telepathy, regrows from a single cell; eradicated five times and returned five times
 - [[arathi-golden-age-map]] — Illuminated Arathi cartographic record of Eadras a generation before the Cataclysm; Altea as Heart of the Conduits, named Termini and regions
 - [[chaos-crusades]] — The two times raw Chaos breached the Mythos through Kudur-eṭir's old aperture (~6 mybp, ~2 mybp)
 - [[great-exchange]] — Centuries-long mutual teaching between young dragons and young unicorns; foundation of the Council of 99 and the Treaty of Ratharil; source of the phrases *Walking the Dragon Path* and *Singing with the Unicorn Voice*
@@ -172,8 +175,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[demons]] — Alien-Mythos energivores; existential threat to the omniverse; arrive only by summoning or breach
 
 ### Progenitor Races (the only three created by The Three; all banished after Demon War)
-- [[elfen]] — First progenitor; wardens of wildlands; created by Mark; banished to Feywild Gaia
-- [[velrathi]] — Second progenitor; masters of magic; created by Rand; banished to Shadowdark Gaia (Veyr'Keth)
+- [[elfen]] — First progenitor; wardens of wildlands; created by Mark; banished to Wyldglimmer Gaia
+- [[velrathi]] — Second progenitor; masters of magic; created by Rand; banished to Glimmerdark Gaia (Veyr'Keth)
 - [[tarans]] — Third progenitor; keepers of order; created by Melania; banished to Prime-like Gaia (Gray Matriarchy)
 
 ### Engineered and Descendant Peoples
@@ -192,7 +195,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 ### Modern Era Races (extant)
 - [[humans]] — Diminished descendants of the Aetherin; widely distributed
-- [[elves]] — Descendants of the El'mer; multiple environmental subtypes
+- [[elves]] — Descendants of the El'mer; rare, caste-structured, purpose-born, womb-tree-grown guardians of natural balance
+- [[varkhul-native-elves]] — Varkhul's only indigenous people; hidden elf tribes who turned the atavist into an institution; the one people on the prison continent who solved trust
 - [[dwarves|Shada'din (Dwarves)]] — Descendants of the Mitans; clan-based miners, smiths, and magitek factory operators; two-mode culture (Work / Relaxation); ascended-mortal patron Din'shadar
 - [[gnomes]] — Inventive Grugi descendants; sibling line to goblins
 - [[goblins]] — Scavenging Grug descendants; sibling line to gnomes
@@ -213,7 +217,6 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[lizardfolk]] — Middle-sized Lizard People; primal reptilian temperament
 - [[dragonborn]] — Largest Lizard People; most directly draconic
 - [[snakefolk]] — Yuan-ti analogue; NPC-only dragonfolk subtype
-- [[dragonkin]] — Mendelian-bred humanoid descendants of dragons on [[varkhul|Varkhul]]; distinct from dragonfolk; provide territorial hostility on the prison continent
 - [[turkorcs]] — Wholly individualistic, amoral, honor-rejecting warriors and casters of [[varkhul|Varkhul]]; strictly contained
 - [[trolls]] — Living mineral constructs engineered by the Arathi as perfect miners; mostly elder hibernators
 
@@ -303,7 +306,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 ## Artifacts & Objects
 
 - [[runeswords]] — Eleven sentient Starmetal blades forged by Dao to maintain balance; alien-crystal hearts
-- [[spear-of-crystallized-entropy]] — The most dangerous artifact in Eadras; turns wielders into Unrestricted Elder Gods. **Alien to the Mythos** and outside the gods' direct jurisdiction (they cannot destroy or expel it). Wielded 3 times, hidden 4: destruction-illusions / time-displacement in the [[feywild|Feywild]] / reverse-time-bubble god-prison in the deepest [[shadowdark|Shadowdark]] / impaled back into the original First Breach Wound under [[arathyn|Arathyn]]
+- [[spear-of-crystallized-entropy]] — The most dangerous artifact in Eadras; turns wielders into Unrestricted Elder Gods. **Alien to the Mythos** and outside the gods' direct jurisdiction (they cannot destroy or expel it). Wielded 3 times, hidden 4: destruction-illusions / time-displacement in the [[wyldglimmer|Wyldglimmer]] / reverse-time-bubble god-prison in the deepest [[glimmerdark|Glimmerdark]] / impaled back into the original First Breach Wound under [[arathyn|Arathyn]]
 - [[worldender]] — The apocalyptic falling star pulled through Kudur-eṭir's First Breach when his shattered post-ascension mind reached uncontrollably back into Chaos; destroyed his Icon and shattered the planet
 - [[worldender-crystal]] — Alien crystal Dao harvested from the Worldender; foreign to the Mythos; all fragments hoarded by Dao alone
 - [[firethorn-throne]] — Melania's masterpiece from leftover alien crystal; vanished after the Emperor's poisoning; not in any known location

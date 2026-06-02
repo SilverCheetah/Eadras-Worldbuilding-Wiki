@@ -63,7 +63,7 @@ One **undersea** Vault has been opened. The opener is not yet specified in canon
 
 Six of the seven sealed Vaults are **underwater**. Their specific locations and identities are open canon. They share, presumably, the deep-ocean preservation conditions of the rest of the Arathalassic and post-Cataclysm seafloor — pressure, darkness, and the layered ruins of the drowned 70%-land world.
 
-The seventh sealed Vault is the only one on dry land: the **[[obsidian-sanctum|Obsidian Sanctum]]**, deep within the Scorched Waste of [[varkhul|Varkhul]]. It is sealed by environment rather than by guardian — the Scorched Waste, the [[turkorcs|Turkorcs]], the [[dragonkin|dragonkin]], and the [[continental-ward|Continental Ward]] form four overlapping layers that have kept it untouched. See [[obsidian-sanctum]].
+The seventh sealed Vault is the only one on dry land: the **[[obsidian-sanctum|Obsidian Sanctum]]**, deep within the Scorched Waste of [[varkhul|Varkhul]]. It is sealed by environment rather than by guardian — the Scorched Waste, the [[turkorcs|Turkorcs]], and the [[continental-ward|Continental Ward]] form three overlapping layers that have kept it untouched. See [[obsidian-sanctum]].
 
 ## The Daj vault
 

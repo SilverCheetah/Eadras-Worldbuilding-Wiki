@@ -32,7 +32,7 @@ He was the sixth of the [[creation-myth|ten Elder Gods]] to step forward in the 
 
 The **Red Moon** of Eadras is named for Daj. It is the **second-largest** of [[four-moons-of-eadras|Eadras's four moons]], after [[gaia|Gaia]] (the Green Moon) and before the [[shali|Shali]]–[[shani|Shani]] crystal-moon pair. Its red coloration is consistent with Daj's domain of war, blade-sharpening, and conflict; mortal cultures often invoke its position in the sky as an omen for conflict-related divinations.
 
-Like all four moons of Eadras, Daj is **reflected across the Feywild and Shadowdark** — there is a Daj in each plane, in the same way there is a [[gaia|Gaia]] in each plane. (source: More corrections.txt)
+Like all four moons of Eadras, Daj is **reflected across the Wyldglimmer and Glimmerdark** — there is a Daj in each plane, in the same way there is a [[gaia|Gaia]] in each plane. (source: More corrections.txt)
 
 <details>
 <summary>Related pages</summary>

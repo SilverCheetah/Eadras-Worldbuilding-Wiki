@@ -54,7 +54,7 @@ X-class flares can cause:
 - Eldritch storms
 - Mass Netharim awakening
 - Mutation of eggs, seeds, embryos, or dormant spores
-- Temporary thinning between Prime Material and Feywild or Shadowdark reflections
+- Temporary thinning between Prime Material and Wyldglimmer or Glimmerdark reflections
 - Increased risk of wild magic where no regulating mind is present
 
 Under [[omniversal-laws|Omniversal Law]], magic must be ruled by a mind. A natural X-class flare would cause broad wild effects. **Regulated** X-class flares — guided by a divine or powerful mind — can produce precise, stable results. (source: Playground generation 1st part.txt)

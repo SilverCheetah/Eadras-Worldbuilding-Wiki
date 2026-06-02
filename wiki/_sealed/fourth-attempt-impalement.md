@@ -13,7 +13,7 @@ knowledge_access: [sealed]
 >
 > **Replaces** the previously-canonical Pacific-conclave / Self-Crowned / Voroik-key version of the fourth hiding (deprecated 2026-05-13, sealed page subsequently deleted 2026-05-14). Active sealed canon for the Spear's current location as of 2026-05-13.
 
-**Sources**: spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest); user-integrated resolution 2026-05-13 (four-prison sequence with [[../feywild|Feywild]]/[[../shadowdark|Shadowdark]] reordering + time-mechanic specifications); user time-mechanic clarifications 2026-05-13 (time displacement = 1 min in future; time bubble = slower inside; reverse time bubble = faster inside, 10^37 subjective years for the volunteer god, divine schizophrenia).
+**Sources**: spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest); user-integrated resolution 2026-05-13 (four-prison sequence with [[../wyldglimmer|Wyldglimmer]]/[[../glimmerdark|Glimmerdark]] reordering + time-mechanic specifications); user time-mechanic clarifications 2026-05-13 (time displacement = 1 min in future; time bubble = slower inside; reverse time bubble = faster inside, 10^37 subjective years for the volunteer god, divine schizophrenia).
 
 **Last updated**: 2026-05-13.
 
@@ -44,7 +44,7 @@ The principle has consequences that are not entirely public:
 
 ## The fourth-attempt impalement â€” sealed details
 
-After [[../xarvion|Xar'vion's]] defeat and Total Icon Binding at the close of the [[../demon-war|Demon War]], the gods inherited the Spear back. They had now failed three times to contain it. The first attempt (destruction-and-illusions) had been broken by Tarloth seeing through the illusion. The second (time-displacement in the Feywild) had been broken by Darkhoof seizing a time-displaced artifact. The third (the reverse-time-bubble god-prison in the Shadowdark) had been broken by Xar'vion, who had killed the [[#The volunteer dragon god â€” sealed identity|volunteer dragon god]] to take the Spear and trigger the Demon War.
+After [[../xarvion|Xar'vion's]] defeat and Total Icon Binding at the close of the [[../demon-war|Demon War]], the gods inherited the Spear back. They had now failed three times to contain it. The first attempt (destruction-and-illusions) had been broken by Tarloth seeing through the illusion. The second (time-displacement in the Wyldglimmer) had been broken by Darkhoof seizing a time-displaced artifact. The third (the reverse-time-bubble god-prison in the Glimmerdark) had been broken by Xar'vion, who had killed the [[#The volunteer dragon god â€” sealed identity|volunteer dragon god]] to take the Spear and trigger the Demon War.
 
 **They were out of options.**
 
@@ -75,7 +75,7 @@ The continent is still growing â€” slowly, over geological time â€” as
 
 ## The volunteer dragon god â€” sealed identity
 
-The volunteer of the third hiding â€” the [[../nine-embers-of-renewal|Ascended Mortal Dragon God]] who voluntarily entered Total Icon Binding to seal the Spear inside a reverse time bubble in the deepest [[../shadowdark|Shadowdark]] â€” is preserved here for plot-development purposes.
+The volunteer of the third hiding â€” the [[../nine-embers-of-renewal|Ascended Mortal Dragon God]] who voluntarily entered Total Icon Binding to seal the Spear inside a reverse time bubble in the deepest [[../glimmerdark|Glimmerdark]] â€” is preserved here for plot-development purposes.
 
 ### Identity
 
@@ -108,7 +108,7 @@ When Xar'vion broke the seal and killed the volunteer to take the Spear, he kill
 - **Power.** A direct transfer of some fraction of the volunteer's accumulated divine power into Xar'vion's own ascension. This would explain some of the specific intensity of Xar'vion's later operations.
 - **Knowledge.** The volunteer had subjectively studied the Spear for 10^37 years. Some of that understanding may have leaked into Xar'vion at the moment of killing. He may carry, deep in his Icon-bound consciousness, knowledge of the Spear no one else has.
 - **A fragment of the volunteer's fractured selves.** Divine schizophrenia produces multiple internal personas. One or more of those personas may persist, in some shadow form, inside Xar'vion's Icon â€” a divine presence the Motionless King is not the sole inhabitant of.
-- **The Spear's attunement.** The Spear had been the singular companion of a 10^37-year solitude. Whatever the Spear became under that attention, Xar'vion now wields. The Spear that left the Shadowdark with Xar'vion was substantially more *responsive* to its wielder than the artifact Darkhoof had stolen from the Feywild.
+- **The Spear's attunement.** The Spear had been the singular companion of a 10^37-year solitude. Whatever the Spear became under that attention, Xar'vion now wields. The Spear that left the Glimmerdark with Xar'vion was substantially more *responsive* to its wielder than the artifact Darkhoof had stolen from the Wyldglimmer.
 
 The dragons remember the volunteer as a sacred martyr. The fact of their death â€” *a god who voluntarily sacrificed themselves to hold the line was killed by a mortal wielder who afterward triggered the Demon War* â€” is one of the heaviest specific moral injuries in Eadran cosmology. The dragons' grief at this loss is encoded in their esoteric tradition; the public *"grim satisfaction over Xar'vion"* register of the dragon mythic voice is, at the deepest dragon level, *complicated* by the awareness that the Demon War cost them a martyr-god as well as a war.
 
@@ -146,7 +146,7 @@ The active impalement site can drive several distinct narrative tracks:
 What the public Spear page now records (in alignment with this sealed file):
 
 - The alien-artifact principle (high-level): the Spear is alien to the Mythos and cannot be destroyed or expelled.
-- The four-hiding sequence (in order): destruction-and-illusions / Feywild time-displacement / Shadowdark god-prison with reverse time bubble / Arathyn impalement.
+- The four-hiding sequence (in order): destruction-and-illusions / Wyldglimmer time-displacement / Glimmerdark god-prison with reverse time bubble / Arathyn impalement.
 - The volunteer dragon god's existence and martyrdom; their name and clan as open canon.
 - Xar'vion's killing of the volunteer to take the Spear.
 - Arathyn as scar tissue over the impalement.

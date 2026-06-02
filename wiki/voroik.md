@@ -21,6 +21,8 @@ knowledge_access: [common]
 
 The Voroik exist in a dimensional space entirely outside the [[omniverse]] — outside of time, space, and fate itself. From this position they weave the Omniversal Tapestry of Reality. Each strand they weave belongs to an essential concept somewhere in the [[omniverse]], with local areas of the tapestry dedicated to each [[mythos]].
 
+They **must remain outside** of fate and the omniverse in order to weave it, and they **cannot enter reality without becoming bound by it.** Any Voroik who stepped inside the pattern would be subjected to the very fate they spin, losing the external vantage that makes the weaving possible. This is the structural reason they act only at a distance — snipping and reweaving from beyond — and never walk within events as a local god might.
+
 ## The Three Sisters
 
 | Name | Title | Role |

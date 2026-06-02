@@ -129,7 +129,7 @@ The compact succeeds by preventing any side from proving the other side's nightm
 - [[threshold-cities]]
 - [[anti-magic-crusade]]
 - [[fae]]
-- [[feywild]]
+- [[wyldglimmer]]
 - [[qoxli]]
 - [[sylph]]
 - [[nox]]

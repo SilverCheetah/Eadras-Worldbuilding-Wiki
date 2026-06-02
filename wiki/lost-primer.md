@@ -82,7 +82,7 @@ This reframes the gnomish vault-obsession from "natural inventor curiosity" to *
 
 Modern crystalmancy and magitek descend from three streams of recovered knowledge:
 
-1. **High Firethorn Velrathi/Rathari extrapolations from the Lost Primer.** Most surviving Empire-era texts on these subjects derive ultimately from this stream. Many of them remain in [[katharim|Katharim]] necropolis-archives at [[kharathen]] and in scattered Velrathi exile-archives in [[veyr-keth|Veyr'Keth]] (Shadowdark Gaia).
+1. **High Firethorn Velrathi/Rathari extrapolations from the Lost Primer.** Most surviving Empire-era texts on these subjects derive ultimately from this stream. Many of them remain in [[katharim|Katharim]] necropolis-archives at [[kharathen]] and in scattered Velrathi exile-archives in [[veyr-keth|Veyr'Keth]] (Glimmerdark Gaia).
 2. **The Grug-derived gnome and goblin notes.** Far more partial and garbled than the Velrathi extrapolations, but **older** and closer to the original Arathi presentation in places. Sufficiently respected gnome workshops keep transcribed copies as foundational reference material.
 3. **Subsequent direct vault-recovery.** [[inki|Inki's]] First Vault opening (the food fabricator), [[unicorns#Darkhoof|Darkhoof's]] vault (the construct workshop and Nerathi crystalmind), and the other gnome openings have each yielded fresh, primary Arathi material — none of it the Lost Primer itself, but pieces that fit alongside its inherited fragments.
 

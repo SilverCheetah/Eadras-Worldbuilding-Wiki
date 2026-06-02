@@ -10,7 +10,7 @@ knowledge_access: [scholarly]
 
 # Icons and Simulacra
 
-**Summary**: Every god in the [[eadras-cosmology|Eadras Mythos]] — Elder or [[gods-of-eadras#Ascended Mortal Gods|Ascended]] — operates through the same two-part mediation framework. Each has exactly **one Icon on the Prime Material** (the god's only Prime-Material body and the required anchor for any direct interaction with the Mythos) and **one or more Simulacra in the spirit realms** ([[solarion|Solarion]], [[nyxar|Nyxar]], the [[feywild|Feywild]], the [[shadowdark|Shadowdark]], the Elemental Planes, wherever the god's divine power reaches). **Avatars** — direct partial divine presences carrying full reality-weight, of the kind routine across many other Mythoi — **are impossible in Eadras**. Manifesting one would risk cracking the narrative foundation of the world. The Icon-and-Simulacrum framework is therefore not a design choice; it is what the Mythos's wounded condition can bear.
+**Summary**: Every god in the [[eadras-cosmology|Eadras Mythos]] — Elder or [[gods-of-eadras#Ascended Mortal Gods|Ascended]] — operates through the same two-part mediation framework. Each has exactly **one Icon on the Prime Material** (the god's only Prime-Material body and the required anchor for any direct interaction with the Mythos) and **one or more Simulacra in the spirit realms** ([[solarion|Solarion]], [[nyxar|Nyxar]], the [[wyldglimmer|Wyldglimmer]], the [[glimmerdark|Glimmerdark]], the Elemental Planes, wherever the god's divine power reaches). **Avatars** — direct partial divine presences carrying full reality-weight, of the kind routine across many other Mythoi — **are impossible in Eadras**. Manifesting one would risk cracking the narrative foundation of the world. The Icon-and-Simulacrum framework is therefore not a design choice; it is what the Mythos's wounded condition can bear.
 
 **Sources**: velveth-01/02/03/04 v2 (2026-05-15 ingest, Tier-1 framework); Playground generation 2nd part.txt; More corrections.txt.
 
@@ -44,9 +44,9 @@ Temple maxim: *"Many stones bear the god's face. One stone bears the god's body.
 
 **All Icons are on the Prime Material, without exception.**
 
-Never on the Mirror Planes ([[feywild|Feywild]], [[shadowdark|Shadowdark]], [[veil-gaia|Veil-Gaia]]), never on the Upper Planes ([[celestia|Celestia]] and its layers), never on the Lower Planes ([[nyxar|Nyxar]] and its layers), never on the Elemental Planes. The Prime Material is the load-bearing reality-substrate of the Mythos; Icons must anchor to it specifically.
+Never on the Mirror Planes ([[wyldglimmer|Wyldglimmer]], [[glimmerdark|Glimmerdark]], [[veil-gaia|Veil-Gaia]]), never on the Upper Planes ([[celestia|Celestia]] and its layers), never on the Lower Planes ([[nyxar|Nyxar]] and its layers), never on the Elemental Planes. The Prime Material is the load-bearing reality-substrate of the Mythos; Icons must anchor to it specifically.
 
-This rule holds even for the gods of [[great-banishment|Banished]] peoples. [[velveth|Velveth's]] Icon manifested on the Prime Material of Eadras at the moment of her Apotheosis, although Kathira herself was in [[veyr-keth|Veyr'Keth]] on Shadowdark [[gaia|Gaia]] at the time. The Banished progenitor pantheons' Icons remain on Eadras's Prime Material despite their peoples' exile; the mechanism by which they are maintained without their peoples' presence is **open canon**.
+This rule holds even for the gods of [[great-banishment|Banished]] peoples. [[velveth|Velveth's]] Icon manifested on the Prime Material of Eadras at the moment of her Apotheosis, although Kathira herself was in [[veyr-keth|Veyr'Keth]] on Glimmerdark [[gaia|Gaia]] at the time. The Banished progenitor pantheons' Icons remain on Eadras's Prime Material despite their peoples' exile; the mechanism by which they are maintained without their peoples' presence is **open canon**.
 
 ### Visibility
 
@@ -78,7 +78,7 @@ The material of a true Icon is aligned with the deity's nature:
 - **Nightglass** for [[nox|Nox]]
 - **Bone-white limestone** for [[shali|Shali]] or [[shani|Shani]]
 - **Storm-fused stone** for [[daj|Daj]]
-- **Laughing opal or Feywild materials** for [[sylph|Sylph]]
+- **Laughing opal or Wyldglimmer materials** for [[sylph|Sylph]]
 - **Midnight-blue Velrathi stone** with House Valtharion sigils for [[velveth|Velveth]] (her Icon retains [[velveth|Kathira's]] form: three metres tall, ashen-gray, red-eyed, with the long gray hair Kathira had combed on the [[the-long-quiet|Long Quiet]], wearing formal Velrathi robes in deep midnight-blue; partly-veiled face showing *resolve-grief-steadiness held as one feeling*)
 
 Icon sculptors are theological engineers requiring sacred knowledge, not merely artistic skill. A flawed Icon can be dangerous — a malformed divine body might distort manifestation.
@@ -100,8 +100,8 @@ Every god maintains **one or more Simulacra in the spirit realms** — wherever 
 The most common Simulacrum location is **[[solarion|Solarion]] (the Celestial main street)**, where almost every Ascended Mortal God and every Elder God maintains a working office. Other Simulacrum locations include:
 
 - **[[nyxar|Nyxar]]** — for gods whose portfolios touch the infernal-bureaucratic register, or whose duty-bound cases require coordination with [[infernal-bureaucracy|the Infernal Bureaucracy]]
-- **The [[feywild|Feywild]]** — for gods (notably [[sylph|Sylph]] and some Elderborn) whose domains reach the Mirror-Plane register
-- **The [[shadowdark|Shadowdark]]** — including the geode-city of [[veyr-keth|Veyr'Keth]], for gods whose portfolios touch the exiled Velrathi
+- **The [[wyldglimmer|Wyldglimmer]]** — for gods (notably [[sylph|Sylph]] and some Elderborn) whose domains reach the Mirror-Plane register
+- **The [[glimmerdark|Glimmerdark]]** — including the geode-city of [[veyr-keth|Veyr'Keth]], for gods whose portfolios touch the exiled Velrathi
 - **The Elemental Planes** — for elemental-portfolio gods
 - **Multiple cross-spirit-realm offices** — for gods with broad portfolio reach
 

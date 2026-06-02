@@ -94,7 +94,7 @@ The seven and the seventeen are not in competition; the major clans took on the 
 
 ## Modern elf additions (post-Banishment)
 
-The original 500 varieties are all **ancient Elfen creations**. The [[elfen|Elfen]] themselves are no longer on Eadras (Banished after the [[demon-war|Demon War]] to [[gaia|Feywild Gaia]]; see [[great-banishment]]).
+The original 500 varieties are all **ancient Elfen creations**. The [[elfen|Elfen]] themselves are no longer on Eadras (Banished after the [[demon-war|Demon War]] to [[gaia|Wyldglimmer Gaia]]; see [[great-banishment]]).
 
 The **modern post-Banishment [[elves|elves]]** of Eadras inherited the tea-growing tradition and have continued to experiment, though at a much slower pace and with less powerful magic at their disposal. Over the last roughly 10,000 years, the modern elves have produced **approximately 65 new varieties** in addition to the 500 inherited ancient ones.
 
@@ -146,7 +146,7 @@ The two cultures' tea traditions coexist and respect each other; an Elfen visiti
 - A **definitive catalogue** of the 500 ancient varieties (or even the 65 modern additions). The sample names above are illustrative. The user has indicated this is not work for tonight.
 - Whether the **goblins**, **gnomes**, or other modern peoples developed tea-drinking traditions of their own that would be culturally legible to a Velrathi tea-master, or whether tea remains a fundamentally Velrathi-Elfen cultural artifact in the modern era.
 - The relationship between tea and Velrathi [[velrathi-cognitive-frogs|cognitive frogs]] — both produce mental-acuity benefits in upper-class Velrathi life. Whether they are used together, alternately, or by different sub-cultures within the Velrathi upper class is open.
-- Whether the **Velrathi exiles in [[veyr-keth|Veyr'Keth]]** still maintain tea ceremony in [[shadowdark|Shadowdark Gaia]], and how their tea supply works without the modern elves of Eadras to source from. The question of whether Shadowdark Gaia has its own engineered tea cultivars is also open.
+- Whether the **Velrathi exiles in [[veyr-keth|Veyr'Keth]]** still maintain tea ceremony in [[glimmerdark|Glimmerdark Gaia]], and how their tea supply works without the modern elves of Eadras to source from. The question of whether Glimmerdark Gaia has its own engineered tea cultivars is also open.
 
 <details>
 <summary>Related pages</summary>

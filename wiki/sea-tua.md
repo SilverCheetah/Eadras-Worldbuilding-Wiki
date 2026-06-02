@@ -19,7 +19,7 @@ knowledge_access: [common]
 
 ## Origin
 
-The Sea'tua were one of the three [[elfen|Elfen]]-engineered child races, alongside the **El'mer** (oversaw natural balance on land; [[el-mer|now extinct]]) and the **Sidhe** (rule and regulate the [[feywild|Feywild]]; ancestors of all modern Fae). They were the **last** of the three engineered, created **roughly ten million years after the [[arathi-cataclysm|Arathi Cataclysm]]** — well after the Worldbreaker impact had drowned 70% of the world's land and after Eadras's new oceans had reached a stable post-Drowning configuration. (sources: Peoples of Eadras.txt; Elfen.txt)
+The Sea'tua were one of the three [[elfen|Elfen]]-engineered child races, alongside the **El'mer** (oversaw natural balance on land; [[el-mer|now extinct]]) and the **Sidhe** (rule and regulate the [[wyldglimmer|Wyldglimmer]]; ancestors of all modern Fae). They were the **last** of the three engineered, created **roughly ten million years after the [[arathi-cataclysm|Arathi Cataclysm]]** — well after the Worldbreaker impact had drowned 70% of the world's land and after Eadras's new oceans had reached a stable post-Drowning configuration. (sources: Peoples of Eadras.txt; Elfen.txt)
 
 The engineering mechanism was the standard one used by all three progenitor races for their child races: **magical in-utero modification of the progenitor's own babies, accumulated over several generations** until the offspring stabilized as a distinct race. See [[peoples-of-eadras#How the engineering worked|Peoples of Eadras — How the engineering worked]] for the full mechanism. By blood, every Sea'tua descended from Elfen — and by extension, every modern sea person carries that distant Elfen lineage.
 
@@ -46,7 +46,7 @@ The two **alien-branch descendants** — [[kuo-toa|Kuo-toa]] and [[sahuagin|Sahu
 
 The Sea'tua **no longer exist as a distinct people.** Like the other engineered child races, they did not survive into the modern era as themselves; their entire population transitioned, across centuries and millennia of natural divergence and cultural drift, into the seven distinct descendant peoples that exist today.
 
-Whether any pure Sea'tua were among the populations [[great-banishment|banished]] to the [[gaia|Feywild reflection of Gaia]] alongside their Elfen progenitors at the close of the [[demon-war|Demon War]] is undocumented. The descendant peoples remained on the Prime Material in any case — the Banishment took the Elfen themselves and the Sea'tua were already a divergent line by that point. (See [[great-banishment]] for the broader pattern of which engineered-line members went where.)
+Whether any pure Sea'tua were among the populations [[great-banishment|banished]] to the [[gaia|Wyldglimmer reflection of Gaia]] alongside their Elfen progenitors at the close of the [[demon-war|Demon War]] is undocumented. The descendant peoples remained on the Prime Material in any case — the Banishment took the Elfen themselves and the Sea'tua were already a divergent line by that point. (See [[great-banishment]] for the broader pattern of which engineered-line members went where.)
 
 ## Descendants
 
@@ -67,8 +67,8 @@ The five modern oceanic races are collectively known on the surface as **"[[merf
 ## Open canon
 
 - **Specific named Sea'tua individuals, settlements, or institutions.** None preserved in canon yet; the people are referenced only by role and descendants.
-- **Whether any pure Sea'tua were banished to Feywild Gaia** alongside their Elfen progenitors, or whether the Sea'tua line had already fully diverged into descendants by the time of the Banishment.
-- **The Sea'tua's own relationship with the [[el-mer|El'mer]] and [[feywild|Sidhe]]** — sibling races sharing the same Elfen progenitor. Whether they cooperated, ignored each other across the land/ocean divide, or maintained any institutional contact is undocumented.
+- **Whether any pure Sea'tua were banished to Wyldglimmer Gaia** alongside their Elfen progenitors, or whether the Sea'tua line had already fully diverged into descendants by the time of the Banishment.
+- **The Sea'tua's own relationship with the [[el-mer|El'mer]] and [[wyldglimmer|Sidhe]]** — sibling races sharing the same Elfen progenitor. Whether they cooperated, ignored each other across the land/ocean divide, or maintained any institutional contact is undocumented.
 - **The trigger for the divergence into seven distinct descendants** — whether the split was deliberate further engineering, natural environmental adaptation, post-Banishment isolation, or a combination. The two alien branches in particular (Kuo-toa, Sahuagin) raise sharper questions about cause: their divergence is too dramatic to plausibly be drift alone.
 - **Whether any Sea'tua artifacts, ruins, or undisturbed deep-ocean sites survive** — and whether the modern descendant peoples preserve memory of where to look.
 - **Whether any of the five modern oceanic races regards itself as the most direct Sea'tua heir.** The Merrow's living-architecture practice and the Sirens' song-reshaping both have a strong claim by tradition; canon doesn't pick a winner.
@@ -80,7 +80,7 @@ The five modern oceanic races are collectively known on the surface as **"[[merf
 - [[elfen]]
 - [[the-three]]
 - [[el-mer]]
-- [[feywild]]
+- [[wyldglimmer]]
 - [[merfolk]]
 - [[merrow]]
 - [[sirens]]

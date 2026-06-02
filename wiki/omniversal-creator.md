@@ -11,15 +11,17 @@ knowledge_access: [common]
 
 **Summary**: The Omniversal Creator (OC) is the supreme deity of the [[omniverse]] — omnipotent, omnipresent, and omniscient — who created all [[mythos|Mythoi]] and the [[archons]] as direct servants.
 
-**Sources**: Omniversal Creator.txt, Archons.txt, Playground generation 1st part.txt
+**Sources**: Omniversal Creator.txt, Archons.txt, Playground generation 1st part.txt, Grok Chat Results 6-2-26.txt (2026-06-02, no direct contact)
 
-**Last updated**: 2026-04-29
+**Last updated**: 2026-06-02
 
 ---
 
 ## Overview
 
 The Omniversal Creator is the ultimate source of all existence. It created the [[omniverse]] by forming each individual [[mythos]] and turning them over to creator deities of its own making. It also established the [[omniversal-laws]] — six unbreakable laws that govern all reality.
+
+The Creator **does not speak directly to anyone.** Direct, unmediated contact with the Omniversal Creator would **destroy** the contacted being outright — its presence is too total for any created thing to bear — which is the structural reason it acts only through avatars such as [[dao|Dao]] and through the [[archons]], never face to face. (source: Grok Chat Results 6-2-26.txt)
 
 It is said to reside in the [[bastion-of-light]] at the center of [[nexus]], [[concordance]] — though whether the OC is truly physically present there or merely represented is unknown.
 

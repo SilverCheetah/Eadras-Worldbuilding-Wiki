@@ -20,7 +20,7 @@ knowledge_access: [common]
 
 ## Purpose
 
-The Continental Ward exists for one reason: **nothing on Varkhul is meant to leave**. Varkhul holds dragonkin, [[turkorcs|Turkorcs]], and exiled clans whose collective release would unmake the rest of the world's stability. The Ward is the cooperative answer the nations of Eadras have agreed on, and they fund and maintain it with a grim, sustained determination matched by no other shared institution.
+The Continental Ward exists for one reason: **nothing on Varkhul is meant to leave**. Varkhul holds [[turkorcs|Turkorcs]] and exiled clans whose collective release would unmake the rest of the world's stability. The Ward is the cooperative answer the nations of Eadras have agreed on, and they fund and maintain it with a grim, sustained determination matched by no other shared institution.
 
 ## Position
 
@@ -85,7 +85,6 @@ The Continental Ward and the continent it encircles cannot be discussed apart. V
 
 - [[varkhul]]
 - [[turkorcs]]
-- [[dragonkin]]
 - [[obsidian-sanctum]]
 
 </details>

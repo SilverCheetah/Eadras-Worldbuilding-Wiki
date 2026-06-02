@@ -79,7 +79,7 @@ Surrounding the dais are **vast side-vaults, alcoves, and seemingly endless gall
 - Weapons and armor of pre-war masterwork
 - Lost [[velrathi|Velrathi]] tomes of forbidden knowledge
 - Heaps of gemstones the size of fists
-- Living [[feywild|Feywild]] blossoms preserved in crystal
+- Living [[wyldglimmer|Wyldglimmer]] blossoms preserved in crystal
 - Mundane wonders — perfect tapestries, flawless musical instruments, rare spices from extinct gardens
 
 **Every item is real. Every item is valuable beyond measure. And every item is a trap — except for one specific person.**

@@ -9,7 +9,7 @@ knowledge_access: [common]
 
 # The Great Banishment
 
-**Summary**: At the conclusion of the [[demon-war|Demon War]] **10,000 years ago**, the Elder Gods rendered judgment upon the three progenitor races and **exiled the vast majority of them** from the main Prime Material continents of Eadras into the three mirrored aspects of the moon [[gaia|Gaia]] (with portions in the Bright Mirror / Feywild and Dark Mirror / Shadowdark). The exile was not total for every individual — some enclaves remained behind in hidden places on the main world — but the bulk of all three civilizations relocated to the moon, closing the Elder Age and beginning the age of the younger races.
+**Summary**: At the conclusion of the [[demon-war|Demon War]] **10,000 years ago**, the Elder Gods rendered judgment upon the three progenitor races and **exiled the vast majority of them** from the main Prime Material continents of Eadras into the three mirrored aspects of the moon [[gaia|Gaia]] (with portions in the Bright Mirror / Wyldglimmer and Dark Mirror / Glimmerdark). The exile was not total for every individual — some enclaves remained behind in hidden places on the main world — but the bulk of all three civilizations relocated to the moon, closing the Elder Age and beginning the age of the younger races.
 
 **Sources**: Grok WB Generation 4-29.txt; Updates afternoon 5-1-26.txt
 
@@ -35,11 +35,11 @@ The sentence: **collective exile**. At the war's conclusion, the **vast majority
 
 ### What the exile did and did not do
 
-- **Most** of every Elder population went to Gaia (with portions in the Bright Mirror / [[feywild|Feywild]] and Dark Mirror / [[shadowdark|Shadowdark]] reflections of Gaia, in addition to Prime-like Gaia).
+- **Most** of every Elder population went to Gaia (with portions in the Bright Mirror / [[wyldglimmer|Wyldglimmer]] and Dark Mirror / [[glimmerdark|Glimmerdark]] reflections of Gaia, in addition to Prime-like Gaia).
 - **Some enclaves remained behind** in hidden places on the main world. The largest preserved-on-Eadras enclaves are believed to be **Velrathi archives** (deep, secret, magically warded) and **Elfen deep wilds** (well off the maps the modern younger races maintain). (source: Updates afternoon 5-1-26.txt)
 - **The exile is the definitive end of the Elder Age** and the beginning of the rise of the younger races (humans, orcs, dwarves, gnomes, beast-folk, etc.) on the main continents.
 
-The fact that some enclaves remain explains a number of modern phenomena that "all three races completely banished" cannot: occasional encounters with pure-blood Velrathi outside of the Shadowdark mirror, deep-wood Elfen sightings far from any rift, and the persistence of certain Velrathi-authored magical artifacts whose maintenance would otherwise be impossible.
+The fact that some enclaves remain explains a number of modern phenomena that "all three races completely banished" cannot: occasional encounters with pure-blood Velrathi outside of the Glimmerdark mirror, deep-wood Elfen sightings far from any rift, and the persistence of certain Velrathi-authored magical artifacts whose maintenance would otherwise be impossible.
 
 ## The Three Destinations
 
@@ -47,17 +47,17 @@ The exiles were sent to the three mirrored aspects of the moon [[gaia|Gaia]], wh
 
 | Race | Destination | New Capital | Modern Society |
 |---|---|---|---|
-| **[[velrathi\|Velrathi]]** | **Shadowdark** version of Gaia | [[veyr-keth\|Veyr'Keth]] | Diminished, paranoid, dangerous; pursue shadow-reflected rituals and negative-energy harmonics |
-| **[[elfen\|Elfen]]** | **Feywild** version of Gaia | (unnamed in canon) | Bright, positive-tainted, rampant wild magic; descendants survive as modern elves and fey |
+| **[[velrathi\|Velrathi]]** | **Glimmerdark** version of Gaia | [[veyr-keth\|Veyr'Keth]] | Diminished, paranoid, dangerous; pursue shadow-reflected rituals and negative-energy harmonics |
+| **[[elfen\|Elfen]]** | **Wyldglimmer** version of Gaia | (unnamed in canon) | Bright, positive-tainted, rampant wild magic; descendants survive as modern elves and fey |
 | **[[tarans\|Tarran]]** | **Prime-like** version of Gaia (their original creation site) | [[firethorn-hold\|Firethorn Hold]] | The [[gray-matriarchy\|Gray Matriarchy]] — strict matriarchy with male enslavement; secretly ruled by [[she-who-shall-not-be-named\|an ancient dragon]] |
 
 ## What the Exiles Took With Them
 
 The crafted servant-races caught in the same rifts split:
 
-- **Loyal [[grugi|Grug]]** accompanied the Velrathi into Shadowdark Gaia
+- **Loyal [[grugi|Grug]]** accompanied the Velrathi into Glimmerdark Gaia
 - **Some [[orugi|Orug]] honor-guards** (those few who survived after the [[battle-of-the-broken-conclaves|Final Wall]]) chose exile with the Tarran (though no pure Orug bloodline ultimately survived)
-- **Scattered [[el-mer|El'mer]] kin** followed the Elfen into the Feywild mirror
+- **Scattered [[el-mer|El'mer]] kin** followed the Elfen into the Wyldglimmer mirror
 
 On the Prime, the servant lines that remained diverged: [[orugi|Orug]] blood into modern [[orcs|Orcs]], [[grugi|Grug]] into goblins and gnomes, diluted [[el-mer|El'mer]] into elves and fey, [[aetherins|Aetherin]] into humans.
 
@@ -77,7 +77,7 @@ The rifts the Elder Gods opened were **permanent and one-way at the moment of op
 
 The exiled peoples have developed strange new magics suited to their mirror-realms:
 - **Velrathi**: shadow harmonics, negative-energy resonances
-- **Elfen descendants**: wild song-weaving in the Feywild's chaotic magic
+- **Elfen descendants**: wild song-weaving in the Wyldglimmer's chaotic magic
 - **Tarran**: rigid order-binding rituals (under the secret dragon's guidance)
 
 ## How the Banishment Is Remembered
@@ -111,7 +111,7 @@ This is one of the under-acknowledged reasons the Demon War was followed by a pe
 Ten thousand years later, the mirrors still watch. Occasionally:
 
 - A red-eyed Velrathi envoy steps through a conjunction-torn rift
-- A tall graceful singer appears in a Feywild-touched glade
+- A tall graceful singer appears in a Wyldglimmer-touched glade
 - A gray-cloaked Tarran warrior arrives bearing ancient oaths
 
 The world remembers its makers — diminished, exiled, but **never truly gone**.

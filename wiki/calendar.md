@@ -82,7 +82,7 @@ Six major mortal calendars are currently canonical. All are approximate relative
 
 ### Velrathi Banishment-count
 
-**Anchor**: The first full year after the [[great-banishment|Great Banishment]] of the Velrathi to [[shadowdark-gaia|Shadowdark Gaia]].
+**Anchor**: The first full year after the [[great-banishment|Great Banishment]] of the Velrathi to [[glimmerdark-gaia|Glimmerdark Gaia]].
 **Direction**: Forward.
 **Resolution**: Year-level. Sub-year dating uses Velrathi observance-calendar months tied to [[veyr-keth|Veyr'Keth]] crystalline-light cycles.
 **Used by**: Exiled [[velrathi|Velrathi]] court records, [[velveth|Velveth]] cult observances, Velrathi diplomatic correspondence to surface entities.

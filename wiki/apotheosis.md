@@ -21,10 +21,10 @@ knowledge_access: [scholarly]
 
 At the moment of Apotheosis, four things happen simultaneously:
 
-- **The mortal body becomes Icon** — the [[icons|Prime-Material anchor]] required for any god to directly interact with the Mythos. The Icon manifests *on the Prime Material* at that moment, regardless of where the candidate's body was at the time. (Velveth's body was in [[veyr-keth|Veyr'Keth]] on the [[shadowdark-gaia|Shadowdark]] reflection of [[gaia|Gaia]] at her Apotheosis; her Icon still manifested on the Prime Material of Eadras.)
+- **The mortal body becomes Icon** — the [[icons|Prime-Material anchor]] required for any god to directly interact with the Mythos. The Icon manifests *on the Prime Material* at that moment, regardless of where the candidate's body was at the time. (Velveth's body was in [[veyr-keth|Veyr'Keth]] on the [[glimmerdark-gaia|Glimmerdark]] reflection of [[gaia|Gaia]] at her Apotheosis; her Icon still manifested on the Prime Material of Eadras.)
 - **The mortal mind becomes divine** — qualitatively transformed, not merely augmented. Memory, identity, and continuity of selfhood are preserved; cognition is restructured to operate at divine scale.
 - **A divine realm is instantly created in the outer planes** — a new outer-plane region specific to the Ascended. Velveth's is the [[hall-of-the-long-quiet|Hall of the Long Quiet]]. Imma's office in [[solarion|Solarion]] is not her divine realm but her institutional Simulacrum presence; her outer-plane realm is the larger primary presence.
-- **One or more divine simulacra appear in the spirit realms** — wherever the Ascended's divine power has reach. Solarion ([[celestia|Celestia]]) is the most common; [[nyxar|Nyxar]], the [[feywild|Feywild]], the [[shadowdark|Shadowdark]], and the Elemental Planes are also possible.
+- **One or more divine simulacra appear in the spirit realms** — wherever the Ascended's divine power has reach. Solarion ([[celestia|Celestia]]) is the most common; [[nyxar|Nyxar]], the [[wyldglimmer|Wyldglimmer]], the [[glimmerdark|Glimmerdark]], and the Elemental Planes are also possible.
 
 The Icon, the divine mind, the outer-plane realm, and the simulacra are all the same goddess — distributed across the cosmology, but one consciousness.
 

@@ -12,9 +12,9 @@ knowledge_access: [common]
 
 **Summary**: The Chaos Crusades are the two times in Eadras's history when raw [[chaos|Chaos]] has breached the [[mythos|Mythos]] — the first approximately **6 million years before present**, on the supercontinent [[eldravath|Eldravath]], ravaging a third of the Prime Material and both reflective planes; the second approximately **2 million years before present**, contained at continental scale by the combined response of Dragons, Unicorns, and the Gods.
 
-**Sources**: Chaos Crusades.txt; user direction 2026-05-01; The Neverborn update.txt; Combined info dump 2 5-4-2026.txt; user direction 2026-05-04 (residual pockets and aberration origin).
+**Sources**: Chaos Crusades.txt; user direction 2026-05-01; The Neverborn update.txt; Combined info dump 2 5-4-2026.txt; user direction 2026-05-04 (residual pockets and aberration origin); Grok Chat Results 6-2-26.txt (2026-06-02, total-erasure / unaccounted ~25%).
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-06-02
 
 ---
 
@@ -45,10 +45,14 @@ The Chaos that flooded in had no concept of complex bodies. It seized on **first
 ### Damage
 
 - **One-third of the Prime Material** — a continuous swathe consumed before the breach was sealed.
-- **The whole of [[shadowdark|Brightmirror]]** — the bright reflective plane, before its later corruption into the [[feywild|Feywild]] by the Spear's imprisonment.
-- **The whole of [[shadowdark|Darkmirror]]** — the dark reflective plane, before its corruption into the [[shadowdark|Shadowdark]].
+- **The whole of [[wyldglimmer|Brightmirror]]** — the bright reflective plane, before its later corruption into the [[wyldglimmer|Wyldglimmer]] by the Spear's imprisonment.
+- **The whole of [[glimmerdark|Darkmirror]]** — the dark reflective plane, before its corruption into the [[glimmerdark|Glimmerdark]].
 
 (source: Chaos Crusades.txt)
+
+### Total erasure — the unaccounted quarter
+
+The figures above describe what was *consumed*. The First Crusade's deeper horror is that some of what it took was **erased so completely that it never existed at all** — not destroyed, not merely lost to memory, but retroactively absent, as though the world had always lacked it. Even the **gods are uncertain exactly what was lost**; their standing estimate is that **roughly a quarter of reality is simply missing and unaccounted-for** in the wake of the First Crusade. It is considered entirely possible that **an entire sapient race was erased this way** and is now wholly forgotten — no record, no ruin, no mourner, because the erasure removed even the fact that there had been anything to mourn. (source: Grok Chat Results 6-2-26.txt)
 
 ### Defenders
 
@@ -86,7 +90,7 @@ The Crusades did not leave the affected regions empty. Each Crusade left behind 
 
 This is the deeper, longer-tailed consequence of both Crusades. The Gods sealed the breaches. The visible Chaos manifestations dissolved (per the form-or-dissolve law). But the **standing distortion in the affected ground** did not always heal completely — and where it did not, the result was a pocket of locally-failed reality that could persist for millions of years afterward.
 
-**The First Crusade's pockets** are scattered across the modern continents (the post-Cataclysm fragments of what was once Eldravath and the surrounding Prime Material consumed by the Crusade) and across the [[feywild|Feywild]] and [[shadowdark|Shadowdark]] (the post-Crusade reflective planes). Some have dissolved over geological time; many have not.
+**The First Crusade's pockets** are scattered across the modern continents (the post-Cataclysm fragments of what was once Eldravath and the surrounding Prime Material consumed by the Crusade) and across the [[wyldglimmer|Wyldglimmer]] and [[glimmerdark|Glimmerdark]] (the post-Crusade reflective planes). Some have dissolved over geological time; many have not.
 
 **The Second Crusade's pockets** are younger, fewer, and continental-scale rather than worldwide; they may host more recent and more dragon/unicorn-themed distortions, reflecting the Chaos forms the Second Crusade was trying and failing to imitate.
 
@@ -128,7 +132,8 @@ Dragons and unicorns may have their own names for the Crusades in their own inte
 
 - Specific named regions of the Prime Material consumed in the First Crusade — none yet defined.
 - The continent affected by the Second Crusade — unspecified.
-- Whether the form-or-dissolve law applies symmetrically to specific creatures (e.g., do demons summoned out of their native plane suffer the same dissolution risk?) — unspecified.
+- Whether the form-or-dissolve law applies symmetrically to specific creatures (e.g., do demons summoned out of their native plane suffer the same dissolution risk?) — unspecified. (Note: per [[demons]], demons are mythos-native, not Chaos entities, so the form-or-dissolve law does **not** govern them.)
+- The relationship between the **"one-third of the Prime Material consumed"** damage figure and the gods' **"~25% of reality unaccounted-for"** erasure estimate — whether these measure the same loss differently (visible devastation vs. permanent retroactive erasure) or two distinct quantities.
 
 ## Resolved canon (user direction 2026-05-01)
 
@@ -147,8 +152,8 @@ Dragons and unicorns may have their own names for the Crusades in their own inte
 - [[dragons]]
 - [[unicorns]]
 - [[gods-of-eadras]]
-- [[feywild]]
-- [[shadowdark]]
+- [[wyldglimmer]]
+- [[glimmerdark]]
 - [[arathi-cataclysm]]
 - [[tome-of-baldaran]]
 

@@ -33,10 +33,9 @@ knowledge_access: [meta]
 - **The conduit return path (core → Source)** — [[seven-conduits|conduits]] drain Eldritch into the planet's core; the recycling mechanism beyond the core is unknown, suspected to run core → Source to close the loop, but the return path is deliberately unresolved. → [[seven-conduits#Drains, not valves — and why settlement gathers there]], [[magic-in-eadras]]
 - ~~**Source-as-ur-deity question**~~ — **RESOLVED 2026-05-01**: the dragons made a category error; the Source is *not* a deity but **an expression of Lirra**. → [[religion-in-eadras#The Source as ur-deity question — resolved]]
 - ~~**Neverborn motive for two breaches**~~ — **RESOLVED 2026-05-01**: the Neverborn does not have motives in the structured-mind sense. It just acts, or doesn't. → [[neverborn#The Danger]]
-- **Four Moons of Eadras** — Composition and surface conditions of [[daj|Daj]] in any of its three planar versions; surface conditions of Feywild and Shadowdark Daj/Shali/Shani; orbital periods, distances, apparent sizes; whether the crystal moons are inhabited; cultural calendars and festivals tied to moon positions. → [[four-moons-of-eadras#Open canon]]
+- **Four Moons of Eadras** — Composition and surface conditions of [[daj|Daj]] in any of its three planar versions; surface conditions of Wyldglimmer and Glimmerdark Daj/Shali/Shani; orbital periods, distances, apparent sizes; whether the crystal moons are inhabited; cultural calendars and festivals tied to moon positions. → [[four-moons-of-eadras#Open canon]]
 - **Precessional cycle period** — Three figures are currently extant in the wiki for the astronomical cycle that gates Spear activation: the older **5,000-year [[grand-conjunction|Grand Conjunction]]** figure (existing canon, derived from Lirran observatory records); the **10,000-year working figure** adopted by the user 2026-05-14 as the modern Order Sharanel figure; and the **26,000-year master cycle** recorded in Ratharil dragon star-charts in the 2026-05-14 ingest source. The Tome notes the discrepancy without resolving it. Full canon sweep across [[grand-conjunction]], [[spear-of-crystallized-entropy]], [[lost-zenith]], [[eadras-timeline]], and the [[black-hand]] pages is **deferred until the user solidifies the period**. The new [[night-sky-cosmology]] page presents all three figures as in-universe scholarly debate. → [[night-sky-cosmology#The Great Precessional Cycle]]
 - **Lock vs recharge framing of the precessional cycle** — The 2026-05-14 ingest establishes the cycle as a **cosmic lock**, not a recharge mechanism: the Spear is always loaded; the cycle opens a *permitted era* during which a [[grand-conjunction|Grand Conjunction]] can fire it. This is canonized on [[night-sky-cosmology]] but [[grand-conjunction]] and [[spear-of-crystallized-entropy]] still describe the mechanism in recharge-style language in places. Sweep deferred together with the period question.
-- **[[feywild|Feywild]] / [[shadowdark|Shadowdark]] names** — Both names are user-acknowledged D&D-coded placeholders; final canonical names pending. The "Deep Feywild" and "Deep Shadowdark" labels for the outer regions are also placeholders. → [[feywild#The Deep Feywild — near-infinite extent beyond the reflection]] and [[shadowdark#The Deep Shadowdark — near-infinite extent beyond the reflection]]
 
 ## Magic and Magical Traditions
 
@@ -218,9 +217,9 @@ No outstanding rework items remain in this section. Future open canon about the 
 - **Velrathi tea variety catalog** — ~500 ancient + ~65 modern; sample names exist on the page; the full catalog is explicitly user-deferred. → [[velrathi-tea-culture#Open canon]]
 - **Tea culture among non-Velrathi modern peoples.** Whether goblins, gnomes, or others developed tea traditions of their own that would be culturally legible to a Velrathi tea-master. → [[velrathi-tea-culture#Open canon]]
 - **Velrathi tea ↔ cognitive frogs interaction.** Whether they're used together, alternately, or by different sub-cultures within the Velrathi upper class. → [[velrathi-tea-culture#Open canon]]
-- **Velrathi tea culture in [[veyr-keth|Veyr'Keth]] post-Banishment.** Whether the exiles maintain ceremony, where tea comes from in Shadowdark Gaia. → [[velrathi-tea-culture#Open canon]]
+- **Velrathi tea culture in [[veyr-keth|Veyr'Keth]] post-Banishment.** Whether the exiles maintain ceremony, where tea comes from in Glimmerdark Gaia. → [[velrathi-tea-culture#Open canon]]
 - **Cognitive frog pattern-to-effect catalog.** Real but not yet detailed. → [[velrathi-cognitive-frogs#Open canon]]
-- **Cognitive frogs in Veyr'Keth** — frog availability, Shadowdark biology analogues. → [[velrathi-cognitive-frogs#Open canon]]
+- **Cognitive frogs in Veyr'Keth** — frog availability, Glimmerdark biology analogues. → [[velrathi-cognitive-frogs#Open canon]]
 - **Frog-toxin immunity in Velrathi descendants** (Rathari, Grug, etc.). → [[velrathi-cognitive-frogs#Open canon]]
 - **Biological mechanism separating cognitive enhancement from deadly toxicity.** Whether refined cognitive-only extract for non-Velrathi has ever been produced. → [[velrathi-cognitive-frogs#Open canon]]
 - **Velrathi-Taran technique exchange** between cognitive-frog and poison-immunity traditions. → [[velrathi-cognitive-frogs#Open canon]]
@@ -341,7 +340,6 @@ Story-prompt-shaped open questions surfaced by the [[draconic-language|Draconic]
 
 These are open in a narrower sense: canon uses them but flags them as not yet finalized.
 
-- **[[feywild|Feywild]] / [[shadowdark|Shadowdark]] names** — D&D-coded placeholders likely to be renamed; the "Deep Feywild" and "Deep Shadowdark" outer-region labels also placeholders. → [[feywild#The Deep Feywild — near-infinite extent beyond the reflection]] / [[shadowdark#The Deep Shadowdark — near-infinite extent beyond the reflection]]
 - **Closed-Time-Bubble Chaos Crusade campaign title** — see RPG section above.
 
 ## Recently resolved (2026-05-09 — kept here briefly for navigation)

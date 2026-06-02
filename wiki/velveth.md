@@ -70,7 +70,7 @@ The [[magic-in-eadras#The Weave|Weave]] was not a Concordat deliverable — see 
 
 ## Life in Veyr'Keth
 
-Kathira **survived the war**. She accompanied the Velrathi into the Great Banishment, departing for [[shadowdark-gaia|Shadowdark Gaia]] and the geode-city of [[veyr-keth|Veyr'Keth]], where she resumed political duties as a senior figure of the Northern Monarchy's exiled court.
+Kathira **survived the war**. She accompanied the Velrathi into the Great Banishment, departing for [[glimmerdark-gaia|Glimmerdark Gaia]] and the geode-city of [[veyr-keth|Veyr'Keth]], where she resumed political duties as a senior figure of the Northern Monarchy's exiled court.
 
 She was **not assassinated, exiled-within-exile, ostracised, or marginalised** by her surviving people. The Velrathi understood, in their cold-clear way, that *she had paid the price they could not pay*. She was treated with the precise dignified respect accorded to those who have done what the people required of them at terrible personal cost.
 
@@ -88,7 +88,7 @@ Kathira's Apotheosis occurred at some moment during her continued mortal life in
 
 What is established is the outcome. At the moment of the transition:
 
-- Her body became **[[icons|Icon]]** — manifesting on the Prime Material at the moment of transformation, even though Kathira herself was in [[veyr-keth|Veyr'Keth]] on Shadowdark [[gaia|Gaia]] at the time
+- Her body became **[[icons|Icon]]** — manifesting on the Prime Material at the moment of transformation, even though Kathira herself was in [[veyr-keth|Veyr'Keth]] on Glimmerdark [[gaia|Gaia]] at the time
 - Her mind became **divine** — qualitatively transformed, not merely augmented
 - The [[hall-of-the-long-quiet|Hall of the Long Quiet]] **appeared in the outer planes** — her Velrathi-Gothic divine realm, with its never-burning low oil-flame
 - Her divine **simulacrum appeared in [[solarion|Solarion]]** — taking the Office of Velrathi Affairs, three doors from [[imma|Imma Who-Did-Not-Stop-Laughing]]

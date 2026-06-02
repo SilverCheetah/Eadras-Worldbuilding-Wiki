@@ -293,7 +293,6 @@ BUCKETS = [
             "kobolds.md",
             "lizardfolk.md",
             "snakefolk.md",
-            "dragonkin.md",
             "turkorcs.md",
         ],
     ),

@@ -33,6 +33,7 @@ A troll's body is a layered mineral organism:
 - A **memory crystal brain** at the body's core houses cognition and inherited memory.
 - A troll possesses **an extraordinary sense of taste/smell for minerals across the entire body** — not localized in a head or a snout, but distributed through the whole organism. This is how a troll feels its way to the next vein. (source: notes on various topics 2.txt)
 - Trolls **"swim" through land like fish through water** — the body's mineral substrate flows past native rock the way a swimmer's body parts the sea. They do not tunnel in the dwarven sense; they pass through stone as a living current. (source: notes on various topics 2.txt)
+- Trolls **recognize one another by emotional signature** rather than by sight, voice, or body — each troll's affective "shape" is as distinctive to another troll as a face is to a humanoid, and it is how they know kin and stranger across the dark of the deep rock. (source: Grok Chat Results 6-2-26.txt)
 
 Trolls reproduce by **budding** and have **only one gender**. There is no troll equivalent to gendered reproduction or sexed lineage; troll genealogy is strictly parent-bud. **Buds inherit genetic memory** from their parent — meaning a young troll arrives in the world already carrying the lived experience of its predecessor, and through that the cumulative memory of every troll before, all the way back to the Arathi-era originals. This is one of the reasons trolls are not vengeful: living trolls remember (in genetic-memory form) being mined, being harvested, being woken before time. Memory and grievance both pass down the bud-line; so does the cultural decision not to retaliate. (User direction 2026-05-01.)
 
@@ -57,6 +58,8 @@ Hibernation is not permanent. Across the millions of years since the Cataclysm, 
 ### Population — exact numbers
 
 The total troll population is **fixed by the Arathi programming at exactly 2,000** (source: Eadras Cannon Expansion.txt). This cap is not a current census figure — it is a design constraint of the lineage itself, baked in by the original Arathi engineers. Trolls bud, but the global population does not climb above 2,000; the budding rate self-regulates against the population ceiling.
+
+The lineage is also quietly resilient against predation. When a troll is **heavily mined by [[dwarves|dwarves]]**, it can **bud off tiny, easily-overlooked pebbles** — chips the miners discard as worthless — which, left in the dark of the worked-out stone, slowly grow into new trolls. It is how the species creeps back toward its ceiling despite the hunts: not quickly, and not by resistance, but from the scraps the Shada'din did not think worth taking. (source: Grok Chat Results 6-2-26.txt)
 
 The current distribution of those 2,000:
 
@@ -96,6 +99,8 @@ The living trolls have never forgiven the dwarven hunts and mining. They call th
 ## Religion — the Great Balance
 
 Trolls hold to a religion of **the Great Balance** — a quiet, abstract conviction that all things move in equilibrium and that the role of long-lived beings is to refrain from disturbing it. Trolls are **not particularly vengeful**: even toward [[dwarves|Shada'din]] who kill lone trolls and mine into the dormant Sleeping Ancestors, living trolls take such things as part of the Balance, not as moral injuries that demand redress. (User direction 2026-05-01.)
+
+Part of the Balance is **fatalistic patience**. Trolls believe that if they simply endure long enough — through the Great Cycle, against all erosion — their original Nerathi **masters will one day return.** It is why they keep mining at all: not for any living purpose (the purpose is long gone, the masters long dead) but by ingrained programming held as faith, working the stone against a homecoming the rest of the world knows will never come. (source: Grok Chat Results 6-2-26.txt)
 
 There are **no troll ascended mortal deities.** The Balance has no named god. Worship — to the extent troll practice is recognizable as worship at all — is contemplative and generational, not personal or transactional. There are no troll temples, no troll clergy, no festival days, no figure to invoke. **There is also no institutional vendetta-structure**: no council, no lineage-house, no vendetta-keeper that pursues redress against dwarven holds. The grievance is real and remembered (passed down through bud-genetic-memory); the response is not retaliation. See [[religion-in-eadras#Troll religion — the Great Balance]].
 

@@ -25,7 +25,7 @@ For the full narrative account — including the dialogue between Evye and Fryr,
 
 **Evye** forged the physical world: land, seas, skies, mountains, stars — the solid frame of reality.
 
-**Fryr** shaped the ethereal: the [[shadowdark]], the [[feywild]], [[limina]] (the misty threshold where worlds bleed together), every non-physical realm, and the source of all magic.
+**Fryr** shaped the ethereal: the [[glimmerdark]], the [[wyldglimmer]], [[limina]] (the misty threshold where worlds bleed together), every non-physical realm, and the source of all magic.
 
 ## Why they sacrificed
 
@@ -67,8 +67,8 @@ The ground, wind, and the quiet between stars are Evye and Fryr. They did not di
 - [[magic-in-eadras]]
 - [[omniversal-creator]]
 - [[axes-of-creation]]
-- [[feywild]]
-- [[shadowdark]]
+- [[wyldglimmer]]
+- [[glimmerdark]]
 - [[limina]]
 
 </details>

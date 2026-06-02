@@ -22,7 +22,7 @@ knowledge_access: [common]
 The El'mer were created by the [[elfen|Elfen]] — not directly by [[the-three|Mark]] — as one of three child races shaped to oversee specific aspects of natural balance:
 
 - **El'mer** — overseeing natural balance on land
-- **Sidhe** — regulating and ruling the [[feywild]]
+- **Sidhe** — regulating and ruling the [[wyldglimmer]]
 - **Sea'tua** — overseeing natural balance in the oceans
 
 Per established canon ([[the-three]] created only the three progenitor races; child races were created by their progenitor children), Mark created the Elfen alone. The Elfen themselves shaped the El'mer, Sidhe, and Sea'tua.
@@ -57,7 +57,7 @@ Then they charged with their cousins one last time.
 Diluted El'mer blood survives in:
 
 - **Modern Elves** (all subtypes, descended through long centuries of dilution and cultural divergence)
-- **Modern Fae** (where Sidhe and El'mer bloodlines mingled in the Feywild after the war)
+- **Modern Fae** (where Sidhe and El'mer bloodlines mingled in the Wyldglimmer after the war)
 
 Pure El'mer no longer exist. Modern elves are described as **natural devolution** of their progenitors — smaller, less magically capable, less imposing — but the **resilient song-touch instinct** that runs through all elven cultures traces to El'mer ancestry.
 

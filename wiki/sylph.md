@@ -39,7 +39,7 @@ Playful, mischievous, selfish, and **surprisingly clever**. She lives for the mo
 
 ## Patron of the Fae
 
-Sylph is the divine patron of all [[feywild|Fae]]. Her dominion over instinct, whim, and unrestrained freedom maps cleanly onto the temperament of the Sidhe and other Fae peoples descended from [[the-three|Mark]]'s lineage.
+Sylph is the divine patron of all [[wyldglimmer|Fae]]. Her dominion over instinct, whim, and unrestrained freedom maps cleanly onto the temperament of the Sidhe and other Fae peoples descended from [[the-three|Mark]]'s lineage.
 
 <details>
 <summary>Related pages</summary>
@@ -53,6 +53,6 @@ Sylph is the divine patron of all [[feywild|Fae]]. Her dominion over instinct, w
 - [[nara]]
 - [[daj]]
 - [[lirra]]
-- [[feywild]]
+- [[wyldglimmer]]
 
 </details>

@@ -97,7 +97,7 @@ See [[naming-conventions#velrathi-servant-race-naming|Racial Naming Conventions 
 The Grug suffered **catastrophic losses** during the war, but unlike the [[orugi|Orug]] (who died to the last) or the [[rathari|Rathar]] (who fractured into [[three-thirds-of-the-rathar|three branches]]), enough Grug survived to preserve their clever spark.
 
 The survivors split:
-- **Loyal Grug work-crews** accompanied the exiled [[velrathi|Velrathi]] into [[gaia|Shadowdark Gaia]] (most of these bloodlines have since intermingled with Shadowdark-adapted life or faded into legend)
+- **Loyal Grug work-crews** accompanied the exiled [[velrathi|Velrathi]] into [[gaia|Glimmerdark Gaia]] (most of these bloodlines have since intermingled with Glimmerdark-adapted life or faded into legend)
 - **Other Grug** remained on the Prime and **diverged over millennia into Goblins and Gnomes**
 
 ## Modern Descendants

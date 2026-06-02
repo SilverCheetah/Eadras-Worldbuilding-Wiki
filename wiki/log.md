@@ -10,6 +10,56 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-02 — Ingest: Varkhul society + native elves, elf culture, whales, Grok 6-2 canon, plane rename
+
+Ingested five new source files from `LLMWikiRaw` (6-1 / 6-2) and pushed to git.
+
+**Plane rename (publication-prep, setting-wide).** Renamed the two reflection planes off their D&D-coded placeholders: **Feywild → Wyldglimmer** (user-chosen, avoiding a clash with the Verdant Scar; the source's "Verdant Glimmer" was rejected) and **Shadowdark → Glimmerdark**. Done via `sweep_plane_rename.py` + `sweep_plane_rename_cleanup.py` (str.replace, dry-run first, per the no-sed rule): 53 files / 436 replacements plus 11 lowercase-residual fixes (heading-anchor slugs, relative sealed links, common-noun "shadowdark spirits"). `git mv` of `feywild.md → wyldglimmer.md` and `shadowdark.md → glimmerdark.md`; old names kept as `aliases` so historical `[[feywild]]`/`[[shadowdark]]` links still resolve. Pre-corruption names **Brightmirror / Darkmirror** intentionally preserved as the pristine pre-Spear names. Fixed a pre-existing mislink in `chaos-crusades.md` (Brightmirror → `glimmerdark`, corrected to `wyldglimmer`). `log.md` left verbatim; two resolved entries cleared from `open-questions.md`.
+
+**Varkhul society + native elves** (`varkhul_society_and_native_elves_ingest.txt`):
+- New page `varkhul-native-elves.md` — the continent's only indigenous people; the **atavist institution** (freely individual scouts who bring knowledge home by choice, never compelled); the one people on Varkhul who solved trust.
+- `varkhul.md` — new **Society — the Game of Status** section (might-makes-right / whoever-wins-was-right; no-trust fitness-society), **dwarf hidden-valley economy**, **mercenary/seeker economy**; native elves added to inhabitants; open canon updated.
+- `turkorcs.md` — **turkorc origin canonized as established** (user decision): demon-manufactured Demon-War shocktroopers exiled to Varkhul; resolves the Orug-kinship open question (not kin); Game-of-Status section added.
+
+**Elf culture rework** (`elfin_culture_settled_ingest.txt`): `elves.md` substantially expanded for modern elven life — womb-tree reproduction (born whole, communal gestation, convergence-point siting, animal guard-circles), photosynthesis + cross-race-only breeding, **caste tied to lifespan**, purpose-born existence + atavists, magical singing + wood-transmutation, memory-tapestry hair-records, the kilometer-tree capital + underground vault, spirit trees, foodways/awakened-animals/bathing, restraint-in-supply ethic, deities (Qoxli premier; Sylph; Aramet). Canonical **Elfen** spelling used (source's "Elfin" corrected); established El'mer lineage preserved; the source's "unnamed fate/fae goddess" reconciled to **Sylph**.
+
+**Oceans** (`The Great Northern Whales and the Life Blooms.txt`): new page `great-northern-whales.md` — whale honey, Life Blooms, the Merrow "Gardens of the Sea," Orden harvest-partnership, the Gardener Theory.
+
+**Cosmology hypothesis** (`The Declaration Principle.txt`): new page `declaration-principle.md`, marked **proposed / Tome-speculative** per the source.
+
+**Grok 6-2 canon** (`Grok Chat Results 6-2-26.txt`):
+- New page `bathyric-mandate.md` — Cataclysm-born bacterial hive mind; telepathic host-takeover; regrows from one cell; eradicated 5×, returned 5×.
+- `eadras-cosmology.md` — **geocentric cosmos + the Sun God's barge** (fusion source *and* divine chariot/party-sanctuary).
+- `omniversal-creator.md` — Creator does not speak directly; contact destroys.
+- `voroik.md` — cannot enter reality without becoming bound by it.
+- `chaos-crusades.md` — First Crusade total-erasure / gods' "~25% of reality unaccounted-for" / possible forgotten race.
+- `demons.md` — mythos-native, not Chaos; form-or-dissolve law doesn't apply.
+- `druids.md` — extremely rare, lethal master-to-apprentice training, per-people aptitude (elves/Feydinar/beast-folk), patron-manifestation for political weight; two open-canon items resolved.
+- `trolls.md` — emotional-signature recognition; pebble-budding under mining; "the masters will return" fatalism.
+- `divine-bureaucracy.md` — **Bureau of Unactualized Timelines** + Bureau of Prediction's sealed-timeline records.
+- `four-moons-of-eadras.md` / `shali.md` / `shani.md` — crystal moons are Charon-sized, made of crystal-magic crystal, one blue + one purple (the source's "Shelley" reconciled to **Shali** per user decision).
+- `spirits.md` — resentment-driven **defection to the Infernal Bureaucracy** added. (User decision: kept the 2026-05-09 canon that spirits *can* leave bureaucratic service; the 6-2 "cannot leave" line treated as loose phrasing.)
+
+New pages (4): `varkhul-native-elves`, `great-northern-whales`, `declaration-principle`, `bathyric-mandate`. `index.md` updated; `ai-index.md` regenerated (manifest 278).
+
+---
+
+## 2026-06-02 — Removed Dragonkin (decanonized)
+
+**Dragonkin removed from canon at user direction** — the user did not recall authorizing the race and does not want it in the setting. All references purged:
+
+- Deleted `wiki/dragonkin.md`.
+- `obsidian-sanctum.md` — the **four-layered impossibility** around the Sanctum is now a **three-layered impossibility** (Continental Ward + Scorched Waste + Turkorcs); removed the dragonkin layer and the "dragon territoriality" clause in Open canon.
+- `varkhul.md` — removed the Dragonkin inhabitant section; "three populations of note" → "two"; dropped dragonkin from the Obsidian Sanctum access list and Open-canon population line.
+- `deep-vaults.md` — Obsidian Sanctum "four overlapping layers" → "three"; removed dragonkin.
+- `continental-ward.md`, `turkorcs.md` — removed dragonkin from prose and Related pages.
+- `index.md` — removed the dragonkin entry.
+- `bundle_for_ai.py` — removed `dragonkin.md` from the bundle list; regenerated `ai-index.md` (manifest 275 → 274).
+
+Note: "dragonkind" (the general collective term for dragons) is unaffected and intentionally retained throughout. `dragonfolk`, `dragonborn`, `kobolds`, `lizardfolk`, `snakefolk` are separate lineages and were not touched. Varkhul's territorial-hostility role formerly attributed to dragonkin is simply dropped; the Scorched Waste and Turkorcs continue to make the interior lethal.
+
+---
+
 ## 2026-05-31 — Map-session Part 2 (metaphysics + Sarathis) and Draconic-language rebuild
 
 Two further ingests from `D:\Worldbuilding\LLMWikiRaw`, both applied as established canon after user decisions.
