@@ -12,9 +12,9 @@ knowledge_access: [scholarly]
 
 **Summary**: **Wound-Keeping** is the [[unicorns|unicorn]] herd-memory discipline that preserves recognition of wounded places, dangerous [[arathi-geo-substrate|substrate]], and old magical harm — *not* for use, but as warning. The doctrine treats certain categories of knowledge as **hazard rather than asset**: the wound is remembered *so it is not repeated*, not so it can be reactivated. Wound-Keeping is one of the [[unicorns#The Herd is the Truth|five memory layers]] in the herd-mind, and is the layer most often translated into mortal institutional language by [[herd-listeners|Herd-Listeners]].
 
-**Sources**: unicorns-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
+**Sources**: unicorns-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt); unicorn-culture-engine-session-2026-06-03.txt (prey-brain biological bedrock; user ratification 2026-06-04).
 
-**Last updated**: 2026-05-15.
+**Last updated**: 2026-06-04.
 
 ---
 
@@ -31,6 +31,8 @@ The discipline therefore has an unusual epistemic structure:
 A unicorn herd may know that a specific Arathi war-substrate site is dangerous, and may know what the wrongness of that site *feels* like, and may know what avoidance behaviour is appropriate — without knowing how the war-substrate was made, what it does in detail, or how an opener might defeat its defences.
 
 This is not ignorance. It is **deliberate non-reconstruction**. The herd has chosen to remember in a way that prevents reactivation rather than enabling it.
+
+The discipline also has a biological bedrock: unicorn [[unicorn-biology#Memory biology|memory biology]] is consequence-perfect and fact-blind by construction — a prey brain stores *that place, that feeling, DON'T*, not reusable technique. Wound-Keeping's refusal to reconstruct mechanism is therefore **biology and discipline agreeing**: the species' memory was never shaped to hold schematics in the first place, and the doctrine ratifies what the substrate already does.
 
 > ***"Wound-Keeping is not anti-knowledge in a simple sense. It is knowledge treated as hazard."***
 
@@ -114,6 +116,7 @@ These convergences suggest the principle is a general Eadran wisdom that the uni
 <summary>Related pages</summary>
 
 - [[unicorns]]
+- [[unicorn-biology]]
 - [[herd-listeners]]
 - [[circling-of-the-returned]]
 - [[arathi-geo-substrate]]

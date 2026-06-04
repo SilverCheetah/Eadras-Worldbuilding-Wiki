@@ -124,7 +124,7 @@ The amphibian-bodied Beast-Folk are basically always wet. They live half-submerg
 
 ### Note on scaled humanoids
 
-There are **no scaled [[beast-folk|Beast-Folk]]**. Scaled humanoids are not part of the [[rathari|Rathari]]-descended Beast-Folk family at all — they belong to the [[dragonfolk|dragon-created lineages]] (the [[lizardfolk]], [[kobolds]], [[dragonborn]], [[snakefolk]]) created by the dragons after the [[the-three|Three]]'s humanoid creation work. Any bathing customs they have come from the dragon-lineage tradition rather than from the Velrathi-Rathari-Beast-Folk family documented above.
+There are **no scaled [[beast-folk|Beast-Folk]]**. Scaled humanoids are not part of the [[rathari|Rathari]]-descended Beast-Folk family at all — they belong to the [[draconic-servitor-races|dragon-created lineages]] (the [[kobolds]], [[lizardfolk]], [[snake-folk|snake folk]], and the [[dragonborn]] champions) created by the dragons after the [[the-three|Three]]'s humanoid creation work. Any bathing customs they have come from the dragon-lineage tradition rather than from the Velrathi-Rathari-Beast-Folk family documented above.
 
 ## The structural family
 

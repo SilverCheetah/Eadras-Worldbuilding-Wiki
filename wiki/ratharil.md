@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Ratharil — officially **Rhtrakhadara** in [[draconic-language|Draconic]], "The Eternal Radiant Gathering" — is the City of Dragons. A genuine neutral city built by and for dragonkind across multiple periods of post-war recovery, raised from monolithic seamless stone fused by dragon breath and magic, home to the Council of 99 Eldest, the Treaty of Ratharil's population registry, and the singular Temple of all the gods that the dragons know about.
 
-**Sources**: Playground generation 1st part.txt, May 1 revisions.txt, Updates afternoon 5-1-26.txt, Draconic Capital City name change.txt, The Flesh-Eaters.txt, DragonsAndUnicorns_01_InWorld_Facts.txt, ForbiddenKindlingAndUnheldHand_01_InWorld_Facts.txt
+**Sources**: Playground generation 1st part.txt, May 1 revisions.txt, Updates afternoon 5-1-26.txt, Draconic Capital City name change.txt, The Flesh-Eaters.txt, DragonsAndUnicorns_01_InWorld_Facts.txt, ForbiddenKindlingAndUnheldHand_01_InWorld_Facts.txt, conduits-towers-order.txt (2026-06-03, the conduit shrine — Ratharil is the one never-Tower conduit end)
 
-**Last updated**: 2026-05-31
+**Last updated**: 2026-06-03
 
 ---
 
@@ -73,6 +73,20 @@ Within flight, the city has access to:
 On the modern world map, Ratharil's high basalt highlands are the **Northern Mountains of [[halaran|Halaran]]** — the cold, glacially scarred northern reach of the eastern continent (see [[eadras-world-map]]). The city sits at roughly **58°N** (map coordinate ~1332, 190). This is consistent with the [[#Construction timeline|founding horizon]] below: the Eldravath plateau that first hosted Ratharil rode the northern pole-crossing fragment that later fused into Halaran, carrying the city to its present northern latitude.
 
 Its **antipode** — the point exactly opposite on the planet — is a cold coastal point on the sealed **Dark Continent** ([[varkhul|Varkhul]], the prison continent inside the [[continental-ward|Continental Ward]]) at ~58°S, *"the shore opposite Rhtrakhadara."* The dragons built their one neutral city as far from the forbidden land as the planet allows. What that antipodal coordinate signifies — a ward-meets-sea point, an unreachable pilgrimage mark, or a weak point in the seal — is open canon. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
+
+---
+
+## The conduit shrine
+
+Ratharil sits atop one of the **fourteen [[seven-conduits|conduit]] ends** — a drain of the planetary [[eldritch-cycle|Eldritch cycle]], and so one of the richest standing pools of magic in the world. Of all fourteen ends, Ratharil is **the single one that has never carried a [[order-sharanel|Tower of Lirra]].** (user direction 2026-06-03)
+
+Where every other Tower-bearing end is held by Lirra's humanoid [[order-sharanel|Order]], Ratharil's conduit is marked instead by a **shrine** — a primordial, dragon-made acknowledgment of the conduit and the divine, raised in the dragons' own ancient mode. Three things set it apart from the Towers:
+
+- **It is dragon-made and dragon-kept.** A Tower of Lirra is built by and for Lirra's Order and human spellcasters; a dragon cannot use one, and the Order has no standing to build on sacred dragon-ground. The shrine is the dragons' own answer to the conduit at their door.
+- **It is older than the Order.** The shrine predates Lirra's Order — and the Towers — by **millions of years.** It is the *primordial* form of conduit-acknowledgment, established long before the Order laid its first stone. There is **no Order presence at Ratharil.**
+- **It expresses the dragons' own relationship with the gods.** Dragons keep an older, **direct** relationship with the divine — unmediated by the Order, the Towers, or any humanoid religious apparatus (the dragon-gods, the [[nine-embers-of-renewal|Nine Embers]], are themselves ascended dragons). The shrine is the outward sign of that relationship at the conduit-end.
+
+The shrine and the Towers are thus **two separate lineages of conduit-relationship** — the dragon shrine primordial and dragon-divine, the Towers recent and human-Order — that merely sit at the same kind of cosmological feature. They are not two versions of one thing. The dragons were here, sacred and self-sufficient, for millions of years before the Order existed. The shrine stands in continuity with the rest of Ratharil's older religious life: the open-air personal worship that long predated [[#The Temple|the Temple]], and the silence kept at [[#The Court of the Unanswered Sun|the Court of the Unanswered Sun]]. (source: conduits-towers-order.txt, 2026-06-03)
 
 ---
 
@@ -307,6 +321,9 @@ Ratharil's official calendar uses **F.F. (First Flare)** as its origin. Dragon h
 - [[doctrine-of-unheld-hand]]
 - [[gods-of-eadras]]
 - [[religion-in-eadras]]
+- [[seven-conduits]]
+- [[order-sharanel]]
+- [[eldritch-cycle]]
 - [[halaran]]
 - [[eadras-world-map]]
 

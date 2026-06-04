@@ -13,7 +13,7 @@ knowledge_access: [common]
 
 **Sources**: Playground generation 3rd part.txt, Gods of Eadras.txt, More Info on the Elder Gods.txt, More corrections.txt, More info 5-4-26.txt; user direction 2026-05-04 (founding act, Crusade detection and avatar-call).
 
-**Last updated**: 2026-05-06
+**Last updated**: 2026-06-03 (conduits-towers-order.txt: no-priesthood-because-all-magic-is-worship rationale; she alone sets conduit widths)
 
 ---
 
@@ -22,6 +22,8 @@ knowledge_access: [common]
 Lirra is one of the ten Elder Gods of [[eadras-cosmology|Eadras]], created directly by [[primordial-duo|Evye and Fryr]] before their sacrifice into the world. Her domain is **magic, the Weave, raw magic, Netharim practice, and magic items** (source: Gods of Eadras.txt).
 
 She created the [[magic-in-eadras|Weave]] during the [[demon-war|Demon War]] as both a wartime defense against demonic siphoning and a correction of the Arathi ley-vault system. In doing so, she bound Netharim — whose life-force now enriches the Weave — into her closest divine relationship (source: Playground generation 3rd part.txt).
+
+Beneath the Weave, Lirra has governed the [[seven-conduits|Seven Conduits]] since their creation: it was she who set each conduit's **fixed drain-width** — thereby setting how much Eldritch pools at each end, and so shaping the magical geography of the world — and **only she can alter one**. No mortal, institution, or Tower can change a conduit. (source: conduits-towers-order.txt, 2026-06-03)
 
 ---
 
@@ -125,6 +127,8 @@ Her speech is **intimate, not public policy**. She remembers a Netharim's first 
 ## Her Institutions: No Priesthood
 
 Lirra does not maintain a conventional priesthood. Her servants are magic users — wizards, Netharim, artificers, ritualists, enchanters, alchemists, runecrafters, bards, spellwrights, magical archivists, Weave theorists, conduit engineers, and other trained magic users.
+
+The reason is structural: **every act of spellcasting is, technically, an act of worship of Lirra** — so every magic-user is already, functionally, her worshipper, and a dedicated priesthood would be redundant. She already has every mage. In a priesthood's place stands the [[order-sharanel|Order Sharanel]], which serves as her **face in the world** and maintains her [[seven-conduits|conduit]]-end Towers. (source: conduits-towers-order.txt, 2026-06-03)
 
 Her institution is the **[[order-sharanel|Order Sharanel]]** — the singular ancient and most prestigious order of Netharim, sworn directly to her. The Order was founded shortly after Netharim themselves were created and remains the foremost academy of magic and the primary enforcer of Lirra's will in the mortal world. Its facilities — academies, arcanums, spell colleges, towers, libraries, laboratories, observatories, archives, and Weave-sanctums, including the Towers of Lirra at its heart — are not temples in the conventional sense.
 

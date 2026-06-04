@@ -9,11 +9,11 @@ knowledge_access: [common]
 
 # The Great Exchange
 
-**Summary**: The **Great Exchange** is the centuries-long mutual teaching between [[unicorns|unicorns]] and [[dragons|dragons]] that emerged out of the uneasy peace following the [[unicorn-plains|Unicorn Plains War]]. Young dragons and young unicorns at the borders of their fractured societies began cautious contact; from those meetings, dragons learned **psionics, cooperation without hierarchy, and the existence of other sapient species**, and unicorns learned **individuality and aggressive applications of [[eldritch|Eldritch]] magic**. The Exchange fundamentally transformed both species and is the foundation event of all subsequent dragon-unicorn coexistence — including the **Compact of Horn and Flame**, the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]], and every reform the [[flesh-eaters|Flesh-Eaters]] reject.
+**Summary**: The **Great Exchange** is the centuries-long mutual teaching between [[unicorns|unicorns]] and [[dragons|dragons]] that emerged out of the uneasy peace following the [[unicorn-plains|Unicorn Plains War]]. Young dragons and young unicorns at the borders of their fractured societies began cautious contact; from those meetings, dragons learned **psionics, cooperation without hierarchy, and the existence of other sapient species**, and unicorns learned **individuality** — more precisely, how to *survive* it — and received the **dragon-crafted Sourceshine-storage crystal craft**. The Exchange fundamentally transformed both species and is the foundation event of all subsequent dragon-unicorn coexistence — including the **Compact of Horn and Flame**, the [[ratharil#Council of 99 Eldest|Council of Ninety-Nine]], and every reform the [[flesh-eaters|Flesh-Eaters]] reject.
 
-**Sources**: The Great Exchange.txt; Playground generation 1st part.txt (background)
+**Sources**: The Great Exchange.txt; Playground generation 1st part.txt (background); unicorn-culture-engine-session-2026-06-03.txt (Eldritch-blind correction: crystal craft replaces the deprecated "aggressive Eldritch applications" teaching; harder Dragon-Path reading; user ratification 2026-06-04)
 
-**Last updated**: 2026-05-02
+**Last updated**: 2026-06-04
 
 ---
 
@@ -48,8 +48,8 @@ The fact that the Exchange began with *fringe* individuals on both sides — you
 
 | Lesson | What it gave the unicorns |
 |---|---|
-| **The power and burden of individuality** | The concept of a true, singular *"I"* — a self that exists apart from the Chorus and bears the weight of its own choices. Before this, unicorn experience was overwhelmingly collective. |
-| **New and aggressive applications of [[eldritch\|Eldritch]] magic** | Forms of magic the unicorns had not previously developed — particularly martial and offensive applications — drawn from the dragons' broader, more combative magical instinct. |
+| **The power and burden of individuality** | The concept of a true, singular *"I"* — a self that exists apart from the Chorus and bears the weight of its own choices. Before this, unicorn experience was overwhelmingly collective. The harder, more precise reading: dragons did not teach unicorns to *think alone* — below [[unicorn-biology#The quorum floor\|quorum]] there is nothing to think with — they taught unicorns to **survive the absence of thinking-with**, via a stand-in I (see [[unicorns#The extruded I\|Unicorns — the extruded I]]). |
+| **The Sourceshine-storage crystal craft** | Dragon-crafted, Source-charged storage crystals — canteens for the [[unicorn-biology#The two fuel lines\|second fuel line]] that let an individuated unicorn survive away from open sky. Dragons handle both Source and [[eldritch\|Eldritch]], have artisans, and **recreated the crystal-storage craft** for their old teachers; the craft is Eldritch-capable, the product Source-charged. Unicorns — handless and [[unicorn-biology#Unicorns use raw Sourceshine — and are Eldritch-blind\|Eldritch-blind]] — could never have made these themselves. The deep-ranging Long Strayer, the vault-adjacent emissary, and the Demonfall scout are survivable roles only because of dragon crystalwork: unicorn individuality is owed to dragons twice, psychologically and logistically. *Timing note: the craft itself is recorded as post-[[spear-of-crystallized-entropy#Darkhoof — a unicorn\|Darkhoof]] — a later gift flowing through the standing relationship the Exchange created, not part of the original bridge-centuries.* |
 
 ### What the unicorns taught the dragons
 

@@ -9,11 +9,11 @@ knowledge_access: [common]
 
 # The Eldritch Cycle
 
-**Summary**: The Eldritch Cycle is the planetary process by which raw magical energy from the [[eldritch|Source]] is transformed by Eadras's bedrock into usable Eldritch, distributed across the surface in a hydrological pattern of rivulets, streams, and rivers, accumulated rarely into unstable pools, and ultimately drawn back into the body of the planet through the [[seven-conduits|Seven Conduits]] — a continuous closed loop of intake, transformation, distribution, and reintegration that operated throughout the pre-Weave era and continues to underlie magic today.
+**Summary**: The Eldritch Cycle is the planetary process by which raw magical energy from the [[eldritch|Source]] passes down through the world and is transformed **at the mantle alone** into usable Eldritch, reflected upward through matter (which absorbs a small toll of it as **mana**), distributed across the surface in a hydrological pattern of rivulets, streams, and rivers, accumulated rarely into unstable pools, and ultimately drawn back into the body of the planet through the [[seven-conduits|Seven Conduits]] — a continuous closed loop of intake, transformation, distribution, and reintegration that operated throughout the pre-Weave era and continues to underlie magic today.
 
-**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; user direction 2026-05-04.
+**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; user direction 2026-05-04; conduits-towers-order.txt (2026-06-03, fixed-width throttle → conduit-pool); user direction 2026-06-04 (mantle-only transformation, upward reflection, mana-toll absorption laws).
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-06-04
 
 ---
 
@@ -27,11 +27,11 @@ The cycle is sometimes called the **Old Cycle** or the **Pre-Weave Cycle**, beca
 
 ## The Four Phases
 
-### 1. Intake — Source to Bedrock
+### 1. Intake — Source to Mantle
 
-Raw magical energy radiates from the [[eldritch|Source]] (Eadras's sun, an expression of [[lirra|Lirra]]) as **Sourceshine** — a component of normal sunlight that is largely transparent to living matter and largely unusable in its raw state.
+Raw magical energy radiates from the [[eldritch|Source]] (Eadras's sun) as **Sourceshine** — a component of normal sunlight that is transparent to matter and largely unusable in its raw state. Sourceshine **passes down through everything** — cloud, sea, soil, flesh, stone — like light through clear water; nothing above the deep rock interacts with it meaningfully.
 
-Sourceshine that strikes **bedrock, sea, soil, or living matter** is reflected and transformed into **Eldritch** — the stable, mind-obeying form of magical energy that the rest of the cycle works with. Bedrock is the most efficient transformer; deep stone has reflected Sourceshine into Eldritch since the world cooled.
+Transformation happens at one place only: **the mantle** — the deep bedrock layer of the world's body, the single thing Sourceshine cannot pass. On contact with the mantle, Sourceshine is **reflected upward and transformed into Eldritch** — the stable, mind-obeying form of magical energy that the rest of the cycle works with. Deep stone has reflected Sourceshine into Eldritch since the world cooled. (Earlier framings that had sea, soil, and living matter also performing the transformation are superseded — those materials *absorb*, they do not transform; see the mana note under Distribution. User direction 2026-06-04.)
 
 Under normal solar conditions this intake is steady and modest. Under [[source-surges|Source surges]] — particularly X-class events — the intake spikes dramatically, and the rest of the cycle scrambles to absorb the surplus.
 
@@ -47,6 +47,16 @@ Once transformed, Eldritch does not distribute evenly. It follows **structured p
 
 The hydrology is not metaphorical. Eldritch flows really do behave fluid-like — they pool in low-resonance basins, rush through high-resonance channels, braid and split around obstacles, and seek the lowest available reintegration point. Many of the most magic-rich regions of pre-Cataclysm Eadras were where multiple rivers converged.
 
+#### The mana toll
+
+Rising from the mantle and flowing across the surface, Eldritch passes **through** matter the way light passes through clear water — but not quite losslessly. **Matter absorbs small amounts of the Eldritch that flows through it, and the absorbed residue is [[magic-in-eadras#Quintessence, Eldritch, Mana|mana]]** — the matrix-bound state. The absorption follows three laws:
+
+- Mana **accumulates over time**, scaled by the **size and complexity** of the matter holding it.
+- **Biological material accumulates more than inert material** — living matrices hold the toll better than dead ones.
+- Mana **accumulates up the food chain**: a creature inherits the accumulated mana of what it eats. Old organisms, complex organisms, and apex creatures are therefore the most mana-dense things in the world — the in-cycle reason monster organs, dragon scales, ancient trees, and elder beasts are the prized matter of alchemy and spellcraft.
+
+The mana toll is the cycle's slow leak into the standing world: every stone, fish, and forest on Eadras carries some of it, which is why **everything in this Mythos is magical to some extent**. (User direction 2026-06-04.)
+
 This distribution produces **regions of varying magical intensity**. Some areas had strong, stable, reliable flows. Others were weak, intermittent, or magically inert. Local geography largely determined which.
 
 In the modern post-Weave era, the hydrology has been replaced by managed channels: the [[magic-in-eadras|Weave's]] **threads → strands → chords → conduits**. The threads, strands, and chords are what the rivulets, streams, and rivers became when [[lirra|Lirra]] regulated them. The underlying source-bedrock-distribution-conduit cycle is unchanged; only the middle phase is now organized rather than wild.
@@ -56,6 +66,8 @@ In the modern post-Weave era, the hydrology has been replaced by managed channel
 All Eldritch eventually returns into the body of the planet. The return is not diffuse — it is concentrated through the **[[seven-conduits|Seven Conduits]]**, the eternal magical axes that anchor the cycle.
 
 The conduits are **sinks**, not sources. Eldritch flows toward them, accumulates in dense zones around their fourteen surface termini, and is drawn down into the planetary core. From there it presumably continues some deeper phase that mortal scholarship has not penetrated.
+
+Each conduit drains through an outflow of **limited width** — a throttle that [[lirra|Lirra]] alone set, and set once, to a fixed value (see [[seven-conduits#Fixed widths — and why the ends pool|Seven Conduits]]). Because the mouth is throttled, Eldritch arrives faster than it can leave and **backs up into a standing pool** at the end. This is why a terminus is not merely magic-rich but the *richest* site for leagues: the throttle forces the substance to accumulate before it drains. These permanent conduit-pools are categorically different from the rare, wandering **off-cycle pools** described below; do not confuse them. (source: conduits-towers-order.txt, 2026-06-03)
 
 The conduits are the **only true reintegration points** of the cycle. There is no diffuse global "soaking" of Eldritch back into the planet; everything funnels through these fourteen termini eventually. This is why [[oldest-continuous-settlements|conduit termini have always been the densest, most reliable magical sites on Eadras]] — they are not just places where magic is strong, they are the points where the entire planetary cycle terminates.
 
@@ -106,9 +118,14 @@ See [[source-surges#The Weave Does Not Buffer Sourceflares]].
 ```
 Source (sun)
   ↓
-Sourceshine reaches surface
+Sourceshine passes down through everything
   ↓
-Bedrock / sea / soil / matter reflects → Eldritch
+Mantle (bedrock) reflects upward → Eldritch
+  ↓
+Eldritch flows up/through matter (light through clear water)
+  → matter absorbs a small toll → mana
+    (scales with size + complexity; biological > inert;
+     accumulates up the food chain)
   ↓
 Surface hydrology:
   rivulets → streams → rivers

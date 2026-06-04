@@ -178,7 +178,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [arathi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/arathi.md) — Ancient insect-reptile civilization; first masters of magitech; left no descendants
 - [arathi-servitors](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/arathi-servitors.md) — Dozens of Arathi engineered servant lineages; only [Trolls](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/trolls.md) survived; named extinct lineage is the insectoid Household Servitors
 - [dragons](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragons.md) — Nine color clans; secretly created by Ixthal; Treaty of Ratharil limits population to 999,999
-- [unicorns](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorns.md) — Second sapient race; secretly created by Ixthal; defeated dragons; introduced psionics; **individuality is temporary, herd is permanent** — herd-deep memory predates and survives the Great Exchange's gift of personal selfhood
+- [unicorns](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorns.md) — Second sapient race; secretly created by Ixthal; defeated dragons; introduced psionics; **individuality is temporary, herd is permanent** — shared-field cognition with a quorum floor; the herd extrudes temporary selves and reclaims them; fuse-and-split as demographic safety valve *and* memory network; the Great Silence; Traditionalist vs Individualist herds
+- [unicorn-biology](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorn-biology.md) — The bodily architecture beneath unicorn culture: two fuel lines (forage runs the body, raw Sourceshine runs the horn and mind); horn as sole manipulator/telepathy organ/Source-intake; quorum floor; mare chokepoint; awakening by first Sourceshine bath; dragon-crafted storage crystals; full Eldritch-blindness
 - [herd-listeners](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/herd-listeners.md) — Rare mortals permitted by herds to translate unicorn wound-memory into mortal institutional language; recognised by the [order-sharanel](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/order-sharanel.md) under the [Open Palm reform](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/doctrine-of-open-palm.md)
 - [unicorn-wound-keeping](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorn-wound-keeping.md) — Herd discipline that treats unrecoverable-knowledge as hazard rather than asset; *we remember the wound, not the weapon*
 - [circling-of-the-returned](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/circling-of-the-returned.md) — Quarantine-and-reintegration rite for unicorns rejoining a herd after long straying; outcomes include sleep, exile, death, and long-wandering
@@ -222,11 +223,11 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [centaurs](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/centaurs.md) — Half-human half-equine; origin not yet defined in canon
 - [fae](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/fae.md) — All fae creatures descended from chaos-infused Sidhe; patroned by Sylph
 - [golems](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/golems.md) — Sapient constructs including Warforged; magitech tradition traces to the Arathi
-- [dragonfolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonfolk.md) — Umbrella category for all dragon-created sapients
-- [kobolds](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/kobolds.md) — Smallest of the Lizard People dragonfolk subtypes
-- [lizardfolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/lizardfolk.md) — Middle-sized Lizard People; primal reptilian temperament
-- [dragonborn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonborn.md) — Largest Lizard People; most directly draconic
-- [snakefolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/snakefolk.md) — Yuan-ti analogue; NPC-only dragonfolk subtype
+- [draconic-servitor-races](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/draconic-servitor-races.md) — Dragon-made reptilian peoples (formerly "dragonfolk"); four castes, divine Mandate, genesis-bargain ~30,000 BP; outside the progenitor genealogy
+- [kobolds](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/kobolds.md) — The mind/mouth caste of the draconic servitor races; dragon-world interface
+- [lizardfolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/lizardfolk.md) — The body caste; labor and lair-defense
+- [snake-folk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/snake-folk.md) — The magic caste; a faction schismed into the Thosh death-cult of devotional self-unmaking (Thosh = a misremembered [Nox](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/nox.md))
+- [dragonborn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonborn.md) — Individually-forged, soul-linked dragon-champions (not a population race)
 - [turkorcs](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/turkorcs.md) — Wholly individualistic, amoral, honor-rejecting warriors and casters of [Varkhul](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/varkhul.md); strictly contained
 - [trolls](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/trolls.md) — Living mineral constructs engineered by the Arathi as perfect miners; mostly elder hibernators
 
@@ -259,7 +260,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [tariq-al-honor](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/tariq-al-honor.md) — Syncretic post-Firethorn Catholic-Islamic-machismo cultural-religious tradition; **La Fe de la Espina Ardiente** (Faith of the Burning Thorn); strongest in southern Azure Basin
 - [velrathi-architecture](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velrathi-architecture.md) — The Velrathi spell-lattice tradition: dark Gothic cathedrals, every detail a magical focus, willingly-bound wardspirit (Stone-Bound, akin to a *genius loci*), spell-plate + donation box at every entrance
 - [taran-architecture](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/taran-architecture.md) — Three strict Tarran traditions: austere Roman military (army-controlled), Roman+Bagan+Javanese sacred temples (variable by religious order), Roman+Ottoman imperial buildings with **spell-crystal minaret towers** (signature feature)
-- [elfen-architecture](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elfen-architecture.md) — Song-shaped living-tree-and-fungi architecture: heart-groves, canopy walks, root-vaults, song-runes; NO crystalmancy (that was Arathi-only)
+- [elfen-architecture](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elfen-architecture.md) — Song-shaped living-tree-and-fungi architecture: heart-groves, canopy walks, root-vaults, song-runes; NO structural crystalmancy (an Arathi art; later revivals — gnomish salvage, draconic Sourceshine-storage crystals — are non-architectural)
 
 ---
 
@@ -270,6 +271,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [eldritch-cycle](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/eldritch-cycle.md) — The planetary cycle of intake, transformation, distribution, and reintegration that underlies all magic on Eadras
 - [seven-conduits](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/seven-conduits.md) — The eternal magical structures with fourteen surface termini that anchor the Eldritch Cycle; not physical, not destructible, older than the Weave
 - [source-surges](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/source-surges.md) — Natural fluctuations in the Source's magical output; C-class through X-class flares; the Weave does NOT buffer them
+- [collection-fields](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/collection-fields.md) — Every living creature's unconscious magic-gathering field; size scales with power (slow power↔wisdom feedback); the capacity-side threshold of Ascension (designation still decides); field-merge of a unicorn quorum hosts the herd-mind; unstudied by any mortal tradition
 - [necromancy-and-undeath](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/necromancy-and-undeath.md) — Necromancy as a neutral technical discipline; stigmatized by Xar'vion
 - [crystalmancy](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/crystalmancy.md) — The Arathi art of growing, attuning, and conducting living crystal lattices; seven Greater Lineages
 - [magitek](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/magitek.md) — The Arathi engineering discipline that applied crystal-regulated Eldritch through machines, transit, and everyday devices
@@ -332,9 +334,10 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 - [solarion](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/solarion.md) — Divine city in Celestia; home of the Game of the Gods
 - [dreadharrow](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dreadharrow.md) — Capital of Nyxar; built from soul metal
-- [verdant-scar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/verdant-scar.md) — The magic-regulating forest grown over the ruins of the Arathi receiving array; one of the fourteen conduit ends, but never had a Tower of Lirra
-- [bold](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bold.md) — One of the oldest cities in the world; modern **Bold Conduit Republic** (elected merchant-prince city-state, not a kingdom — *Spirehold* in older usage); the **Tower of Seven Spires** (also the founding chapter-house and oldest Tower of Lirra of the Order Sharanel) anchors the city; conduit-city; major rival to the Orden Conduit Compact; modern home of [Harvey Wash](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/harvey-wash.md)'s Golden Road waste empire
-- [azure-basin](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/azure-basin.md) — Modern Mediterranean-style coastal region of the Arathalassic margins: explicitly non-Roman, fragmented patchwork of Greek-style maritime poleis, lagoon republics (**Venethar**), Provençal principalities, Iberian Marches, North-African oasis-cities, Balkan highland clans, and Levantine ports; Amunorian diaspora hub; southern corner of the modern trade-triangle with Orden and Bold
+- [verdant-scar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/verdant-scar.md) — The magic-regulating forest grown over the ruins of the Arathi receiving array (Arath-Veyr); a ley-vault regulator, but **not** one of the fourteen modern conduit ends (that never-Tower slot is [Ratharil](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/ratharil.md); user direction 2026-06-03)
+- [bold](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bold.md) — One of the oldest cities in the world; modern **Bold Conduit Republic** (elected merchant-prince city-state, not a kingdom — *Spirehold* in older usage); the **Tower of Seven Spires** (also the founding chapter-house and oldest Tower of Lirra of the Order Sharanel) anchors the city; conduit-city; major rival to the Orden Conduit Compact; modern home of [Harvey Wash](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/harvey-wash.md)'s Golden Road waste empire; canonically **the biggest city in the world** (30,000-yr continuous humanoid habitation atop the richest conduit-pool), home of the dragon-luring **Dragon District** and scarred by the [Ismander](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bold.md#the-ismander-scar-500-years-ago) imperial interlude
+- [azure-basin](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/azure-basin.md) — Modern Mediterranean-style coastal region of the Arathalassic margins: explicitly non-Roman, fragmented patchwork of Greek-style maritime poleis, lagoon republics (**Venethar**), Provençal principalities, Iberian Marches, North-African oasis-cities, Balkan highland clans, and Levantine ports; Amunorian diaspora hub; one of the eastern continent's **five trading cultures** (with Bold, Orden, the Free Cities, and the Amunorian successor states); suffered worst under Ismander
+- [free-cities](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/free-cities.md) — Loosely-affiliated tropical city-states of [Halaran](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/halaran.md)'s equatorial band with **no single sovereign** (a Holy-Roman-Empire-without-an-emperor); luxury-goods wealth and brokers of the overland mountain passes; **freedom won twice** (from [Amunor](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/amunorians.md), then from [Ismander](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/bold.md#the-ismander-scar-500-years-ago)); one of the five eastern trading cultures
 - [altea](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/altea.md) — The annihilated Arathi capital that received the Worldbreaker directly
 - [altean-highlands](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/altean-highlands.md) — The pre-Cataclysm continent-sized upland sundered into three continents
 - [arathalassic-sea](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/arathalassic-sea.md) — The post-Cataclysm ocean filling the cavity between the three sundered continents
@@ -412,7 +415,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 ## Complete page manifest
 
-Every canon page (278), for resolving any `[[name]]` by lookup.
+Every canon page (281), for resolving any `[[name]]` by lookup.
 
 - [aberrations](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/aberrations.md)
 - [absence-traditions](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/absence-traditions.md)
@@ -456,6 +459,7 @@ Every canon page (278), for resolving any `[[name]]` by lookup.
 - [circling-of-the-returned](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/circling-of-the-returned.md)
 - [clan-nightshade](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/clan-nightshade.md)
 - [closed-time-bubble](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/rpg/closed-time-bubble.md)
+- [collection-fields](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/collection-fields.md)
 - [concordance](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/concordance.md)
 - [conduit-cities](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/conduit-cities.md)
 - [continental-ward](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/continental-ward.md)
@@ -482,9 +486,9 @@ Every canon page (278), for resolving any `[[name]]` by lookup.
 - [doctrine-of-open-palm](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/doctrine-of-open-palm.md)
 - [doctrine-of-unheld-hand](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/doctrine-of-unheld-hand.md)
 - [draconic-language](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/draconic-language.md)
+- [draconic-servitor-races](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/draconic-servitor-races.md)
 - [dragon-empire](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragon-empire.md)
 - [dragonborn](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonborn.md)
-- [dragonfolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragonfolk.md)
 - [dragons](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dragons.md)
 - [dreadharrow](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/dreadharrow.md)
 - [druids](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/druids.md)
@@ -514,6 +518,7 @@ Every canon page (278), for resolving any `[[name]]` by lookup.
 - [food-and-drink](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/food-and-drink.md)
 - [four-laws-of-fae-da-nar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/four-laws-of-fae-da-nar.md)
 - [four-moons-of-eadras](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/four-moons-of-eadras.md)
+- [free-cities](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/free-cities.md)
 - [frontier-hospitality](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/frontier-hospitality.md)
 - [gaia](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/gaia.md)
 - [glimmerdark](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/glimmerdark.md)
@@ -629,7 +634,7 @@ Every canon page (278), for resolving any `[[name]]` by lookup.
 - [she-who-shall-not-be-named](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/she-who-shall-not-be-named.md)
 - [shimmercloaks](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/shimmercloaks.md)
 - [sirens](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/sirens.md)
-- [snakefolk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/snakefolk.md)
+- [snake-folk](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/snake-folk.md)
 - [solarion](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/solarion.md)
 - [source-surges](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/source-surges.md)
 - [spear-of-crystallized-entropy](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/spear-of-crystallized-entropy.md)
@@ -661,6 +666,7 @@ Every canon page (278), for resolving any `[[name]]` by lookup.
 - [trolls](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/trolls.md)
 - [true-language](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/true-language.md)
 - [turkorcs](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/turkorcs.md)
+- [unicorn-biology](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorn-biology.md)
 - [unicorn-plains](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorn-plains.md)
 - [unicorn-wound-keeping](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorn-wound-keeping.md)
 - [unicorns](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/unicorns.md)

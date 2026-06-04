@@ -11,9 +11,9 @@ knowledge_access: [scholarly]
 
 **Summary**: **Apotheosis** is the cosmological transition by which a living mortal becomes a god in the Eadras [[eadras-cosmology|Mythos]]. The mechanism is **unique to each case** — there is no single procedure to record, and no [[gods-of-eadras#Ascended Mortal Gods|Ascended Mortal God]] has ever fully described the experience even to another. What is observable is the outcome: at a specific moment, the mortal's body becomes an [[icons|Icon]] anchored to the Prime Material, the mortal's mind becomes divine, an outer-plane divine realm appears, and one or more divine [[icons#Simulacra|simulacra]] appear in the spirit realms. Apotheosis can only happen to living mortals. A dead soul must be reborn into the cycle and have its candidacy reset across new lifetimes.
 
-**Sources**: velveth-01/02/03/04 v2 (2026-05-15 ingest); Imma Who-Did-Not-Stop-Laughing-01/02/03/04 (2026-05-14 ingest, A1 corrections).
+**Sources**: velveth-01/02/03/04 v2 (2026-05-15 ingest); Imma Who-Did-Not-Stop-Laughing-01/02/03/04 (2026-05-14 ingest, A1 corrections); unicorn-culture-engine-session-2026-06-03.txt (collection-fields capacity-side reconciliation; user ratification 2026-06-04).
 
-**Last updated**: 2026-05-15.
+**Last updated**: 2026-06-04.
 
 ---
 
@@ -49,6 +49,8 @@ Apotheosis is **not earned** in the transactional sense and **not acquired** by 
 Velveth's case is the cleanest illustration. A different [[velrathi|Velrathi]] princess in [[velveth#Mortal life|Kathira's]] position — same political role, same engagement, same act — would have produced *a different goddess, or no goddess at all*. The portfolio that Velveth holds is shaped by Kathira's specific [[velveth#The Spellsinger work|Spellsinger]] discipline, her specific eighty-year engagement, her specific [[the-long-quiet|six-hour Long Quiet]], her specific architecture of betrayal-love-duty held as one bearing. The Apotheosis-event selected Kathira *because she was the only configuration that produced the required portfolio*.
 
 This is **Principle 17 — Designation Over Acquisition** of the in-world principles (see [[inspirations#In-World Principles]]).
+
+Designation has a *capacity side*, however: the slow [[collection-fields|collection-field]] feedback loop (power grows the field; the field feeds power and wisdom) is what brings a living soul to the structural threshold at which designation is even possible. The two doctrines are complementary, not competing — the field-ceiling explains why candidates are rare and old in power and wisdom; designation explains why standing at the threshold has never, by itself, made a god. See [[collection-fields#The ceiling — collection fields and Apotheosis]].
 
 ## The portfolio inherits the bearing
 
@@ -104,6 +106,7 @@ Each of the following ascended while living, by their own unique mechanism, and 
 
 - [[gods-of-eadras]]
 - [[icons]]
+- [[collection-fields]]
 - [[velveth]]
 - [[imma]]
 - [[baldaran]]

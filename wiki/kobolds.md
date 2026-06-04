@@ -9,47 +9,42 @@ knowledge_access: [common]
 
 # Kobolds
 
-**Summary**: One of the three "Lizard People" subtypes within the broader [[dragonfolk|dragonfolk]] family — small, scaled humanoids created by [[dragons|dragons]] in response to the appearance of the humanoid races. Kobolds, [[dragonborn|dragonborn]], and [[lizardfolk|lizardfolk]] are siblings of draconic origin.
+**Summary**: The **mind and mouth** of the [[draconic-servitor-races|draconic servitor races]] — small scaled humanoids engineered by [[dragons|dragons]] ~30,000 BP as the caste of intellect, interface, and infrastructure. Kobolds are the voice through which reclusive elder dragons touch the humanoid world. They descend from no progenitor; they are dragon-made.
 
-**Sources**: Dragons.txt, Peoples of Eadras.txt
+**Sources**: Dragons.txt; Peoples of Eadras.txt; draconic-servitor-races.txt (2026-06-02 ingest).
 
-**Last updated**: 2026-04-30
+**Last updated**: 2026-06-02
 
 ---
 
 ## Origin
 
-Kobolds are part of the **Lizard People** branch of [[dragonfolk|dragonfolk]] — one of three reptilian humanoid subtypes created by [[dragons|dragons]] in response to the proliferation of humanoid races (source: Dragons.txt, line 53; Peoples of Eadras.txt). Unlike the descendant races created by Tarran, Velrathi, or Elfen progenitors, kobolds were not engineered as servants for a specific purpose — they are draconic creations meant to populate the world alongside the humanoid races already present.
+Kobolds are one of the four [[draconic-servitor-races|draconic servitor races]] — reptilian humanoids reshaped from dragon-derived flesh and made ontologically real by bargain with the ascended dragon-gods at approximately **30,000 BP** (see [[draconic-servitor-races#Creation — how dragons made them|the creation account]]). They are **not** engineered from any of [[the-three|the Three]]'s progenitor races; their stock is dragonkind, not Elfen, Velrathi, or Tarran.
 
-Their parent stock is **dragonkind**, not any of [[the-three|the Three]]'s progenitor races.
+## Role — the mind of the order
 
-## Sibling Lines
+In the four-caste design (mind / body / will / champion), kobolds are the **mind and mouth**: interface, intellect, diplomacy, and infrastructure. They are the caste through which elder dragons — who will not interface with the humanoid world in person — touch that world. They carry dragon-meaning outward, and they build and tend the physical apparatus of dragon-civilization.
 
-The Lizard People family includes three subtypes, all created in the same draconic creative impulse:
+Because they are reshaped from dragon flesh, kobolds carry **partial [[draconic-language|Draconic]]-resonance compatibility** constitutionally — which is why they can interface with, and partially carry, the Draconic that other mortals cannot.
 
-- **Kobolds** — the smallest of the three.
-- **[[dragonborn|Dragonborn]]** — the largest and most recognizably draconic.
-- **[[lizardfolk|Lizardfolk]]** — middle-sized, more reptilian in temperament.
+## Binding — the Mandate
 
-Together with the **[[snakefolk|snakefolk]]** (Snake People) and "Anthropomorphic Reptiles except Snakes," they form the playable [[dragonfolk|dragonfolk]] category in the modern era — though snakefolk are explicitly NPCs, not playable (source: Peoples of Eadras.txt).
+Like the other two working castes ([[lizardfolk|lizardfolk]] and [[snake-folk|snake folk]]), kobolds are bound by the unbreakable **[[draconic-servitor-races#The Mandate|divine Mandate]]**: bound to purpose, and capped in number. The cap is **pooled** — each living dragon anchors up to 100 draconic-race beings *total* across all three castes — and gated at the **egg-quickening** stage: a laid egg quickens into a real, lineage-bearing kobold only against available dragon-anchored allotment; over-cap eggs wait, viable and patient, until capacity frees. This Mandate is a **separate instrument** from the [[ratharil|Treaty of Ratharil]] (the breakable ~999,999 cap on *dragon* numbers); the two must not be conflated.
 
-## Anatomy and Society
+## Baseline condition
 
-Detailed kobold anatomy and culture are not yet documented in canon. They are listed as a present-day race in modern Eadras and are typically smaller than other dragonfolk siblings.
-
-## Relations to Dragons
-
-As draconic creations, kobolds occupy an unusual position in Eadras: they are kin to the [[dragons|nine color clans]], whose population is rigidly capped at 999,999 by the [[runeswords|Treaty of Ratharil]]. Kobolds are emphatically **not** counted in that cap — but they share the symbolic weight of draconic creation, and certain dragon clans take a quiet interest in their distant kin.
+Kobolds live, overwhelmingly, **harmoniously in their designed role** — bound-to-purpose experienced as belonging and place. They dwell in integrated communities around dragon lairs and at [[ratharil|Ratharil]]. Loyal members of any working caste may, rarely, be elevated to the individually-forged [[dragonborn|dragonborn]] champions; a kobold-sourced dragonborn tends to show its origin as a sharper tongue beneath the dragon-overlay.
 
 <details>
 <summary>Related pages</summary>
 
 
+- [[draconic-servitor-races]]
 - [[dragons]]
-- [[dragonfolk]]
-- [[dragonborn]]
 - [[lizardfolk]]
-- [[snakefolk]]
+- [[snake-folk]]
+- [[dragonborn]]
+- [[ratharil]]
 - [[peoples-of-eadras]]
 
 </details>

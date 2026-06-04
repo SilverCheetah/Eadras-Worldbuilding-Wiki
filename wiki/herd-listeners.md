@@ -12,9 +12,9 @@ knowledge_access: [scholarly]
 
 **Summary**: **Herd-Listeners** are rare mortals permitted by [[unicorns|unicorn]] herds to learn recurring symbols, warnings, and memory-patterns from herd-deep memory. They mediate between unicorn warning and mortal institutions — particularly [[arathi-geo-substrate|Arathi archaeology]], [[vault-concordat|Vault Concordat]] proceedings, wound-site identification, and geo-substrate distress assessment. The role is **chosen by the herd, not taken by application**; mortals cannot train themselves to be Herd-Listeners. The work is **translation, not transcription** — Herd-Listeners convert pressure, aversion, symbol, and resonance into usable warning, knowing that unicorn memory is not citation-shaped.
 
-**Sources**: unicorns-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
+**Sources**: unicorns-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt); unicorn-culture-engine-session-2026-06-03.txt (telekinesis-courtesy grounding for the role; user ratification 2026-06-04).
 
-**Last updated**: 2026-05-15.
+**Last updated**: 2026-06-04.
 
 ---
 
@@ -27,6 +27,8 @@ The role's necessity arises from the fundamental shape of [[unicorns#Layers of u
 > ***"A dragon may know how to open the vault. A unicorn may know whether opening it will make the land scream."***
 
 The Herd-Listener takes the unicorn's *whether* and translates it into mortal language the [[vault-concordat|Concordat]] can use.
+
+The role exists because **direct unicorn-human contact is built to fail**. A unicorn's only physical courtesy is [[unicorns#Telekinesis — the courtesy that reads as a curse|horn-projected telekinesis]] — to a human, objects shifting untouched reads as magical assault — and its only reassurance is telepathic contact, which an unprepared human mind experiences as invasion. The unicorn cannot help without alarming and cannot soothe without violating. The Herd-Listener is the structural answer: **the one human in a generation trained not to flinch**.
 
 ## How a Herd-Listener is chosen
 
@@ -126,6 +128,7 @@ The specific catalog of historical and current Herd-Listeners is open canon.
 <summary>Related pages</summary>
 
 - [[unicorns]]
+- [[unicorn-biology]]
 - [[unicorn-wound-keeping]]
 - [[circling-of-the-returned]]
 - [[vault-concordat]]

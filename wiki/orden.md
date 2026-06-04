@@ -20,9 +20,9 @@ The signature [[orden-whale-honey-mead|whale-honey mead]] is produced from a thi
 
 The village-scale **cast-iron communal hot-tub** — the heaviest object in any Orden village, heated over fire and used for daily bathing — also doubles as **emergency shelter for the children if the village comes under attack** (drop the kids in, drop a heavy iron lid over the top, makeshift bunker). See [[bathing-customs#Orden]].
 
-**Sources**: notes on various topics 2.txt; Grok Chat 5-8-26.txt; Extra large grok chat 5-9-2026.txt
+**Sources**: notes on various topics 2.txt; Grok Chat 5-8-26.txt; Extra large grok chat 5-9-2026.txt; trading-cultures-halaran.txt (2026-06-03, Orden placed in Halaran's cold south; Ismander took parts)
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-06-03
 
 ---
 
@@ -133,9 +133,15 @@ Sailors who earn the Merrow's highest respect are named **Deep Friends** and giv
 
 Among the Orden, Deep Friends are affectionately (and somewhat teasingly) called **Fish Friends**. Fish Friends usually become valued advisors to coastal Jarls.
 
+## Placement — the cold south of Halaran
+
+On the modern map the Orden hold the **cold south of [[halaran|Halaran]]** — roughly **30–80°S**, the temperate-to-subpolar southern latitudes, where cold seas and hard winters make a Norse-Hanseatic seafaring culture fit. Their deep-south coasts brush the **south-polar ice** (ice-edge sailing, frozen winter ports). The Orden are thus the cold-**southern** counterpart to the cold-**northern** [[orcs|orc]] steppe: the eastern continent runs cold-north → warm-equator → cold-south, and the Orden anchor its cold southern end. (source: trading-cultures-halaran.txt, 2026-06-03; **supersedes the earlier "cold north" placement**.)
+
+This is also why the warlord [[bold#The Ismander Scar (~500 years ago)|Ismander]], roughly five centuries ago, took only **parts** of Orden and not the whole: a maritime conqueror's reach is coastal and temperate, and Orden's cold far-south reaches were likely beyond him.
+
 ## Open canon
 
-- **Geography**: which coastal regions of modern Eadras the Orden inhabit; relation to the surviving post-Eldravath continents.
+- **Geography**: resolved to the **cold south of [[halaran|Halaran]]** (~30–80°S; user direction 2026-06-03 — see [[#Placement — the cold south of Halaran|Placement]]). The specific southern coasts and ports, and the relation to surviving post-Eldravath continental fragments, remain open.
 - **Pantheon practice**: which Elder Gods the Orden primarily venerate, and how their worship integrates with the broader [[gods-of-eadras|Eadran pantheon]].
 - **Lineage**: through which descendant line(s) the Orden descend ([[aetherins|Aetherin]] / [[humans]], [[goliath|Goliath]], or another).
 - **The dwarven clan among them** — origin, name, ancestral home if any.

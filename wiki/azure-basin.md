@@ -9,11 +9,11 @@ knowledge_access: [common]
 
 # Azure Basin
 
-**Summary**: A warm, island-dotted, lagoon-and-peninsula region ringing the **enclosed far-eastern bay of [[halaran|Halaran]]** — an arm of the [[arathalassic-sea|Arathalassic Sea]] held warm by enclosure within Halaran's volcanic Collision Range. The Azure Basin is **explicitly not Roman** in its political shape — it has no central empire and no analogue to one. Instead, it is a fractious, sun-baked **patchwork of proud city-states, merchant principalities, cliff-villages, oasis-cities, and highland clans** that survived the Firethorn collapse through trade, seafaring cunning, and fierce local identity. The region's cultural texture draws on real-world inspirations including the eastern Mediterranean, the Levant, North Africa, southern France, Iberia, and the Balkans, with a Greek-style maritime poleis backbone — independent, philosophically argumentative, drama-loving, and obsessed with sea-trade and ancient ruins. The Azure Basin is the southern/coastal counterweight to the [[orden|Orden's]] northern continental [[orden#The Conduit Compact — Hanseatic-style trade league|Conduit Compact]] and the [[bold|Bold Conduit Republic's]] independent maritime energy.
+**Summary**: A warm, island-dotted, lagoon-and-peninsula region ringing the **enclosed far-eastern bay of [[halaran|Halaran]]** — an arm of the [[arathalassic-sea|Arathalassic Sea]] held warm by enclosure within Halaran's volcanic Collision Range. The Azure Basin is **explicitly not Roman** in its political shape — it has no central empire and no analogue to one. Instead, it is a fractious, sun-baked **patchwork of proud city-states, merchant principalities, cliff-villages, oasis-cities, and highland clans** that survived the Firethorn collapse through trade, seafaring cunning, and fierce local identity. The region's cultural texture draws on real-world inspirations including the eastern Mediterranean, the Levant, North Africa, southern France, Iberia, and the Balkans, with a Greek-style maritime poleis backbone — independent, philosophically argumentative, drama-loving, and obsessed with sea-trade and ancient ruins. The Azure Basin is the warm eastern-bay counterweight to the [[orden|Orden's]] cold-*southern* continental [[orden#The Conduit Compact — Hanseatic-style trade league|Conduit Compact]] and the [[bold|Bold Conduit Republic's]] west-coast maritime energy, and is one of the eastern continent's [[halaran#The five trading cultures|five trading cultures]].
 
-**Sources**: Grok Chat 5-8-26.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, location resolved to Halaran's eastern bay)
+**Sources**: Grok Chat 5-8-26.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, location resolved to Halaran's eastern bay); trading-cultures-halaran.txt + bold.txt (2026-06-03, five-culture trade network; Orden's southern placement; the Ismander scar)
 
-**Last updated**: 2026-05-31
+**Last updated**: 2026-06-03
 
 ---
 
@@ -82,17 +82,21 @@ Rugged highland confederacies of fortified villages and sky-monasteries. Clan ve
 
 Ancient trading ports and multicultural harbor-cities where every faith and bloodline overlaps. Bustling bazaars, layered architecture (geometric Islamic + baroque Catholic + faded Firethorn imperial), constant negotiation between rival shrines. **Cosmopolitan tolerance masking deep rivalries.** Strong Tariq influence in family law; Greek-style philosophical schools; North African market energy; specialty guilds for nearly every craft. The Levantine Shore is the **diplomatic and information heart of the Azure Basin** — almost everyone passes through eventually.
 
-## Trade-triangle dynamics
+## The trade network — Azure Basin's role
 
-The Azure Basin is one corner of the **modern world's three-way trade triangle**:
+The Azure Basin is one of the eastern continent's **[[halaran#The five trading cultures|five trading cultures]]**. Among them, three dominant commercial powers form the old core:
 
-- The [[orden|Orden's Conduit Compact]] dominates **continental and inland trade** — long overland routes, riverine networks, and the lion's share of bulk commerce.
-- The [[bold|Bold Conduit Republic]] dominates **independent maritime trade** with its privateer-merchant fleets and Spire-Step long-distance jumps.
+- The [[orden|Orden's Conduit Compact]] dominates **continental and inland trade** — long overland routes, riverine networks, and the lion's share of bulk commerce, worked from Halaran's cold *south*.
+- The [[bold|Bold Conduit Republic]] dominates **independent maritime trade** with its privateer-merchant fleets and Spire-Step long-distance jumps, from the warm west coast.
 - The **Azure Basin** dominates **the Mediterranean-style coastal mosaic** — short-haul lagoon trade, intricate redistributive commerce among the polities, and brokered exchanges with the oceanic peoples.
 
-The three corners run brisk (and often illicit) commerce with each other. Compact-built bulk goods flow through Bold's privateers and into Azure Basin lagoon-republics. Azure Basin specialty goods (relic-trade, rare botanicals, exotic luxuries from across the Arathalassic) flow into both other corners. [[house-sitharis|House Sitharis]] products flow along all three routes simultaneously, and nobody admits to handling them.
+The other two cultures round out the network: the tropical [[free-cities|Free Cities]] (luxury goods and brokerage of the overland mountain passes) and the [[amunorians|Amunorian successor states]] (with the Amunorian diaspora that banks from the Basin itself). All of them run brisk — and often illicit — commerce with one another. Compact-built bulk goods flow through Bold's privateers and into Azure Basin lagoon-republics; Azure Basin specialty goods (relic-trade, rare botanicals, exotic luxuries from across the Arathalassic) flow outward; [[house-sitharis|House Sitharis]] products flow along every route at once, and nobody admits to handling them.
 
-The Azure Basin's fragmented political structure makes it the **most permeable** corner of the triangle to smugglers, dissidents, runaway scholars, fleeing Netharim, Black Hand cells, and anyone else who needs to disappear into a politically chaotic environment for a few seasons.
+The Azure Basin's fragmented political structure makes it the **most permeable** of the trading cultures to smugglers, dissidents, runaway scholars, fleeing Netharim, Black Hand cells, and anyone else who needs to disappear into a politically chaotic environment for a few seasons.
+
+### The Ismander scar
+
+Of all the trading cultures, the Azure Basin **suffered worst** under [[bold#The Ismander Scar (~500 years ago)|Ismander]] — the warlord who, roughly five centuries ago, forged a one-generation continental empire out of [[bold|Bold]] and took the **majority of the Azure Basin** before dying of an unknown disease and leaving his empire to dissolve. Five centuries on, the episode still colors Basin diplomacy. Why the Basin in particular fell so hard to him — geography, proximity to Bold's power-base, or its own fractiousness — and whether the most-damaged zones recovered, hardened, or still resent it, is open canon. (source: trading-cultures-halaran.txt + bold.txt, 2026-06-03)
 
 ## Modern relations
 
@@ -120,6 +124,7 @@ The Azure Basin's fragmented political structure makes it the **most permeable**
 - [[eadras-world-map]]
 - [[orden]]
 - [[bold]]
+- [[free-cities]]
 - [[amunorians]]
 - [[house-sitharis]]
 - [[clan-nightshade]]

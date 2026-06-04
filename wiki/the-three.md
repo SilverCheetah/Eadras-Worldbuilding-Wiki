@@ -9,11 +9,11 @@ knowledge_access: [common]
 
 # The Three
 
-**Summary**: Mark, Rand, and Melania — "The Three That Are One" — are mortal children rescued by [[dao]] from the Witchfinder General Trials on a distant world, raised in the spaces between mythoi, and granted divine status. Each created one of the three progenitor humanoid races of Eadras: [[elfen|Elfen]], [[velrathi|Velrathi]], and [[tarans|Tarran]] — and **only those three races**. All other races descended from those progenitors.
+**Summary**: Mark, Rand, and Melania — "The Three That Are One" — are mortal children rescued by [[dao]] from the Witchfinder General Trials on a distant world, raised in the spaces between mythoi, and granted divine status. Each created one of the three progenitor humanoid races of Eadras: [[elfen|Elfen]], [[velrathi|Velrathi]], and [[tarans|Tarran]] — and **only those three races**. All other **humanoid** races of the progenitor lineage descended from those three. (The dragon-made [[draconic-servitor-races|draconic servitor races]] are the sole humanoid-shaped peoples that stand *outside* this genealogy — a separate creation-tradition; see below.)
 
-**Sources**: The Three.txt, Gods of Eadras.txt, Playground generation 1st part.txt, Elfen.txt, Velrathi.txt, Taran.txt, Grok WB Generation 4-29.txt, user direction 2026-05-01, Notes for Changes for 5-10-26.txt
+**Sources**: The Three.txt, Gods of Eadras.txt, Playground generation 1st part.txt, Elfen.txt, Velrathi.txt, Taran.txt, Grok WB Generation 4-29.txt, user direction 2026-05-01, Notes for Changes for 5-10-26.txt, the-three-amendment.txt (2026-06-02 ingest — humanoid-lineage scoping)
 
-**Last updated**: 2026-05-10
+**Last updated**: 2026-06-02
 
 ---
 
@@ -48,7 +48,13 @@ The progenitor races they made — [[elfen|Elfen]], [[velrathi|Velrathi]], [[tar
 
 What the progenitors could do — and did — was alter their own blood, magically modifying their own babies in the womb across a few generations until the offspring stabilized as a distinct race fit for whatever servant or tool function they needed. This is the canonical mechanism for every "engineered" child and grandchild race. See [[peoples-of-eadras#How the engineering worked]].
 
-> **Important doctrinal point.** None of the Three directed their creations to do this engineering work, nor did any of the Three help or oversee the engineering of any child race. Once the Elfen, Velrathi, and Tarran existed, every subsequent engineered race was the progenitor race's own initiative. The Three made the eldest three; the eldest three made everything else. (Canon clarification: Notes for Changes for 5-10-26.txt; applied retroactively.)
+> **Important doctrinal point.** None of the Three directed their creations to do this engineering work, nor did any of the Three help or oversee the engineering of any child race. Once the Elfen, Velrathi, and Tarran existed, every subsequent engineered race was the progenitor race's own initiative. The Three made the eldest three; the eldest three engineered every subsequent race **within that lineage**. This descent rule governs the **humanoid progenitor family tree**. (Canon clarification: Notes for Changes for 5-10-26.txt; applied retroactively.)
+
+### The draconic exception
+
+The progenitor-descent doctrine governs the humanoid lineage **only**. It does **not** govern the [[draconic-servitor-races|draconic servitor races]] — [[kobolds|kobolds]], [[lizardfolk|lizardfolk]], [[snake-folk|snake folk]], and the [[dragonborn|dragonborn]] champions — which are a separate creation-tradition: reshaped by [[dragons|dragons]] from dragon-derived flesh and made ontologically real by bargain with the ascended dragon-gods (~30,000 BP), descended from **no** progenitor. They are the only humanoid-shaped peoples in Eadras outside the progenitor genealogy.
+
+This is not a second from-scratch creator-lineage. The capability that makes the Three special — creating a body, its magic, its sapience, and its lineage *from nothing* — remains unique to the Three (and to [[dao|Dao]] above them). Dragons did **not** do this: they self-sculpted their own flesh by magic and alchemy (form only) and required the dragon-gods' bargain to make those forms *real*. Same mortal-capable tier as the progenitors' womb-engineering, a different mechanism — and still not from-scratch creation. See [[draconic-servitor-races]] and [[ixthal]] for the two roads to the genesis-threshold (sanctioned bargain versus concealed theft).
 
 ### Mark (Eldest)
 
@@ -144,5 +150,8 @@ Each created the progenitor race that best embodies their sibling's theme; each 
 - [[rathari]]
 - [[battle-of-the-broken-conclaves]]
 - [[great-banishment]]
+- [[draconic-servitor-races]]
+- [[dragons]]
+- [[ixthal]]
 
 </details>

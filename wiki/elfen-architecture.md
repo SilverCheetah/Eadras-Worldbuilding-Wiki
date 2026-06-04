@@ -9,11 +9,11 @@ knowledge_access: [common]
 
 # Elfen Architecture
 
-**Summary**: The [[elfen|Elfen]] never built with dead materials. Their cities, sanctuaries, and sacred spaces were **song-shaped** from living trees, great fungal networks, and ancient root systems — communal sustained Eldritch song-magic that guided rapid directed growth, then locked the wood (or fungal tissue, or stone-rooted timber) into permanent rigid architectural forms. The result: structures that were literally grown, not built, and that retain subtle inner life processes even tens of thousands of years later. Modern Elfen ruins look like ancient majestic woodland cathedrals that never quite stopped being forest. **No crystal appears in Elfen ruins as structural material** — [[crystalmancy]] was an [[arathi|Arathi]]-only art that died with that civilization, and Elfen song-shaping is its independent organic counterpart.
+**Summary**: The [[elfen|Elfen]] never built with dead materials. Their cities, sanctuaries, and sacred spaces were **song-shaped** from living trees, great fungal networks, and ancient root systems — communal sustained Eldritch song-magic that guided rapid directed growth, then locked the wood (or fungal tissue, or stone-rooted timber) into permanent rigid architectural forms. The result: structures that were literally grown, not built, and that retain subtle inner life processes even tens of thousands of years later. Modern Elfen ruins look like ancient majestic woodland cathedrals that never quite stopped being forest. **No crystal appears in Elfen ruins as structural material** — structural [[crystalmancy]] was an [[arathi|Arathi]] art that died with that civilization (the later partial revivals — gnomish salvage, the dragons' Sourceshine-storage craft — are non-architectural and non-Elfen), and Elfen song-shaping is its independent organic counterpart.
 
-**Sources**: Grok Chat 5-8-26.txt; Elfen.txt
+**Sources**: Grok Chat 5-8-26.txt; Elfen.txt; unicorn-culture-engine-session-2026-06-03.txt (crystalmancy no longer strictly Arathi-only; user ratification 2026-06-04)
 
-**Last updated**: 2026-05-08
+**Last updated**: 2026-06-04
 
 ---
 
@@ -101,7 +101,7 @@ A canonical small category of **Velrathi-Elfen hybrid architecture** exists — 
 
 A few clarifications that follow from canonical history:
 
-- **No crystalmancy.** Living crystal as a structural material was an [[arathi|Arathi]] art that died with the Arathi (~10mybp) and was later partially revived only by gnomes. Elfen sites contain almost no crystal as a structural material; any crystal present at an Elfen site is either incidental natural mineral deposit or — far more rarely — a later addition by post-Elfen visitors.
+- **No crystalmancy.** Living crystal as a structural material was an [[arathi|Arathi]] art that died with the Arathi (~10mybp); the surviving revivals are partial and non-Elfen — gnomish salvage-craft and the dragons' recreated [[unicorn-biology#Dragon-crafted storage crystals|Sourceshine-storage craft]] (portable crystals for unicorn wanderers, never architecture). Elfen sites contain almost no crystal as a structural material; any crystal present at an Elfen site is either incidental natural mineral deposit or — far more rarely — a later addition by post-Elfen visitors.
 - **No Arathi-style geometric magitek.** Elfen song-shaping is a fundamentally different technical paradigm. Even in the rare cases where Elfen sites lie atop or near Arathi ruins, the two techniques do not interoperate at the structural level.
 - **No worked metal at structural scale.** The Elfen worked only with living materials. Where metal appears in Elfen ruins, it was generally carried in by later visitors (modern relic-hunters, beast-folk who claimed the site, etc.).
 

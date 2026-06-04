@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Dragons are one of the oldest sapient races on Eadras, created when [[ixthal]] secretly amplified a natural Source surge into an X-class flare, organized into nine color clans, and shaped by a hundred million years of war and cultural exchange with unicorns.
 
-**Sources**: Dragons.txt, Peoples of Eadras.txt, Playground generation 1st part.txt, Chaos Crusades.txt, Crystalmancy.txt, map explanation.txt, Draconic language.txt, The Flesh-Eaters.txt, The Great Exchange.txt, notes on various topics 1.txt, dragon-empire-far-eastern-meritocracy.md (2026-05-13 ingest, [[dragon-empire|Dragon Empire]] modern-era polity), spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest, volunteer dragon god of the Spear's third hiding).
+**Sources**: Dragons.txt, Peoples of Eadras.txt, Playground generation 1st part.txt, Chaos Crusades.txt, Crystalmancy.txt, map explanation.txt, Draconic language.txt, The Flesh-Eaters.txt, The Great Exchange.txt, notes on various topics 1.txt, dragon-empire-far-eastern-meritocracy.md (2026-05-13 ingest, [[dragon-empire|Dragon Empire]] modern-era polity), spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest, volunteer dragon god of the Spear's third hiding); unicorn-culture-engine-session-2026-06-03.txt (crystal craft replaces "aggressive Eldritch" teaching; unicorn raw-side position vs the Dragon Truth; user ratification 2026-06-04).
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-06-04
 
 ---
 
@@ -57,8 +57,8 @@ What the unicorns taught the dragons:
 
 What the dragons taught the unicorns:
 
-- **The power and burden of individuality** — the concept of a true, singular *"I"*, distinct from the [[unicorns#The Chorus|Chorus]].
-- **New and aggressive applications of [[eldritch|Eldritch]] magic** previously unknown to the unicorns.
+- **The power and burden of individuality** — the concept of a true, singular *"I"*, distinct from the [[unicorns#The Chorus|Chorus]] — more precisely, how to *survive* the absence of the herd-mind via a stand-in I (see [[unicorns#The extruded I]]).
+- **The Sourceshine-storage crystal craft** — dragon-made, Source-charged canteen-crystals that let an individuated unicorn survive away from open sky. Unicorns are [[unicorn-biology#Unicorns use raw Sourceshine — and are Eldritch-blind|Eldritch-blind]] and handless; the craft (recorded as post-[[spear-of-crystallized-entropy#Darkhoof — a unicorn|Darkhoof]], flowing through the Exchange relationship) is draconic from forge to gift. See [[unicorn-biology#Dragon-crafted storage crystals]].
 
 The Exchange's two cultural-legacy phrases are still in active use:
 
@@ -78,7 +78,7 @@ The **[[ratharil|City of Ratharil]]** is a genuine neutral city built by and for
 
 ## The Dragon Truth — one Fire, not two
 
-Dragons are unique among the sapient races of Eadras in their relationship to magic. Where every other race — Arathi, unicorns, Velrathi, Tarran, Elfen, and all their descendants — experiences a metaphysical divide between **raw Sourceshine** and **reflected [[eldritch|Eldritch]]**, dragons experience only **one Fire**. To them, raw and reflected are not two different energies, and not two aspects of the same energy: they are *the same thing*.
+Dragons are unique among the sapient races of Eadras in their relationship to magic. Where the Arathi, Velrathi, Tarran, Elfen, and all their descendants experience a metaphysical divide between **raw Sourceshine** and **reflected [[eldritch|Eldritch]]**, dragons experience only **one Fire**. To them, raw and reflected are not two different energies, and not two aspects of the same energy: they are *the same thing*. ([[unicorns|Unicorns]] stand outside the divide in the opposite way: they perceive and feed on **only the raw side**, and are fully [[unicorn-biology#Unicorns use raw Sourceshine — and are Eldritch-blind|Eldritch-blind]].)
 
 Dragon biology, forged in the **First Great Flare**, recognizes only *the Fire of the World* and draws upon it in whatever form or intensity their need demands. There is no internal switch. There is no instinctual sorting. There is no conscious or unconscious choice. A dragon wants to breathe annihilation across a battlefield — the Fire answers. A dragon wants to weave a delicate ward or speak mind-to-mind with a unicorn — the Fire answers. Whether the power originates as direct sunlight on their scales or has passed through a thousand miles of bedrock is irrelevant. (source: Crystalmancy.txt)
 

@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: A comprehensive overview of all sapient races in Eadras, from the first Arathi through the three progenitor races and their many descendant peoples.
 
-**Sources**: Peoples of Eadras.txt, Playground generation 1st part.txt, Grok WB Generation 4-29.txt, Trolls.txt, Updates afternoon 5-1-26.txt, Notes for Changes for 5-10-26.txt, Mitans.txt, Halfling Origin & the Change 5-10-26.txt
+**Sources**: Peoples of Eadras.txt, Playground generation 1st part.txt, Grok WB Generation 4-29.txt, Trolls.txt, Updates afternoon 5-1-26.txt, Notes for Changes for 5-10-26.txt, Mitans.txt, Halfling Origin & the Change 5-10-26.txt, draconic-servitor-races.txt + snake-folk_1.txt (2026-06-02 ingest — draconic servitor-race taxonomy)
 
-**Last updated**: 2026-05-10
+**Last updated**: 2026-06-02
 
 ---
 
@@ -62,7 +62,7 @@ This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" /
 | **Sidhe** | Elfen-engineered | Rule and regulate the [[wyldglimmer]]; ancestors of Fae |
 | **[[rathari\|Rathar]]** | Velrathi-engineered | Scholarly assistants; built first underground cities. **Fractured into [[three-thirds-of-the-rathar\|three branches]]** in Demon War: Fallen, [[beast-folk\|Laughing Third]], [[katharim\|Weighted Third]]. |
 | **[[mitans\|Mitans]]** | Tarran-engineered | Miners and tunnel warriors; ancestors of Dwarves and Halflings. (Gnomes were *removed* from this list on 2026-05-10 — gnomes descend purely from Grugi.) |
-| **Dragonfolk** | Dragons | Created in response to humanoid races being made |
+| **[[draconic-servitor-races\|Draconic servitor races]]** | Dragons (genesis-bargain ~30,000 BP) | Reptilian humanoids reshaped from dragon flesh, made real by the dragon-gods; four castes ([[kobolds\|kobold]]/[[lizardfolk\|lizardfolk]]/[[snake-folk\|snake folk]] + [[dragonborn\|dragonborn]] champions). Outside the progenitor genealogy; bound by divine Mandate. |
 | **Giants** | Titan descendants | Natural devolution — smaller, less capable |
 | **Humans** | Aetherin descendants | Natural devolution from extinct Aetherin |
 | **Dwarves** | Mitan descendants | Natural devolution; excellent at mining, craftwork, warfare |
@@ -71,7 +71,7 @@ This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" /
 | **[[orcs\|Orcs]]** | Diluted Orug blood | Cultural shift from service into clan structure; Demon War caused major cultural disruption |
 | **Gnomes** | Grug descendants | Natural devolution; inventive and practical |
 | **[[sahuagin\|Sahuagin]]** | Sea'tua descendants (alien branch) | The **Blood Navigators** — submarine living war-fleets ("islands that hunt") |
-| **Snakefolk** | Dragons | Created in response to humanoid races; Yuan-ti (NPC) |
+| **[[snake-folk\|Snake folk]]** | Dragons (the magic caste) | Engineered superior spellcasters; a faction schismed (~9,500 ya) into the Thosh death-cult of devotional self-unmaking. |
 | **[[goliath\|Goliath]]** | Giant descendants | Smaller than giants; ~10 feet tall |
 | **[[halflings\|Halflings]]** | Mitan descendants | Surface preference; agricultural; wanderlust cycle |
 | **Ogres** | Diluted Orug blood | Bigger, dumber; likely a tribe changed by wild magic |
@@ -92,9 +92,9 @@ This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" /
 
 **Less common**: [[kuo-toa|Kuo-toa]], [[sahuagin|Sahuagin]], Kobolds, Goliath, Centaurs, Fae (all descended from Sidhe), Golems/Warforged (playable), Trolls (Arathi-engineered, mostly hibernating)
 
-**Dragon-folk**: Dragonborn, Kobold, Lizardfolk, and anthropomorphic reptiles (not snakes)
+**[[draconic-servitor-races|Draconic servitor races]]** (colloq. *dragonfolk*): [[kobolds|kobolds]] (mind/mouth), [[lizardfolk|lizardfolk]] (body), [[snake-folk|snake folk]] (magic), and the individually-forged [[dragonborn|dragonborn]] champions
 
-**NPC races**: Snakefolk/Yuan-ti, Dragons (rare individuals as PCs), Unicorns
+**NPC races**: Dragons (rare individuals as PCs), Unicorns *(the [[snake-folk|snake folk]] death-cult is primarily antagonist/NPC material; RPG status of the loyal caste is open)*
 
 ---
 

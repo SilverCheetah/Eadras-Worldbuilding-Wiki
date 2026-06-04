@@ -11,9 +11,9 @@ knowledge_access: [meta]
 
 **Summary**: Foundational-context primer for Eadras, designed to be prepended to almost every major prompt. Establishes cosmology, tone, metaphysical assumptions, historical skeleton, divine structure, magical structure, thematic identity, and civilizational psychology in compact prompt-ready form.
 
-**Sources**: `raw/eadras-core-canon & thematic principles.md` (v1 source). **2026-05-16 revision (v2)**: regenerated against current canon — magic-system (post-2026-05-09 four-order rework with Lexanari and reframed Netharim; Weave as purely-defensive structure sustained by every magic user's life and anchored by Windspeakers); Anti-Magic Crusade (2026-05-15 timeline shift to 9-10kya + Century of Sorrows + Silent Century + Knights of Lirra + Icon-Habitation halt); Sarathim → Amunorian Empire (2026-05-12 rename); Dragon Empire added to Modern Powers (2026-05-13).
+**Sources**: `raw/eadras-core-canon & thematic principles.md` (v1 source). **2026-05-16 revision (v2)**: regenerated against current canon — magic-system (post-2026-05-09 four-order rework with Lexanari and reframed Netharim; Weave as purely-defensive structure sustained by every magic user's life and anchored by Windspeakers); Anti-Magic Crusade (2026-05-15 timeline shift to 9-10kya + Century of Sorrows + Silent Century + Knights of Lirra + Icon-Habitation halt); Sarathim → Amunorian Empire (2026-05-12 rename); Dragon Empire added to Modern Powers (2026-05-13). **2026-06-04 back-propagation (still v2)**: Eldritch-formation sentence updated to mantle-only transformation + mana-toll absorption laws; unicorn raw-side exception added.
 
-**Last updated**: 2026-05-16.
+**Last updated**: 2026-06-04.
 
 ---
 
@@ -67,7 +67,7 @@ Beyond the Elder Gods, Eadras has Elderborn (children of Elder Gods), The Three 
 Magic and the Weave
 Magic on Eadras is one substance with two states (Eldritch — free-flowing; Mana — matrix-bound) plus a general/umbrella term (Quintessence). Magic is unusually abundant on Eadras because the Primordial Duo sacrificed themselves completely into creation — every bit of matter on Eadras carries some mana, which is why Eadras is one of the seven Mythoi closest to the Bastion of Light.
 
-Eldritch is reflected Sourceshine — raw solar magical energy transformed into the workable, mind-obeying form when it interacts with bedrock, sea, soil, or living matter. The Source itself is the surface representation of The All, the leftover creation energy of Evye and Fryr left throughout the Mythos. Druids tap The All directly from below; every other tradition works with the surface forms.
+Eldritch is reflected Sourceshine — raw solar magical energy that passes down through everything like light through clear water and transforms only at the mantle (the deep bedrock layer it cannot pass), which reflects it upward as the workable, mind-obeying form. Matter standing in the upward flow absorbs a small toll of it as mana, which accumulates by size and complexity, more in biological than inert material, and up the food chain (the basis of the spell-ingredient economy). The Source itself is the surface representation of The All, the leftover creation energy of Evye and Fryr left throughout the Mythos. Druids tap The All directly from below; every other tradition works with the surface forms. Unicorns are the unique raw-side exception: they alone feed on raw Sourceshine and cannot sense or use Eldritch at all.
 
 There are four major magical orders, plus a sub-priesthood:
 
@@ -102,7 +102,7 @@ Major Modern Powers
 Bold – Independent elected Conduit Republic (no longer a kingdom). Flashy, mercantile, magical, politically aggressive. Closest to Arathi-scale infrastructure. Anchored by the Tower of Seven Spires, the founding chapter-house and oldest Tower of Lirra of Order Sharanel.
 Orden – Viking-and-Hanseatic Conduit Compact; disciplined seafaring trade league of conduit-anchored cities; symbiotic alliance with the Merrow (Deep Friends / Fish Friends).
 Amunorians – Scholarly, elegant, politically dangerous diaspora across the Azure Basin (Renaissance Italy + Ancient Egypt + Islamic Golden Age fusion); self-image as true heirs of the Velrathi legacy; broken in the Anti-Magic Crusade; modern faded-glory remnant.
-Azure Basin – Non-Roman Mediterranean fragmented patchwork of maritime poleis, lagoon republics (Venethar), Provençal principalities, Iberian Marches, North-African oasis-cities, Balkan highland clans, and Levantine ports. Southern corner of the modern trade-triangle with Orden and Bold.
+Azure Basin – Non-Roman Mediterranean fragmented patchwork of maritime poleis, lagoon republics (Venethar), Provençal principalities, Iberian Marches, North-African oasis-cities, Balkan highland clans, and Levantine ports. One of the eastern continent's five trading cultures (with Bold, the cold-south Orden, the tropical Free Cities, and the Amunorian successor states).
 Dragon Empire – Far-eastern modern-era polity ruled by a coalition of semi-divine dragons; comprehensive bureaucratic meritocracy with pictogram-and-hashmark skill ranks and free public education; Tang+Khmer aesthetic; authoritarian-meritocratic pole of the three-cultures ethical triangle; founded by a post-Demon-War dragon-mercenary coup.
 Beast-Folk – The Laughing Third of the Rathar; deliberate joy and refusal of traumatic memory; maintain Fae-da'Nar (frontier compact of coexistence with humans) and patrol the Demonfall Marches.
 Katharim – Death-priests; the Weighted Third of the Rathar; disciplined, solemn, duty-bound; necropolis of Kharathen at the western edge of the Demonfall Marches.

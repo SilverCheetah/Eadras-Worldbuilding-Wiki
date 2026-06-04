@@ -12,9 +12,9 @@ knowledge_access: [scholarly]
 
 **Summary**: The **Circling of the Returned** is the [[unicorns|unicorn]] quarantine and reintegration rite performed when a unicorn returns from dangerous wandering. The herd surrounds but does not fully merge with the returning unicorn; they run in widening circles and sing through horn, hoof, breath, and ground. Surface memory is released first. If the memory bites, it is not admitted deeper. The rite tests for corruption, demonic stain, entropy-warp, predatory memory, harmful resonance, Black Vault contamination, and psychic infection — and *can refuse the return* if the contamination is too deep.
 
-**Sources**: unicorns-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt).
+**Sources**: unicorns-01/02/03 (2026-05-15 ingest from Elder Gods chat 1.txt); unicorn-culture-engine-session-2026-06-03.txt (Traditionalist/Individualist outcomes; the refused-Circling heresy; user ratification 2026-06-04).
 
-**Last updated**: 2026-05-15.
+**Last updated**: 2026-06-04.
 
 ---
 
@@ -91,7 +91,16 @@ The Circling is part of a broader unicorn discipline around memory and contamina
 
 - **[[unicorn-wound-keeping|Wound-Keeping]]** preserves the memory of what *categories* of contamination exist, so the Circling knows what to test for
 - **[[herd-listeners|Herd-Listeners]]** sometimes witness Circlings when their service is required — particularly when a returning Seasonal Strayer carries information the herd intends to share with mortal institutions
-- The [[unicorns#Modern unicorn life patterns|stallion and alpha mare's roles]] (guardian of departure, guardian of return) are the institutional structure that makes the Circling possible — the alpha mare ultimately decides what may return
+- The [[unicorns#The two functions after individuality|stallion-function and alpha-mare-function]] (guardian of departure, guardian of return and continuity) are the institutional structure that makes the Circling possible — the alpha-mare-function ultimately decides what may return
+
+## The Circling and the herd politics
+
+What the Circling *concludes with* differs by herd policy (see [[unicorns#Traditionalist and Individualist herds|Traditionalist and Individualist herds]]):
+
+- In a **Traditionalist herd**, the Circling that passes ends in **dissolution** — the returning self is reclaimed into the we. You may leave as an I; you may not stay one.
+- In an **Individualist herd**, the Circling screens the return, but a returning unicorn that passes may **remain an I** under the standing deal: half its mental and magical power surrendered into the field, its experiences flowing continuously to the herd-mind.
+
+The Circling also defines the culture's one real **heresy**, possible only in a Traditionalist herd: the unicorn who comes home, *refuses the Circling*, will not dissolve — but will not leave either. A body in the herd's territory, in partial contact, undissolved and unscreened, is a contamination risk standing inside the camp; it jams the very immune system this rite embodies.
 
 ## The cost of the rite to the herd
 
@@ -116,6 +125,7 @@ Herds with frequent Strayer departures spend more on this rite than they spend o
 <summary>Related pages</summary>
 
 - [[unicorns]]
+- [[unicorn-biology]]
 - [[unicorn-wound-keeping]]
 - [[herd-listeners]]
 - [[demons]]

@@ -92,7 +92,8 @@ The fourteen modern conduit termini are the canonical full set of sites that *co
 Confirmed:
 
 - **[[bold|Bold]]** — One of the oldest cities in the world; royal castle and the **Tower of Seven Spires** ([[order-sharanel|Order Sharanel]]'s founding chapter-house and oldest surviving Tower of Lirra). The conduit terminus beneath Bold has been continuously a center of magical and political significance across the post-Cataclysm period. Modern home of [[harvey-wash|Harvey Wash]]'s Golden Road.
-- **[[verdant-scar|Verdant Scar]]** — A conduit terminus that *did not* re-host a Tower of Lirra in the modern era; instead the magic-regulating forest grew over the ruined receiving array. The site is a partial counterexample — continuously magically significant, but not continuously settled by mortals.
+- **[[ratharil|Ratharil]]** — The City of Dragons sits atop one of the fourteen conduit ends and is the **one end that never carried a Tower of Lirra** (a primordial dragon shrine marks it instead; see [[ratharil#The conduit shrine]] and [[seven-conduits]]). Continuously dragon-inhabited across multiple recovery cycles — a deep-time continuous settlement, though of dragonkind rather than the mortal races.
+- **[[verdant-scar|Verdant Scar]]** — **Not** one of the fourteen modern conduit termini (user direction 2026-06-03; that never-Tower census-slot now belongs to [[ratharil|Ratharil]]). The magic-regulating forest grew over the ruined Arathi receiving array; the site is continuously magically significant (a ley-vault regulator, not a conduit drain) but not continuously settled by mortals.
 
 The other twelve termini are not yet fully named or canon-defined. As the wiki develops modern political geography, expect most of them to resolve into oldest-continuous sites with deep stratigraphies.
 

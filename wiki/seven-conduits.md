@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The Seven Conduits are eternal **magical** structures — not physical shafts — that pierce the body of Eadras along seven deep, stable axes anchored to the planetary core. Each conduit connects two antipodal surface endpoints, producing **fourteen termini** that have served as the world's primary Eldritch sinks across every era of Eadras history, including before and after both the Arathi Cataclysm and the creation of the Weave.
 
-**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; Eadras Cannon Expansion.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine termini); eadras_map_session_ingest_part2.txt (2026-05-31, drains-not-valves, core-anchor true-antipode mechanism, Towers-as-assemblies)
+**Sources**: Refinement — Weave function.txt; Large page of notes 5-4-2026.txt; Eadras Cannon Expansion.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, three submarine termini); eadras_map_session_ingest_part2.txt (2026-05-31, drains-not-valves, core-anchor true-antipode mechanism, Towers-as-assemblies); conduits-towers-order.txt (2026-06-03, fixed-width pooling; modern-end census reseat — Ratharil in as never-Tower end, Verdant Scar out; one fall a Demon-War loss)
 
-**Last updated**: 2026-05-31
+**Last updated**: 2026-06-03
 
 ---
 
@@ -46,11 +46,25 @@ This is geographically load-bearing: a scholar mapping conduit termini against l
 
 On a world that is ~70% ocean, an even spherical distribution puts several termini at sea. Of the fourteen, **three emerge underwater** — on the seafloor among the [[merrow|five Modern Oceanic Races]]. Conduit ends are the strongest Weave-sources on the planet and seed civilization wherever they surface, so these three are **submarine conduit-cities** with their own [[order-sharanel#Oceanic Towers and chapters|oceanic Towers of Lirra]] (grown coral and [[crystalmancy#3. Aqualith — Sea Sapphires / Tide Opals|Aqualith]] rather than dry-land masonry). They are the oceanic equivalent of [[bold|Bold]] and the [[azure-basin|Azure Basin]] — capitals of the merfolk political world. (source: EADRAS WORLDBUILDING — MAP SESSION.txt, 2026-05-31)
 
+### Distribution across the modern landmasses
+
+By the modern arrangement the fourteen ends fall, roughly: **three submarine**, and the remainder on land — **two on the northwestern continent** (within the reach of the [[dragon-empire|Dragon Empire]]), **one on the sealed southwestern continent** ([[varkhul|Varkhul]] — the cold-coast end antipodal to [[ratharil|Ratharil]]), and the **bulk on the eastern continent ([[halaran|Halaran]])**. The census is **not yet closed**: the firm placements above account for roughly twelve of the fourteen, leaving about two ends whose modern locations remain open canon (see [[open-questions]]). (user direction 2026-06-03)
+
+**[[ratharil|Ratharil]] is one of the fourteen ends — and the single end that has never carried a [[order-sharanel|Tower of Lirra]].** The other thirteen ends were given Towers (whether still standing or since fallen); Ratharil's end is marked instead by an ancient **dragon shrine**, because dragons keep their own older, direct relationship with the gods and the Order has no standing on sacred dragon-ground (see [[ratharil#The conduit shrine|Ratharil]]).
+
+The [[verdant-scar|Verdant Scar]] is **not** among the fourteen modern ends. Its forest grew over the ruined Arathi receiving-array at **Arath-Veyr**, which *did* stand at one end of an Arathi-era conduit (paired antipodally with [[altea|Altea]]) — but that is deep-time Arathi history. In the modern Weave's fourteen-end geometry the Verdant Scar is a magical regulator over a broken ley-vault network, not a conduit terminus. (user direction 2026-06-03, superseding the earlier reading that counted the Verdant Scar among the fourteen and assigned it [[amunorians|Sarathis]] as a conduit partner; Sarathis's modern conduit Far-Kin is now open canon.)
+
 ## Lirra has governed the conduits since their creation
 
 [[lirra|Lirra]] has governed and stabilized the Seven Conduits **since their creation by Evye and Fryr** — both before and after the Demon War, both before and after the [[magic-in-eadras|Weave]]'s creation. Conduit-governance is one of Lirra's oldest portfolios, predating the Weave by the entire span of pre-Weave history. (source: Eadras Cannon Expansion.txt)
 
 The Weave is a *later* layer Lirra added on top of her existing conduit-stabilization role. It is not a replacement of her conduit governance; it is an additional managed layer for surface Eldritch flow. Her relationship to the conduits has been continuous from their first instantiation.
+
+### Fixed widths — and why the ends pool
+
+Each conduit drains through an outflow of **limited width**, and **only [[lirra|Lirra]] can set or change that width** — it is impossible for any mortal, institution, or Tower to alter a conduit, and no one *tends* one. Lirra long ago set every conduit to a **fixed width** and has not needed to touch them since; otherwise the conduits are a **natural, self-running feature of the world**, like a river-mouth that needs no keeper. (This corrects any earlier loose language about anyone "tending," "throttling," or "regulating" a conduit; regulation was Lirra's single completed act of setting the widths. The [[order-sharanel|Towers]] do not regulate — see below and [[order-sharanel]].)
+
+Because each drain is throttled, Eldritch arrives faster than the conduit can carry it away and **backs up at the end**, piling into a massive standing accumulation — the **conduit-pool**. This is the deeper reason a terminus is the richest magical site for leagues: not merely the bottom of the slope, but a *throttled* bottom, where the substance competes to flow through a limited mouth and accumulates. By choosing the widths, Lirra effectively set how much each conduit drains and therefore how much Eldritch pools at each — **she shaped the magical geography of the world.** The pools are correspondingly intense and likely turbulent: places of great power, and some danger. (source: conduits-towers-order.txt, 2026-06-03)
 
 ## They Are Magical, Not Physical
 

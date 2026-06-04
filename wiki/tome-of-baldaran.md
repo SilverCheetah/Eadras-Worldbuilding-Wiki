@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: A sentient, self-transforming chronicle created by the Ascended Mortal God Baldaran that records every important event and all collected knowledge in the [[eadras-cosmology|Eadras Mythos]].
 
-**Sources**: The Tome of Baldaran.txt; Grok Chat 5-8-26.txt; user direction 2026-05-09 evening (relationship with the Bureau of Records); Cosmology_01_InWorld_Facts.txt (2026-05-12 ingest, scope-and-curatorial clarification).
+**Sources**: The Tome of Baldaran.txt; Grok Chat 5-8-26.txt; user direction 2026-05-09 evening (relationship with the Bureau of Records); Cosmology_01_InWorld_Facts.txt (2026-05-12 ingest, scope-and-curatorial clarification); tome-of-baldaran-context.txt (2026-06-02 ingest — Cataclysm-recovery reframing).
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-06-02
 
 ---
 
@@ -41,19 +41,25 @@ Created by the Ascended Mortal Human God **[[baldaran|Baldaran]]** in the Third 
 - The Elderborn **[[gods-of-eadras|Erendor]]** (God of Time)
 - The Elderborn **[[gods-of-eadras|Handwright]]** (God of Craftwork)
 
-The Tome exists in a **pocket dimension** outside of Eadras (within Baldaran's godly realm). This is why it can accurately chronicle events that occurred before it was created — it exists partially outside time and can access records of past events.
+The Tome exists in a **pocket dimension** outside of Eadras (within Baldaran's godly realm). This is why it can accurately chronicle events that occurred before it was created — it exists partially outside time and can access records of past events. (See [[#The paradox of eternal existence|The paradox of eternal existence]] below.)
 
-### Why Baldaran created the Tome
+The choice of *these four* makers is not incidental — it is the meaning of the Tome. Together their domains produce not an archive but an **active curator**: a thing that understands what happened (Baldaran, Knowledge and History), knows what must be concealed and why (Nox, Secrets), can stand outside temporal sequence to record across all eras (Erendor, Time), and was built with deliberate precision to do exactly this (Handwright, Craftwork). The Tome's sentience and curatorial discretion are not features bolted onto a record-keeper; they follow directly from who made it.
 
-The Tome is **Baldaran's personal solution** to a gap he could not get the [[divine-bureaucracy|Divine Bureaucracy]] to fill.
+### Why the Tome was made
 
-The [[divine-bureaucracy#Bureau of Records|Bureau of Records]] maintains vast, dry, bureaucratic archives of mortal history — raw data, prayers, oaths, and deeds, recorded with mechanical precision. Baldaran wanted something more. He wanted **an active, intelligent observer of history** — something that would not just record events, but **understand them, interpret them, and apply judgment** to what was truly significant.
+The Tome was **not** Baldaran's answer to a personal preference gap. It was **institutional recovery after catastrophe**.
 
-The Bureaucracy was unable (or unwilling) to provide this. The Bureau of Records' mandate is mechanical-precision archive-keeping; an interpretive, judgmental, sentient chronicler is not what the Bureau is structured to produce, and the institutional politics of getting the Bureaucracy to acquire that capability were apparently more than even an Ascended Mortal God of knowledge wanted to fight through.
+Before the [[arathi-cataclysm|Arathi Cataclysm]], the Elder Gods were actively involved in mortal affairs and maintained direct stewardship of the [[divine-bureaucracy|Divine Bureaucracy]], including its [[divine-bureaucracy#Bureau of Records|Bureau of Records]]. The Cataclysm — triggered by the [[spear-of-crystallized-entropy|Spear of Crystallized Entropy]] — devastated the world *despite* the gods' power to prevent it; their involvement had not stopped it. The scale of that failure shocked the Elder Gods profoundly, and they withdrew radically from direct involvement in mortal life, reasoning that less entanglement might have meant no Cataclysm. This withdrawal is the origin of the [[doctrine-of-unheld-hand|Doctrine of the Unheld Hand]] — and it extended to their stewardship of the Bureaucracy.
 
-So Baldaran built the Tome himself, as his own godly-realm artifact, and the Tome became what the Bureau of Records was never going to be: an interpreter rather than a registrar, a judge rather than a clerk, a living archive with discretion rather than a dead archive with completeness.
+With the Elder Gods stepped back, the Bureau of Records **degraded**. It still files prayers, oaths, and deeds with mechanical precision, but it does so unstewarded — corrupt, neglected, and no longer trusted, a system surviving rather than functioning well. Passive record-keeping had failed.
 
-This is the structural origin of the Tome's most distinctive features — its sentience, its curatorial discretion, its willingness to seal chapters, its preference for understanding over enumeration. The Tome was designed to do what the Bureaucracy *won't*.
+The Tome was built as the **active replacement** for the function the Bureau could no longer be trusted to perform. Where the Bureau is mechanical and degraded, the Tome is sentient and curatorial; multiple deities poured direct effort into making it conscious because the work of witnessing history and preserving truth had become too important to leave to a degraded bureaucratic system. This is the structural origin of the Tome's most distinctive features — its sentience, its curatorial discretion, its willingness to seal chapters, its preference for understanding over enumeration.
+
+### The paradox of eternal existence
+
+The makers positioned the Tome's core **outside of time** — not "travelling back" through time, but standing outside temporal sequence entirely. The result is a deliberate paradox: the Tome was formalized at a specific historical moment (the Third Age), yet because it exists outside time it has **always been present** as a structural element of reality — always an observer.
+
+The gods therefore did not *invent* the need for the Tome; they **formalized into being what was always structurally necessary**. Reality in Eadras runs observer-hungry — because the [[primordial-duo|Primordial Duo]] sacrificed themselves completely rather than ruling as external observers (see [[observer-and-naming]]). The Tome answers that hunger, and its creation in the Third Age is the moment that eternal necessity was *materialized*, not the moment the need began.
 
 ## Naming conventions in the Tome
 
@@ -118,10 +124,10 @@ The Tome and the [[divine-bureaucracy#Bureau of Records|Bureau of Records]] are 
 | **Style** | Vast, dry, mechanical | Active, intelligent, interpretive |
 | **Records** | Raw data — prayers, oaths, deeds, with mechanical precision | Events — with understanding, interpretation, and judgment of significance |
 | **Discretion** | None (or close to none) — the registrar files what comes in | Curatorial — chooses what to reveal, when, and to whom; can seal chapters |
-| **Origin** | Built by the Bureaucracy as one of its core institutional functions | Built by [[baldaran\|Baldaran]] personally, as the solution to a gap the Bureaucracy refused to fill |
+| **Origin** | The pre-Cataclysm divine record-system; once stewarded by the Elder Gods, now unsupervised and degraded | Built by [[baldaran\|Baldaran]] and three other deities after the Cataclysm, as the recovery of the function the Bureau could no longer be trusted to perform |
 | **Scope** | Mortal-deed-and-prayer archive | Every important event in the Mythos plus all collected knowledge |
 
-The two systems exist in parallel and **occasionally produce conflicting records**. The exact nature of their relationship — how much they overlap, whether they share information, what happens when their versions of history diverge — remains a point of **quiet theological tension** in the broader divine institution. Neither institution publicly contests the other; both are functioning components of how divinity records the world; but the specifics of *how exactly they relate* are unsettled.
+The two systems exist in parallel and **occasionally produce conflicting records**. Crucially, the existence of two systems is **not institutional rivalry — it is divine triage following catastrophic failure.** The Bureau was the pre-Cataclysm system; the Elder Gods withdrew (see [[#Why the Tome was made|above]]); it degraded; the Tome was built as the recovery of the function the Bureau could no longer perform. The reason both still exist is that the Elder Gods remain hands-off with the Bureaucracy and do not actively force the two into alignment. How much they overlap, whether they share information, and what happens when their versions diverge are left unresolved — acknowledged when the divergence surfaces, but not reconciled.
 
 In ordinary cases the two are consistent: the Bureau files what happened, the Tome interprets what happened, both agree on *that it happened*. The divergence emerges when the Tome's curatorial judgment kicks in — when the Tome decides a chapter should be sealed because the event was non-canonical, was undone by the universe, was too dangerous for the current age, or otherwise warranted withholding. In such cases the Bureau's mechanical record may reflect a different version of events from the Tome's interpretive one. The Bureau's record is *accurate* by its own standards; the Tome's record is *true* by its own standards; the two are not the same thing.
 
@@ -135,6 +141,8 @@ Most working priests, scholars, and Ascended Mortals encountering the divergence
 
 - [[baldaran]]
 - [[divine-bureaucracy]]
+- [[arathi-cataclysm]]
+- [[doctrine-of-unheld-hand]]
 - [[gods-of-eadras]]
 - [[eadras-cosmology]]
 - [[magic-in-eadras]]

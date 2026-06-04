@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Bold (B-O-L-D) is **one of the oldest cities in the world** — and in the modern era, the **Bold Conduit Republic** (alternately *Spirehold* in older usage), an elected merchant-prince city-state and the most independent major polity of the modern conduit-trade world. Bold is dominated by the great Netharim fortress popularly known as the **Tower of Seven Spires** (which is the same building as, or stands directly atop, the **oldest [[order-sharanel|Tower of Lirra]]** — the founding chapter-house of the Order Sharanel, built atop one of the fourteen world-piercing [[magic-in-eadras|conduit]] ends). The Republic is a fierce commercial rival of the [[orden|Orden's Conduit Compact]], whose Compact merchants Bold derisively calls *the Gray Ledger* and who in turn call Bold *upstart disruptors*. Modern Bold is also famous for the waste-and-salvage empire of [[harvey-wash|Harvey Wash]], the goblin philanthropist who runs the *Golden Road* from a processing yard well outside the expanding city walls.
 
-**Sources**: More corrections.txt; Compiled Lore - Velrathi and Their Descendant Races.txt; Grok Chat 5-8-26.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, Halaran west-coast placement + antipode correction)
+**Sources**: More corrections.txt; Compiled Lore - Velrathi and Their Descendant Races.txt; Grok Chat 5-8-26.txt; EADRAS WORLDBUILDING — MAP SESSION.txt (2026-05-31, Halaran west-coast placement + antipode correction); bold.txt + conduits-towers-order.txt (2026-06-03, biggest-city / 30,000-yr humanoid continuity / conduit-pool / Crusade survival / Ismander / Dragon District / polyglot naming)
 
-**Last updated**: 2026-05-31
+**Last updated**: 2026-06-03
 
 ---
 
@@ -26,7 +26,19 @@ Bold has two intertwined claims to importance:
 
 Bold is one of the **oldest cities in the world** — a deep-time settlement continuously inhabited and rebuilt across multiple eras of civilization. It is also one of the major modern [[conduit-cities|Conduit Cities]] (see [[worldbuilding-needs#Modern present-day political geography|Worldbuilding Needs]] for the broader context).
 
-On the modern world map, Bold occupies the **warm, wet west coast of [[halaran|Halaran]]** — the eastern continent — where the northern gyre's warm limb gives the coast a mild maritime climate (see [[eadras-world-map]] and [[halaran#Coastal climate]]). It anchors the maritime corner of the modern trade triangle, alongside the [[orden|Orden]] in Halaran's cold north and the [[azure-basin|Azure Basin]] on its warm eastern bay.
+On the modern world map, Bold occupies the **warm, wet west coast of [[halaran|Halaran]]** — the eastern continent — where the northern gyre's warm limb gives the coast a mild maritime climate (see [[eadras-world-map]] and [[halaran#Coastal climate]]). It anchors the maritime corner of the eastern continent's **[[halaran#The five trading cultures|five-culture trade network]]**, alongside the [[orden|Orden]] in Halaran's cold *south*, the [[azure-basin|Azure Basin]] on its warm eastern bay, the [[free-cities|Free Cities]] in the tropical equatorial band, and the [[amunorians|Amunorian successor states]] on the old desert heartland.
+
+## The biggest city in the world
+
+Bold is the **largest city in the world** — a melting-pot merchant metropolis where the eastern continent's sea-routes converge, and the richest single urban concentration of wealth, peoples, and trade anywhere on [[halaran|Halaran]]. Three compounding advantages explain the scale:
+
+- **The conduit-pool.** Bold's [[seven-conduits|conduit]] end holds the **richest concentration of [[eldritch|Eldritch]] anywhere in the world** — the deepest standing pool of any of the fourteen ends (see [[seven-conduits#Fixed widths — and why the ends pool]]). A site that magic-rich is itself a reason a city never dies: abundance on that scale attracts and sustains population, magecraft, and trade across every age.
+- **Thirty thousand years, unbroken.** Bold has been **continuously inhabited for 30,000 years** — it has never once emptied. Empires and rival cities rose and fell around it; Bold endured. Its history is **humanoid throughout: no draconic and no [[arathi|Arathi]] layers.** (The Arathi are deep-deep-time, millions of years gone, far older than Bold's founding; the draconic races are dragon-business, not city-founders.) Bold's oldest core is progenitor-era / early-descendant humanoid work from the stable age before the [[firethorn-empire|Firethorn Empire]]; every layer up from there is humanoid.
+- **The world's faucet for dragon-materials** — a near-monopoly no rival can match (see [[#The Dragon District]] below).
+
+### A palimpsest in time
+
+Because it has been continuously inhabited for thirty millennia, Bold is a **living palimpsest of humanoid architectural styles** — every era of its history visible in its building stock, ancient quarters beside newer ones, overbuilt and rebuilt across thirty thousand years: a melting-pot in *time* as well as in peoples. The oldest styles cluster at the conduit/Tower core; the city grew outward in rings and sprawl across the ages, through distinct strata — the ancient founding core, pre-Firethorn, Firethorn-era, [[amunorians|Amunorian]]-era, the Ismander imperial generation, the restored-republic centuries, and the present. This is the same outward growth that gives Bold its [[#City structure|expanding city walls]]. (source: bold.txt, 2026-06-03)
 
 ## The Republic — modern political form
 
@@ -60,11 +72,43 @@ Notable cultural features:
 
 The Republic's relations with [[house-sitharis|House Sitharis]] are quietly cordial — both organizations operate outside the Conduit Compact's tariff structure, both are mocked by Compact merchants for the same reasons, and Sitharis products move along Bold's privateer routes with a steadiness that the Compact would prefer not to think about.
 
+## The Ismander Scar (~500 years ago)
+
+Roughly **five centuries ago**, the warlord **Ismander** (name provisional — see [[#Naming — a polyglot schema|the Bold naming schema]]) **dissolved the Republic** and forged a **one-generation continental empire** out of Bold. At its height he had conquered the [[free-cities|Free Cities]], half of old [[amunorians|Amunorian]] territory, parts of [[orden|Orden]], and the majority of the [[azure-basin|Azure Basin]]. Then, at the height of his power, he **died of an unknown disease** — and his empire dissolved with him. The Republic was **restored.** (The republican form Bold had grown into after the [[demon-war|Demon War]] thus outlasted both its ancient kingdom-era *and* Ismander's imperial interruption.)
+
+Ismander is now 500-year-old history and legend, not living memory, and to Bold he is **profound ambivalence**: at once their darkest betrayal — the Republic destroyed from within, in the manner of a Caesar — and their single moment of greatest reach and glory. The lesson Bold draws is republican pride: the strongman's order did *not* persist; the Republic proved more durable than the man and reformed itself. Every culture he conquered has had five centuries to build its own version of him, and four of the five eastern [[halaran#The five trading cultures|trading cultures]] carry an Ismander memory — present-day diplomacy is still shaped by who suffered what under him.
+
+His empire was a **humanoid-trade-world event**: it did not reach the northern [[orcs|orc]] steppe or the dragon-lands. A maritime warlord's reach is coastal and temperate; the draconic world would have ignored a one-generation human conqueror, and stayed separate.
+
+**The unknown disease** is a deliberate, permanent mystery. One unconfirmed hook: Bold sits on a conduit — a *drain* where the world's Eldritch pools and departs — and a conqueror who seized the conduit-city and then wasted away of an unknown illness invites the question of whether the [[eldritch|Eldritch]] itself had a hand in it. Poison, rivals, natural causes, a divine hand — every conquered culture has its theory. The truth is left open, and may be Tome-sealed. (source: bold.txt, 2026-06-03)
+
+## Naming — a polyglot schema
+
+Because Bold is a melting-pot metropolis, Bold names are **not phonetically pure anything.** The schema is *Romance/Italian core, polyglot surface* — a hybrid shot through with borrowings from every culture that flows through the city. This is why a Greek-flavored name like *Ismander* can sit beside Italian-sounding merchant-prince names without inconsistency: the cosmopolitanism *is* the schema. The full working-out of the schema — and whether "Ismander" survives it — is open canon. (source: bold.txt, 2026-06-03)
+
+## The Dragon District
+
+Bold is a merchant city, and **dragons are the wealthiest clientele in the world.** So Bold built an entire **Dragon District** — a quarter purpose-built to lure dragons *out of their lairs and into the city in person.*
+
+**The bait.** A dragon shopping in person is worth vastly more than one dealing remotely: merchants can bring their wares from their shops and display them before the dragon directly — a showroom, not a catalogue. So Bold makes the visit comfortable: the District is, in effect, a **shopping-vacation resort** for dragons, pleasant enough that they come — and once a dragon is in the city, the merchants swarm and the dragon spends. Calculated hospitality with an enormous return.
+
+**The architecture.** The District is **humanoid-built but dragon-scaled** — vast, oversized, grand structures built to non-human proportion, comfortable for a dragon to do business in and to rest in while visiting, and visibly distinct from the human-scaled rest of Bold. Crucially, *Bold builds it; the dragons do not* — which keeps Bold a humanoid city that merely hosts dragon customers. The two worlds touch at the cash register, not in the city's nature. (Contrast [[ratharil|Ratharil]], where dragons are sovereign on sacred ground; in Bold they are **customers** — honored high-rollers in a human city built to take their money.)
+
+**The kobold brokers.** The draconic diplomat caste — [[kobolds]] — broker and conduct dragon business throughout Bold. Kobolds come and go freely in humanoid buildings and range the whole city; they are **not confined to the District** (which is for the dragons they bring). The kobolds circulate everywhere; the dragons are the prize they escort in.
+
+**Payment — trash-as-treasure.** Dragons pay in materials that are **worthless refuse to them but priceless to humanoids**: shed **dragon scales, teeth, claws,** and the like. Both sides win — the dragon offloads clippings it was going to shed anyway in exchange for goods it actually wants, while the merchant receives world-class material (dragon-scale for armor; dragon-tooth, claw, and bone for weapons and reagents) worth a fortune. It is the ideal trade: each party values what it gives far less than what it gets. To a dragon, Bold is a spa-and-shopping getaway where you tip in the clippings off your own body.
+
+**Bold as the world's faucet for dragon-materials.** Because dragons pay in shed materials, and do so chiefly in Bold, **Bold is the wellspring through which dragon-derived materials enter the humanoid economy.** Every armorer, weaponsmith, and mage who wants dragon-scale or dragon-tooth ultimately sources it from Bold — a near-monopoly stacked atop the conduit-pool and the trade-hub status, and a third reason Bold is the biggest and richest city in the world. A live (and political) distinction governs the trade: *legitimate* dragon-material is **shed** material, traded in Bold; material **harvested from slain dragons** is monstrous, illicit, and a treaty matter given the dragon population cap (see [[ratharil|the Treaty of Ratharil]] and [[draconic-servitor-races]]). The black-market and counterfeit potential is obvious and open canon. (source: bold.txt, 2026-06-03)
+
 ## The Tower of Bold (a.k.a. the Tower of Seven Spires)
 
 Like all [[order-sharanel|Towers of Lirra]], the Tower of Bold is built **on top of a [[magic-in-eadras|conduit end]]** — a place where one of the seven world-piercing Weave conduits emerges to the surface. The conduit appears as a magic sink to ordinary perception and as a column of unbearable magical power to magical perception; the Tower is built to ring this column without occupying it. (source: More corrections.txt)
 
 In Bold's civic and popular usage the same building is known as the **Tower of Seven Spires** — a "major Netharim fortress" in the city's skyline (source: Compiled Lore - Velrathi and Their Descendant Races.txt). The two names refer to the same institution: the Order Sharanel call it the *Tower of Lirra of Bold*; Bold's citizenry and the kingdom's court call it the *Tower of Seven Spires*. Whether the *seven spires* of the popular name reference the seven world-piercing conduits, the Order's seven surviving Towers worldwide, the literal architecture of the building, or something else entirely is undocumented.
+
+### Survival of the Anti-Magic Crusade
+
+Bold's Tower is one of only **two eastern conduit-sites to come through the [[anti-magic-crusade|Anti-Magic Crusade]]** — the other being [[ratharil|Ratharil]]'s shrine, which survived for an entirely different reason (no anti-magic mob could assail sacred dragon-ground). Bold's Tower survived because it held **more spellcasters than any other Tower**, and they successfully held off the mob. The richest magical pool in the world supported and attracted the largest concentration of [[netharim|Netharim]] and casters — and that concentration is precisely what could fight back. The abundance of the site explains the strength of the defense; the three eastern Towers that *fell* could muster nothing comparable. The stand is presumably legend in Bold. (source: bold.txt + conduits-towers-order.txt, 2026-06-03)
 
 ## City structure
 
@@ -83,6 +127,10 @@ The expansion is the reason [[harvey-wash|Harvey Wash]] deliberately placed his 
 
 ## Open canon
 
+- **What killed Ismander** — conduit/[[eldritch|Eldritch]], poison, rivals, natural causes, or a divine hand. A deliberate 500-year mystery; possibly permanently Tome-sealed.
+- **The Bold naming schema** — the full working-out of the polyglot *Romance-core* schema, and whether "Ismander" survives it.
+- **Dragon-materials in the wider world** — the rarity and pedigree of dragon-derived materials beyond Bold; the legitimate (shed, traded in Bold) vs. illicit (harvested from slain dragons) distinction and its black-market and counterfeit potential.
+- **How dragons regard Bold** — convenient and pleasant, faintly amusing, or useful-but-beneath-notice; varies by dragon. Also: what dragons *buy* (treasure, art, rare materials, luxuries) and whether they also *sell* (hoard-liquidation, knowledge, rare materials, magical services).
 - **Bold's pre-republican royal-era history** — Bold was a kingdom once, and the transition to republic happened across the centuries following the Demon War. The royal line's actual end and the specific transitional events are open canon.
 - **The geography of Bold** — resolved to the **warm west coast of [[halaran|Halaran]]** (mild and wet, warmed by the northern gyre; map session 2026-05-31). The city's exact coordinates and immediate neighboring polities remain open.
 - **Whether Bold predates the Tower or grew up around it.** Given Bold's status as "one of the oldest cities in the world," this question now carries additional weight — Bold may predate the Order Sharanel and even the founding of the first Tower.
@@ -112,5 +160,12 @@ The expansion is the reason [[harvey-wash|Harvey Wash]] deliberately placed his 
 - [[amunorians]]
 - [[house-sitharis]]
 - [[seven-conduits]]
+- [[eldritch]]
+- [[anti-magic-crusade]]
+- [[free-cities]]
+- [[azure-basin]]
+- [[kobolds]]
+- [[draconic-servitor-races]]
+- [[ratharil]]
 
 </details>

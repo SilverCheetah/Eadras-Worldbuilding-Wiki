@@ -168,7 +168,8 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[arathi]] — Ancient insect-reptile civilization; first masters of magitech; left no descendants
 - [[arathi-servitors]] — Dozens of Arathi engineered servant lineages; only [[trolls|Trolls]] survived; named extinct lineage is the insectoid Household Servitors
 - [[dragons]] — Nine color clans; secretly created by Ixthal; Treaty of Ratharil limits population to 999,999
-- [[unicorns]] — Second sapient race; secretly created by Ixthal; defeated dragons; introduced psionics; **individuality is temporary, herd is permanent** — herd-deep memory predates and survives the Great Exchange's gift of personal selfhood
+- [[unicorns]] — Second sapient race; secretly created by Ixthal; defeated dragons; introduced psionics; **individuality is temporary, herd is permanent** — shared-field cognition with a quorum floor; the herd extrudes temporary selves and reclaims them; fuse-and-split as demographic safety valve *and* memory network; the Great Silence; Traditionalist vs Individualist herds
+- [[unicorn-biology]] — The bodily architecture beneath unicorn culture: two fuel lines (forage runs the body, raw Sourceshine runs the horn and mind); horn as sole manipulator/telepathy organ/Source-intake; quorum floor; mare chokepoint; awakening by first Sourceshine bath; dragon-crafted storage crystals; full Eldritch-blindness
 - [[herd-listeners]] — Rare mortals permitted by herds to translate unicorn wound-memory into mortal institutional language; recognised by the [[order-sharanel]] under the [[doctrine-of-open-palm|Open Palm reform]]
 - [[unicorn-wound-keeping]] — Herd discipline that treats unrecoverable-knowledge as hazard rather than asset; *we remember the wound, not the weapon*
 - [[circling-of-the-returned]] — Quarantine-and-reintegration rite for unicorns rejoining a herd after long straying; outcomes include sleep, exile, death, and long-wandering
@@ -212,11 +213,11 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[centaurs]] — Half-human half-equine; origin not yet defined in canon
 - [[fae]] — All fae creatures descended from chaos-infused Sidhe; patroned by Sylph
 - [[golems]] — Sapient constructs including Warforged; magitech tradition traces to the Arathi
-- [[dragonfolk]] — Umbrella category for all dragon-created sapients
-- [[kobolds]] — Smallest of the Lizard People dragonfolk subtypes
-- [[lizardfolk]] — Middle-sized Lizard People; primal reptilian temperament
-- [[dragonborn]] — Largest Lizard People; most directly draconic
-- [[snakefolk]] — Yuan-ti analogue; NPC-only dragonfolk subtype
+- [[draconic-servitor-races]] — Dragon-made reptilian peoples (formerly "dragonfolk"); four castes, divine Mandate, genesis-bargain ~30,000 BP; outside the progenitor genealogy
+- [[kobolds]] — The mind/mouth caste of the draconic servitor races; dragon-world interface
+- [[lizardfolk]] — The body caste; labor and lair-defense
+- [[snake-folk]] — The magic caste; a faction schismed into the Thosh death-cult of devotional self-unmaking (Thosh = a misremembered [[nox|Nox]])
+- [[dragonborn]] — Individually-forged, soul-linked dragon-champions (not a population race)
 - [[turkorcs]] — Wholly individualistic, amoral, honor-rejecting warriors and casters of [[varkhul|Varkhul]]; strictly contained
 - [[trolls]] — Living mineral constructs engineered by the Arathi as perfect miners; mostly elder hibernators
 
@@ -249,7 +250,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[tariq-al-honor]] — Syncretic post-Firethorn Catholic-Islamic-machismo cultural-religious tradition; **La Fe de la Espina Ardiente** (Faith of the Burning Thorn); strongest in southern Azure Basin
 - [[velrathi-architecture]] — The Velrathi spell-lattice tradition: dark Gothic cathedrals, every detail a magical focus, willingly-bound wardspirit (Stone-Bound, akin to a *genius loci*), spell-plate + donation box at every entrance
 - [[taran-architecture]] — Three strict Tarran traditions: austere Roman military (army-controlled), Roman+Bagan+Javanese sacred temples (variable by religious order), Roman+Ottoman imperial buildings with **spell-crystal minaret towers** (signature feature)
-- [[elfen-architecture]] — Song-shaped living-tree-and-fungi architecture: heart-groves, canopy walks, root-vaults, song-runes; NO crystalmancy (that was Arathi-only)
+- [[elfen-architecture]] — Song-shaped living-tree-and-fungi architecture: heart-groves, canopy walks, root-vaults, song-runes; NO structural crystalmancy (an Arathi art; later revivals — gnomish salvage, draconic Sourceshine-storage crystals — are non-architectural)
 
 ---
 
@@ -260,6 +261,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[eldritch-cycle]] — The planetary cycle of intake, transformation, distribution, and reintegration that underlies all magic on Eadras
 - [[seven-conduits]] — The eternal magical structures with fourteen surface termini that anchor the Eldritch Cycle; not physical, not destructible, older than the Weave
 - [[source-surges]] — Natural fluctuations in the Source's magical output; C-class through X-class flares; the Weave does NOT buffer them
+- [[collection-fields]] — Every living creature's unconscious magic-gathering field; size scales with power (slow power↔wisdom feedback); the capacity-side threshold of Ascension (designation still decides); field-merge of a unicorn quorum hosts the herd-mind; unstudied by any mortal tradition
 - [[necromancy-and-undeath]] — Necromancy as a neutral technical discipline; stigmatized by Xar'vion
 - [[crystalmancy]] — The Arathi art of growing, attuning, and conducting living crystal lattices; seven Greater Lineages
 - [[magitek]] — The Arathi engineering discipline that applied crystal-regulated Eldritch through machines, transit, and everyday devices
@@ -322,9 +324,10 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 - [[solarion]] — Divine city in Celestia; home of the Game of the Gods
 - [[dreadharrow]] — Capital of Nyxar; built from soul metal
-- [[verdant-scar]] — The magic-regulating forest grown over the ruins of the Arathi receiving array; one of the fourteen conduit ends, but never had a Tower of Lirra
-- [[bold]] — One of the oldest cities in the world; modern **Bold Conduit Republic** (elected merchant-prince city-state, not a kingdom — *Spirehold* in older usage); the **Tower of Seven Spires** (also the founding chapter-house and oldest Tower of Lirra of the Order Sharanel) anchors the city; conduit-city; major rival to the Orden Conduit Compact; modern home of [[harvey-wash|Harvey Wash]]'s Golden Road waste empire
-- [[azure-basin]] — Modern Mediterranean-style coastal region of the Arathalassic margins: explicitly non-Roman, fragmented patchwork of Greek-style maritime poleis, lagoon republics (**Venethar**), Provençal principalities, Iberian Marches, North-African oasis-cities, Balkan highland clans, and Levantine ports; Amunorian diaspora hub; southern corner of the modern trade-triangle with Orden and Bold
+- [[verdant-scar]] — The magic-regulating forest grown over the ruins of the Arathi receiving array (Arath-Veyr); a ley-vault regulator, but **not** one of the fourteen modern conduit ends (that never-Tower slot is [[ratharil|Ratharil]]; user direction 2026-06-03)
+- [[bold]] — One of the oldest cities in the world; modern **Bold Conduit Republic** (elected merchant-prince city-state, not a kingdom — *Spirehold* in older usage); the **Tower of Seven Spires** (also the founding chapter-house and oldest Tower of Lirra of the Order Sharanel) anchors the city; conduit-city; major rival to the Orden Conduit Compact; modern home of [[harvey-wash|Harvey Wash]]'s Golden Road waste empire; canonically **the biggest city in the world** (30,000-yr continuous humanoid habitation atop the richest conduit-pool), home of the dragon-luring **Dragon District** and scarred by the [[bold#The Ismander Scar (~500 years ago)|Ismander]] imperial interlude
+- [[azure-basin]] — Modern Mediterranean-style coastal region of the Arathalassic margins: explicitly non-Roman, fragmented patchwork of Greek-style maritime poleis, lagoon republics (**Venethar**), Provençal principalities, Iberian Marches, North-African oasis-cities, Balkan highland clans, and Levantine ports; Amunorian diaspora hub; one of the eastern continent's **five trading cultures** (with Bold, Orden, the Free Cities, and the Amunorian successor states); suffered worst under Ismander
+- [[free-cities]] — Loosely-affiliated tropical city-states of [[halaran|Halaran]]'s equatorial band with **no single sovereign** (a Holy-Roman-Empire-without-an-emperor); luxury-goods wealth and brokers of the overland mountain passes; **freedom won twice** (from [[amunorians|Amunor]], then from [[bold#The Ismander Scar (~500 years ago)|Ismander]]); one of the five eastern trading cultures
 - [[altea]] — The annihilated Arathi capital that received the Worldbreaker directly
 - [[altean-highlands]] — The pre-Cataclysm continent-sized upland sundered into three continents
 - [[arathalassic-sea]] — The post-Cataclysm ocean filling the cavity between the three sundered continents

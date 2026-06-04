@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Crystalmancy was the [[arathi|Arathi]] art of growing, attuning, and conducting living crystal lattices to capture, regulate, and shape [[eldritch|Eldritch]] — one of the two pillars of Arathi supremacy alongside [[magitek]], and one of the great lost arts of the pre-Cataclysm world.
 
-**Sources**: Crystalmancy.txt
+**Sources**: Crystalmancy.txt; unicorn-culture-engine-session-2026-06-03.txt (dragon-recreated Sourceshine-storage craft; user ratification 2026-06-04)
 
-**Last updated**: 2026-05-01
+**Last updated**: 2026-06-04
 
 ---
 
@@ -107,6 +107,7 @@ After the [[arathi-cataclysm|Cataclysm]], most crystalmancy techniques were lost
 - **Gnomes**, who inherited the Arathi crystal-mind salvage tradition through [[grugi|Grug]] descent (see [[golems]])
 - **Certain high elves**, in fragmentary form
 - **Lirran Windspeakers** of the [[order-sharanel|Order Sharanel]], whose work overlaps the Arathi sphere of Aether/Confluence
+- **Dragons**, who independently **recreated the Sourceshine-storage craft** — Source-charged storage crystals made not for draconic use but as a gift to [[unicorns|unicorn]] wanderers (see [[unicorn-biology#Dragon-crafted storage crystals]]). The narrowest of the surviving traditions, but among the most refined: the craft is Eldritch-capable, the product Source-charged.
 
 True Arathi crystalmancy remains one of the great lost arts. Surviving examples — especially in the [[verdant-scar|Verdant Scar]] and in deep [[arathi#Deep Vaults|Arathi vaults]] — are priceless and extremely dangerous. (source: Crystalmancy.txt)
 
@@ -114,7 +115,7 @@ True Arathi crystalmancy remains one of the great lost arts. Surviving examples 
 
 ## Crystalmancy and the Dragon Truth
 
-To dragons there is only **one Fire** — no division between Sourceshine and reflected Eldritch. From the dragon perspective, the Arathi obsession with regulating "reflected" flows through artificial crystal arrays must have looked like a strange mortal neurosis. Dragons never built crystal conduits, ley-vaults, or complex crystalmancy lattices because they had no need: the Fire answers them directly. See [[magic-in-eadras#The Dragon Truth|Magic in Eadras — Dragon Truth]] and [[dragons]].
+To dragons there is only **one Fire** — no division between Sourceshine and reflected Eldritch. From the dragon perspective, the Arathi obsession with regulating "reflected" flows through artificial crystal arrays must have looked like a strange mortal neurosis. Dragons never built crystal conduits, ley-vaults, or complex crystalmancy lattices *for their own use* because they had no need: the Fire answers them directly. The exception proves the rule — the one crystal craft dragons maintain, the recreated Sourceshine-storage crystals, exists entirely for the benefit of another species ([[unicorns|unicorns]], who cannot touch Eldritch at all). See [[magic-in-eadras#The Dragon Truth|Magic in Eadras — Dragon Truth]] and [[dragons]].
 
 This contrast is part of why surviving Arathi remnants and later scholars regarded dragons with awe and a touch of existential dread: dragons did by breathing what the Arathi spent ten thousand years perfecting infrastructure to do.
 
@@ -141,5 +142,6 @@ This contrast is part of why surviving Arathi remnants and later scholars regard
 - [[verdant-scar]]
 - [[golems]]
 - [[dragons]]
+- [[unicorn-biology]]
 
 </details>
