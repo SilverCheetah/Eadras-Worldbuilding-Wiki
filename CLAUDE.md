@@ -26,7 +26,6 @@ The `eadras-wiki` Claude Code skill (`.claude/skills/eadras-wiki/SKILL.md`) load
 ## Folder structure
 
 ```
-raw/                 -- source documents (immutable; never modify)
 wiki/                -- markdown pages maintained by Claude
 wiki/index.md        -- table of contents
 wiki/log.md          -- append-newest-first record of all operations
@@ -39,10 +38,11 @@ wiki/_sealed/        -- OOC plot-spine secrets; one-way linking only
 
 ## External source archives
 
-Large files moved out of `raw/` for iPhone-sync (2026-05-15). Treat as immutable like `raw/`:
+The source-document archive lives **outside the repo** (moved for iPhone-sync, 2026-05-15; the in-repo `raw/` folder no longer exists). All are immutable:
 
-- `D:\Worldbuilding\Chat Logs\` — long chat-log source files (`Grok Chat *.txt`, `Playground generation *.txt`, `Elder Gods chat *.txt`, `Extra large grok chat *.txt`, etc.). When a wiki page's *Sources* line cites one of these filenames, the file lives in **Chat Logs**, not `raw/`.
-- `D:\Worldbuilding\Worldbuilding LLM Wiki\images\` — image assets (plate-tectonics snapshots, map exports, illustrations) that originated in `raw/` but exceed the iPhone-sync size threshold. The corresponding `.txt` companion files (e.g. `Eadras – Golden Age Map.txt`) remain in `raw/`.
+- `D:\Worldbuilding\LLMWikiRaw\` — the primary source archive and **ingestion folder**: raw chat exports, ingest documents (`*-01-inworld-facts.txt` triples/quads), the canonical ingest-processing ruleset (`000 System Prompt - Rule Set for Processing AI Chats.txt`), and the `.txt` companion files for oversized images (e.g. `Eadras – Golden Age Map.txt`). When a wiki page's *Sources* line cites a former `raw/` filename, the file lives here.
+- `D:\Worldbuilding\Chat Logs\` — long chat-log source files (`Grok Chat *.txt`, `Playground generation *.txt`, `Elder Gods chat *.txt`, `Extra large grok chat *.txt`, etc.). When a wiki page's *Sources* line cites one of these filenames, the file lives in **Chat Logs**.
+- `D:\Worldbuilding\Worldbuilding LLM Wiki\images\` — image assets (plate-tectonics snapshots, map exports, illustrations) that exceed the iPhone-sync size threshold.
 
 ## Starting a session
 
@@ -52,7 +52,7 @@ Large files moved out of `raw/` for iPhone-sync (2026-05-15). Treat as immutable
 
 ## Hard rules
 
-- **Never modify anything in `raw/` or `D:\Worldbuilding\Chat Logs\`**. Both are immutable source archives.
+- **Never modify anything in `D:\Worldbuilding\LLMWikiRaw\` or `D:\Worldbuilding\Chat Logs\`**. Both are immutable source archives.
 - **Always update `wiki/index.md`** with new pages and one-line descriptions when canon is added.
 - **Always append to `wiki/log.md`** after any wiki change. New entries go at the **top** of the file (newest first), with a `## YYYY-MM-DD — Title` heading and `---` separator.
 - **Never use `sed -i` / `awk -i` for cross-file edits.** Use the Edit tool for one-offs; use Python `str.replace`-based sweep scripts at repo root for sweeps. See *Backups and Exports* in `system-governance.md` for the 2026-05-10 incident this rule prevents.

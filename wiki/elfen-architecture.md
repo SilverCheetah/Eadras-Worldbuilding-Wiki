@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The [[elfen|Elfen]] never built with dead materials. Their cities, sanctuaries, and sacred spaces were **song-shaped** from living trees, great fungal networks, and ancient root systems — communal sustained Eldritch song-magic that guided rapid directed growth, then locked the wood (or fungal tissue, or stone-rooted timber) into permanent rigid architectural forms. The result: structures that were literally grown, not built, and that retain subtle inner life processes even tens of thousands of years later. Modern Elfen ruins look like ancient majestic woodland cathedrals that never quite stopped being forest. **No crystal appears in Elfen ruins as structural material** — structural [[crystalmancy]] was an [[arathi|Arathi]] art that died with that civilization (the later partial revivals — gnomish salvage, the dragons' Sourceshine-storage craft — are non-architectural and non-Elfen), and Elfen song-shaping is its independent organic counterpart.
 
-**Sources**: Grok Chat 5-8-26.txt; Elfen.txt; unicorn-culture-engine-session-2026-06-03.txt (crystalmancy no longer strictly Arathi-only; user ratification 2026-06-04)
+**Sources**: Grok Chat 5-8-26.txt; Elfen.txt; unicorn-culture-engine-session-2026-06-03.txt (crystalmancy no longer strictly Arathi-only; user ratification 2026-06-04); elfen_consolidated.txt (2026-06-08 — making-cost axes, steel-equivalent vitrification, the three-hand artifact)
 
-**Last updated**: 2026-06-04
+**Last updated**: 2026-06-08
 
 ---
 
@@ -25,7 +25,17 @@ Once the desired form was reached, the song shifted register and **locked** the 
 
 Song-shaping was reverent work. A single Elfen could slowly grow a small home over days or weeks of personal singing. A circle of song-crafters could raise an entire grove-district in a few hours. Major civic sanctuaries took **decades or centuries** of intermittent communal effort, and the resulting structures were celebrated as much for the long collaborative song that produced them as for the form they took. (See also [[elfen]] for the broader cultural context of song-magic among the Elfen.)
 
-A complementary technique, **vitrification**, allowed Elfen song-crafters to convert living wood directly into stone while preserving its grain — used for fireplaces, hard surfaces, pillars, and architectural details that needed to behave like rock. Vitrified components are common in Elfen sites and pass for ordinary stone to a casual eye until one notices the wood-grain veining.
+A complementary technique, **vitrification**, allowed Elfen song-crafters to convert living wood directly into stone while preserving its grain — used for fireplaces, hard surfaces, pillars, and architectural details that needed to behave like rock. Vitrified components are common in Elfen sites and pass for ordinary stone to a casual eye until one notices the wood-grain veining. Vitrified living wood reaches **steel-equivalent** strength — the structural ceiling of a people who never smelt, cast, or finely gear anything.
+
+## Materials, cost, and the three-hand artifact
+
+Elfen making is **non-consumptive** (the sung tree lives) and **conserves Eldritch** — making only *borrows* mana, returned to the cycle when a work is unmade — so there is no irreversible ratchet anywhere in the tradition; the Elfen build the way the wild builds, by growth rather than extraction. The hard limits this imposes shape every site:
+
+- **The cost of a great work** runs on two non-substitutable axes: **time** (a structure's mana-density accrues over centuries to millennia and cannot be rushed; new growth is blank) and **the singer's body** (channeling Eldritch is acutely exhausting — a major working can leave a song-crafter bedridden for days). A great civic sanctuary is therefore both a centuries-long song *and* a sustained bodily sacrifice by its choir.
+- **The fine/conductive tier** is gated. Native [[goldenwood|goldenwood]] (alien-origin, naturally conductive, grove-grown, very slow) is the prestige route; ordinary heartwood reaches the fine, conductive, alloy-finished tier only when **another race finishes it in metal**.
+- **The three-hand artifact.** The Elfen grow and enchant heartwood; the [[velrathi|Velrathi]] or [[tarans|Taran]] alloy-coat and metallurgically finish it. An alloy-coated, Elfen-enchanted heartwood object cannot exist without all three races — a literal cross-cultural production line. (The mature triad interdependence is **post-colonization**; see [[elfen#Cradle, expansion, and the late triad|Elfen § Cradle, expansion, and the late triad]].)
+
+For the full cultural treatment of Elfen making, see [[elfen#Making, materials, and cost|Elfen § Making, materials, and cost]].
 
 ## Visual language
 

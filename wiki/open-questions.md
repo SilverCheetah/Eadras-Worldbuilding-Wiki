@@ -13,7 +13,7 @@ knowledge_access: [meta]
 
 **Sources**: Audit of all wiki pages, 2026-05-01; refresh 2026-05-09 (folding in 2026-05-08 Sarathim/architectures/eras ingest, 2026-05-09 magic-system rework + cultural-drinks tree + Divine Bureaucracy + Pillar Magic); refresh 2026-05-12 (live-wires expanded from the 2026-05-12 seven-topic re-ingest); refresh 2026-05-13 (Bathyric Mandate and post-Cataclysm geographic-features gaps added from the 2026-05-13 triple ingest); refresh 2026-05-14 (precessional-cycle period reconciliation deferred from the May-14 six-topic ingest); refresh 2026-05-31 (map-session ingest: tectonic-naming reconciliation flagged, Dark Continent = Varkhul identification, three submarine conduit-cities; map-session part 2: conduit-return path, temperate southern city, Amunorian/Sarathis placement resolved; draconic addendum grammar loose ends); refresh 2026-06-03 (conduits/Towers/Order + Bold + trading-cultures ingest: conduit-census gap, Sarathis antipode, fallen-Tower names + cause-spread, Halaran southern geography, Ismander unknowns, dragon-materials, Free Cities, Crusade-date inconsistency).
 
-**Last updated**: 2026-06-03.
+**Last updated**: 2026-06-08.
 
 ---
 
@@ -162,6 +162,17 @@ No outstanding rework items remain in this section. Future open canon about the 
 - **Fusion-rite gap** — a fusing herd inherits the other herd's Wound-Kept and Held-Apart layers, dangerous ones included. What rite (if any) tests a *whole herd* at the moment of fusion, the way the [[circling-of-the-returned|Circling]] tests an individual? → [[unicorns#Fuse-and-split]]
 - **Darkhoof's post-Spear consequences** — recorded in unicorn memory but not mortal scholarly canon (per [[spear-of-crystallized-entropy#Darkhoof — a unicorn|the Spear page]]). What does the herd remember of one of its own wielding the Spear? → [[spear-of-crystallized-entropy]]
 - **Collection fields** — whether the field-merge substrate seen in unicorn herds has parallels in other collective beings; conduit-pool interaction; deliberate cultivation. → [[collection-fields#Open canon]]
+
+### Elfen and Velrathi (2026-06-08 reverse-culture runs)
+
+- **Forced-merge symmetry** — when an Elfen overrides the intimacy consent-mechanism to plunder a mind, is the violation symmetric-exposure (both minds laid bare) or one-way plunder? Unruled. → [[elfen#Psionics and intimacy]]
+- **System-level magic/psionics specialization** — whether the song-matter vs psionics-mind split binds *all* races at the system level, or only the progenitor races. → [[elfen#Psionics and intimacy]] / [[velrathi#Psionics, the open mind, and Mind Blank]]
+- **Mind Blank origin** — Velrathi-invented, or an [[arathi|Arathi]] technology the Velrathi unknowingly reproduced (lost-ceiling, I.D.19)? The Velrathi credit it to themselves. → [[velrathi#Psionics, the open mind, and Mind Blank]]
+- **Velrathi-line grandchild greying** — whether Gnomes/Goblins (via [[grugi|Grug]]) carry diluted grey / negative-energy traits. Parked. → [[velrathi#The greying]]
+- **Founder memory** — whether each progenitor people still remembers its maker vividly, or as a half-myth "the one who left." → [[the-three#Withdrawal From the World]]
+- **Amunorian–Velrathi contact** — whether the exiles in [[veyr-keth|Veyr'Keth]] and the [[amunorians|Amunorian]] claimants have ever formally reached across the divide. → [[amunorians#The genealogical irony, the archives, and the exiles' shame]]
+- **An Elfen art layer (optional unrun)** — a dedicated song/aesthetics-as-*art* pass (blossom wines, living architecture, tea culture as art rather than as ennui-symptom). → [[elfen]]
+- **The Tarran reverse-culture run** — still to come; the third progenitor race has not had its Grainbound pass. → [[tarans]]
 
 ### Progenitor and engineered lineages
 

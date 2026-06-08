@@ -11,9 +11,9 @@ knowledge_access: [meta]
 
 **Summary**: The load-bearing principles that organise the Eadras setting — both **in-world** (canon facts about how reality works in this Mythos) and **author-side** (craft discipline that emerged from building the setting). Each principle below appears because it has surfaced from multiple independent canon developments and now organises how new material is added. When the same principle surfaces from two unrelated domains, it stops being a coincidence and becomes a setting law.
 
-**Sources**: Distilled from across the wiki; first compiled 2026-05-14. Builds on the *Setting-wide design principles* catalogue formerly inside [[inspirations|inspirations.md]], expanded with the in-world cosmological / theological / metaphysical principles that have emerged from canon development.
+**Sources**: Distilled from across the wiki; first compiled 2026-05-14. Builds on the *Setting-wide design principles* catalogue formerly inside [[inspirations|inspirations.md]], expanded with the in-world cosmological / theological / metaphysical principles that have emerged from canon development. Principle #37 (Dao's Pendulum) added from `eadras_principle_dao_pendulum.txt` (2026-06-08).
 
-**Last updated**: 2026-05-14.
+**Last updated**: 2026-06-08.
 
 ---
 
@@ -170,6 +170,9 @@ Fixed prophecy weakens agency; probabilistic detection preserves uncertainty, in
 
 **36. Prophecy creates administrative panic.**
 The most Eadrasian response to a detected future is *exhausted bureaucracy*. Surveillance escalates; departments compete for jurisdiction; the Divine Bureaucracy thrashes against its own paperwork. **The texture of impending catastrophe in Eadras is not war-drum; it is over-full inboxes and meetings about the meetings.**
+
+**37. Dao's Pendulum — earned hope is structural.**
+*Things on Eadras are simply the great balance pendulum swinging according to [[dao|Dao]].* The setting's darkness — the [[demon-war|Demon War]], the [[great-banishment|Banishment]], the [[firethorn-empire|Tarran decay]] — is not the light losing; it is **amplitude**. A wide swing into darkness is the **guarantee of the swing back**, and of a return charged with depth. This is the cosmological engine beneath [[index#Welcome to Eadras|the welcome-blurb frame]] and beneath "epic dark fantasy with **earned hope**, not grimdark": the hope is *structural*, built into the pendulum, not merely aspirational. It bridges cosmology and tone — it sits atop the Law of Justice (#16): the pendulum **corrects by swinging, not by restoring**, and does not give back what the far swing cost (the [[arathi|Arathi]], the pre-Banishment world). Dao's serenity is possible because, as the nearest thing the **observer-hungry** Mythos (#2) has to an intact external observer, he is the one vantage that sees the whole arc and does not panic at the amplitude. *(Surfaced 2026-06-08 from `eadras_principle_dao_pendulum.txt`; full treatment at [[dao#Dao's Pendulum]]. Numbered append-only to preserve existing cross-references such as I.A.7, I.C.16, I.D.18.)*
 
 ---
 

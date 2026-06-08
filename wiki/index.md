@@ -176,9 +176,10 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [[demons]] — Alien-Mythos energivores; existential threat to the omniverse; arrive only by summoning or breach
 
 ### Progenitor Races (the only three created by The Three; all banished after Demon War)
-- [[elfen]] — First progenitor; wardens of wildlands; created by Mark; banished to Wyldglimmer Gaia
-- [[velrathi]] — Second progenitor; masters of magic; created by Rand; banished to Glimmerdark Gaia (Veyr'Keth)
-- [[tarans]] — Third progenitor; keepers of order; created by Melania; banished to Prime-like Gaia (Gray Matriarchy)
+- [[elfen]] — First progenitor; made by Mark **out of love**, in the image of who he became; **equilibrium-keepers** (nature *and* civilization both necessary); born adult from [[womb-trees|womb trees]]; song-shaping with a lopsided tech ceiling; biologically immortal with a singular-apex funnel; existential threat is **hydraulic** (dammed rivers); vice = *Lost in Smoke*; banished to Wyldglimmer Gaia
+- [[womb-trees]] — How the Elfen reproduce: born **whole and adult** from a willing tree-spirit + Elfen tissue; daily village laying-on-of-hands transfers knowledge but **not wisdom**; the root of choral Elfen society
+- [[velrathi]] — Second progenitor; made by Rand; **empiricists, not transgressors** (observe→understand→reproduce; the only sin is willful ignorance); status by **published** research; the grey-and-red look is **acquired**, not original; publication as the mortality-hedge; vice = *Lost in the Weeds*; banished to Glimmerdark Gaia (Veyr'Keth)
+- [[tarans]] — Third progenitor; keepers of order; created by Melania; banished to Prime-like Gaia (Gray Matriarchy). Full reverse-culture run still to come
 
 ### Engineered and Descendant Peoples
 - [[rathari]] — Velrathi-engineered scholars; fractured into three branches in Demon War

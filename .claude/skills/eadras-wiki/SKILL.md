@@ -50,7 +50,7 @@ Consult these directly rather than restating from memory:
 | `templates/` | Templater templates for new pages | `event.md`, `deity.md`, `race.md`, `place.md`, `organization.md`, `new-page.md`. Edit only on user direction. |
 | `excalidraw/` | Embedded Excalidraw diagrams | Referenced from wiki pages but stored separately. |
 | `kanban/` | Task-tracking boards | OOC-grade; not canon. |
-| `raw/` | Source-document archive | Raw chat exports, PDFs, ingest materials. Not canon. |
+| `D:\Worldbuilding\LLMWikiRaw\` | Source-document archive | Raw chat exports, PDFs, ingest materials. Not canon. |
 | `.claude/skills/eadras-wiki/` | This skill | Loaded on every Eadras session. |
 
 ## Calendar discipline
@@ -91,7 +91,7 @@ When working on event pages:
 
 ### Processing an AI chat into ingest documents
 
-1. Follow the system-prompt ruleset (canonical ingest-processing prompt, typically in `raw/`).
+1. Follow the system-prompt ruleset (canonical ingest-processing prompt, typically in `D:\Worldbuilding\LLMWikiRaw\`).
 2. Filename: snake_case truncation of the TOPIC header, not the literal word "topic." E.g. `velveth-01-inworld-facts.txt`.
 3. Produce 3 or 4 files per topic: 01 in-world facts, 02 meta-commentary, 03 principles-and-diagnosis, 04 narrative-scenes (only when narrative warrants).
 4. Mark new canon `[CANONIZED]`; mark canon that sharpens existing wiki pages `[WIKI_REFINED]`.
@@ -122,7 +122,7 @@ The wiki uses Obsidian with the following plugins. Be aware when editing:
 - **Chronos Timeline** — visual timelines via `chronos` codeblocks. The `wiki/calendar.md` page is the model. Event codeblocks use `EVENT [tag] AP/BP-date ~ description` syntax; period codeblocks use `PERIOD [tag] start - end # description`.
 - **Meta Bind** — bidirectional widgets bound to frontmatter. Useful for author workflows; do not add Meta Bind widgets that bind to fields not in the frontmatter spec.
 - **Admonitions** — use standard Obsidian callout syntax (`> [!note]`, `> [!warning]`, `> [!important]`). Avoid plugin-specific custom admonition types unless they are vault-wide canon.
-- **Excalidraw, Kanban, PDF++, Importer, BRAT** — supporting plugins; do not embed their content in wiki canon pages without explicit reason. Excalidraw diagrams in `excalidraw/`, Kanban boards in `kanban/`, raw materials in `raw/`.
+- **Excalidraw, Kanban, PDF++, Importer, BRAT** — supporting plugins; do not embed their content in wiki canon pages without explicit reason. Excalidraw diagrams in `excalidraw/`, Kanban boards in `kanban/`, raw materials in `D:\Worldbuilding\LLMWikiRaw\`.
 
 ## What this skill never does
 

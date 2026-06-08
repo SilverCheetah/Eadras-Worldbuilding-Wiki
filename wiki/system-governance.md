@@ -445,7 +445,7 @@ Rules for AI sessions working on or with the wiki. Applies to Claude Code (via t
 
 ### Source-to-wiki ingest workflow
 
-When the user adds a new raw source to `raw/` (or to `D:\Worldbuilding\Chat Logs\` for the large chat-log archive) and asks for it to be ingested:
+When the user adds a new raw source to `D:\Worldbuilding\LLMWikiRaw\` (or to `D:\Worldbuilding\Chat Logs\` for the large chat-log archive) and asks for it to be ingested:
 
 1. **Read the full source document.** Do not skim; the lore is usually load-bearing.
 2. **Discuss key takeaways with the user before writing anything.** Surface contradictions with existing canon, ambiguities, and decisions that need user input. Get explicit go-ahead before producing wiki pages.
@@ -635,7 +635,7 @@ The wiki runs on Obsidian with the following plugins; this section describes how
 - **Admonitions** — styled callouts. Use the standard Obsidian callout syntax (`> [!note]`, `> [!warning]`, `> [!important]`); custom admonition types may be defined for deprecated-page warnings, sealed-page entry markers, calendar-drift notices.
 - **Excalidraw** — embedded hand-drawn diagrams. Use for cosmology diagrams, geographical sketches, sealed-page schematic maps. Embedded files live under `excalidraw/` in the vault root.
 - **Kanban** — board view for task tracking. Used for open-questions triage, protocol regeneration queues, sealed plot-spine management. Kanban boards live under `kanban/` in the vault root and are `ooc`-grade content.
-- **PDF++** — enhanced PDF embedding. Used in `raw/` source-document archival, not in wiki pages directly.
+- **PDF++** — enhanced PDF embedding. Used in `D:\Worldbuilding\LLMWikiRaw\` source-document archival, not in wiki pages directly.
 - **Importer** — bulk import from external formats. Used for ingest workflows; results route through the standard wiki-ingest process.
 - **BRAT** — beta-plugin auto-updater. Operationally relevant; no canon impact.
 

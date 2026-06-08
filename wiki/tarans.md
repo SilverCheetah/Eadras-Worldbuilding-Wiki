@@ -18,9 +18,9 @@ axes_profile:
 
 **Summary**: The Taran are the third progenitor humanoid race, created by [[the-three|Melania]] as Keepers of Order — disciplined, honor-bound warriors who eventually grew arrogant and founded the [[firethorn-empire|Firethorn Empire]].
 
-**Sources**: Taran.txt, Peoples of Eadras.txt, Playground generation 1st part.txt, Pre-empire foodways.txt, Grok WB Generation 4-29.txt, Open Questions Answers May 1 2026.txt, Naming conventions.txt, Grok Chat 5-8-26.txt, Extra large grok chat 5-9-2026.txt
+**Sources**: Taran.txt, Peoples of Eadras.txt, Playground generation 1st part.txt, Pre-empire foodways.txt, Grok WB Generation 4-29.txt, Open Questions Answers May 1 2026.txt, Naming conventions.txt, Grok Chat 5-8-26.txt, Extra large grok chat 5-9-2026.txt; eadras_principle_dao_pendulum.txt (2026-06-08 — the seeker-nature departure framing; the full Tarran reverse-culture run remains to come)
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-06-08
 
 ---
 
@@ -64,7 +64,7 @@ Their architecture during this transition shifted accordingly: practical frontie
 
 ## The Fall into Arrogance
 
-Between **20,000 and 19,000 years ago**, [[the-three|The Three That Are One]] withdrew from the world. The Tarran in particular felt the absence of [[the-three|Melania]]'s direct guidance, and the question they had never quite asked themselves while she watched over them began to surface:
+Between **20,000 and 19,000 years ago**, [[the-three|The Three That Are One]] **stepped away to explore other Mythoi** — an expression of the seeker-nature their long childhood instilled (see [[the-three#Withdrawal From the World|The Three § Withdrawal]]); Melania left believing, reasonably at the time, that the Tarran were mature enough to stand alone. The Tarran in particular felt the absence of [[the-three|Melania]]'s direct guidance, and the question they had never quite asked themselves while she watched over them began to surface:
 
 > *We protect the people from outside threats. We keep criminals off the streets. We put our lives on the line every day to maintain order. **Why are we not the ones actually ruling?***
 

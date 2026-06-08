@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Mark, Rand, and Melania — "The Three That Are One" — are mortal children rescued by [[dao]] from the Witchfinder General Trials on a distant world, raised in the spaces between mythoi, and granted divine status. Each created one of the three progenitor humanoid races of Eadras: [[elfen|Elfen]], [[velrathi|Velrathi]], and [[tarans|Tarran]] — and **only those three races**. All other **humanoid** races of the progenitor lineage descended from those three. (The dragon-made [[draconic-servitor-races|draconic servitor races]] are the sole humanoid-shaped peoples that stand *outside* this genealogy — a separate creation-tradition; see below.)
 
-**Sources**: The Three.txt, Gods of Eadras.txt, Playground generation 1st part.txt, Elfen.txt, Velrathi.txt, Taran.txt, Grok WB Generation 4-29.txt, user direction 2026-05-01, Notes for Changes for 5-10-26.txt, the-three-amendment.txt (2026-06-02 ingest — humanoid-lineage scoping)
+**Sources**: The Three.txt, Gods of Eadras.txt, Playground generation 1st part.txt, Elfen.txt, Velrathi.txt, Taran.txt, Grok WB Generation 4-29.txt, user direction 2026-05-01, Notes for Changes for 5-10-26.txt, the-three-amendment.txt (2026-06-02 ingest — humanoid-lineage scoping); elfen_consolidated.txt + velrathi_consolidated.txt + eadras_principle_dao_pendulum.txt (2026-06-08 — forked childhoods sourcing the three temperaments; made-in-their-own-image-of-who-they-became; the seeker-nature departure to explore other Mythoi)
 
-**Last updated**: 2026-06-02
+**Last updated**: 2026-06-08
 
 ---
 
@@ -30,6 +30,8 @@ This extramythic origin is significant — they carry resonances from outside Ea
 ## Upbringing
 
 They grew under [[dao|Dao's]] **patient guidance** over the **~11,000 years between rescue (~50,000 BP) and the creation of the progenitor races (~39,000 BP)**, learning the shape of power, the weight of responsibility, and the necessity of balance. He taught them many things, including the use of [[eldritch|Eldritch]]. **Soon after the rescue, Dao forged the eleven [[runeswords|Runeswords]] and the Runes of Power; the children were present as witnesses** — their introduction to god-tier creative work.
+
+The extended slow childhood — eleven thousand years they did not know was abnormal — both **warped their perspective** and gave each of them a vast span to *become someone*. Late in childhood Dao stopped shielding them (trained, they could shield themselves), and unshielded they turned to the Mythos in three different directions. **The childhoods forked, and the forks sourced the three races' temperaments**: Mark roamed and fell in love with the wild (a thing one can *dwell* in) → the [[elfen|Elfen]]; Rand stayed in the library and, unshielded, interrogated the universe at its sources (a thing one can only *chase*) → the [[velrathi|Velrathi]]; Melania stayed at Dao's side, the seat of power → the [[tarans|Tarran]]. Each made a progenitor race **in the image of who they had become** — not as strategic tools, but as the expression of an immortal's settled nature.
 
 Only when they were ready did Dao reveal his great work to them in full and permit them to undertake their own creations.
 
@@ -85,7 +87,11 @@ The Velrathi subsequently engineered three servant-scholar races (the Velrathi d
 
 ## Withdrawal From the World
 
-The Three That Are One withdrew from the world sometime between **20,000 and 19,000 years ago**. Their departure removed direct divine oversight over the [[tarans|Tarran]], who over the following centuries grew arrogant and power-hungry. This directly enabled the Tarran to declare the [[firethorn-empire|Firethorn Empire]] approximately **18,000 years ago**.
+The Three That Are One withdrew from the world sometime between **20,000 and 19,000 years ago** — they **stepped away to explore other Mythoi.** This was not a failing of any one of them; it expresses the shared **seeker-nature** the 11,000-year unshielded childhood instilled. *Seekers eventually go seek.* Each had walked *with* their people for a long span first — Mark among the [[elfen|Elfen]] for many millennia, Melania with the [[tarans|Tarran]] across the long cooperative age — and each left **believing, reasonably at the time, that their peoples were mature enough to stand alone.** (Melania additionally simply *wanted* to go explore.) The founders have therefore been effectively **absent** ever since; the Elfen, Velrathi, and Tarran have been maker-less for a very long time.
+
+Their departure removed direct divine oversight over the [[tarans|Tarran]], who over the following centuries grew arrogant and power-hungry. This directly enabled the Tarran to declare the [[firethorn-empire|Firethorn Empire]] approximately **18,000 years ago**.
+
+From [[dao|Dao's]] vantage, the long aftermath of their absence — the Tarran decay, the Demon War, the Banishment — is not breakage but **the great balance pendulum swinging according to Dao** (see [[dao#Dao's Pendulum|Dao's Pendulum]] and [[principles-of-eadras]] #37): a wide swing into darkness whose own amplitude guarantees the swing back. Whether the founders still remember their peoples vividly, or as a half-myth "the one who left," is open canon.
 
 ## Their Status as Outsiders Matters
 

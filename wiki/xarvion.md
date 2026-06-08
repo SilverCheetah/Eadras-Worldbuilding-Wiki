@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Xar'vion is an Icon-bound Unrestricted Elder God — a brilliant and tragic [[velrathi|Velrathi]] archmage of the final centuries of the [[firethorn-empire|Firethorn Empire]], a sickly orphan whose elder sister [[velena|Velena]] was raped and murdered by a gang of Tarran noble youths. He swore he would never be powerless again and would find a way to bring her back; centuries of ruthless political, magical, and military maneuvering positioned him to claim the [[spear-of-crystallized-entropy]] on God's Day. He lost his motive to Dao's curse, triggered the War of Domination and the [[demon-war|Demon War]] (the empire's collapse a side effect, not his goal), and now exists as the Motionless King: an unmoving divine statue who still holds court and receives his cult.
 
-**Sources**: Xar'vion.txt, Spear of Crystallized Entropy.txt, Playground generation 2nd part.txt, Updates afternoon 5-1-26.txt, More Xarvion.txt, mythic-retellings-of-the-cataclysm-and-demon-war.md (2026-05-13 ingest, [[mythic-recitations|Still King recitations]]), spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest, killing of the volunteer dragon god).
+**Sources**: Xar'vion.txt, Spear of Crystallized Entropy.txt, Playground generation 2nd part.txt, Updates afternoon 5-1-26.txt, More Xarvion.txt, mythic-retellings-of-the-cataclysm-and-demon-war.md (2026-05-13 ingest, [[mythic-recitations|Still King recitations]]), spear-containment-diagnosis-and-the-alien-artifact-principle.md (2026-05-13 ingest, killing of the volunteer dragon god); velrathi_consolidated.txt (2026-06-08 — the lawful resurrection route tried first and refused; deeper mercy-causation held as sealed canon).
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-06-08
 
 ---
 
@@ -38,6 +38,10 @@ This desire already pressed against the [[omniversal-laws|Fifth Omniversal Law]]
 Xanar was a real kingdom with laws, courts, temples, scholars, and ordinary citizens. Its public ideology centered on remembrance, continuity, and the conquest of grief. The slogan *"No Name Forgotten"* may have originated with Velena's funeral. The Black Hand infiltrated temples, courts, academies, guilds, and governments across Eadras, using Xanar's wealth, roads, and necromantic expertise as cover. (source: Playground generation 2nd part.txt)
 
 His ruthless political, magical, and military maneuvering destabilized the already-decaying Firethorn Empire — but **the empire's collapse was a side effect of his obsession, not his primary intent.** The Firethorn Empire had been sliding into decadence and ennui for nearly a millennium before Xar'vion came of age; he was the final, devastating catalyst that toppled what was already rotting. (source: Updates afternoon 5-1-26.txt)
+
+### He tried the lawful route first
+
+Before he ever reached for the Spear, Xar'vion pursued [[velena|Velena's]] resurrection by the **lawful** road — true reversal of death is *possible* under the [[omniversal-laws|Fifth Law]] with all the proper consents, rare but not impossible — petitioning the powers of death through correct structure. **He was refused.** The powers of death would not yield her. He experienced the refusal as Death **denying** him, and it was only after the lawful road was closed to him that he turned to forcing the matter with the [[spear-of-crystallized-entropy|Spear]]. (Why the refusal was handed down as it was is not recorded in the common histories.) (source: velrathi_consolidated.txt, 2026-06-08)
 
 ## The Ascension
 

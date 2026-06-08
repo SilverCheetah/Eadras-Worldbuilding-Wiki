@@ -186,9 +186,10 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 - [demons](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/demons.md) — Alien-Mythos energivores; existential threat to the omniverse; arrive only by summoning or breach
 
 ### Progenitor Races (the only three created by The Three; all banished after Demon War)
-- [elfen](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elfen.md) — First progenitor; wardens of wildlands; created by Mark; banished to Wyldglimmer Gaia
-- [velrathi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velrathi.md) — Second progenitor; masters of magic; created by Rand; banished to Glimmerdark Gaia (Veyr'Keth)
-- [tarans](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/tarans.md) — Third progenitor; keepers of order; created by Melania; banished to Prime-like Gaia (Gray Matriarchy)
+- [elfen](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/elfen.md) — First progenitor; made by Mark **out of love**, in the image of who he became; **equilibrium-keepers** (nature *and* civilization both necessary); born adult from [womb trees](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/womb-trees.md); song-shaping with a lopsided tech ceiling; biologically immortal with a singular-apex funnel; existential threat is **hydraulic** (dammed rivers); vice = *Lost in Smoke*; banished to Wyldglimmer Gaia
+- [womb-trees](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/womb-trees.md) — How the Elfen reproduce: born **whole and adult** from a willing tree-spirit + Elfen tissue; daily village laying-on-of-hands transfers knowledge but **not wisdom**; the root of choral Elfen society
+- [velrathi](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/velrathi.md) — Second progenitor; made by Rand; **empiricists, not transgressors** (observe→understand→reproduce; the only sin is willful ignorance); status by **published** research; the grey-and-red look is **acquired**, not original; publication as the mortality-hedge; vice = *Lost in the Weeds*; banished to Glimmerdark Gaia (Veyr'Keth)
+- [tarans](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/tarans.md) — Third progenitor; keepers of order; created by Melania; banished to Prime-like Gaia (Gray Matriarchy). Full reverse-culture run still to come
 
 ### Engineered and Descendant Peoples
 - [rathari](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/rathari.md) — Velrathi-engineered scholars; fractured into three branches in Demon War
@@ -415,7 +416,7 @@ Eadras is **epic dark fantasy with earned hope**, not grimdark. The darkness is 
 
 ## Complete page manifest
 
-Every canon page (281), for resolving any `[[name]]` by lookup.
+Every canon page (282), for resolving any `[[name]]` by lookup.
 
 - [aberrations](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/aberrations.md)
 - [absence-traditions](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/absence-traditions.md)
@@ -690,6 +691,7 @@ Every canon page (281), for resolving any `[[name]]` by lookup.
 - [windspeakers](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/windspeakers.md)
 - [wizard-mechanics](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/rpg/wizard-mechanics.md)
 - [wizards](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/wizards.md)
+- [womb-trees](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/womb-trees.md)
 - [worldbreaker-mechanism](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldbreaker-mechanism.md)
 - [worldbreaker-scar](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldbreaker-scar.md)
 - [worldbuilding-needs](https://github.com/SilverCheetah/Eadras-Worldbuilding-Wiki/blob/main/wiki/worldbuilding-needs.md)

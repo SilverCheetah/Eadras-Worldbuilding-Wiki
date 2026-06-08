@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: The signature [[velrathi|Velrathi]] architectural language: dark Gothic cathedrals, monasteries, and castles carved from black granite, basalt, and obsidian-like stone, in which **every architectural detail is a magical focus** and the entire structure functions as one cohesive spell lattice. A willingly bound **wardspirit** — natively termed the *Stone-Bound* and broadly identified by scholarly comparison with the classical *genius loci* — inhabits each major structure and uses the building's stored magic to defend itself and its inhabitants. Twenty-thousand-plus years of iteration produced an architecture in which form, decoration, function, and consciousness are one thing.
 
-**Sources**: Grok Chat 5-8-26.txt; Velrathi.txt
+**Sources**: Grok Chat 5-8-26.txt; Velrathi.txt; velrathi_consolidated.txt (2026-06-08 — Stone-Bound as elevated pre-existing genius loci, the three-step development arc, the cultivation mode, spell-plate-as-greeting)
 
-**Last updated**: 2026-05-08
+**Last updated**: 2026-06-08
 
 ---
 
@@ -65,7 +65,15 @@ Modern Velrathi ruins generally retain the structural functions even after tens 
 
 The Velrathi name for a building's bound wardspirit is **the Stone-Bound** (literal: "the one bound to the stone, with consent"). Comparative magical scholarship — including Katharim archive-priest commentary, Order Sharanel theoretical work, and modern gnomish reverse-engineering — generally identifies the Stone-Bound with the broader cosmological category of **genius loci** (a spirit of a place).
 
-The two terms are not exactly equivalent. A classical genius loci is a spirit that *arises* from a place — emergent, untaught, often unaware of its own bound state. A Velrathi Stone-Bound is **invited** into a place that did not previously have a resident spirit, and the place is **shaped to fit it.** The willingness is mutual and explicit; the spirit is conscious of the binding from the moment it accepts; and the binding gives the spirit command over the stored magic of the entire lattice in exchange for its watchful presence.
+The two terms are not exactly equivalent. A classical genius loci is a spirit that *arises* from a place — emergent, untaught, often unaware of its own bound state. A Velrathi Stone-Bound is **invited** into a prepared lattice and the place is **shaped to fit it.** The willingness is mutual and explicit; the spirit is conscious of the binding from the moment it accepts; and the binding gives the spirit command over the stored magic of the entire lattice in exchange for its watchful presence.
+
+### Elevation, not creation — the development arc
+
+A crucial mechanical point, recovered in the 2026-06-08 Velrathi reverse-culture work: the Velrathi **cannot create a spirit.** A Stone-Bound is a **minor, already-existing nature spirit** — of a tree, a rock, a patch of grass, a stretch of plain — *invited* into the lattice and then **grown**, by constant small infusions of power, into something far greater than it could ever have become alone. It is **elevation, not creation**; the spirit pre-exists, *accepts*, and is offered **growth**. This dissolves any consent problem cleanly: the relationship is **patron and protégé**, not maker and made.
+
+The capability developed by pure empirical method, in three steps: (1) the Velrathi **noticed** that old buildings spontaneously accumulate protective spirits that want to guard the structure; (2) they learned to **tie** those spirits into their automated magical systems; (3) they graduated from *waiting* for a spirit to arise to deliberately **inviting** a minor spirit in and **cultivating** its growth. This is the architectural instance of the broader Velrathi **cultivation mode** — patient sustained investment in a willing partner — that also governs their master-apprentice mentorships and their household craft-lineages (see [[velrathi#Cities and the cultivation mode|Velrathi § Cities and the cultivation mode]]). It is also, quietly, a **bridge to the [[elfen|Elfen]]**, who likewise live among such spirits and bind only willing ones (the Elfen [[womb-trees|womb tree]] elevates a willing nature-spirit by the same consent logic) — a structural rhyme between the two progenitor traditions, not a dark contrast.
+
+In this light the **spell plate is a greeting** and the **donation box an offering**: the Stone-Bound is a resident *being* owed courtesy, and the building's millennia-long memory of who was kind and who was rude **is the spirit's personhood**, not a mere security feature.
 
 Velrathi tradition is firm that this is not slavery. The Stone-Bound chooses its building. It can, in principle, withdraw — though doing so collapses the lattice's coherence and is rare in practice. The Stone-Bound is given a name (sometimes a true-name fragment, more often a chosen designation), a domain (the building and its grounds), and a remit (defend its inhabitants, witness all that occurs within, and remember what is offered).
 

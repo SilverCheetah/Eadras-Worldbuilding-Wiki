@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Dao is an avatar of the [[omniversal-creator]] — a deliberate limited manifestation who walks unseen between mythoi, balancing chaos and order across eons. He alone holds every fragment of [[worldender-crystal|Worldender alien crystal]] in existence; he forged the [[runeswords|Runeswords]], the [[hall-of-kings|Hall of Kings]], adopted [[the-three|the Three]] from the Witchfinder General Trials, cursed the [[spear-of-crystallized-entropy|Spear]], and is **completely hidden from the Elder Gods of Eadras** — who do not know he exists.
 
-**Sources**: Dao.txt, Runeswords.txt, The Three.txt, Grok WB Generation 4-29.txt, More corrections.txt, dao-monitor-role-2026-05-11.txt; user direction 2026-05-06 (Witchfinder General Trials origin replaces Salem)
+**Sources**: Dao.txt, Runeswords.txt, The Three.txt, Grok WB Generation 4-29.txt, More corrections.txt, dao-monitor-role-2026-05-11.txt; user direction 2026-05-06 (Witchfinder General Trials origin replaces Salem); eadras_principle_dao_pendulum.txt (2026-06-08 — Dao's Pendulum; user direction 2026-06-08)
 
-**Last updated**: 2026-05-11
+**Last updated**: 2026-06-08
 
 ---
 
@@ -158,6 +158,16 @@ He therefore **permits, and sometimes deliberately nurtures, certain vectors of 
 > Chaos, in Dao's hands, is **never random**. It is **cultivated. Pruned. Directed.** Always in service to the greater equilibrium.
 
 The [[beast-folk|Laughing Third]] come closer to sensing this than most. Their flytings sometimes end with the refrain: *"Even the gods have gods, and even those gods have someone laughing at them."* They mean it as absurdity. They are closer to truth than they know.
+
+## Dao's Pendulum
+
+> *Things on Eadras are simply the great balance pendulum swinging according to Dao.*
+
+Dao's stance toward Eadras is **not** that of an anxious parent watching a damaged child. It is the **serene long-view** of the one perspective that can see the **whole arc**. Where mortals and even gods experience the [[demon-war|Demon War]], the [[great-banishment|Banishment]], and the [[firethorn-empire|Tarran decay]] as catastrophe and loss, Dao reads them as **the pendulum swinging** — as *amplitude*, not breakage. A wide swing into darkness is not the light losing; it is the **guarantee of the swing back**, and of a return charged with depth. This is the cosmological engine beneath the setting's defining frame — [[index#Welcome to Eadras|*light and darkness cannot exist without each other; the presence of one makes the other bigger, deeper, brighter*]] — and beneath "epic dark fantasy with **earned hope**, not grimdark": the hope is **structural**, built into the pendulum, not merely aspirational. (Codified as [[principles-of-eadras]] #37.)
+
+The pendulum sits squarely atop the Law of Justice ([[principles-of-eadras|I.C.16]]): it **corrects by swinging, not by restoring** — it does not give back what the far swing cost (the [[arathi|Arathi]], the pre-Banishment world). Dao's calm is the calm of a being who sees the correction coming, knows it will not be gentle, and knows it will not return what was lost.
+
+This also puts Dao in his proper cosmological seat. Eadras runs **observer-hungry** ([[principles-of-eadras|I.A.2]]) because the [[primordial-duo|Primordial Duo]] sacrificed themselves *into* the Mythos rather than ruling from above — there is no intact external observer-god. Dao, avatar of the hidden [[omniversal-creator|Creator]], is the **nearest thing** the under-observed Mythos has to that absent external view. So Dao watching the pendulum swing "according to Dao" is the one vantage in Eadras that can see the entire arc and **not panic at the amplitude** — precisely because he is the closest thing the world has to the observer it lacks. The serenity and the stewardship are the same fact seen from two distances.
 
 ## Why He Stays Hidden
 

@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: Velena was a [[velrathi|Velrathi]] woman, elder sister of [[xarvion|Xar'vion]], strong-willed and fiercely protective. She was raped and murdered by a gang of arrogant [[tarans|Tarran]] noble youths during the degenerate decline of the [[firethorn-empire|Firethorn Empire]]. Her death became the central tragedy that drove Xar'vion's entire life — and the desire he forgot the moment he ascended to the godhood he sought to restore her. She currently resides in the Verdant Fields of [[solarion|Solarion]].
 
-**Sources**: Updates afternoon 5-1-26.txt; Playground generation 2nd part.txt
+**Sources**: Updates afternoon 5-1-26.txt; Playground generation 2nd part.txt; velrathi_consolidated.txt (2026-06-08 — the lawful resurrection petition was made and refused by the powers of death; the deeper mercy-causation is held as sealed canon)
 
-**Last updated**: 2026-05-06
+**Last updated**: 2026-06-08
 
 ---
 
@@ -49,9 +49,11 @@ Two postwar laments preserve the tragedy:
 
 ## Velena now
 
-Velena currently resides in the **Verdant Fields of [[solarion|Solarion]]** — a peaceful pastoral afterlife of gentle golden light and quiet happiness. She is content there. **She does not (yet) wish to return to the living world.** Like all souls in the Mythos's natural cycle, she knows she will eventually reincarnate when the time is right. (source: Updates afternoon 5-1-26.txt)
+Velena currently resides in the **Verdant Fields of [[solarion|Solarion]]** — a peaceful pastoral afterlife of gentle golden light and quiet happiness. She is at peace there, the brutal manner of her death no longer pressing on her. Like all souls in the Mythos's natural cycle, she will eventually reincarnate when the time is right. (source: Updates afternoon 5-1-26.txt)
 
-This is one of the harshest ironies of Xar'vion's tragedy. The sister he broke the world to retrieve was, by the time he had the power to retrieve her, already at peace and uninterested in being retrieved.
+When [[xarvion|Xar'vion]] pursued her resurrection by the [[xarvion#He tried the lawful route first|lawful road]] — petitioning the powers of death through proper structure, by which true reversal of death is rare but possible — **the powers of death did not grant her return.** The reasoning behind that refusal is not recorded in the common histories; what is remembered is only that Death would not yield her, and that Xar'vion experienced it as denial. (source: velrathi_consolidated.txt, 2026-06-08)
+
+This is one of the harshest ironies of Xar'vion's tragedy. By the time he had the power to retrieve her, the sister he would break the world for was already beyond the reach of any retrieval the powers of death would permit.
 
 ## The Sister's Sepulcher
 

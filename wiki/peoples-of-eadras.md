@@ -11,9 +11,9 @@ knowledge_access: [common]
 
 **Summary**: A comprehensive overview of all sapient races in Eadras, from the first Arathi through the three progenitor races and their many descendant peoples.
 
-**Sources**: Peoples of Eadras.txt, Playground generation 1st part.txt, Grok WB Generation 4-29.txt, Trolls.txt, Updates afternoon 5-1-26.txt, Notes for Changes for 5-10-26.txt, Mitans.txt, Halfling Origin & the Change 5-10-26.txt, draconic-servitor-races.txt + snake-folk_1.txt (2026-06-02 ingest — draconic servitor-race taxonomy)
+**Sources**: Peoples of Eadras.txt, Playground generation 1st part.txt, Grok WB Generation 4-29.txt, Trolls.txt, Updates afternoon 5-1-26.txt, Notes for Changes for 5-10-26.txt, Mitans.txt, Halfling Origin & the Change 5-10-26.txt, draconic-servitor-races.txt + snake-folk_1.txt (2026-06-02 ingest — draconic servitor-race taxonomy); velrathi_consolidated.txt (2026-06-08 — the genetic-degradation law + divine-stability mechanism; the Velrathi greying as acquired-not-original)
 
-**Last updated**: 2026-06-02
+**Last updated**: 2026-06-08
 
 ---
 
@@ -44,6 +44,16 @@ Practical consequences:
 
 This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" / "Tarran-engineered" line on the wiki. Pages don't repeat it individually; this section is the canonical reference.
 
+### The genetic-degradation law and divine stability
+
+A deep biological law underlies the wiki-wide pattern that descendants are "natural devolution" of their progenitors — **smaller, less capable** ([[#Notes on Devolution|see below]]). It is the biological face of the [[principles-of-eadras|lost-ceiling (I.D.19)]] and lossy-inheritance (I.D.20) principles. (Surfaced 2026-06-08, Velrathi reverse-culture run.)
+
+- **The founders are the peak.** The Three agreed their progenitor races would be ~**3m** — a founding choice (parity among the eldest), not a derivation. Everything downstream is measurably diminished: shrinkage (most modern races now ≤2m) **and** loss of magical/cognitive capability, accumulating across generations.
+- **Why the eldest races *don't* degrade, but their children *do*.** The eldest three races are **genetically stable** — their genetics were **perfected against degradation** at creation (built-in, not actively maintained). But when an eldest race engineers a child race by altering its own embryos, that engineering **disrupts the built-in perfection** — the eldest cannot pass the stability *through* the act of engineering. So child and grandchild races degrade across generations; the eldest races do not.
+- **The three tiers (plus outsiders).** **Tier 1 — founders** ([[elfen|Elfen]], [[velrathi|Velrathi]], [[tarans|Tarran]]; 3m; stable). **Tier 2 — child races** (womb-engineered from founder stock — e.g. from Velrathi: [[orugi|Orug]], [[grugi|Grug]], [[rathari|Rathar]]). **Tier 3 — grandchild races** (natural devolution — Gnomes/Goblins from Grug, Humans from Aetherin, etc.). Outside the genealogy entirely: the dragon-made [[draconic-servitor-races|draconic servitor races]].
+
+*(The specific mechanism that perfects the eldest races' genetics is held as deeper canon; the public statement is simply that the eldest are stable and the engineered lines are not.)*
+
 | Race | Creator | Notes |
 | --- | --- | --- |
 | **[[arathi\|Arathi]]** | Evye & Fryr (indirect) | First civilization; insect/reptile hybrids. Destroyed in [[arathi-cataclysm]]. |
@@ -51,7 +61,7 @@ This mechanism is implicit in every "Elfen-engineered" / "Velrathi-engineered" /
 | **[[dragons\|Dragons]]** | [[ixthal\|Ixthal]] (Source Flare) | First sapient race after the Arathi |
 | **Unicorns** | [[ixthal\|Ixthal]] (Source Flare) | Second sapient race; defeated dragons in war; exchanged magic knowledge |
 | **[[elfen\|Elfen]]** | [[the-three\|Mark]] | Proto-elves; wardens of wildlands; 3m tall. **Banished to [[gaia\|Wyldglimmer Gaia]]** after Demon War. |
-| **[[velrathi\|Velrathi]]** | [[the-three\|Rand]] | Masters of Magic; 3m tall, cadaverous. **Banished to [[gaia\|Glimmerdark Gaia]]** ([[veyr-keth\|Veyr'Keth]]) after Demon War. |
+| **[[velrathi\|Velrathi]]** | [[the-three\|Rand]] | Masters of Magic; 3m tall. Made with **ordinary humanoid skin**; the iconic grey-and-red-eyed look is **acquired** over millennia (see [[velrathi#The greying|greying]]). **Banished to [[gaia\|Glimmerdark Gaia]]** ([[veyr-keth\|Veyr'Keth]]) after Demon War. |
 | **[[tarans\|Taran]]** | [[the-three\|Melania]] | Keepers of Order; 3m tall, "perfect-human." **Banished to [[gaia\|Prime-like Gaia]]** ([[firethorn-hold\|Firethorn Hold]] / [[gray-matriarchy\|Gray Matriarchy]]) after Demon War. |
 | **[[orugi\|Orug]]** | Velrathi-engineered | Strong honorable guardians. **Totally extinct** at [[battle-of-the-broken-conclaves\|Final Wall]]. Diluted blood in modern Orcs. |
 | **Titan** | Tarran-engineered | Warriors against chaotic incursions; ancestors of Giants |
